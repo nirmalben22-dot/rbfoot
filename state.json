@@ -478,7 +478,35 @@
   "d8edbd5a819b662c",
   "906673c09b2a1347",
   "3f4b2652a5902339",
-  "20203063a82a00b3"
+  "20203063a82a00b3",
+  "3ef1961843469674",
+  "ddc42026d4733da4",
+  "577cc304aebe2650",
+  "03e6edc3d24cde54",
+  "cfb6688ee530f170",
+  "370ed732e4eb65dc",
+  "62dc0fdc8ff89989",
+  "907faea813ea9ca6",
+  "ddf012a7684d7539",
+  "134706f8a90f1460",
+  "0b1536cbaebb605d",
+  "bf6d5d3601770f6a",
+  "e95b570663685676",
+  "5aecc732a6d4f7d9",
+  "83e65914ee84f10c",
+  "fd1226c9463cb0ec",
+  "204382c7756bc101",
+  "5dae66b8dd480b34",
+  "7d53a90b0d99e9ad",
+  "24dddeca252a4ee7",
+  "c209b758b9c5a2f6",
+  "d60356c398f44824",
+  "a8e38760d362431d",
+  "3896a0e1dd96b7e6",
+  "d1abd8518fa321ff",
+  "e6d5b7c7cd30d435",
+  "a95bf664da1511c3",
+  "65295846f9410b93"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -487,11 +515,11 @@
   },
   "appels_api_football": {
    "jour": "2026-10-27",
-   "n": 5
+   "n": 7
   }
  },
- "dernier_appel_direct": 1793132015.0256817,
- "dernier_passage_actus": 1793132015.2646334,
+ "dernier_appel_direct": 1793134506.2370517,
+ "dernier_passage_actus": 1793134506.453491,
  "evenements_vus": {},
  "historique": [
   {
@@ -523,5 +551,5 @@
   }
  },
  "programme_jour": "2026-10-27",
- "programme_maj": 1793111658.488849
+ "programme_maj": 1793134506.2367203
 }
