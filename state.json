@@ -218,17 +218,69 @@
   "26ae8d1dbb92e75b",
   "7db8167cec127ced",
   "07a3dcc11f339fd8",
-  "ee0df4edafadd461"
+  "ee0df4edafadd461",
+  "9fe7e2e517b621d3",
+  "be4788c1108ed7e7",
+  "9c01fafa7c06b2a3",
+  "e9ca64b23e55f661",
+  "edf9b85a1c57f4a5",
+  "08c45d7b1dac3ecf",
+  "294a7f7e84f5ffda",
+  "454cfda2990de39f",
+  "6e8e03607d86df25",
+  "7112b19627f334a7",
+  "f6692b7fd9ed7410",
+  "603a8c2d97e0ca19",
+  "1f7d10dc5bf93c7f",
+  "8f3c7d2fb1fa6db9",
+  "617ac4ffb128b228",
+  "1d17359f00372b10",
+  "2326d3553c9221d0",
+  "6e1d6f7492a954b6",
+  "92de688d7363b200",
+  "c583aee3faa6d115",
+  "fb75893347a16262",
+  "fecb3fc7957f157b",
+  "b53bc789dfc57f3a",
+  "de37af695062a5ba",
+  "e16b160d4c5ee04d",
+  "b601bb0e2e78d1e1",
+  "6f899bd190e53978",
+  "14a58242598f31e0",
+  "60952a9a3b980172",
+  "1d3be38e5b385483",
+  "e0627ce1cd81576f",
+  "5d46fb01622c9769",
+  "a5c6343c18bd2580",
+  "d5acccb5ebf26635",
+  "00862542b00e0b80",
+  "50007360d3eef68d",
+  "8d2b8aed792600fa"
  ],
  "compteurs": {
+  "actus_publiees": {
+   "jour": "2026-10-27",
+   "n": 2
+  },
   "appels_api_football": {
    "jour": "2026-10-27",
    "n": 1
   }
  },
- "dernier_passage_actus": 1793111658.490171,
+ "dernier_passage_actus": 1793114804.4730167,
  "evenements_vus": {},
- "historique": [],
+ "historique": [
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour le PSG : Khvicha Kvaratskhelia opéré avec succès (RMC Sport)",
+   "t": 1793114886
+  },
+  {
+   "genre": "actu",
+   "resume": "Polémique Kylian Mbappé en Chine suite à ses propos (RMC Sport)",
+   "t": 1793114890
+  }
+ ],
  "matchs": {
   "1550168": {
    "affiche": "AS Roma - Cagliari",
