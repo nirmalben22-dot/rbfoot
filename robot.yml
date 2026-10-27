@@ -1,0 +1,72 @@
+name: Robot foot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # toutes les 5 minutes (minimum autorisé par GitHub)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = vérifier les clés ; run = lancer le robot"
+        type: choice
+        options: [check, run]
+        default: check
+      test:
+        description: "Mode test (true = ne publie rien, montre les visuels)"
+        type: choice
+        options: ["true", "false"]
+        default: "true"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robot-foot
+  cancel-in-progress: false
+
+jobs:
+  robot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    env:
+      MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'run' }}
+      # Par défaut le robot est en TEST. Pour publier pour de vrai, créez la
+      # variable DRY_RUN = false (Settings > Secrets and variables > Actions > Variables).
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.test || vars.DRY_RUN || 'true' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les outils
+        run: pip install -r requirements.txt
+
+      - name: Lancer le robot
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: python -m robot.main --mode "$MODE"
+
+      - name: Sauvegarder la mémoire du robot
+        if: always() && env.MODE == 'run'
+        run: |
+          git config user.name "robot-foot"
+          git config user.email "robot-foot@users.noreply.github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Mémoire du robot"
+            for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 3; done
+          fi
+
+      - name: Aperçu des visuels (mode test)
+        if: always() && env.DRY_RUN == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: apercus-visuels
+          path: sortie/
+          if-no-files-found: ignore
+          retention-days: 3
