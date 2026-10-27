@@ -1,0 +1,122 @@
+# =====================================================================
+#  RÉGLAGES DU ROBOT FOOT
+#  Vous pouvez modifier ce fichier directement sur GitHub (icône crayon).
+#  Ne mettez JAMAIS vos clés ou mots de passe ici : ils vont dans les
+#  « Secrets » de GitHub (voir le guide).
+# =====================================================================
+
+page:
+  nom: "MA PAGE FOOT"            # Nom affiché en bas de chaque visuel
+  couleur_fond: "#0B1220"        # Couleur de fond des visuels
+  couleur_accent: "#00E676"      # Couleur des titres (BUUUT !, etc.)
+  fuseau_horaire: "America/Toronto"   # Sert aux heures de silence
+  hashtags: "#Foot #Football"    # Ajoutés à la fin de chaque publication
+
+# ---------------------------------------------------------------------
+#  DIRECT DES MATCHS (API-Football)
+# ---------------------------------------------------------------------
+direct:
+  actif: true
+  # "free" = forfait gratuit (100 appels/jour) : le robot vérifie les
+  #          matchs toutes les 10 minutes environ pour ne pas dépasser.
+  # "pro"  = forfait Pro (7 500 appels/jour) : vérification chaque minute.
+  forfait_api_football: "free"
+  intervalle_minutes_gratuit: 10
+  publier:
+    coups_envoi: false
+    buts: true
+    penaltys_rates: true
+    buts_annules_var: true
+    cartons_rouges: true
+    scores_finaux: true
+  logos_des_clubs: true
+  # Un événement plus vieux que ce nombre de minutes n'est plus publié
+  # (évite de publier des buts « en retard » si le robot a raté un passage).
+  delai_max_minutes: 20
+  competitions:
+    - { id: 2,   nom: "Ligue des champions" }
+    - { id: 3,   nom: "Ligue Europa" }
+    - { id: 848, nom: "Ligue Conférence" }
+    - { id: 39,  nom: "Premier League" }
+    - { id: 140, nom: "Liga" }
+    - { id: 61,  nom: "Ligue 1" }
+    - { id: 135, nom: "Serie A" }
+    - { id: 88,  nom: "Eredivisie" }
+    - { id: 94,  nom: "Liga Portugal" }
+    - { id: 203, nom: "Süper Lig" }
+
+# ---------------------------------------------------------------------
+#  ACTUALITÉS : transferts, blessures, déclarations, scandales
+#  (flux RSS de médias, réécrits en français par Gemini)
+# ---------------------------------------------------------------------
+actualites:
+  actif: true
+  intervalle_minutes: 15    # le robot vérifie les actus toutes les 15 minutes
+  max_par_passage: 2        # publications maximum à chaque vérification
+  max_par_jour: 25          # au-delà, Facebook peut juger la page « spam »
+  heures_silence: [1, 7]    # aucune actu entre 1 h et 7 h (fuseau ci-dessus)
+  ajouter_lien_source: false
+  sujets: >-
+    transferts (officiels et rumeurs sérieuses), blessures importantes,
+    déclarations marquantes d'entraîneurs ou de joueurs, sanctions,
+    polémiques et scandales, records, limogeages d'entraîneurs
+  flux_rss:
+    - { nom: "L'Équipe",    url: "https://dwh.lequipe.fr/api/edito/rss?path=/Football/" }
+    - { nom: "RMC Sport",   url: "https://rmcsport.bfmtv.com/rss/football/" }
+    - { nom: "Foot Mercato", url: "https://www.footmercato.net/flux-rss" }
+    - { nom: "BBC Sport",   url: "https://feeds.bbci.co.uk/sport/football/rss.xml" }
+    - { nom: "Sky Sports",  url: "https://www.skysports.com/rss/12040" }
+
+  # Comptes suivis GRATUITEMENT via Google Actualités : le robot récupère les
+  # articles qui reprennent leurs infos (retard de quelques minutes à ~1 h).
+  # (L'Équipe, RMC Sport et Foot Mercato sont déjà suivis par les flux ci-dessus.)
+  # langue : fr, en, es, it, pt, nl, tr, de
+  # jamais_officiel : true = ses infos ne seront jamais étiquetées « OFFICIEL »
+  comptes_suivis:
+    # --- Mercato international ---
+    - { nom: "Fabrizio Romano",     recherche: '"Fabrizio Romano"',     langue: fr }
+    - { nom: "David Ornstein",      recherche: '"David Ornstein"',      langue: en }
+    - { nom: "Matteo Moretto",      recherche: '"Matteo Moretto"',      langue: fr }
+    - { nom: "Gianluca Di Marzio",  recherche: '"Di Marzio"',           langue: fr }
+    - { nom: "Florian Plettenberg", recherche: '"Florian Plettenberg"', langue: fr }
+    - { nom: "Ben Jacobs",          recherche: '"Ben Jacobs"',          langue: en }
+    - { nom: "Simon Stone (BBC)",   recherche: '"Simon Stone" BBC',     langue: en }
+    - { nom: "Mario Cortegana",     recherche: '"Mario Cortegana"',     langue: es }
+    # --- France / Ligue 1 ---
+    - { nom: "Fabrice Hawkins",     recherche: '"Fabrice Hawkins"',     langue: fr }
+    - { nom: "Mohamed Bouhafsi",    recherche: '"Mohamed Bouhafsi"',    langue: fr }
+    - { nom: "Santi Aouna",         recherche: '"Santi Aouna"',         langue: fr }
+    - { nom: "Get French Football News", recherche: "site:getfootballnewsfrance.com", langue: en }
+    # --- Autres championnats et Afrique ---
+    - { nom: "Relevo",              recherche: "site:relevo.com fútbol", langue: es }
+    - { nom: "Sky Sport Italia",    recherche: "site:sport.sky.it calcio", langue: it }
+    - { nom: "Yağız Sabuncuoğlu",   recherche: '"Sabuncuoglu" OR "Sabuncuoğlu"', langue: fr }
+    - { nom: "Record (Portugal)",   recherche: "site:record.pt futebol", langue: pt }
+    - { nom: "Voetbal International", recherche: "site:vi.nl",         langue: nl }
+    - { nom: "CAF",                 recherche: "site:cafonline.com",   langue: en }
+    # --- Comptes officiels ---
+    - { nom: "UEFA",                recherche: "site:uefa.com",        langue: en }
+    - { nom: "Premier League",      recherche: "site:premierleague.com", langue: en }
+    - { nom: "LaLiga",              recherche: "site:laliga.com",      langue: es }
+    - { nom: "Ligue 1",             recherche: "site:ligue1.com",      langue: fr }
+    - { nom: "Serie A",             recherche: "site:legaseriea.it",   langue: it }
+    # --- Arbitrage, enquêtes, statistiques ---
+    - { nom: "Archivo VAR",         recherche: '"Archivo VAR"',        langue: es }
+    - { nom: "Romain Molina",       recherche: '"Romain Molina"',      langue: fr, jamais_officiel: true }
+    - { nom: "Dale Johnson (ESPN)", recherche: '"Dale Johnson" VAR',   langue: en }
+    - { nom: "OptaJean",            recherche: '"OptaJean" OR "selon Opta"', langue: fr }
+
+# ---------------------------------------------------------------------
+#  INTELLIGENCE ARTIFICIELLE (Gemini, gratuit)
+#  Le robot essaie ces modèles dans l'ordre ; si l'un n'existe plus ou
+#  est saturé, il passe au suivant.
+# ---------------------------------------------------------------------
+gemini:
+  modeles:
+    - "gemini-3.8-flash"
+    - "gemini-3.6-flash"
+    - "gemini-3.5-flash-lite"
+    - "gemini-3.1-flash-lite"
+
+facebook:
+  version_api: "v25.0"
