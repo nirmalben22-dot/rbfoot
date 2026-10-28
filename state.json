@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "20203063a82a00b3",
-  "3ef1961843469674",
-  "ddc42026d4733da4",
-  "577cc304aebe2650",
-  "03e6edc3d24cde54",
-  "cfb6688ee530f170",
-  "370ed732e4eb65dc",
-  "62dc0fdc8ff89989",
-  "907faea813ea9ca6",
-  "ddf012a7684d7539",
-  "134706f8a90f1460",
-  "0b1536cbaebb605d",
-  "bf6d5d3601770f6a",
-  "e95b570663685676",
-  "5aecc732a6d4f7d9",
-  "83e65914ee84f10c",
-  "fd1226c9463cb0ec",
-  "204382c7756bc101",
-  "5dae66b8dd480b34",
-  "7d53a90b0d99e9ad",
-  "24dddeca252a4ee7",
-  "c209b758b9c5a2f6",
-  "d60356c398f44824",
-  "a8e38760d362431d",
-  "3896a0e1dd96b7e6",
-  "d1abd8518fa321ff",
-  "e6d5b7c7cd30d435",
-  "a95bf664da1511c3",
-  "65295846f9410b93",
-  "0672b99070b12cb2",
-  "c18c5fed4e7088ad",
   "ac5e701af420a55e",
   "d82411a1f05ffe83",
   "15655ebfe75411b1",
@@ -800,12 +769,43 @@
   "c1e07030c97939f1",
   "2993950c87adbef0",
   "26b351561a32683a",
-  "cbfc1d5a33ad7d6c"
+  "cbfc1d5a33ad7d6c",
+  "e5e2365e03cb134c",
+  "1f816187e8e921a7",
+  "46b90fe361aa2ec7",
+  "004b3983199cac6e",
+  "e8877f8f45373fb6",
+  "6bb3c48ce33d4bd8",
+  "db017ce851493efb",
+  "9763db8ed546075d",
+  "d35089049ad2eb50",
+  "e072e5d6decbf7ff",
+  "84f71c63318ce317",
+  "ca0c6fb76ad3a642",
+  "2d12232254c7d0fd",
+  "45a4845058a82975",
+  "2f2f1127f387271a",
+  "9efd71870c3dcea3",
+  "7c55091d6bf28948",
+  "b4a44e5fb0f1e54e",
+  "317a5b05ef347564",
+  "4f681e238bb2df79",
+  "0268b08b1e2e85b9",
+  "9610f58454e68d2b",
+  "3e4795b07d2c45cb",
+  "397d5c49cb3d844f",
+  "876fd52fc855d137",
+  "fbeab0b4e715a609",
+  "926830d089b2d128",
+  "d0dc8aa8f723a26b",
+  "7fff41cf8a62c985",
+  "412ef9a2268f3ef6",
+  "80c92900cae2d6e7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-10-28",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793227265.244026,
+ "dernier_passage_actus": 1793229601.8983467,
  "evenements_vus": {},
  "historique": [
   {
@@ -930,6 +930,16 @@
    "genre": "actu",
    "resume": "Flavien Tait explique pourquoi il n'aurait pas pu jouer à l'OM (RMC Sport)",
    "t": 1793227413
+  },
+  {
+   "genre": "actu",
+   "resume": "Sept ans de prison pour avoir menacé la famille d'Angel Di Maria (L'Équipe)",
+   "t": 1793229746
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane acclamé par le public munichois pour son Ballon d'Or (L'Équipe)",
+   "t": 1793229751
   }
  ],
  "matchs": {
