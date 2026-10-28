@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "134d43df4b967995",
-  "ba7df93e2ef1d270",
-  "ca7624ff90404cb5",
-  "9437b24b596887dd",
-  "771352977e3c057a",
-  "e1a04c3acdac67f7",
-  "8446606271b82eea",
-  "54499906c29a7caa",
-  "8add4efee17fb74c",
-  "ba823ff37a9c51c2",
-  "545c4e578767b833",
-  "f15712633cd1c833",
-  "87472af17308a7f9",
-  "d07f235420c94a3d",
-  "5e9e04a4bc1287b8",
-  "dd4729d0362d36b5",
-  "747aa5cd613b76ce",
-  "46298beb2a1a4305",
-  "710ee0c75ab742b9",
-  "21215aea0aa4516c",
-  "86fd2f976dcf21bf",
-  "a06627319afd2d26",
-  "75639b2223ded23d",
-  "1a03a438b73f1d01",
-  "cc1d33b58ca1a808",
-  "939c5448e5b56235",
   "a594e436ef539c5d",
   "65d10c15e04349b3",
   "a0256145f8e724d4",
@@ -800,20 +774,46 @@
   "1189e8d064a9dc1b",
   "8ca5b1a268ad54e4",
   "e1a46712f114f159",
-  "020b568153328369"
+  "020b568153328369",
+  "4c9e4612d1878aed",
+  "06f34f8a17edd6dc",
+  "c9d86da420b9c473",
+  "859e4204489a54bd",
+  "60b32319b1085451",
+  "bc8d79dddf2df5c9",
+  "be525835d633acc8",
+  "dd897e1c2416e27f",
+  "6daa925fc62d753e",
+  "9379f809a391ff4f",
+  "b48126b1a15a2f0a",
+  "3666da9faf55c845",
+  "bfae7d05ff9970b8",
+  "7333bfaa1ccf2976",
+  "b672627e43cee1c6",
+  "8f0d56753187c46e",
+  "25a402a3fc19d061",
+  "86e74fa7395b290d",
+  "544f68d8a2898ed0",
+  "941931f3d6c60766",
+  "595e70090136f2be",
+  "3dcbb6f2e05a19e9",
+  "79f4c9ae5fb9c487",
+  "333625f69f1e8f00",
+  "5ccac8df58338acf",
+  "3df213cde2c6c999"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 4
+   "n": 5
   }
  },
- "dernier_appel_direct": 1793210934.69838,
- "dernier_passage_actus": 1793210934.9267316,
+ "dernier_appel_direct": 1793214099.3032026,
+ "dernier_passage_actus": 1793214099.6072695,
  "evenements_vus": {},
  "historique": [
   {
@@ -875,6 +875,16 @@
    "genre": "actu",
    "resume": "Grosse inquiétude pour Vincent Kompany après son hospitalisation (RMC Sport)",
    "t": 1793211018
+  },
+  {
+   "genre": "actu",
+   "resume": "Cristiano Ronaldo 2008 sacré plus grand Ballon d'Or de l'histoire (Foot Mercato)",
+   "t": 1793214246
+  },
+  {
+   "genre": "actu",
+   "resume": "Federico Valverde se mobilise après le drame ferroviaire en Espagne (RMC Sport)",
+   "t": 1793214252
   }
  ],
  "matchs": {
