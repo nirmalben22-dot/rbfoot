@@ -1,28 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e0627ce1cd81576f",
-  "5d46fb01622c9769",
-  "a5c6343c18bd2580",
-  "d5acccb5ebf26635",
-  "00862542b00e0b80",
-  "50007360d3eef68d",
-  "8d2b8aed792600fa",
-  "54c6134935ea3634",
-  "1686098acafb5bcd",
-  "c32678d3f60c74e6",
-  "e5878710e973806b",
-  "58fc607e6b292363",
-  "cb12f93af57e20d2",
-  "22e02f3626026de8",
-  "498e8d01a39b1fd9",
-  "4a58854292890383",
-  "2017042cff079e76",
-  "94c49d75289bdf84",
-  "8fd0c6465c59d246",
-  "84aee913c66e5a2a",
-  "494965c6755fd280",
-  "0e3827ff51a5deba",
   "134d43df4b967995",
   "ba7df93e2ef1d270",
   "ca7624ff90404cb5",
@@ -800,20 +778,42 @@
   "1ae34ee7619828f4",
   "02d5cb1c1a93a8e5",
   "9a025bd11f0ab404",
-  "ada5be50b7bd300f"
+  "ada5be50b7bd300f",
+  "ab967d709c0edbda",
+  "f9379d558a1920d8",
+  "5890a64190f19fcc",
+  "e1f1e99452e80427",
+  "d7e33994a2c41d89",
+  "77a5fda67cdddb9a",
+  "4e1ed460683ce4b1",
+  "290aa346ed029e12",
+  "43cf073005ae193c",
+  "320df9bfba445eb4",
+  "44472986aae3e6aa",
+  "6d2be8ae159da93c",
+  "b152444983c8c64f",
+  "f314cf6d4b1920a0",
+  "8c269b89c98677a3",
+  "a923989f9508e841",
+  "ffc873e14d0b93b4",
+  "95e6264c20537e02",
+  "1189e8d064a9dc1b",
+  "8ca5b1a268ad54e4",
+  "e1a46712f114f159",
+  "020b568153328369"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 9
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 3
+   "n": 4
   }
  },
- "dernier_appel_direct": 1793141559.4671807,
- "dernier_passage_actus": 1793208030.5332372,
+ "dernier_appel_direct": 1793210934.69838,
+ "dernier_passage_actus": 1793210934.9267316,
  "evenements_vus": {},
  "historique": [
   {
@@ -870,6 +870,11 @@
    "genre": "actu",
    "resume": "Hansi Flick réclame un renfort défensif au FC Barcelone (Tribuna.com)",
    "t": 1793208091
+  },
+  {
+   "genre": "actu",
+   "resume": "Grosse inquiétude pour Vincent Kompany après son hospitalisation (RMC Sport)",
+   "t": 1793211018
   }
  ],
  "matchs": {
