@@ -632,7 +632,23 @@
   "a0132502a4d7f84a",
   "3362a77ecdd9ce46",
   "1ffe8bed6d163955",
-  "42375a597a15f006"
+  "42375a597a15f006",
+  "3846f24926a53f7f",
+  "7628ba44f778684d",
+  "01e70496cc01e3c1",
+  "43a8a824628fa880",
+  "3e27c54e4d119485",
+  "1b8582d84a0eadd3",
+  "5d82b7c51debd51b",
+  "67af7e7a1c28c112",
+  "2e47a16a20bfc7bc",
+  "5a6e84cfd84e7b18",
+  "b07d1b45024d6140",
+  "20785b1bd752c24d",
+  "75332e78d7d4871a",
+  "e71aac562a95e406",
+  "fb1c6a095999dd18",
+  "75f4bc5cc07b0c59"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -640,12 +656,12 @@
    "n": 2
   },
   "appels_api_football": {
-   "jour": "2026-10-27",
-   "n": 10
+   "jour": "2026-10-28",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793141559.4671807,
- "dernier_passage_actus": 1793145598.6616735,
+ "dernier_passage_actus": 1793148899.595198,
  "evenements_vus": {},
  "historique": [
   {
@@ -660,10 +676,30 @@
   }
  ],
  "matchs": {
+  "1550167": {
+   "affiche": "AC Milan - Bologna",
+   "competition": "Serie A",
+   "coup_envoi": 1793208600
+  },
   "1550168": {
    "affiche": "AS Roma - Cagliari",
    "competition": "Serie A",
    "coup_envoi": 1793130300
+  },
+  "1550171": {
+   "affiche": "Genoa - Juventus",
+   "competition": "Serie A",
+   "coup_envoi": 1793216700
+  },
+  "1550172": {
+   "affiche": "Monza - Napoli",
+   "competition": "Serie A",
+   "coup_envoi": 1793216700
+  },
+  "1550173": {
+   "affiche": "Parma - Udinese",
+   "competition": "Serie A",
+   "coup_envoi": 1793208600
   },
   "1550174": {
    "affiche": "Sassuolo - Lazio",
@@ -674,8 +710,13 @@
    "affiche": "Torino - Como",
    "competition": "Serie A",
    "coup_envoi": 1793130300
+  },
+  "1550176": {
+   "affiche": "Venezia - Inter",
+   "competition": "Serie A",
+   "coup_envoi": 1793208600
   }
  },
- "programme_jour": "2026-10-27",
- "programme_maj": 1793134506.2367203
+ "programme_jour": "2026-10-28",
+ "programme_maj": 1793148899.589541
 }
