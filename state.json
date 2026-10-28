@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "aeb1c4eafe36f9f3",
-  "d15fdf55eac01c6c",
-  "a8ed37b4faa777b3",
-  "7a65d8fc19ac470d",
-  "752b7e574d81a4bf",
-  "fa8148e64144812a",
-  "17c35e819c36ef0d",
-  "07d56a420c3ed854",
-  "b09468e81135c396",
-  "1ee9454a00ae0bea",
-  "b52a6bb27c51e315",
-  "a1e8a88033ff2114",
-  "bc824791ff7594c2",
-  "d22b9ee00080b761",
-  "41361504a2f591a7",
-  "91913a3021c8f72d",
-  "25f69747817a5de3",
-  "b443a23615e5dbc7",
-  "7d4cb9d81b18a09e",
-  "5ec16eaa30f4f15a",
-  "94f69626b1792d53",
-  "f80289d0df1815fd",
-  "780cf50b527b6138",
-  "d22936fe79ec73a0",
-  "c30c834069ff1a07",
-  "c3506e10c7e9f8eb",
-  "d2558d1d22548e48",
-  "43c6d5f63559e2a0",
-  "118b7bc40ff3f2ec",
-  "225f120388b3ae8b",
-  "656bb5ca8048cbb8",
-  "fb60eee460e8b7a7",
-  "798c8a971a8ba7c6",
-  "503c62117c07ceaf",
   "db97133ff0a2a5da",
   "64e1b8cb6bcd5d99",
   "b4a44e5fb0f1e54e",
@@ -800,20 +766,54 @@
   "9fcc1cfbda34894e",
   "69a19bc35daa729e",
   "fc13b55aa4df42fa",
-  "c5536aa0d8ab40dd"
+  "c5536aa0d8ab40dd",
+  "fc53133339eaa5a6",
+  "89689a2a3c6d116e",
+  "a77d91b0dca204af",
+  "28dc8c683778a9f0",
+  "37f8825bfc70083c",
+  "627788793c4044fc",
+  "681a7806837f51d9",
+  "a42bb8454855385f",
+  "514c9f61707dd486",
+  "f09c17afcfd95075",
+  "1ea63ea11c1d588a",
+  "d6508c32b92fe443",
+  "acff1cead95eb9c1",
+  "8c3c1617296add57",
+  "759674e3bd09d341",
+  "d67c63b73ccd7866",
+  "d84a49e182c1ff75",
+  "68e67a3e6e921c33",
+  "fae594a8655a7d5e",
+  "f830cfc1be7bfa45",
+  "0ab7a7b2b77b19b9",
+  "d852dbadc0de572e",
+  "e1139dd005a6aed4",
+  "f1e8c44125092038",
+  "c819acd3b9c7e36c",
+  "348e4de5bbe4a422",
+  "0c8bdf53d9d7d64d",
+  "c4491fc1f2df4b4e",
+  "4652178150aaba2f",
+  "a90d0d365b18dab6",
+  "a8e09ae376f1dc4c",
+  "81b390d6b7dce1b9",
+  "224e635887e4e67d",
+  "c7f6084146b10379"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 9
+   "n": 10
   }
  },
- "dernier_appel_direct": 1793222127.19937,
- "dernier_passage_actus": 1793222127.524246,
+ "dernier_appel_direct": 1793224766.598903,
+ "dernier_passage_actus": 1793224766.856783,
  "evenements_vus": {},
  "historique": [
   {
@@ -910,6 +910,16 @@
    "genre": "actu",
    "resume": "Vincent Kompany est sorti de l hopital apres une meningite (L'Équipe)",
    "t": 1793222273
+  },
+  {
+   "genre": "actu",
+   "resume": "Inquiétude pour Maxence Lacroix avant la liste des Bleus (L'Équipe)",
+   "t": 1793224920
+  },
+  {
+   "genre": "actu",
+   "resume": "Jadon Sancho refuse une offre en Espagne (BBC Sport)",
+   "t": 1793224926
   }
  ],
  "matchs": {
