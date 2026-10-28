@@ -648,7 +648,17 @@
   "75332e78d7d4871a",
   "e71aac562a95e406",
   "fb1c6a095999dd18",
-  "75f4bc5cc07b0c59"
+  "75f4bc5cc07b0c59",
+  "18b296d5f8dd9a9c",
+  "fcf007c41bd0d6ce",
+  "9dcf1c8fd0937199",
+  "f297e9c3635c3557",
+  "384f1620657669aa",
+  "38ed3b2a2a138116",
+  "b34d7df1ed9e4f40",
+  "e2bf8694a2d53e5c",
+  "d99d4659d478f6f7",
+  "7f015d8197ce37a1"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -661,7 +671,7 @@
   }
  },
  "dernier_appel_direct": 1793141559.4671807,
- "dernier_passage_actus": 1793148899.595198,
+ "dernier_passage_actus": 1793152303.0046713,
  "evenements_vus": {},
  "historique": [
   {
