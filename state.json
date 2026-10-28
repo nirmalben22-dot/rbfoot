@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c885fe609f529627",
-  "0084eca1fe84e42f",
-  "64d5640a945970b8",
-  "9566f7878b18c2b3",
-  "de512b1f1b4bb58b",
-  "744840909075bd8c",
-  "898819ef95c17412",
-  "e6f557a148101fc7",
-  "13d6f839f5951a2d",
-  "8b8234c6a3c5a85d",
-  "53e18f06e1ffaf0c",
-  "a4ad1e72c73b4b83",
-  "f777168b9b894f6b",
-  "6fcfda083fa44f9d",
-  "3f68ccebcfb0db3e",
-  "82809c4632d8a5f2",
-  "570f545fd79e3475",
-  "144ba323dab70221",
-  "1fe26a4dbd03a5d4",
-  "8d1e5fe161196ed5",
-  "04951ada6316e8fa",
-  "3149f03877b91473",
-  "222f35bc6011cb45",
-  "cc49369563e138cb",
-  "ee0af8dba6a2df7c",
-  "a0248f1ca2585c91",
-  "9348adcaaf5458be",
-  "6f99fb66ed959ea9",
-  "d0510d5365a10dc2",
-  "addbc67af8798b34",
-  "653e76eb8369283b",
   "365b0d638be0e027",
   "c794485681067e4a",
   "2da6f2bc7d0e261d",
@@ -800,12 +769,43 @@
   "9dd11b6049b148c3",
   "499d6f392d05f575",
   "07a2d67d1a415029",
-  "dcdc8e222f86c942"
+  "dcdc8e222f86c942",
+  "4251632c6b678f4d",
+  "1bc1c223a8fd9b6a",
+  "43f661824d2a1b5d",
+  "8ce7225bc082df79",
+  "3c0f5b8e107e88fe",
+  "7b2a910e52536cc5",
+  "766eb8100bcf60b6",
+  "5c11457e6a4fba82",
+  "9bd0759d6059e052",
+  "85a15840d498214f",
+  "74f59b1918e415b8",
+  "79b7a196e4ace4a3",
+  "3c2b36658b72e4fd",
+  "bcb3c7dc352825e3",
+  "100bbf56f53468d4",
+  "c7ceb1d914a788a9",
+  "019684f043086552",
+  "f0738dcc5602a15d",
+  "e07f6e077cf1863a",
+  "7846ccc7d9483a88",
+  "b9097210dbac7d8a",
+  "e36610c9556c318a",
+  "330bd8f8aa7fc8ed",
+  "f3a0687e21695b7f",
+  "15d5b6c422674948",
+  "3393bd49bfdb4658",
+  "3898299a70438cf8",
+  "e9823786608639c8",
+  "1a63a405e9ea8e4f",
+  "248cbbf38a41af24",
+  "a4b756d622548c11"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 5
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-10-28",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793141559.4671807,
- "dernier_passage_actus": 1793201151.6802995,
+ "dernier_passage_actus": 1793204666.5981488,
  "evenements_vus": {},
  "historique": [
   {
@@ -850,6 +850,16 @@
    "genre": "actu",
    "resume": "Inquiétude à Arsenal après une hécatombe de blessés (Premier League)",
    "t": 1793201216
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Bayern Munich annonce avoir les moyens financiers pour recruter (Foot Mercato)",
+   "t": 1793204735
+  },
+  {
+   "genre": "actu",
+   "resume": "Des supporters chinois brûlent des maillots de Kylian Mbappé (Foot Mercato)",
+   "t": 1793204741
   }
  ],
  "matchs": {
