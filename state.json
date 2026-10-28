@@ -1,46 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a91f5bff3dc6e46d",
-  "b5c8904680844120",
-  "25dec52a65101e63",
-  "a75ff859af21823a",
-  "69ad3c589801e6bc",
-  "aab04d5529760f95",
-  "2b107d1e1f2d6ecd",
-  "15f367ba3b92e3f4",
-  "1de189eb44c1e821",
-  "d6359b7616e59b7c",
-  "c615f28f9b634d16",
-  "7789f81e106d536a",
-  "3d02849f611cc370",
-  "0bf4fa8d54f02eb5",
-  "fd405bd32588794a",
-  "a6937ff49efe699e",
-  "c8d7c6c9287d372a",
-  "bafdb5519610353d",
-  "87580e2d8860965d",
-  "0703187214aea742",
-  "938d38248a7b32ce",
-  "d81213b0d2ab3876",
-  "26ca5a82465b749d",
-  "a506dd1619969ed4",
-  "7596804a05096e9a",
-  "1a4c94c70d4e2518",
-  "b989eb78605bb36a",
-  "fadb0dc7302b2d5b",
-  "22ca22c2bb318bef",
-  "87b8235d3450f306",
-  "8c6f87a3218beaa7",
-  "6418921e6cfbd00c",
-  "c2ed7ee3b58c333c",
-  "76c1e1ee40142723",
-  "c11a0f65a77fb091",
-  "bd68401a0441d2d7",
-  "7beae5680e17a5eb",
-  "a50faaf1bf261b3f",
-  "652ae805c3b44b18",
-  "845857d53d1464a9",
   "aeb1c4eafe36f9f3",
   "d15fdf55eac01c6c",
   "a8ed37b4faa777b3",
@@ -800,20 +760,60 @@
   "a4ad1e72c73b4b83",
   "a08d85c835e18045",
   "e31744be4641dbf9",
-  "e1b5d97164bd4154"
+  "e1b5d97164bd4154",
+  "b44521281246d268",
+  "4980eb27309b98b9",
+  "914229e950452bc4",
+  "0c96a2f0bb607a78",
+  "722b16f40315708e",
+  "4e8af3689fd3c212",
+  "c168918eb6e180ab",
+  "39cb0c0c818ba62d",
+  "58ea35297c4be07c",
+  "514401e162e53564",
+  "9dff0555a6448788",
+  "e08dac23686e798c",
+  "93515a4e4de380d2",
+  "3586a08cca812dc1",
+  "4949cb58feb7e925",
+  "9a04204d291c7f58",
+  "58836b7434f1332c",
+  "4ae1935924aa5405",
+  "1330b68c3e17986d",
+  "171bdf1a08054e64",
+  "320cce28ef58efdb",
+  "14c6c249bf0eab09",
+  "8828323f1a0dc100",
+  "e71fbcf10c9d4ccb",
+  "4a2fe3b75b40814b",
+  "884e0191bc75e01c",
+  "602bd65afa54cff9",
+  "dd461c1bee8da114",
+  "1975de895694d084",
+  "b5da50bd4760239f",
+  "5be2e92248aecbe9",
+  "e4f4a39014e19c27",
+  "6e54a914887aff1e",
+  "9ded93a04c1ac728",
+  "4d505ca01c3e300b",
+  "ec590007c5487fa9",
+  "9fcc1cfbda34894e",
+  "69a19bc35daa729e",
+  "fc13b55aa4df42fa",
+  "c5536aa0d8ab40dd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 7
+   "n": 9
   }
  },
- "dernier_appel_direct": 1793219353.756601,
- "dernier_passage_actus": 1793219354.0658813,
+ "dernier_appel_direct": 1793222127.19937,
+ "dernier_passage_actus": 1793222127.524246,
  "evenements_vus": {},
  "historique": [
   {
@@ -900,6 +900,16 @@
    "genre": "actu",
    "resume": "Samir El Mourabet prolonge son contrat avec Strasbourg (Foot Mercato)",
    "t": 1793219416
+  },
+  {
+   "genre": "actu",
+   "resume": "Ismail Jakobs prend sa retraite internationale avec le Senegal (Foot Mercato)",
+   "t": 1793222267
+  },
+  {
+   "genre": "actu",
+   "resume": "Vincent Kompany est sorti de l hopital apres une meningite (L'Équipe)",
+   "t": 1793222273
   }
  ],
  "matchs": {
@@ -945,5 +955,5 @@
   }
  },
  "programme_jour": "2026-10-28",
- "programme_maj": 1793197779.3130558
+ "programme_maj": 1793222127.1990016
 }
