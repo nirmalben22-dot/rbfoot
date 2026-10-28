@@ -1,25 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ac5e701af420a55e",
-  "d82411a1f05ffe83",
-  "15655ebfe75411b1",
-  "57e6c4d276a73300",
-  "f7a4431c50f2d501",
-  "660055d14a341d3e",
-  "7f28f20d3b3390ba",
-  "949896f2bfd17291",
-  "db1b08dc4ba67159",
-  "e84063cefef51cfd",
-  "0271ac7c589bc82b",
-  "93e6554ae934256a",
-  "a55d45e77a12d3b7",
-  "e2935909fda82dfd",
-  "d04022d169ec31f5",
-  "63961c487381cd92",
-  "b5ce3f3ebf7fbe84",
-  "03420e593b235655",
-  "de5743acb7e18f1f",
   "94d2ee6bdf3d97a7",
   "8da0db4ebf5e57df",
   "eed8d1b68243cb86",
@@ -800,12 +781,31 @@
   "d0dc8aa8f723a26b",
   "7fff41cf8a62c985",
   "412ef9a2268f3ef6",
-  "80c92900cae2d6e7"
+  "80c92900cae2d6e7",
+  "a7ff1c420ff1a55d",
+  "d8fa7ecaeed82734",
+  "dc5ed3c328f0c7a7",
+  "40c01693eafb5560",
+  "d118b5348c1d4ac3",
+  "c4fbd8adb143afc8",
+  "c3f5dd5cdae51d77",
+  "7cfb2388485c5855",
+  "a7262aa7a9874c17",
+  "14d169595ee23b04",
+  "0ab7e876723c0a6e",
+  "d85acf6014aea114",
+  "25e6fcd9bfd85a09",
+  "8ce669b94b41f03e",
+  "a4958d7eccb8c4e0",
+  "35279f305d6f3dd1",
+  "f79ba3a10104ec59",
+  "19c15d27d0de845d",
+  "139aab131328f43d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-10-28",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793229601.8983467,
+ "dernier_passage_actus": 1793231904.8779943,
  "evenements_vus": {},
  "historique": [
   {
@@ -940,6 +940,16 @@
    "genre": "actu",
    "resume": "Harry Kane acclamé par le public munichois pour son Ballon d'Or (L'Équipe)",
    "t": 1793229751
+  },
+  {
+   "genre": "actu",
+   "resume": "Liverpool prend contact avec le milieu monégasque Camara (Sky Sports)",
+   "t": 1793231976
+  },
+  {
+   "genre": "actu",
+   "resume": "Jérôme Rothen critique le départ de Pierre Sage vers Crystal Palace (Foot Mercato)",
+   "t": 1793231982
   }
  ],
  "matchs": {
