@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c62c58013a41bfe6",
-  "638e10321f75de9a",
-  "f444e253cdd4a481",
-  "884e0191bc75e01c",
-  "1e2a23aba55583da",
-  "a404000d13379686",
-  "b9f4b0f4f30ccc81",
-  "de3eec3105e8547d",
-  "7b0d3eb773115995",
-  "2a827d0cacdef426",
-  "a135c016526c6f15",
-  "379da419ab0c977a",
-  "c5d93d8aee307fc6",
-  "190d63286d7310d0",
-  "efc27e13cb71fb82",
-  "a47f12ffb5cc238d",
-  "b23a013e419f165f",
-  "c86ad51a908ab459",
-  "da916a4fb24eb169",
-  "4ae21984cca8a919",
-  "82e00af5f519a20d",
-  "3699bf3cd89d3644",
-  "4b426a0ba17e345d",
-  "01f88cde757e5d68",
-  "2615295c7e46257f",
-  "6e3c507808f0398a",
-  "4f681e238bb2df79",
-  "5f4eb18f92501065",
-  "e0051871dd8baf55",
-  "ff1b645a6b88f82e",
-  "c1d48d84a86d4794",
   "a91f5bff3dc6e46d",
   "b5c8904680844120",
   "25dec52a65101e63",
@@ -800,20 +769,51 @@
   "8e012e91966124f7",
   "43f40d9a28680757",
   "bef38c1e013ce7d5",
-  "ad32410eb190769a"
+  "ad32410eb190769a",
+  "38f80da83a412269",
+  "ff3c111e9d65d287",
+  "a2923dd2ea95c32c",
+  "eb9f929ebad25b74",
+  "7c36166a85b82fee",
+  "55df7bc56d9e8e20",
+  "1b0431e47006644f",
+  "d84a1109382da14c",
+  "87332a6a3a2899cd",
+  "752cbc78f0c917ad",
+  "38e54e6f1dd0fb07",
+  "504977f76c18405e",
+  "429a896be5496a41",
+  "10b9625760b75f3f",
+  "13991ce85e458407",
+  "e920bdd68e38c355",
+  "8f260f4534e91d3c",
+  "384a1318fe78f462",
+  "23a00ae82162c555",
+  "dfb3df5cff249732",
+  "3a382222955cbd5f",
+  "5cabb31008d472c4",
+  "94b69be36f54141b",
+  "cce39fcf05b39ea2",
+  "18e559c6c833b0fa",
+  "0d1ac2af512ba1be",
+  "d8100df90e41f068",
+  "a4ad1e72c73b4b83",
+  "a08d85c835e18045",
+  "e31744be4641dbf9",
+  "e1b5d97164bd4154"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 6
+   "n": 7
   }
  },
- "dernier_appel_direct": 1793217018.7775407,
- "dernier_passage_actus": 1793217019.206062,
+ "dernier_appel_direct": 1793219353.756601,
+ "dernier_passage_actus": 1793219354.0658813,
  "evenements_vus": {},
  "historique": [
   {
@@ -890,6 +890,16 @@
    "genre": "actu",
    "resume": "Le dossier Ibrahim Maza se refroidit pour le PSG cet hiver (RMC Sport)",
    "t": 1793217152
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour Manchester United avec la blessure de Sesko (BBC Sport)",
+   "t": 1793219410
+  },
+  {
+   "genre": "actu",
+   "resume": "Samir El Mourabet prolonge son contrat avec Strasbourg (Foot Mercato)",
+   "t": 1793219416
   }
  ],
  "matchs": {
