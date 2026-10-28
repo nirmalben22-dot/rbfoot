@@ -1,27 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "75953ae57971abac",
-  "ba3755f3a7d12148",
-  "3abfaa82f274baac",
-  "96610e6395c2ed50",
-  "4759c7c7e5260956",
-  "c38dd22719985df1",
-  "c9eadc47ce8b7c29",
-  "bd71f1812c38effa",
-  "d35c1a70b6aacd83",
-  "9552b42af320a07c",
-  "a1b2844b94b304ac",
-  "0dfe7bd7ffcf40db",
-  "d0f9ca0df7b6f9b9",
-  "25e0acc2f0e29e26",
-  "712e0dbe71bfe54b",
-  "e2e0de710bb2b85a",
-  "b9cd2935e6c65c90",
-  "f95d92667bfbe445",
-  "30540f813f8e8c56",
-  "d636b7b0892db9ba",
-  "efba9870e4bea199",
   "378e135d45bc96df",
   "b9e0ff8406cd868b",
   "b9270b2461814621",
@@ -800,20 +779,41 @@
   "dc2e42f53ddc4693",
   "c6d53c8ef96c425d",
   "a3cf5f19dab6f06e",
-  "58a8ec0c2deb1b0a"
+  "58a8ec0c2deb1b0a",
+  "1ff36a128b1b688a",
+  "586595288d5532de",
+  "6e007cfa73015de5",
+  "948e9b1f3127b1ba",
+  "0828ec2331972d20",
+  "31c18689e553f2a3",
+  "94d7dcf14c999598",
+  "394c60d2e3587d98",
+  "623a7a7878d26383",
+  "639f4c07554fc228",
+  "8bfa5286f80707e9",
+  "88c7a4bc53b7a686",
+  "f53ee6da77de45ab",
+  "d62026926ca76e43",
+  "5c2adde3435a1f7d",
+  "de5f550dd60350d3",
+  "a142864702b66c02",
+  "1fb8550f56f0e7cc",
+  "985bf28eff511818",
+  "729427c5407d2a38",
+  "7f2651127a82ce8c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793141559.4671807,
- "dernier_passage_actus": 1793194425.6991055,
+ "dernier_passage_actus": 1793197779.3197358,
  "evenements_vus": {},
  "historique": [
   {
@@ -835,6 +835,11 @@
    "genre": "actu",
    "resume": "Coup dur pour Lens avec l'opération d'Odsonne Édouard (L'Équipe)",
    "t": 1793194490
+  },
+  {
+   "genre": "actu",
+   "resume": "La direction de l'arbitrage valide le but polémique du Mans contre Auxerre (Foot Mercato)",
+   "t": 1793197831
   }
  ],
  "matchs": {
@@ -880,5 +885,5 @@
   }
  },
  "programme_jour": "2026-10-28",
- "programme_maj": 1793172846.1763883
+ "programme_maj": 1793197779.3130558
 }
