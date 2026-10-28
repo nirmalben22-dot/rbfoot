@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a594e436ef539c5d",
-  "65d10c15e04349b3",
-  "a0256145f8e724d4",
-  "de5706dd593a3b72",
-  "cc610a7c57c90dbc",
-  "eb9f929ebad25b74",
-  "95d3184dc0e40c41",
-  "ee913edbe20d3d06",
-  "1315a1f481840bb6",
-  "0e18adc6113f4b5a",
-  "d081cfe98ac15579",
-  "00617d52adf00a7f",
-  "dd0e437640d731f1",
-  "a76b4bc19ca67455",
-  "2b84d9da6ca9c196",
-  "e7f76f637ae7cf9a",
-  "a379c738891bad6b",
-  "01a19ab0729ad213",
-  "8fd7b10b6d99c22d",
-  "40618159b4ffaa51",
-  "9e457eae6be03491",
-  "970f78c25c4a633e",
-  "43403e78ff9d9017",
-  "eeabb9beb8c207ed",
-  "e607db041627ddc6",
-  "1103d9ee945457ed",
-  "c917bdef990a16de",
-  "f06835df8c2f33ad",
-  "90e1cb1892c695b7",
-  "5cde903beaee6639",
-  "686f30d9781700a7",
-  "66ecc506807ad99d",
   "c62c58013a41bfe6",
   "638e10321f75de9a",
   "f444e253cdd4a481",
@@ -800,20 +768,52 @@
   "79f4c9ae5fb9c487",
   "333625f69f1e8f00",
   "5ccac8df58338acf",
-  "3df213cde2c6c999"
+  "3df213cde2c6c999",
+  "a43069facc13defd",
+  "f258ff3fe7551623",
+  "5f602455d40bbbcb",
+  "f9de7f792d5e5091",
+  "6d0c9827dcfe802b",
+  "564a0088c2324de9",
+  "4267bf35adcda940",
+  "bb31ad78a27c3fcf",
+  "ad251cec75d88e7a",
+  "26c4fe9a90376b24",
+  "1a98f7280555e70a",
+  "a4a53b07f70a2b5f",
+  "580f36f783f60e29",
+  "5fb18099bcac3754",
+  "46a4f535f29d24bf",
+  "82e08c83c5962842",
+  "39d9401d5856ac9d",
+  "f1970fbfe9665136",
+  "0fcdfd38df2b192a",
+  "f5a6667c3cd7d6e4",
+  "4d0fc2a6be1178e5",
+  "a37f760dc52c320f",
+  "d82b402f57bcc7f8",
+  "889a67b9d36e8b0f",
+  "01abaa2ea9206246",
+  "ab3d42531f6177a5",
+  "49342bb4b2f5fe98",
+  "96123baacf66a340",
+  "8e012e91966124f7",
+  "43f40d9a28680757",
+  "bef38c1e013ce7d5",
+  "ad32410eb190769a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 12
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-10-28",
-   "n": 5
+   "n": 6
   }
  },
- "dernier_appel_direct": 1793214099.3032026,
- "dernier_passage_actus": 1793214099.6072695,
+ "dernier_appel_direct": 1793217018.7775407,
+ "dernier_passage_actus": 1793217019.206062,
  "evenements_vus": {},
  "historique": [
   {
@@ -885,6 +885,11 @@
    "genre": "actu",
    "resume": "Federico Valverde se mobilise après le drame ferroviaire en Espagne (RMC Sport)",
    "t": 1793214252
+  },
+  {
+   "genre": "actu",
+   "resume": "Le dossier Ibrahim Maza se refroidit pour le PSG cet hiver (RMC Sport)",
+   "t": 1793217152
   }
  ],
  "matchs": {
