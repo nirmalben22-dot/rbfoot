@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "378e135d45bc96df",
-  "b9e0ff8406cd868b",
-  "b9270b2461814621",
-  "8735ea16bda9caa9",
-  "ef2469d1ca291f38",
-  "cbb5119abe558073",
-  "124dec9535881f94",
-  "75c5134f920df861",
-  "10894ee0f17d56f2",
-  "2ecee56752da8e4b",
-  "da5676997c83cc40",
-  "ca8cab35aff7c450",
-  "ea47c7a85db480c1",
-  "6dfccc1a0f615e08",
-  "3cd93dacb10ff009",
-  "0e3f5ca467e0bf6b",
-  "0251c1182a223d32",
-  "12233c63d1e08bdc",
-  "ea275f7675a9318a",
-  "02fa368441222982",
-  "f5ceddfd56eb8eb8",
-  "681a633c82d06017",
-  "1435b80d3790d892",
-  "44329536a77cceea",
-  "8d423ff18f03a18c",
-  "7ee72ff8ba1508f5",
-  "96d91a6bebd2cadb",
-  "151eb1a77220741a",
   "c885fe609f529627",
   "0084eca1fe84e42f",
   "64d5640a945970b8",
@@ -800,12 +772,40 @@
   "1fb8550f56f0e7cc",
   "985bf28eff511818",
   "729427c5407d2a38",
-  "7f2651127a82ce8c"
+  "7f2651127a82ce8c",
+  "e35603a9a010a906",
+  "59aefdeea671c706",
+  "467a110ff1730e76",
+  "760e1486a231fd41",
+  "a1f3f311e55d05aa",
+  "7c1dd87df28ec452",
+  "bc9d4af295681e27",
+  "8af845916459524b",
+  "b016f9b0071e2f95",
+  "b0848eebe35d534e",
+  "ccdf50c1772ea07a",
+  "32853a4918d60496",
+  "8b3882547b216ed8",
+  "f05c0f69b64642c0",
+  "a1af6f0d313170b2",
+  "3c50b10109d2362e",
+  "ff3b9a0068878da6",
+  "b02e0e7232b3ab61",
+  "05890fef990f7726",
+  "ad64aa7c85d9fa23",
+  "02b38bfc0a86bb5e",
+  "73b41c5bd9002417",
+  "7da413edb4474be6",
+  "faa1651bb124d738",
+  "9dd11b6049b148c3",
+  "499d6f392d05f575",
+  "07a2d67d1a415029",
+  "dcdc8e222f86c942"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-28",
-   "n": 3
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-10-28",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793141559.4671807,
- "dernier_passage_actus": 1793197779.3197358,
+ "dernier_passage_actus": 1793201151.6802995,
  "evenements_vus": {},
  "historique": [
   {
@@ -840,6 +840,16 @@
    "genre": "actu",
    "resume": "La direction de l'arbitrage valide le but polémique du Mans contre Auxerre (Foot Mercato)",
    "t": 1793197831
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG vise Ibrahim Maza pour cet hiver (Foot Mercato)",
+   "t": 1793201212
+  },
+  {
+   "genre": "actu",
+   "resume": "Inquiétude à Arsenal après une hécatombe de blessés (Premier League)",
+   "t": 1793201216
   }
  ],
  "matchs": {
