@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bcb3c7dc352825e3",
-  "100bbf56f53468d4",
-  "c7ceb1d914a788a9",
-  "019684f043086552",
-  "f0738dcc5602a15d",
-  "e07f6e077cf1863a",
-  "7846ccc7d9483a88",
-  "b9097210dbac7d8a",
-  "e36610c9556c318a",
-  "330bd8f8aa7fc8ed",
-  "f3a0687e21695b7f",
-  "15d5b6c422674948",
-  "3393bd49bfdb4658",
-  "3898299a70438cf8",
-  "e9823786608639c8",
-  "1a63a405e9ea8e4f",
-  "248cbbf38a41af24",
-  "a4b756d622548c11",
-  "ee208e35d75f413c",
-  "ed25552ed49b1c54",
-  "62606050e391402b",
-  "a33624e3fef9a277",
-  "533fe7cbcd9ef71d",
-  "009403f684ebf3b0",
-  "5a1ca96ddb616cda",
   "4c5ae016a0a7b93f",
   "ad94b3767a8a14e6",
   "8acf5b6099f7ec7e",
@@ -800,20 +775,45 @@
   "caec3758fb6e06a1",
   "223505bb4f780e1e",
   "f2145cf65c0bb77f",
-  "de91bddd4bdc3092"
+  "de91bddd4bdc3092",
+  "e3861cbb7dacf5ee",
+  "beb2b3a22eb2abd5",
+  "002a41101c136989",
+  "053163d2f42c0275",
+  "6c9fe179db2abc46",
+  "b5f5f83cfc0f5d55",
+  "35343ca61d04bbb3",
+  "48f896d6184d6003",
+  "f9a6dfe40329a1f2",
+  "77f4a73f05ba57d2",
+  "127627a6d3c789fc",
+  "e9d6a223b571ba05",
+  "742c0d611d965fc1",
+  "6dc1580b10637da3",
+  "1ca4ae800f033997",
+  "9dc1580dc3da154c",
+  "de92743fc3ef7fe7",
+  "48eba1051e2f2249",
+  "4d2e6753d112c159",
+  "28f2ac56d0c1df3a",
+  "a50df98fd3300383",
+  "c41e4cfbf33ebdbb",
+  "c1d173c8c633f202",
+  "aa1241188581f61d",
+  "426e173f37558056"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-10-29",
-   "n": 6
+   "n": 8
   }
  },
- "dernier_appel_direct": 1793301745.747291,
- "dernier_passage_actus": 1793301746.0081954,
+ "dernier_appel_direct": 1793304755.7665436,
+ "dernier_passage_actus": 1793304755.9962065,
  "evenements_vus": {},
  "historique": [
   {
@@ -1005,6 +1005,16 @@
    "genre": "actu",
    "resume": "Coup dur pour le Como et Moise Kean (Sky Sport)",
    "t": 1793301882
+  },
+  {
+   "genre": "actu",
+   "resume": "Jack Grealish écarté du groupe à Everton pour indiscipline (BBC Sport)",
+   "t": 1793304811
+  },
+  {
+   "genre": "actu",
+   "resume": "Azzedine Ounahi opéré avec succès après une grave blessure (Foot Mercato)",
+   "t": 1793304817
   }
  ],
  "matchs": {
@@ -1012,11 +1022,6 @@
    "affiche": "AC Milan - Bologna",
    "competition": "Serie A",
    "coup_envoi": 1793208600
-  },
-  "1550168": {
-   "affiche": "AS Roma - Cagliari",
-   "competition": "Serie A",
-   "coup_envoi": 1793130300
   },
   "1550169": {
    "affiche": "Fiorentina - Atalanta",
@@ -1043,11 +1048,6 @@
    "competition": "Serie A",
    "coup_envoi": 1793208600
   },
-  "1550175": {
-   "affiche": "Torino - Como",
-   "competition": "Serie A",
-   "coup_envoi": 1793130300
-  },
   "1550176": {
    "affiche": "Venezia - Inter",
    "competition": "Serie A",
@@ -1055,5 +1055,5 @@
   }
  },
  "programme_jour": "2026-10-29",
- "programme_maj": 1793282286.6030478
+ "programme_maj": 1793304755.7662961
 }
