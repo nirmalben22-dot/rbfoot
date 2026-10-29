@@ -1,25 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "13edef1a22d0f2dd",
-  "612cbb8a2e4a0ae1",
-  "ad46767e034627f3",
-  "c76983eaf869a5fa",
-  "94f84b961328db68",
-  "b9a93f968f5f1e5a",
-  "9190dfad5499c9b8",
-  "86f53819105ae362",
-  "042a4f89ca9c5723",
-  "04fdc8b49f9cad9b",
-  "08acfedecc839a92",
-  "4212a69b1ff2f181",
-  "8c4752cd9a1eb48b",
-  "712bb4bc794a124b",
-  "ea98fb5393ec6566",
-  "cb02fa75d4f513b9",
-  "7a49d5d33772b30e",
-  "4fa4f0e610298dda",
-  "b5772e2cd1084819",
   "eb8191b6704fba03",
   "63eb3f3acdf6523f",
   "6db897be4c7051ab",
@@ -800,12 +781,31 @@
   "bfabcb1fd6d59b79",
   "e7493bb4d5b8a12d",
   "0316ee0ee93bb623",
-  "4c8b4f70e1d6d0e6"
+  "4c8b4f70e1d6d0e6",
+  "1993f647a13ab4e6",
+  "0522da54465c220f",
+  "b7ca29349ba2d7bb",
+  "d094305b19ca01a7",
+  "48f9f467bfa9c79d",
+  "92f243b63d93fd89",
+  "5db093ab7c3b9b89",
+  "f4ac48788be30fac",
+  "aaa60071b28aae27",
+  "b8e24b8b854b7cbe",
+  "8554101ea8db8d54",
+  "c4fd6831c2b47f0a",
+  "2d4fbfb3fe79c43b",
+  "78e171a9f263a481",
+  "5b0224ca4213d5ff",
+  "90c59c7bbb527734",
+  "f122ef307ac73ad2",
+  "4ca53f7daee30dd4",
+  "bba4937393ef9239"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 6
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-10-29",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793289099.813104,
+ "dernier_passage_actus": 1793292159.922688,
  "evenements_vus": {},
  "historique": [
   {
@@ -980,6 +980,16 @@
    "genre": "actu",
    "resume": "Liverpool cible le milieu de terrain Lamine Camara (L'observateur)",
    "t": 1793289180
+  },
+  {
+   "genre": "actu",
+   "resume": "Saison terminée pour Khvicha Kvaratskhelia victime d une grave blessure (RMC Sport)",
+   "t": 1793292315
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid prêt à racheter Jacobo Ramón à Côme (Foot Mercato)",
+   "t": 1793292321
   }
  ],
  "matchs": {
