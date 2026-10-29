@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "155cf8f963a9673e",
-  "2649671149a40025",
-  "2500b4c521183233",
-  "d11ee09a44db1529",
-  "d6c6fa424b591fef",
-  "6dae9611aad98b40",
-  "6a873dbc654da950",
-  "cfa1c74786b2aef7",
-  "ed46f9bd5e129747",
-  "2f656318302d25a4",
   "0f1882690fa6fa21",
   "2e1ecb30fcc36313",
   "a1872642cc070ced",
@@ -800,7 +790,17 @@
   "16e0c9770d06681d",
   "556c524135affc4d",
   "a16e8dae3b971eb0",
-  "045823a0f3d64621"
+  "045823a0f3d64621",
+  "76bd240235e78da5",
+  "62c992257d8e8e8a",
+  "fa934e0f77104beb",
+  "d5834118f117bd51",
+  "afd54515760f6406",
+  "4f4396ff60c42a70",
+  "2997de52cb37a5d2",
+  "c27f1f8a8010fb5f",
+  "00b352500bc9c6ea",
+  "a095ce67877164b2"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793238549.2364957,
+ "dernier_passage_actus": 1793241315.6475663,
  "evenements_vus": {},
  "historique": [
   {
