@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6d0c9827dcfe802b",
-  "564a0088c2324de9",
-  "4267bf35adcda940",
-  "bb31ad78a27c3fcf",
-  "ad251cec75d88e7a",
-  "26c4fe9a90376b24",
-  "1a98f7280555e70a",
-  "a4a53b07f70a2b5f",
-  "580f36f783f60e29",
-  "5fb18099bcac3754",
-  "46a4f535f29d24bf",
-  "82e08c83c5962842",
-  "39d9401d5856ac9d",
-  "f1970fbfe9665136",
-  "0fcdfd38df2b192a",
-  "f5a6667c3cd7d6e4",
-  "4d0fc2a6be1178e5",
-  "a37f760dc52c320f",
-  "d82b402f57bcc7f8",
-  "889a67b9d36e8b0f",
-  "01abaa2ea9206246",
-  "ab3d42531f6177a5",
-  "49342bb4b2f5fe98",
-  "96123baacf66a340",
-  "8e012e91966124f7",
-  "43f40d9a28680757",
-  "bef38c1e013ce7d5",
   "ad32410eb190769a",
   "38f80da83a412269",
   "ff3c111e9d65d287",
@@ -800,12 +773,39 @@
   "fdb13f660ea9f961",
   "cda11c3ff2b634e1",
   "e366cd1af9de0540",
-  "d6884eca856fc85c"
+  "d6884eca856fc85c",
+  "eb28e17b8ade427c",
+  "b5eafbf65c2647c8",
+  "053b06521ca9a2dc",
+  "4ba0ec6d0176dd2f",
+  "0c7ca315a1eff198",
+  "ff07c99cc3ae73fb",
+  "631c8826eba376dd",
+  "a7675846b069b694",
+  "5e646f77191d76d7",
+  "267dd33d91b2e05e",
+  "d3d74dd02271619e",
+  "c064340620434889",
+  "cad146f27fe1960c",
+  "a42d5f59d1d9380f",
+  "8c6f87a3218beaa7",
+  "9645392fae056c71",
+  "d0a5033779e14123",
+  "1ad16d5a3a74dee4",
+  "d0bfdee31228e0de",
+  "4bdc4e8e93a0bd74",
+  "6a4e14dd36d8b8f3",
+  "7136c8852ad37bae",
+  "152681327bbfae4f",
+  "e9b107389c39c263",
+  "9bb518c008aa5695",
+  "db04f5a48e534c8b",
+  "6e8a1a86a0b9bbdc"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 16
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-10-29",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793312658.02391,
+ "dernier_passage_actus": 1793315361.9063659,
  "evenements_vus": {},
  "historique": [
   {
@@ -1030,6 +1030,11 @@
    "genre": "actu",
    "resume": "Le Real Madrid réclame 80 millions aux clubs anglais (RMC Sport)",
    "t": 1793312798
+  },
+  {
+   "genre": "actu",
+   "resume": "Younès Belhanda règle ses comptes avec Walid Regragui (RMC Sport)",
+   "t": 1793315449
   }
  ],
  "matchs": {
