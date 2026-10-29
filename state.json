@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d2898841d8a1ab9c",
-  "aab736f8d93e9c51",
-  "ac96746986abbb58",
-  "76104ef5e58ff1bb",
-  "f35a2ed76beefb94",
-  "ad38ec70b7e3a6ba",
-  "55a7b91e8611d841",
-  "b4e4e268e6806215",
-  "9f445de62e0c89a2",
-  "27514228679c4415",
-  "034d3e50b4c6f5b1",
-  "83430d6baa92df25",
-  "1a378e69bc2ba527",
-  "963e75f89a4a8a03",
-  "7a44437982c1d771",
-  "17c2732b6bca62c7",
-  "dd4b4437d7914d26",
-  "915ec081276d39b2",
-  "94b8741545f4eca0",
-  "4590cd8f823b4660",
-  "fa3259f809857a05",
-  "840e2d92c5d72c32",
-  "76a2ab06447bc58b",
-  "48b042f0dbaebfb8",
-  "cea174a668a6a6ac",
-  "ba1b9a6f443067e9",
-  "639e7a518dc8a8c9",
-  "6279f37d40b7e668",
   "33c68da28dee61b4",
   "fc24159bd3bc2bf3",
   "9258f8c153c8b54a",
@@ -800,12 +772,40 @@
   "d0510d5365a10dc2",
   "bf44241705f3ccae",
   "896a24f309e6c20c",
-  "733b096bd267f63c"
+  "733b096bd267f63c",
+  "b437f31e9c4c884d",
+  "55b7dc4bbaec7038",
+  "872bd114169a0a7b",
+  "749f1a65feb57450",
+  "23695c22f81add73",
+  "a8b42e7c640d8824",
+  "19df51725f5dbe2f",
+  "2f2c1ee99e7bcd23",
+  "01a5278de77d1136",
+  "a0923c00d420bd75",
+  "b64497e5ab958511",
+  "03ce0fffd3b5654c",
+  "a494fea1db61f785",
+  "b78dedbbe7356f2a",
+  "65a4fb4a85c3f8c0",
+  "902c5d997fefe29b",
+  "4249d747a42e99f0",
+  "457d9f4abfe017d5",
+  "fb2419f751872464",
+  "5eac6621eb59cad4",
+  "cc4e792eefbd2a32",
+  "96dce53faeef395b",
+  "6ab34261e7b1cd9c",
+  "b24f4fbb4917cdf9",
+  "8481a211a2770fd0",
+  "afd39d8bf8aab606",
+  "623a4fbeea334ff6",
+  "cef5e17cdc311c4c"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-10-28",
-   "n": 25
+   "jour": "2026-10-29",
+   "n": 2
   },
   "appels_api_football": {
    "jour": "2026-10-29",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793272444.7184033,
+ "dernier_passage_actus": 1793275242.4264693,
  "evenements_vus": {},
  "historique": [
   {
@@ -950,6 +950,16 @@
    "genre": "actu",
    "resume": "Jérôme Rothen critique le départ de Pierre Sage vers Crystal Palace (Foot Mercato)",
    "t": 1793231982
+  },
+  {
+   "genre": "actu",
+   "resume": "Un ancien joueur de Ligue 1 en détention provisoire (Foot Mercato)",
+   "t": 1793275386
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG privé de trois cadres face au Havre (L'Équipe)",
+   "t": 1793275392
   }
  ],
  "matchs": {
