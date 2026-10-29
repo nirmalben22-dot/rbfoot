@@ -1,27 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4c5ae016a0a7b93f",
-  "ad94b3767a8a14e6",
-  "8acf5b6099f7ec7e",
-  "97de396e45377250",
-  "59062c6266706d95",
-  "3b62099c50797f3f",
-  "05c07d9b6bbedadf",
-  "62befe813b1ae579",
-  "f8cc3587626c92d1",
-  "831250c076664a2d",
-  "d5c653f1fd61fa3b",
-  "b3db67cc8a692a0e",
-  "65945faee316919d",
-  "33b8c40d1e736ab8",
-  "bc23ca2647c7c690",
-  "6c960dc0ca5be69e",
-  "97067910d455af2d",
-  "bd6336f8e4eea5e1",
-  "796bd0852a54c369",
-  "46c3000fa64033e7",
-  "b09e46c8d50dd3dc",
   "8ef8407c83c824f6",
   "a666222344362aea",
   "f0be1dfa0b65fa6b",
@@ -800,20 +779,41 @@
   "c41e4cfbf33ebdbb",
   "c1d173c8c633f202",
   "aa1241188581f61d",
-  "426e173f37558056"
+  "426e173f37558056",
+  "a0d47c8aa2292e03",
+  "0171e684b835829c",
+  "0c1de3cbe4c52389",
+  "a97267bff15e464c",
+  "b84048d22f76a50e",
+  "3587ec3afcbb39a7",
+  "0e6eb29327ccfd10",
+  "d105b0ef61160348",
+  "398c6e3d825fe164",
+  "4874ebe296be0dad",
+  "f63469c34f5f5887",
+  "ce34b475536f3bf0",
+  "35982eb912f7aaa1",
+  "59de8c7b3d1214c4",
+  "b57e2fdec09c5d74",
+  "3abe0b78188f27d1",
+  "58a679d7e0ced537",
+  "2f767fe4daf1aa93",
+  "1ffd6e2c33f98906",
+  "199f424f67b97ac6",
+  "34df05e3bb03154c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 13
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-10-29",
-   "n": 8
+   "n": 9
   }
  },
- "dernier_appel_direct": 1793304755.7665436,
- "dernier_passage_actus": 1793304755.9962065,
+ "dernier_appel_direct": 1793307703.058068,
+ "dernier_passage_actus": 1793307703.298912,
  "evenements_vus": {},
  "historique": [
   {
@@ -1015,6 +1015,11 @@
    "genre": "actu",
    "resume": "Azzedine Ounahi opéré avec succès après une grave blessure (Foot Mercato)",
    "t": 1793304817
+  },
+  {
+   "genre": "actu",
+   "resume": "Le FC Barcelone prêt à écouter les offres pour Jules Koundé (Tribuna.com)",
+   "t": 1793307843
   }
  ],
  "matchs": {
