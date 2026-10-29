@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "859e4204489a54bd",
-  "60b32319b1085451",
-  "bc8d79dddf2df5c9",
-  "be525835d633acc8",
-  "dd897e1c2416e27f",
-  "6daa925fc62d753e",
-  "9379f809a391ff4f",
-  "b48126b1a15a2f0a",
-  "3666da9faf55c845",
-  "bfae7d05ff9970b8",
-  "7333bfaa1ccf2976",
-  "b672627e43cee1c6",
-  "8f0d56753187c46e",
-  "25a402a3fc19d061",
-  "86e74fa7395b290d",
-  "544f68d8a2898ed0",
-  "941931f3d6c60766",
-  "595e70090136f2be",
-  "3dcbb6f2e05a19e9",
-  "79f4c9ae5fb9c487",
-  "333625f69f1e8f00",
-  "5ccac8df58338acf",
-  "3df213cde2c6c999",
-  "a43069facc13defd",
-  "f258ff3fe7551623",
-  "5f602455d40bbbcb",
-  "f9de7f792d5e5091",
   "6d0c9827dcfe802b",
   "564a0088c2324de9",
   "4267bf35adcda940",
@@ -800,20 +773,47 @@
   "1432edefb98893c7",
   "b9e24eafee00a8d6",
   "329c6fd7b309f547",
-  "0dafbf3322f43e62"
+  "0dafbf3322f43e62",
+  "4dd7a4f1200f29c4",
+  "bb4c4ef63b2275c0",
+  "5ec5102f85156c33",
+  "f2cca7c94fe09bad",
+  "413f0c65738d938b",
+  "96be46d16b1079b2",
+  "5d3a1cc1320dd4f6",
+  "98dc8721512e5178",
+  "5fe5bca906c2b5b0",
+  "0b6e70268489ec4b",
+  "6f35aa66a73ecc08",
+  "b758b4468b6b59b4",
+  "566828ae6ef96a36",
+  "eb6761baeee7c92b",
+  "fdb32d22ed90ce69",
+  "13608777ac59bdca",
+  "9c110a5e76b6723e",
+  "bd7e21eb9c0c1cc3",
+  "f273651e975d9d2d",
+  "13850fbb810cfcb9",
+  "76812c405d3b7c99",
+  "558309cb622faed5",
+  "3edea4904d8d0226",
+  "fdb13f660ea9f961",
+  "cda11c3ff2b634e1",
+  "e366cd1af9de0540",
+  "d6884eca856fc85c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 15
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-10-29",
-   "n": 10
+   "n": 11
   }
  },
- "dernier_appel_direct": 1793310313.1277907,
- "dernier_passage_actus": 1793310313.3738256,
+ "dernier_appel_direct": 1793312657.6017864,
+ "dernier_passage_actus": 1793312658.02391,
  "evenements_vus": {},
  "historique": [
   {
@@ -1025,6 +1025,11 @@
    "genre": "actu",
    "resume": "Didier Deschamps et Antonio Conte ciblés par la Juventus (RMC Sport)",
    "t": 1793310456
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid réclame 80 millions aux clubs anglais (RMC Sport)",
+   "t": 1793312798
   }
  ],
  "matchs": {
