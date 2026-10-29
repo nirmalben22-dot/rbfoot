@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "94d2ee6bdf3d97a7",
-  "8da0db4ebf5e57df",
-  "eed8d1b68243cb86",
-  "37f289095e80fe88",
-  "6715c3f0453a4b0d",
-  "4384f93d6652e482",
-  "0f8a97fc9182e019",
-  "c09efc94392c7874",
-  "4eb3123c9250d191",
-  "723a75cad698e96c",
-  "7b24389e89388d47",
-  "0bbe229bab9683e2",
-  "e209cc8b8827f679",
-  "1e2ea9ab368e92b8",
   "37c4c05c12756625",
   "5c454c36c0417016",
   "5c4520c01f19131f",
@@ -800,7 +786,21 @@
   "35279f305d6f3dd1",
   "f79ba3a10104ec59",
   "19c15d27d0de845d",
-  "139aab131328f43d"
+  "139aab131328f43d",
+  "ab3b2f1da085f5e9",
+  "efce68a61b006aee",
+  "4a82db8990d517c2",
+  "779b10ae550339da",
+  "21834e3a335b42d3",
+  "36b6eb5d4e126b79",
+  "b4a5ed3a4cc656e6",
+  "12f5aaa452553508",
+  "57d76e71567d7ca5",
+  "e28a7831e09e25eb",
+  "83827942b5c36cdb",
+  "c5437e3d0bf4b96a",
+  "906487067fec108a",
+  "1fa3d3cd94dc1801"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -808,12 +808,12 @@
    "n": 25
   },
   "appels_api_football": {
-   "jour": "2026-10-28",
-   "n": 11
+   "jour": "2026-10-29",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793231904.8779943,
+ "dernier_passage_actus": 1793235105.7541206,
  "evenements_vus": {},
  "historique": [
   {
@@ -963,6 +963,16 @@
    "competition": "Serie A",
    "coup_envoi": 1793130300
   },
+  "1550169": {
+   "affiche": "Fiorentina - Atalanta",
+   "competition": "Serie A",
+   "coup_envoi": 1793303100
+  },
+  "1550170": {
+   "affiche": "Frosinone - Lecce",
+   "competition": "Serie A",
+   "coup_envoi": 1793295000
+  },
   "1550171": {
    "affiche": "Genoa - Juventus",
    "competition": "Serie A",
@@ -994,6 +1004,6 @@
    "coup_envoi": 1793208600
   }
  },
- "programme_jour": "2026-10-28",
- "programme_maj": 1793222127.1990016
+ "programme_jour": "2026-10-29",
+ "programme_maj": 1793235105.7528584
 }
