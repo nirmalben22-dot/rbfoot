@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "01439192b5b32478",
-  "7b8d2f32836c090a",
-  "b484acf45cd98e42",
-  "e7bd329299db052c",
-  "2cda07a624daa5d0",
-  "5c15af2ccb0cb109",
-  "c6a57c42ccc1aee8",
-  "2dd509113dad8412",
-  "c100dce53aa6f159",
-  "6e1bc7579bb43ab3",
-  "55e8d531a79f5958",
-  "55fdafdee99b46b6",
-  "d78de44e2fce6d7e",
-  "66416135ee707a4a",
-  "b6bb729676a33b3a",
-  "6ceba2e9dd1898b3",
-  "23f51056657f0078",
-  "64ab4e4fc901c887",
-  "273c18e08d12cadf",
-  "518822389b949df1",
-  "da2ea0ace2f2ca69",
-  "215613ac8ecd7c21",
-  "fccbdd6b619a1df2",
-  "2eb110f78ef1671c",
-  "a89aa2dfa628df92",
-  "7270beed14ba56a5",
-  "861244738a9005a1",
-  "35beb9bf067a468b",
-  "7f156119de8f7e14",
-  "87dee8a3b74d175a",
-  "c9518125fe1bbe6e",
-  "3d321fb44f14231b",
   "80c1d27eab6f8363",
   "c49ae479e605d68f",
   "f3421e2f1535b99d",
@@ -800,20 +768,52 @@
   "ea1436d465f0e783",
   "e1e554c51ca89d07",
   "ba8025b0ba6627bc",
-  "b09ac1918693a875"
+  "b09ac1918693a875",
+  "1a8efbf8ad23c24a",
+  "98f6d11f90f1a3f7",
+  "280d4d5ba86401ca",
+  "ad112eed183d4e72",
+  "d30accbd99c9c51b",
+  "28263f35b8d87413",
+  "80e8fac078e7e238",
+  "564e72ca020d53b2",
+  "d01062ce85730c6b",
+  "ef689335c2b5488a",
+  "7d90cc0dd3d2c997",
+  "80cb434d8c2990f1",
+  "2b38563d18434832",
+  "d8af41d9e91991d4",
+  "91cd8867f1a3b981",
+  "c21db494e9a6c479",
+  "b96a8a08929cd8f8",
+  "403a9f5464c8941f",
+  "eb50347dfa33798e",
+  "9b58e00bc6fc2abb",
+  "563c72ba3fb0cef7",
+  "165f6ed4a0edd906",
+  "f5b9bd7d434e68fe",
+  "ff2ba6e526bf0a9d",
+  "ecb75143f34a0844",
+  "c22d33fb7434ed70",
+  "6c0b903b6a6c33f6",
+  "f4e97db03e0679fa",
+  "9ad324e574ad10fd",
+  "44bc6b3d61545d2d",
+  "ebc34659a29f01fc",
+  "a38da61d721330d5"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-10-29",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793278564.3375828,
+ "dernier_passage_actus": 1793282286.6085658,
  "evenements_vus": {},
  "historique": [
   {
@@ -970,6 +970,11 @@
    "genre": "actu",
    "resume": "La France candidate pour organiser le Final Four de la Ligue des nations (L'Équipe)",
    "t": 1793278629
+  },
+  {
+   "genre": "actu",
+   "resume": "Luis Enrique regrette le classement de Vitinha au Ballon d'Or (Get French Football News)",
+   "t": 1793282451
   }
  ],
  "matchs": {
@@ -1025,5 +1030,5 @@
   }
  },
  "programme_jour": "2026-10-29",
- "programme_maj": 1793259911.4990835
+ "programme_maj": 1793282286.6030478
 }
