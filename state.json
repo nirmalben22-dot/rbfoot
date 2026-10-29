@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "33c68da28dee61b4",
-  "fc24159bd3bc2bf3",
-  "9258f8c153c8b54a",
-  "51999bc8d8131e5b",
-  "6af59c67ea16ee1b",
-  "b2e882c2c12d0e20",
-  "b6d87869429eb664",
-  "e5b1044e5405be83",
-  "cfc0307203f2a601",
-  "9201700653834996",
-  "7fdc651c097917bf",
-  "731b965e7e262fb2",
-  "b2c80ebe8d79b86b",
-  "6400e56cb5a42a3b",
-  "485a616a42aa40b6",
-  "271efe54be728d4e",
-  "8b929e3c034da597",
-  "271284d7cb7aaa15",
-  "0c5f116bf9fcc91f",
-  "9a98a096b90cb49b",
-  "bdf748dcc37d0ec5",
-  "c6241263d16c80a3",
-  "232d3ffae191622c",
-  "77457f56be848690",
-  "374a20b251999841",
-  "3d19ab455f4a4273",
-  "999c259a9df00786",
   "01439192b5b32478",
   "7b8d2f32836c090a",
   "b484acf45cd98e42",
@@ -800,12 +773,39 @@
   "8481a211a2770fd0",
   "afd39d8bf8aab606",
   "623a4fbeea334ff6",
-  "cef5e17cdc311c4c"
+  "cef5e17cdc311c4c",
+  "81b381fed74e6e90",
+  "b3a05ee1051b7dd6",
+  "2b80c581f9f38208",
+  "1c0fb623f6e253f9",
+  "91510a7052d4bf19",
+  "bd3e1d4a6847ae19",
+  "dfbf64403c787de3",
+  "3a470b13288cf42b",
+  "95fcd93a6fd1224c",
+  "12a91a63cff6ee28",
+  "69f45f01d737492e",
+  "f5f48ad0de0c9d7d",
+  "1470f992ef51b934",
+  "1aa8f8b419a7bad3",
+  "64c8f20bcb8e4f3a",
+  "1c7be0ff4316066a",
+  "918cb1208fc5d1e5",
+  "2d048d44785451cf",
+  "f248f3c8492665a2",
+  "b450a0b15dfc6c61",
+  "d3fbaf033ae60614",
+  "5d5b27667beda8a4",
+  "afd9f3407d7174c6",
+  "ea1436d465f0e783",
+  "e1e554c51ca89d07",
+  "ba8025b0ba6627bc",
+  "b09ac1918693a875"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-10-29",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793275242.4264693,
+ "dernier_passage_actus": 1793278564.3375828,
  "evenements_vus": {},
  "historique": [
   {
@@ -960,6 +960,16 @@
    "genre": "actu",
    "resume": "Le PSG privé de trois cadres face au Havre (L'Équipe)",
    "t": 1793275392
+  },
+  {
+   "genre": "actu",
+   "resume": "Soutien total pour Kylian Mbappé après sa polémique en Chine (RMC Sport)",
+   "t": 1793278624
+  },
+  {
+   "genre": "actu",
+   "resume": "La France candidate pour organiser le Final Four de la Ligue des nations (L'Équipe)",
+   "t": 1793278629
   }
  ],
  "matchs": {
