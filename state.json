@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "eb8191b6704fba03",
-  "63eb3f3acdf6523f",
-  "6db897be4c7051ab",
-  "3bae46759e1776ee",
-  "b71488a216a3468c",
-  "fdf8630b435a1250",
-  "7923227f0b120169",
-  "af06bdbaeb8f8148",
-  "21e63502a1585bfc",
-  "e6d4657145945244",
-  "f2a7ac802305e44c",
-  "b3fc7514a45a5f1c",
-  "07aaa3ea4f2d3281",
-  "c64f7c415fdd3905",
-  "e132f38e1a223e39",
-  "da9f235683ed00ca",
-  "19afc95d5831dcda",
-  "cbb754948f6348c6",
-  "3c175c4cc41674e4",
-  "5c565f239ebc4d9c",
-  "4000395ae5723914",
-  "dc2e42f53ddc4693",
-  "c6d53c8ef96c425d",
-  "a3cf5f19dab6f06e",
-  "58a8ec0c2deb1b0a",
-  "1ff36a128b1b688a",
-  "586595288d5532de",
-  "6e007cfa73015de5",
-  "948e9b1f3127b1ba",
-  "0828ec2331972d20",
-  "31c18689e553f2a3",
-  "94d7dcf14c999598",
   "394c60d2e3587d98",
   "623a7a7878d26383",
   "639f4c07554fc228",
@@ -800,20 +768,52 @@
   "90c59c7bbb527734",
   "f122ef307ac73ad2",
   "4ca53f7daee30dd4",
-  "bba4937393ef9239"
+  "bba4937393ef9239",
+  "32ba99d77ca9ca7c",
+  "f0cc0d6028ddff3a",
+  "944cefff12b98a9f",
+  "3c33c504f49b272b",
+  "bc486bea3b81769e",
+  "e111380a97e66b2a",
+  "4ae788b7012d2030",
+  "276d5a2f06d41707",
+  "b048026ccbdb5ea3",
+  "7e886e6cfc2097be",
+  "d0f23e64b084e989",
+  "fa0f906ea244455b",
+  "95c5b119b9ec6dbb",
+  "1268b28b90d0c394",
+  "826a33febbff9607",
+  "047fc3534fe89ad6",
+  "0b0071650f326c48",
+  "0bf0da06e0ae0850",
+  "ad2f1c0e48f4360f",
+  "482f751d12c9a74c",
+  "f22a409986d227c8",
+  "f1e1e7c6cfccb21b",
+  "66c5f168380ed341",
+  "b3670ce8ba876d75",
+  "672d88d6a077f4c4",
+  "f35e14248b85c091",
+  "c9d745b82b8925cb",
+  "7cd2a72385bbf34f",
+  "9aba7dc9f7cfad69",
+  "df2c2eb75d9ae832",
+  "68d633034a59ed55",
+  "52eb10e400c3150d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-29",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-10-29",
-   "n": 3
+   "n": 4
   }
  },
- "dernier_appel_direct": 1793227265.011374,
- "dernier_passage_actus": 1793292159.922688,
+ "dernier_appel_direct": 1793295144.3892865,
+ "dernier_passage_actus": 1793295144.6526346,
  "evenements_vus": {},
  "historique": [
   {
@@ -990,6 +990,16 @@
    "genre": "actu",
    "resume": "Le Real Madrid prêt à racheter Jacobo Ramón à Côme (Foot Mercato)",
    "t": 1793292321
+  },
+  {
+   "genre": "actu",
+   "resume": "Liverpool envisage le retour de Trent Alexander Arnold (Foot Mercato)",
+   "t": 1793295292
+  },
+  {
+   "genre": "actu",
+   "resume": "Arthur Desmas contraint de prendre sa retraite (Foot Mercato)",
+   "t": 1793295298
   }
  ],
  "matchs": {
@@ -1027,11 +1037,6 @@
    "affiche": "Parma - Udinese",
    "competition": "Serie A",
    "coup_envoi": 1793208600
-  },
-  "1550174": {
-   "affiche": "Sassuolo - Lazio",
-   "competition": "Serie A",
-   "coup_envoi": 1793122200
   },
   "1550175": {
    "affiche": "Torino - Como",
