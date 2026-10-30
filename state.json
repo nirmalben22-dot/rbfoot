@@ -1,41 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1faeae0133ab0536",
-  "7a31f6178b03bdb7",
-  "356a1068a7e93ef9",
-  "4240671a99152e6b",
-  "749487e64ddf4a7f",
-  "26ad20a1f7f79341",
-  "005e6ee7aa0ecfb3",
-  "943cf035d84c0fbd",
-  "7b30e9db4c000d4d",
-  "1bd1161337d6e9d3",
-  "046f3ceaed2a47c9",
-  "9348adcaaf5458be",
-  "d0510d5365a10dc2",
-  "bf44241705f3ccae",
-  "896a24f309e6c20c",
-  "733b096bd267f63c",
-  "b437f31e9c4c884d",
-  "55b7dc4bbaec7038",
-  "872bd114169a0a7b",
-  "749f1a65feb57450",
-  "23695c22f81add73",
-  "a8b42e7c640d8824",
-  "19df51725f5dbe2f",
-  "2f2c1ee99e7bcd23",
-  "01a5278de77d1136",
-  "a0923c00d420bd75",
-  "b64497e5ab958511",
-  "03ce0fffd3b5654c",
-  "a494fea1db61f785",
-  "b78dedbbe7356f2a",
-  "65a4fb4a85c3f8c0",
-  "902c5d997fefe29b",
-  "4249d747a42e99f0",
-  "457d9f4abfe017d5",
-  "fb2419f751872464",
   "5eac6621eb59cad4",
   "cc4e792eefbd2a32",
   "96dce53faeef395b",
@@ -800,12 +765,47 @@
   "7d54449ee2f40ff0",
   "3a9aa2936d2e65b1",
   "05d03428e9265f3d",
-  "5320f9fb9b264c6b"
+  "5320f9fb9b264c6b",
+  "ebcea48a8e0ca955",
+  "ecd46bb5fe337a91",
+  "c21c120a6e120672",
+  "34aabb2aca168b89",
+  "abde93921a578c3b",
+  "7858ca5862d9d68b",
+  "d57c2c3ceb842154",
+  "c776dd552a59b52d",
+  "8e159869601c4d9d",
+  "696fe71ea929b624",
+  "161fdfafe519f295",
+  "b39cd5d9f7bc74c7",
+  "a6ba3b82444aee9a",
+  "cd07a635aebb3c0b",
+  "de080d9ea4e96297",
+  "7ef489d8f16849cd",
+  "81c281a0f4b0e77e",
+  "8fd1750bfd195616",
+  "2adcb6edd139766a",
+  "9079e7d5030fb141",
+  "e80c91075b93786a",
+  "44a47ba0f9f9b821",
+  "b56146296dff15be",
+  "cf767348972b2c6e",
+  "48701a879e4f8876",
+  "a6a6912786d5c653",
+  "1252cb11db540160",
+  "16095343a1cd6d6d",
+  "5cf4d41e2eb5380a",
+  "661d598c9cab0546",
+  "024b3eb56a634bb5",
+  "fa9e0a3c7dc63de4",
+  "3797d64c62ce3a41",
+  "3b9df23fd4a2014c",
+  "170a27b309d958e7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-10-30",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793371304.0465484,
+ "dernier_passage_actus": 1793374490.2545638,
  "evenements_vus": {},
  "historique": [
   {
@@ -1090,6 +1090,16 @@
    "genre": "actu",
    "resume": "Coup dur pour Chelsea et Maxence Lacroix absent plusieurs semaines (Get French Football News)",
    "t": 1793371446
+  },
+  {
+   "genre": "actu",
+   "resume": "Deux ans de prison requis contre Radja Nainggolan (L'Équipe)",
+   "t": 1793374633
+  },
+  {
+   "genre": "actu",
+   "resume": "Hansi Flick salue la réaction de Lamine Yamal (RMC Sport)",
+   "t": 1793374638
   }
  ],
  "matchs": {
