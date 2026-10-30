@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a08d85c835e18045",
-  "e31744be4641dbf9",
-  "e1b5d97164bd4154",
-  "b44521281246d268",
-  "4980eb27309b98b9",
-  "914229e950452bc4",
-  "0c96a2f0bb607a78",
-  "722b16f40315708e",
-  "4e8af3689fd3c212",
-  "c168918eb6e180ab",
-  "39cb0c0c818ba62d",
-  "58ea35297c4be07c",
-  "514401e162e53564",
-  "9dff0555a6448788",
   "e08dac23686e798c",
   "93515a4e4de380d2",
   "3586a08cca812dc1",
@@ -800,12 +786,26 @@
   "30f2003b10449a2d",
   "697aef73cb8e3bd0",
   "b14d607986c9abe2",
-  "3b54c6d89364708e"
+  "3b54c6d89364708e",
+  "f2d2a5561fb21aa1",
+  "c8b31012328c4b34",
+  "e1f35683eb9b3757",
+  "709998958b15960a",
+  "0316eb5f5b03b2a6",
+  "22eae6b7883a2f38",
+  "8078658dd2b50858",
+  "2369664be92ecbb1",
+  "5dffec311822085a",
+  "48183342c3e43479",
+  "4584b6709fdb12cf",
+  "bef38c1e013ce7d5",
+  "7aa1202d6c357894",
+  "8b607a2ae1545267"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-10-29",
-   "n": 17
+   "jour": "2026-10-30",
+   "n": 1
   },
   "appels_api_football": {
    "jour": "2026-10-30",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793320100.5757987,
+ "dernier_passage_actus": 1793324221.333235,
  "evenements_vus": {},
  "historique": [
   {
@@ -1035,6 +1035,11 @@
    "genre": "actu",
    "resume": "Younès Belhanda règle ses comptes avec Walid Regragui (RMC Sport)",
    "t": 1793315449
+  },
+  {
+   "genre": "actu",
+   "resume": "La CAF acte le retour de la CAN tous les deux ans (CAFOnline.com)",
+   "t": 1793324324
   }
  ],
  "matchs": {
