@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f122ef307ac73ad2",
-  "4ca53f7daee30dd4",
-  "bba4937393ef9239",
-  "32ba99d77ca9ca7c",
-  "f0cc0d6028ddff3a",
-  "944cefff12b98a9f",
-  "3c33c504f49b272b",
-  "bc486bea3b81769e",
-  "e111380a97e66b2a",
-  "4ae788b7012d2030",
-  "276d5a2f06d41707",
-  "b048026ccbdb5ea3",
-  "7e886e6cfc2097be",
-  "d0f23e64b084e989",
-  "fa0f906ea244455b",
-  "95c5b119b9ec6dbb",
-  "1268b28b90d0c394",
-  "826a33febbff9607",
-  "047fc3534fe89ad6",
-  "0b0071650f326c48",
-  "0bf0da06e0ae0850",
-  "ad2f1c0e48f4360f",
-  "482f751d12c9a74c",
-  "f22a409986d227c8",
-  "f1e1e7c6cfccb21b",
-  "66c5f168380ed341",
-  "b3670ce8ba876d75",
-  "672d88d6a077f4c4",
-  "f35e14248b85c091",
   "c9d745b82b8925cb",
   "7cd2a72385bbf34f",
   "9aba7dc9f7cfad69",
@@ -800,32 +771,51 @@
   "2061365c6f25b8fc",
   "13e97f58928f9da2",
   "c3cb2cb2bb400e09",
-  "bfd4dbd186ddbc25"
+  "bfd4dbd186ddbc25",
+  "eb504578eac43c1d",
+  "7a9ea792d9e48057",
+  "2435655cbfafa7d3",
+  "a50a584e82d5d37a",
+  "3db8e5f0a612f6a0",
+  "e67295a84a44efe4",
+  "fae9fb4dc4ae9e80",
+  "1c082bcb2b7b6a11",
+  "86f00813e30ba2da",
+  "053afcb52024dbcb",
+  "61d7e7f44471d65c",
+  "91ea68f8100d1289",
+  "d3f5c547c11a76e3",
+  "e66bb39997ccc3fd",
+  "e64dc2579b276f32",
+  "c540641060ef6c72",
+  "afa747deeaec9064",
+  "48b5505906281257",
+  "e30db4af9f74aa4f",
+  "b9e8d30af51c0251",
+  "881e9f6c1799a2bb",
+  "278c4de6e702d164",
+  "4e0ff9deaca65f1b",
+  "bc92ddf318734ccc",
+  "980662aa2cafd769",
+  "b7e30195d54ba67e",
+  "39e919b9b348c5b9",
+  "82489532fefd5ed6",
+  "c4773440cfced931"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 7
+   "n": 9
   }
  },
- "dernier_appel_direct": 1793388715.2413065,
- "dernier_passage_actus": 1793388715.48583,
+ "dernier_appel_direct": 1793391323.592569,
+ "dernier_passage_actus": 1793391323.749776,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Gonçalo Ramos s'explique sur son départ du PSG (RMC Sport)",
-   "t": 1793194485
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour Lens avec l'opération d'Odsonne Édouard (L'Équipe)",
-   "t": 1793194490
-  },
   {
    "genre": "actu",
    "resume": "La direction de l'arbitrage valide le but polémique du Mans contre Auxerre (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Luis de la Fuente sacré entraîneur de la saison 2026 devant Luis Enrique (L'Équipe)",
    "t": 1793388885
+  },
+  {
+   "genre": "actu",
+   "resume": "AC Milan : Endrick et Gonçalo Inácio visés cet hiver (Tribuna.com)",
+   "t": 1793391467
+  },
+  {
+   "genre": "actu",
+   "resume": "Les révélations cash de Jorge Mendes sur João Félix et Bernardo Silva (Record)",
+   "t": 1793391472
   }
  ],
  "matchs": {
@@ -1127,16 +1127,6 @@
    "affiche": "Frosinone - Lecce",
    "competition": "Serie A",
    "coup_envoi": 1793295000
-  },
-  "1550171": {
-   "affiche": "Genoa - Juventus",
-   "competition": "Serie A",
-   "coup_envoi": 1793216700
-  },
-  "1550172": {
-   "affiche": "Monza - Napoli",
-   "competition": "Serie A",
-   "coup_envoi": 1793216700
   },
   "1552801": {
    "affiche": "Le Havre - Paris Saint Germain",
@@ -1170,5 +1160,5 @@
   }
  },
  "programme_jour": "2026-10-30",
- "programme_maj": 1793367897.4316704
+ "programme_maj": 1793391323.5921156
 }
