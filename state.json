@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "393328ff6bc443eb",
-  "2001bb2e81f1a8fb",
-  "a7f1257d25f4149c",
-  "4f55a823a7ee9725",
-  "e6b2aac9eb94d2a0",
-  "12b8cec4eaebf366",
-  "adcf49b79b81a46e",
-  "41974dbba2bd6dde",
-  "5e59105cebfd4cd4",
-  "90eb13e6125e2eda",
-  "71bf4c83d174ed21",
-  "ef6b0b69ed43c347",
-  "4d2132d72ca89f30",
-  "f3dcd73c9197d5f9",
-  "9e2d76d741ee2911",
-  "c6a488333895ea05",
-  "125aa767b2f342a5",
-  "bb26d0104b2d76ae",
-  "0cfcd497f06073e8",
-  "c812a03ce8ae4474",
-  "82708ab0b897ca20",
-  "bc92d1766f32c988",
-  "e39c9e55cd24ab7e",
-  "23f51056657f0078",
-  "d11ee09a44db1529",
-  "a0256145f8e724d4",
-  "daaa0b7b268d9a7f",
-  "e5e3e4c09d965870",
   "7ec6ff74807df6a7",
   "79c06654f747dbd6",
   "0c99288802210773",
@@ -800,20 +772,48 @@
   "496e927b9d6d6493",
   "89a8878c9ec73ad9",
   "c9b4633bf1c87d8a",
-  "f0eced34c7c850d1"
+  "f0eced34c7c850d1",
+  "32bf54014bb6be04",
+  "376f0326473ff6e3",
+  "8f1a9c23f2f55e0b",
+  "20864a7f97f10963",
+  "2ddcc72adc4e2b53",
+  "ba1d1534299f3ba3",
+  "41c0454d0aa6653b",
+  "1bb77a47c1ca4590",
+  "1a7dbfb8e7a80e90",
+  "2e7ecf7d366daac2",
+  "8744eddcdafb4c85",
+  "1b1840ba67930904",
+  "4b15bc269ceccf4a",
+  "e9e0a23804faee9c",
+  "9a744bcd1dc5c956",
+  "32abf34bc3db045d",
+  "6057db9b1f6327f9",
+  "3064ffccb3861a45",
+  "0c43f7fab668b275",
+  "67cf41b8cdad21ee",
+  "c80578b3908eef56",
+  "09d749638a2cf1e2",
+  "473e6c675f07e6cc",
+  "8814ce0f035245ae",
+  "241a1c9af82188aa",
+  "55ea0b7ae7c5a17e",
+  "45f6341af22b7dc0",
+  "d48029563c36da67"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 13
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 4
+   "n": 5
   }
  },
- "dernier_appel_direct": 1793380644.6295786,
- "dernier_passage_actus": 1793380644.8866596,
+ "dernier_appel_direct": 1793383163.9836214,
+ "dernier_passage_actus": 1793383164.2294471,
  "evenements_vus": {},
  "historique": [
   {
@@ -1100,14 +1100,14 @@
    "genre": "actu",
    "resume": "Hansi Flick salue la réaction de Lamine Yamal (RMC Sport)",
    "t": 1793374638
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea garde un œil sur Jules Koundé (Tribuna.com)",
+   "t": 1793383304
   }
  ],
  "matchs": {
-  "1550167": {
-   "affiche": "AC Milan - Bologna",
-   "competition": "Serie A",
-   "coup_envoi": 1793208600
-  },
   "1550169": {
    "affiche": "Fiorentina - Atalanta",
    "competition": "Serie A",
@@ -1127,16 +1127,6 @@
    "affiche": "Monza - Napoli",
    "competition": "Serie A",
    "coup_envoi": 1793216700
-  },
-  "1550173": {
-   "affiche": "Parma - Udinese",
-   "competition": "Serie A",
-   "coup_envoi": 1793208600
-  },
-  "1550176": {
-   "affiche": "Venezia - Inter",
-   "competition": "Serie A",
-   "coup_envoi": 1793208600
   },
   "1552801": {
    "affiche": "Le Havre - Paris Saint Germain",
