@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f1fbf90ee0f2fcd9",
-  "9e508148fe067fcb",
-  "8ba4347a1667d175",
-  "bc1d5f8d0f462a83",
-  "d8b7961fbb812ce5",
-  "61d0f0bca3ea7347",
-  "e703971335ec97a0",
-  "dd6c4744609e656b",
-  "1ebf48e33fdd303c",
-  "e35603a9a010a906",
-  "bf5e1ba80add56f0",
-  "ea0a48ae227d0ebb",
-  "fc8e73df0a1ce635",
-  "147d62b5877d4117",
-  "e52b46d8e52eeb7b",
-  "ca1b88d5052f8949",
-  "995b19f9a0cec5ba",
-  "8f86b85c428f05ea",
-  "712c99d20cdd4316",
-  "e7b417cb0318a54c",
-  "d2e354122a844fd9",
-  "b943a5c79b6b4f48",
-  "cf5b8515766a238c",
-  "d1a53e444503a1b3",
-  "999c545ab48bffeb",
-  "b36c1c70ecc29c4b",
-  "33f6d1f9dd8755bc",
-  "e05d5bbc109ee3f0",
   "4725a918b2dfe089",
   "eaa62298a667ecc7",
   "9f21846319cb7669",
@@ -800,32 +772,50 @@
   "93663b32b1b9a5da",
   "2eca4f6560b56bb6",
   "6f0b7fc006a1e390",
-  "cbafa01ab887db7e"
+  "cbafa01ab887db7e",
+  "dc3696a2dac47b9f",
+  "3ed272d7fc83ca06",
+  "98f6e4844c4513b4",
+  "f94410b70d377715",
+  "4a359bd985a6f0a4",
+  "20c44ac23cf8da6c",
+  "f891be0d745be0a9",
+  "c1ec2a17fe0615bd",
+  "419f3cd50b2ba237",
+  "82e419da1937c791",
+  "3b7a4a84870bf69e",
+  "911eb7733c277ace",
+  "35246f3d8e192789",
+  "16d708522e0064e6",
+  "f7245e295124add1",
+  "09db77728659bba2",
+  "b5a68345cf070f70",
+  "929903f08c7ed8e1",
+  "6075ec2641add137",
+  "a584b60bc3827aa4",
+  "2b9bc176438bb861",
+  "d8a2065e3371559c",
+  "6163d6b3839e3c69",
+  "572505f810517ea9",
+  "df34b6be3a671ddc",
+  "bc0744f781985b58",
+  "05d993bf928e26fd",
+  "465aa9d59d1a22e9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 22
+   "n": 24
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 10
+   "n": 11
   }
  },
- "dernier_appel_direct": 1793393960.0716293,
- "dernier_passage_actus": 1793393960.4663885,
+ "dernier_appel_direct": 1793396338.7863114,
+ "dernier_passage_actus": 1793396339.0010657,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Inquiétude à Arsenal après une hécatombe de blessés (Premier League)",
-   "t": 1793201216
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Bayern Munich annonce avoir les moyens financiers pour recruter (Foot Mercato)",
-   "t": 1793204735
-  },
   {
    "genre": "actu",
    "resume": "Des supporters chinois brûlent des maillots de Kylian Mbappé (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Unai Simon sacré meilleur gardien de la saison (L'Équipe)",
    "t": 1793394047
+  },
+  {
+   "genre": "actu",
+   "resume": "Luis Enrique devient l'entraîneur le plus victorieux du PSG (Foot Mercato)",
+   "t": 1793396458
+  },
+  {
+   "genre": "actu",
+   "resume": "Les votes les plus improbables du Ballon d'Or révélés (RMC Sport)",
+   "t": 1793396465
   }
  ],
  "matchs": {
