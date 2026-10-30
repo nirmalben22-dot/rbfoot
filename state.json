@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "3d81650b15e9d894",
-  "fc4c98a6c83050c7",
-  "c1b16496cde54715",
-  "980662aa2cafd769",
-  "3a2abe713afc3b18",
-  "a10727e240c62652",
-  "8f43b5fb6e97da57",
-  "cfba457ca5c83b9f",
-  "db257c2eee97db2a",
-  "bfabcb1fd6d59b79",
-  "e7493bb4d5b8a12d",
-  "0316ee0ee93bb623",
-  "4c8b4f70e1d6d0e6",
-  "1993f647a13ab4e6",
-  "0522da54465c220f",
-  "b7ca29349ba2d7bb",
-  "d094305b19ca01a7",
-  "48f9f467bfa9c79d",
-  "92f243b63d93fd89",
-  "5db093ab7c3b9b89",
-  "f4ac48788be30fac",
-  "aaa60071b28aae27",
-  "b8e24b8b854b7cbe",
-  "8554101ea8db8d54",
-  "c4fd6831c2b47f0a",
-  "2d4fbfb3fe79c43b",
-  "78e171a9f263a481",
-  "5b0224ca4213d5ff",
-  "90c59c7bbb527734",
   "f122ef307ac73ad2",
   "4ca53f7daee30dd4",
   "bba4937393ef9239",
@@ -800,32 +771,51 @@
   "abecfc53c413abc1",
   "7d4511da3cbc8470",
   "08cfb5d1c13cb6b0",
-  "31b2f4153e48e5c1"
+  "31b2f4153e48e5c1",
+  "53b48cb415f99508",
+  "9761ea732a95150c",
+  "92877b11446fa218",
+  "22078a36cd0f1e1f",
+  "3fbb3215cdd40d50",
+  "92ac178bc17de2de",
+  "7adfd7f863e0368b",
+  "6088f68b4dd89d8b",
+  "251a55b813ae46be",
+  "4480a39b05b76556",
+  "042b2c7df06e968d",
+  "a8d778f5d173074c",
+  "46235e4840fe0490",
+  "2eefaea7b339905f",
+  "1486ab3996394285",
+  "8f8a02460504738a",
+  "875fc6a72b848074",
+  "3d3be529b6f7b013",
+  "7fdb86c8e2e3dda4",
+  "7e3f7f2840ce46f0",
+  "d730134e26baa938",
+  "24d07f67bef2bed6",
+  "66c550fd605467de",
+  "863a589487839d31",
+  "956541ff1f2f6a83",
+  "2061365c6f25b8fc",
+  "13e97f58928f9da2",
+  "c3cb2cb2bb400e09",
+  "bfd4dbd186ddbc25"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 6
+   "n": 7
   }
  },
- "dernier_appel_direct": 1793385977.247248,
- "dernier_passage_actus": 1793385977.5725706,
+ "dernier_appel_direct": 1793388715.2413065,
+ "dernier_passage_actus": 1793388715.48583,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour le PSG : Khvicha Kvaratskhelia opéré avec succès (RMC Sport)",
-   "t": 1793114886
-  },
-  {
-   "genre": "actu",
-   "resume": "Polémique Kylian Mbappé en Chine suite à ses propos (RMC Sport)",
-   "t": 1793114890
-  },
   {
    "genre": "actu",
    "resume": "Gonçalo Ramos s'explique sur son départ du PSG (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'attaquant d'Everton Thierno Barry cambriolé après une vidéo YouTube (RMC Sport)",
    "t": 1793386128
+  },
+  {
+   "genre": "actu",
+   "resume": "Ballon d'Or 2026 : un écart historique entre Harry Kane et Kylian Mbappé (L'Équipe)",
+   "t": 1793388880
+  },
+  {
+   "genre": "actu",
+   "resume": "Luis de la Fuente sacré entraîneur de la saison 2026 devant Luis Enrique (L'Équipe)",
+   "t": 1793388885
   }
  ],
  "matchs": {
