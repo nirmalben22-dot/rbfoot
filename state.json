@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "602bd65afa54cff9",
-  "dd461c1bee8da114",
-  "1975de895694d084",
-  "b5da50bd4760239f",
-  "5be2e92248aecbe9",
-  "e4f4a39014e19c27",
-  "6e54a914887aff1e",
   "9ded93a04c1ac728",
   "4d505ca01c3e300b",
   "ec590007c5487fa9",
@@ -800,12 +793,19 @@
   "a3dcc077fb652fe0",
   "d0ed23f7a371e9a6",
   "2751fb484e4e58ec",
-  "ea9d7067aa98cb36"
+  "ea9d7067aa98cb36",
+  "27a2731274ab8fbe",
+  "c3e66bc2da03f7b7",
+  "5748c01fb768d62d",
+  "bda42ee28345db5a",
+  "35dccb5925afe724",
+  "3366dfa81d9db96a",
+  "4fb2e42fb9818c49"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 1
+   "n": 2
   },
   "appels_api_football": {
    "jour": "2026-10-30",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793327131.6518202,
+ "dernier_passage_actus": 1793330259.329084,
  "evenements_vus": {},
  "historique": [
   {
@@ -1040,6 +1040,11 @@
    "genre": "actu",
    "resume": "La CAF acte le retour de la CAN tous les deux ans (CAFOnline.com)",
    "t": 1793324324
+  },
+  {
+   "genre": "actu",
+   "resume": "Inquiétude pour Declan Rice avant le choc contre Liverpool (The False 9)",
+   "t": 1793330334
   }
  ],
  "matchs": {
