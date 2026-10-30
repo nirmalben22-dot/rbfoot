@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ce06cbea54b6f194",
-  "1ba047a07928604f",
-  "90b4f92a0da55322",
-  "d9f447e5cc5e63bd",
-  "471a2122fd5da72e",
-  "55f802da856413e5",
-  "4d2d7514cd5aa1cf",
-  "eb69206d84ab97e0",
-  "f28fcdd80559b237",
-  "f59ee7d61a4c973c",
-  "7e63c2eb9e5f8b90",
-  "088a63f3ac837223",
-  "1ccb03facb62157a",
-  "b34027ab9d1c2aa8",
-  "df76d06c73b5713a",
-  "48a6e25e20f53f46",
-  "0daeaa75845858d8",
-  "3761dab59e23ba96",
-  "b7da38e69e17e3d6",
-  "f9eb4c2cdb87ca5a",
-  "277c311b31873223",
-  "fa171803db81d374",
-  "b11cc2c411ea9f14",
-  "897341094cafcfb6",
-  "ef0ea7a95ab89b81",
-  "0c7a9a75e07ae8c3",
-  "fa0d0f62f6f24a94",
-  "753cde3f2687cb6e",
-  "121b617591a114c3",
-  "81702f7cf51b5838",
-  "8867d86cc69e4bd2",
-  "2cf6fb74b9a6913a",
-  "d6f14d0b0c561e85",
-  "a498e2450affebce",
   "b7cb0887b0a8a277",
   "e5796c0425c610ed",
   "3feaa526d9c24f3c",
@@ -800,20 +766,54 @@
   "2df4293f89787279",
   "afae40126476c194",
   "57e88a3ac2a73fcf",
-  "d11c90688b42a475"
+  "d11c90688b42a475",
+  "74bbae8d39f43728",
+  "73b8be701699f291",
+  "f6549bedc08a0841",
+  "240861a64b3f01d2",
+  "4373924287f5d7d2",
+  "bccdaedf56fe910b",
+  "b43a4d0b86542d32",
+  "e11fa09c4e9ef48c",
+  "4ef001a6e3032c96",
+  "5538f77d9d64180c",
+  "7c2e57243e261851",
+  "af3e6009574a197f",
+  "52701c9510256e88",
+  "25c080e8eb20aeb9",
+  "cb0c9c608bcf18d1",
+  "ebef25b7d685fb0f",
+  "5c7410fef3997723",
+  "4855a1e91fb526a4",
+  "44452269a07a0c26",
+  "de8d5396ea315284",
+  "539989ff4ed45a23",
+  "7666329fee9693d3",
+  "5ac3d84487709a8e",
+  "9a05373c0f32dac6",
+  "552700d4a7122e2d",
+  "0906d1ab4f0f27eb",
+  "78a9f236a892b9e3",
+  "8cc298d8b95deee2",
+  "8ab5dc4a3af02d3e",
+  "269980243f5a3472",
+  "e95b7ace1ac4e1ce",
+  "e09c9d8068eeab63",
+  "56cd0fc4fa7dadf7",
+  "301b629e5ef9b8f0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 7
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793364195.994691,
+ "dernier_passage_actus": 1793367897.4762852,
  "evenements_vus": {},
  "historique": [
   {
@@ -1070,6 +1070,16 @@
    "genre": "actu",
    "resume": "La MLS officialise un changement historique de calendrier (Foot Mercato)",
    "t": 1793364337
+  },
+  {
+   "genre": "actu",
+   "resume": "Maxence Lacroix forfait pour le prochain rassemblement des Bleus (RMC Sport)",
+   "t": 1793367951
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour l'AC Milan avec la blessure de Fikayo Tomori (Sky Sport)",
+   "t": 1793367955
   }
  ],
  "matchs": {
@@ -1140,5 +1150,5 @@
   }
  },
  "programme_jour": "2026-10-30",
- "programme_maj": 1793345847.549965
+ "programme_maj": 1793367897.4316704
 }
