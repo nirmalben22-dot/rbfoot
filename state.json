@@ -1,28 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c9d745b82b8925cb",
-  "7cd2a72385bbf34f",
-  "9aba7dc9f7cfad69",
-  "df2c2eb75d9ae832",
-  "68d633034a59ed55",
-  "52eb10e400c3150d",
-  "04489441c1b8b596",
-  "93d245a1ee4c0673",
-  "d3606c0d298365c0",
-  "dcb901eb000815e2",
-  "3f13b41ddc4da56e",
-  "7291314ee39304cd",
-  "f8ac51c68596c6b1",
-  "852b9f45b09e222b",
-  "b7a20f199c583828",
-  "d3c2497c713d4f86",
-  "d28269d3a5b5dbc7",
-  "58f1d1b49680b94b",
-  "6d74f1d43390eb87",
-  "ea6031e2fbd2be14",
-  "bc79fd2f79fee15a",
-  "930b21035932402c",
   "f1fbf90ee0f2fcd9",
   "9e508148fe067fcb",
   "8ba4347a1667d175",
@@ -800,32 +778,44 @@
   "b7e30195d54ba67e",
   "39e919b9b348c5b9",
   "82489532fefd5ed6",
-  "c4773440cfced931"
+  "c4773440cfced931",
+  "5e717927861fb124",
+  "07ea16267ff8982b",
+  "8aa5fb04abba2562",
+  "5fda93125ee9cd16",
+  "ce31aebf9e7de35c",
+  "b976b0f48b4b69bf",
+  "d979c7e982d4127b",
+  "205985e89e4ce1f2",
+  "f759f86b30ff59c6",
+  "360657ba6d0cae9d",
+  "a71358f6ec54cf82",
+  "19e2b4688fe1fd50",
+  "9d9f434293698d03",
+  "2a739868eb755719",
+  "5ea54ff398e878e3",
+  "8264917cbd99e432",
+  "d840302b53b97895",
+  "a76781d9aaf8b55d",
+  "93663b32b1b9a5da",
+  "2eca4f6560b56bb6",
+  "6f0b7fc006a1e390",
+  "cbafa01ab887db7e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 20
+   "n": 22
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 9
+   "n": 10
   }
  },
- "dernier_appel_direct": 1793391323.592569,
- "dernier_passage_actus": 1793391323.749776,
+ "dernier_appel_direct": 1793393960.0716293,
+ "dernier_passage_actus": 1793393960.4663885,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La direction de l'arbitrage valide le but polémique du Mans contre Auxerre (Foot Mercato)",
-   "t": 1793197831
-  },
-  {
-   "genre": "actu",
-   "resume": "Le PSG vise Ibrahim Maza pour cet hiver (Foot Mercato)",
-   "t": 1793201212
-  },
   {
    "genre": "actu",
    "resume": "Inquiétude à Arsenal après une hécatombe de blessés (Premier League)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Les révélations cash de Jorge Mendes sur João Félix et Bernardo Silva (Record)",
    "t": 1793391472
+  },
+  {
+   "genre": "actu",
+   "resume": "Hansi Flick ouvre la porte à une recrue hivernale au Barça (Foot Mercato)",
+   "t": 1793394042
+  },
+  {
+   "genre": "actu",
+   "resume": "Unai Simon sacré meilleur gardien de la saison (L'Équipe)",
+   "t": 1793394047
   }
  ],
  "matchs": {
