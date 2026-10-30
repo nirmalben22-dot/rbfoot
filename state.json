@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d5834118f117bd51",
-  "afd54515760f6406",
-  "4f4396ff60c42a70",
-  "2997de52cb37a5d2",
-  "c27f1f8a8010fb5f",
-  "00b352500bc9c6ea",
-  "a095ce67877164b2",
-  "ebecbec53870a06a",
-  "357c300f5c8b11ba",
-  "32148668c0350d2a",
-  "b84bcb1a193601e6",
-  "a25357a184e29b30",
-  "14db73c42e82935a",
-  "ea71c5b0eea0a753",
-  "e95b7ace1ac4e1ce",
-  "780dccf719c4fcf2",
-  "0e549b7c751f693c",
-  "793efca66f490698",
-  "e181fc9b8118c3c2",
-  "70b122ed54a699e7",
-  "3230024b2ebb91b5",
-  "7f26a1c5225300df",
-  "4b8b49e270a13c5d",
-  "b1f66993b4e8743f",
-  "03a4dde4a9299b44",
-  "c15bb9a7fde6d580",
-  "92657823ce16f510",
-  "6fc64fc047efadfd",
-  "984e2781425c9599",
-  "176dd8d361c0693f",
-  "f120c573c665bea8",
-  "cc496744a4d39535",
-  "6331f8601d97830b",
-  "d2f6ffac78af8f13",
   "d1e7162367944007",
   "1368f729c1b10b12",
   "81f464dd255b1328",
@@ -800,12 +766,46 @@
   "20f447d873991264",
   "18733c1b4251bc4f",
   "84e3ba500638c7d4",
-  "dcdc385d2db3d88f"
+  "dcdc385d2db3d88f",
+  "a8ea6f40e67106e0",
+  "840efff31dfe4589",
+  "52d30925bcfba0c9",
+  "71ab2757fc3b7a15",
+  "9d3ed76597bf4c4d",
+  "77ca3be085f49871",
+  "7c9c258d8e76e4d9",
+  "c5b53baf36177e28",
+  "8d5eeae1ae1ee7cd",
+  "21d6eee6f8842b0a",
+  "84a8f062d3a9bf4b",
+  "cd4f23c9401b4731",
+  "b40edd902e21bca6",
+  "6ea514f38f40d856",
+  "9a48640b9350f32a",
+  "665a2576e7f51cab",
+  "c9d8e0baf04f9059",
+  "10d365ca79d1e2c7",
+  "c7465d27b0c4cd05",
+  "b60b6ef8dfdecec8",
+  "8083fa402362fe8a",
+  "2b46f682d65ee5a9",
+  "33f8a5b146fdf6db",
+  "54720ca3bf29e288",
+  "3cebc58238c154cd",
+  "d8e8fa169614811d",
+  "2a50563b0f040d44",
+  "31ede9063ed0b6de",
+  "5726d8e45a322d52",
+  "8ed7f45aacfcf4c4",
+  "19af4e248dd6ed4a",
+  "2f0e8450ae511453",
+  "b1acc3b2168bbfe2",
+  "74fba84917a32f19"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 3
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-10-30",
@@ -813,7 +813,7 @@
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793358549.2540596,
+ "dernier_passage_actus": 1793361242.3997068,
  "evenements_vus": {},
  "historique": [
   {
@@ -1050,6 +1050,16 @@
    "genre": "actu",
    "resume": "Un nouveau concurrent sérieux pour l'organisation de la finale du Mondial 2030 (Foot Mercato)",
    "t": 1793358600
+  },
+  {
+   "genre": "actu",
+   "resume": "Les arbitres de Liga vont désormais expliquer leurs décisions après match (L'Équipe)",
+   "t": 1793361331
+  },
+  {
+   "genre": "actu",
+   "resume": "Le patron de l'AC Milan promet du lourd au mercato (Foot Mercato)",
+   "t": 1793361336
   }
  ],
  "matchs": {
