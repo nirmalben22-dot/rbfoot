@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7ec6ff74807df6a7",
-  "79c06654f747dbd6",
-  "0c99288802210773",
-  "c769aa49dbc9d824",
-  "91d06cfe0514bc9a",
-  "bce7255b19d3feea",
-  "515010ebb33fdaee",
-  "52bcdb6ece174a8b",
-  "d90ac2255e8d3ad6",
-  "0a9d99cedf43ceb1",
-  "4980349589a41429",
-  "679e2943670225a9",
-  "563de28d88907668",
-  "aad1e4584d75e55d",
-  "54a2f8b66e7a9cda",
-  "dbf1ded20456c85c",
-  "64ce4e601714edd6",
-  "36c0307424d631f4",
-  "c4b2d3ca1836337e",
-  "3908f172413ea2bd",
-  "07e34068e38c47dd",
-  "0a54fcd6dfab3a4a",
-  "920f27929271264d",
-  "6c71b15291706ec1",
-  "026498c9175b188a",
-  "9140b135ce35fee4",
-  "97bbd9626ad66e58",
-  "4055748bcb78321d",
-  "75da10c460ce551d",
   "3d81650b15e9d894",
   "fc4c98a6c83050c7",
   "c1b16496cde54715",
@@ -800,20 +771,49 @@
   "241a1c9af82188aa",
   "55ea0b7ae7c5a17e",
   "45f6341af22b7dc0",
-  "d48029563c36da67"
+  "d48029563c36da67",
+  "4156e1a260a0aaa8",
+  "24e34f8407ab19fd",
+  "b6e1fa448d2697c6",
+  "6fd9d1e1ceef718e",
+  "1a2ea6d831ac1ae9",
+  "1703282f84c17bfe",
+  "207698590c1cf0e6",
+  "994312dfb2110681",
+  "e888331d6f2e3f66",
+  "600191aa4c0eda61",
+  "6938b22af883800e",
+  "6cc2489bdddb425d",
+  "3b00223408d217eb",
+  "9caf36734fd28f1f",
+  "56823b8d912f4cb1",
+  "c23101aa5045e4b7",
+  "3380474207d635fe",
+  "61e083617d518e25",
+  "28f46d876fa1f86a",
+  "f9e528940cb44c2d",
+  "0becf11333a796b7",
+  "b69362b02871986a",
+  "d1d6c24e6cf07773",
+  "d11ee09a44db1529",
+  "a0256145f8e724d4",
+  "abecfc53c413abc1",
+  "7d4511da3cbc8470",
+  "08cfb5d1c13cb6b0",
+  "31b2f4153e48e5c1"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-30",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-10-30",
-   "n": 5
+   "n": 6
   }
  },
- "dernier_appel_direct": 1793383163.9836214,
- "dernier_passage_actus": 1793383164.2294471,
+ "dernier_appel_direct": 1793385977.247248,
+ "dernier_passage_actus": 1793385977.5725706,
  "evenements_vus": {},
  "historique": [
   {
@@ -1105,6 +1105,16 @@
    "genre": "actu",
    "resume": "Chelsea garde un œil sur Jules Koundé (Tribuna.com)",
    "t": 1793383304
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Paris FC officiellement racheté par la famille Arnault et Red Bull (RMC Sport)",
+   "t": 1793386122
+  },
+  {
+   "genre": "actu",
+   "resume": "L'attaquant d'Everton Thierno Barry cambriolé après une vidéo YouTube (RMC Sport)",
+   "t": 1793386128
   }
  ],
  "matchs": {
