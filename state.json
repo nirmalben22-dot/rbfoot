@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "10b9625760b75f3f",
-  "13991ce85e458407",
-  "e920bdd68e38c355",
-  "8f260f4534e91d3c",
-  "384a1318fe78f462",
-  "23a00ae82162c555",
-  "dfb3df5cff249732",
-  "3a382222955cbd5f",
-  "5cabb31008d472c4",
-  "94b69be36f54141b",
-  "cce39fcf05b39ea2",
-  "18e559c6c833b0fa",
-  "0d1ac2af512ba1be",
-  "d8100df90e41f068",
-  "a4ad1e72c73b4b83",
   "a08d85c835e18045",
   "e31744be4641dbf9",
   "e1b5d97164bd4154",
@@ -800,7 +785,22 @@
   "8894519fcdd72cd0",
   "a0037a4f0fede903",
   "d783175523610da0",
-  "40dac2da5cb2ec20"
+  "40dac2da5cb2ec20",
+  "eb9f929ebad25b74",
+  "bd9a107c980b506d",
+  "a114995c542d2aee",
+  "28dddff21ee730f0",
+  "40381738fd67bc83",
+  "28bd5c4167d0e19c",
+  "17812bdd6876a01d",
+  "a0e24832a401bb15",
+  "7aaaf78471056c30",
+  "3a209ee39d43858d",
+  "ecd4e8c202f52f0f",
+  "30f2003b10449a2d",
+  "697aef73cb8e3bd0",
+  "b14d607986c9abe2",
+  "3b54c6d89364708e"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -808,12 +808,12 @@
    "n": 17
   },
   "appels_api_football": {
-   "jour": "2026-10-29",
-   "n": 11
+   "jour": "2026-10-30",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793312657.6017864,
- "dernier_passage_actus": 1793317798.2628057,
+ "dernier_passage_actus": 1793320100.5757987,
  "evenements_vus": {},
  "historique": [
   {
@@ -1072,8 +1072,38 @@
    "affiche": "Venezia - Inter",
    "competition": "Serie A",
    "coup_envoi": 1793208600
+  },
+  "1552801": {
+   "affiche": "Le Havre - Paris Saint Germain",
+   "competition": "Ligue 1",
+   "coup_envoi": 1793383200
+  },
+  "1552802": {
+   "affiche": "Lille - Lens",
+   "competition": "Ligue 1",
+   "coup_envoi": 1793390700
+  },
+  "1552806": {
+   "affiche": "Nice - Rennes",
+   "competition": "Ligue 1",
+   "coup_envoi": 1793383200
+  },
+  "1570442": {
+   "affiche": "Villarreal - Espanyol",
+   "competition": "Liga",
+   "coup_envoi": 1793390400
+  },
+  "1575531": {
+   "affiche": "Casa Pia - Sporting CP",
+   "competition": "Liga Portugal",
+   "coup_envoi": 1793391300
+  },
+  "1584455": {
+   "affiche": "Konyaspor - Galatasaray",
+   "competition": "Süper Lig",
+   "coup_envoi": 1793379600
   }
  },
- "programme_jour": "2026-10-29",
- "programme_maj": 1793304755.7662961
+ "programme_jour": "2026-10-30",
+ "programme_maj": 1793320100.568883
 }
