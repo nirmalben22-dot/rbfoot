@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "cd4f23c9401b4731",
-  "b40edd902e21bca6",
-  "6ea514f38f40d856",
-  "9a48640b9350f32a",
-  "665a2576e7f51cab",
-  "c9d8e0baf04f9059",
-  "10d365ca79d1e2c7",
-  "c7465d27b0c4cd05",
-  "b60b6ef8dfdecec8",
-  "8083fa402362fe8a",
-  "2b46f682d65ee5a9",
-  "33f8a5b146fdf6db",
-  "54720ca3bf29e288",
-  "3cebc58238c154cd",
-  "d8e8fa169614811d",
-  "2a50563b0f040d44",
-  "31ede9063ed0b6de",
-  "5726d8e45a322d52",
-  "8ed7f45aacfcf4c4",
-  "19af4e248dd6ed4a",
-  "2f0e8450ae511453",
-  "b1acc3b2168bbfe2",
-  "74fba84917a32f19",
-  "c3af16cbcc6043c2",
-  "07bba5b6e11e3586",
-  "de15d17343aaa881",
   "f46a3cd70403a93e",
   "f92cc37f72bad510",
   "a3f97ef0d04d7f70",
@@ -800,27 +774,48 @@
   "8e9bf6d0f00153ce",
   "916a62e0f4d73456",
   "20177d17d17d01be",
-  "40e4746f58e0933e"
+  "40e4746f58e0933e",
+  "d2a63a1f915210ac",
+  "d43711f33ae15378",
+  "9f04a4417250b795",
+  "9585aee7f86eda61",
+  "858cca8f8efd6803",
+  "219d9fca15d7767e",
+  "ae58cd79256fe19c",
+  "5cdf124a223e5daf",
+  "90dc46d672d6f4bc",
+  "63e0efd6982d5dfe",
+  "a50af682ae4be30e",
+  "af6a40301908995e",
+  "a27feb503eac366c",
+  "8d9e6c82087eb2b6",
+  "d2917d6c85887f9d",
+  "ad36d6a8fb3d921b",
+  "21364b83c309b32c",
+  "aac4fd74d3e48dd3",
+  "7f6b2bb22fceec71",
+  "ecf8c56d0a69b8cc",
+  "df27192e1ca1ed0a",
+  "6b46ebedcf8ad437",
+  "3090b544c5cc5ac6",
+  "ae65130f1ff4c62d",
+  "79a6d4abb6a81474",
+  "8b63a61b6f22664c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 14
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 10
+   "n": 11
   }
  },
- "dernier_appel_direct": 1793458485.887618,
- "dernier_passage_actus": 1793458486.178905,
+ "dernier_appel_direct": 1793460606.1002042,
+ "dernier_passage_actus": 1793460608.1903687,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Sept ans de prison pour avoir menacé la famille d'Angel Di Maria (L'Équipe)",
-   "t": 1793229746
-  },
   {
    "genre": "actu",
    "resume": "Harry Kane acclamé par le public munichois pour son Ballon d'Or (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Alan Shearer tacle Bruno Fernandes après des tensions à Manchester United (Foot Mercato)",
    "t": 1793456187
+  },
+  {
+   "genre": "actu",
+   "resume": "La Chine suspend la diffusion de la Liga à cause de Kylian Mbappé (Foot Mercato)",
+   "t": 1793460671
   }
  ],
  "matchs": {
