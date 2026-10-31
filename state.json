@@ -1,15 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b9e24eafee00a8d6",
-  "329c6fd7b309f547",
-  "0dafbf3322f43e62",
-  "4dd7a4f1200f29c4",
-  "bb4c4ef63b2275c0",
-  "5ec5102f85156c33",
-  "f2cca7c94fe09bad",
-  "413f0c65738d938b",
-  "96be46d16b1079b2",
   "5d3a1cc1320dd4f6",
   "98dc8721512e5178",
   "5fe5bca906c2b5b0",
@@ -800,12 +791,21 @@
   "06d0f7cb5abac5e1",
   "a71eee03eb3e0dc8",
   "06eeb2b957f72c35",
-  "8b8f9d0f426610d7"
+  "8b8f9d0f426610d7",
+  "b7a0f41d8a8469a5",
+  "4107517fb9deb812",
+  "fa6fad297b206fec",
+  "3b37441a279e8165",
+  "66b73962af03068e",
+  "2e46d88a1c7c0892",
+  "a7e700ee3960a8a1",
+  "80c1d27eab6f8363",
+  "56b94a5e210d5fc7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-10-31",
@@ -813,14 +813,9 @@
   }
  },
  "dernier_appel_direct": 1793401034.1589665,
- "dernier_passage_actus": 1793405594.1305559,
+ "dernier_passage_actus": 1793409800.7084892,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Grosse inquiétude pour Vincent Kompany après son hospitalisation (RMC Sport)",
-   "t": 1793211018
-  },
   {
    "genre": "actu",
    "resume": "Cristiano Ronaldo 2008 sacré plus grand Ballon d'Or de l'histoire (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Olivier Giroud offre la victoire à Lille dans le derby (L'Équipe)",
    "t": 1793405785
+  },
+  {
+   "genre": "actu",
+   "resume": "Enquête autour de paris suspects sur le Ballon d'Or (Foot Sur 7)",
+   "t": 1793409951
   }
  ],
  "matchs": {
