@@ -1,52 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b684b5d8f3622f5e",
-  "ee87075f23ee8bf2",
-  "b484358ffffb21f8",
-  "c0cc1e5b0c10cdfc",
-  "0a532ad1ef385000",
-  "46f041d6061718f7",
-  "6dd601f0fc6d7b9e",
-  "b6d8c2e8d430e4c5",
-  "ebba59d82013ed01",
-  "4cd084e4fe487843",
-  "73addc97cba20e3f",
-  "e74cd59974bdec2b",
-  "b15ac22ab2b2c51e",
-  "19a18f6dfe32e4f1",
-  "063c23eeab71b089",
-  "2ea4b370e35806d7",
-  "7d54449ee2f40ff0",
-  "3a9aa2936d2e65b1",
-  "05d03428e9265f3d",
-  "5320f9fb9b264c6b",
-  "ebcea48a8e0ca955",
-  "ecd46bb5fe337a91",
-  "c21c120a6e120672",
-  "34aabb2aca168b89",
-  "abde93921a578c3b",
-  "7858ca5862d9d68b",
-  "d57c2c3ceb842154",
-  "c776dd552a59b52d",
-  "8e159869601c4d9d",
-  "696fe71ea929b624",
-  "161fdfafe519f295",
-  "b39cd5d9f7bc74c7",
-  "a6ba3b82444aee9a",
-  "cd07a635aebb3c0b",
-  "de080d9ea4e96297",
-  "7ef489d8f16849cd",
-  "81c281a0f4b0e77e",
-  "8fd1750bfd195616",
-  "2adcb6edd139766a",
-  "9079e7d5030fb141",
-  "e80c91075b93786a",
-  "44a47ba0f9f9b821",
-  "b56146296dff15be",
-  "cf767348972b2c6e",
-  "48701a879e4f8876",
-  "a6a6912786d5c653",
   "1252cb11db540160",
   "16095343a1cd6d6d",
   "5cf4d41e2eb5380a",
@@ -800,32 +754,68 @@
   "bb9e1d044ab33a50",
   "bd5ae2f26009529e",
   "ab860b48bb6f266e",
-  "8b155a1abc14533c"
+  "8b155a1abc14533c",
+  "4e781adf7f67e434",
+  "b60fb2530a0a1206",
+  "5342503784ef05e3",
+  "8237e0626d3560ad",
+  "5ff5206fb27dd99c",
+  "ac2c5ab5ebcb3aa0",
+  "af23ba917b7fffa5",
+  "d471bb1a86912d9c",
+  "f5572f00f75b0319",
+  "c8635accd529fd81",
+  "51ad1ae3e9dc3e9c",
+  "b83dae4595695dee",
+  "4e578f0e52a10115",
+  "5bcdf2067c19d980",
+  "08184ed15929dca7",
+  "57fb0e64df6c834d",
+  "981ba51e4ed00c33",
+  "a50e757954f6fbac",
+  "b7a84027f7000b71",
+  "b5d458508fb3a656",
+  "29bdf965ae7ccf20",
+  "5d45fc34eba201fd",
+  "8fced8b164b1a76e",
+  "65586b1f884e39bf",
+  "7c5c1eabe0cecf23",
+  "395a42404c4483d1",
+  "0f5a2438f6a219d5",
+  "ea4cdbc611c5665c",
+  "136feb7d199a1d25",
+  "919e8e892e1c85ca",
+  "5c41ff62eb3d9556",
+  "cfe2f0d183756657",
+  "a4b2495e4940d416",
+  "43176c474a74ecef",
+  "13a784fac7f7c32e",
+  "9ad269ef6a3fb772",
+  "17ca130892da74ff",
+  "e0e7a16e2ebbf7f2",
+  "ea10e5a5811a39e0",
+  "0d277128ff69ffb6",
+  "bb5914429590a8a5",
+  "a3f948a908dca751",
+  "1aeefa8eb801f4e9",
+  "c9db3f9f958c9a47",
+  "5ac55371805ef738",
+  "1cb21cfb0de833cf"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 14
+   "n": 15
   }
  },
- "dernier_appel_direct": 1793467208.2186253,
- "dernier_passage_actus": 1793467208.470368,
+ "dernier_appel_direct": 1793469348.1733572,
+ "dernier_passage_actus": 1793469348.4053535,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Un ancien joueur de Ligue 1 en détention provisoire (Foot Mercato)",
-   "t": 1793275386
-  },
-  {
-   "genre": "actu",
-   "resume": "Le PSG privé de trois cadres face au Havre (L'Équipe)",
-   "t": 1793275392
-  },
   {
    "genre": "actu",
    "resume": "Soutien total pour Kylian Mbappé après sa polémique en Chine (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Aston Villa attaque Jamie Carragher en justice (The New York Times)",
    "t": 1793467289
+  },
+  {
+   "genre": "actu",
+   "resume": "Bruno Fernandes en larmes après une nouvelle défaite de Manchester United (RMC Sport)",
+   "t": 1793469398
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane présente son Ballon d'Or au public de l'Allianz Arena (Foot Mercato)",
+   "t": 1793469403
   }
  ],
  "matchs": {
@@ -1122,11 +1122,6 @@
    "affiche": "Fiorentina - Atalanta",
    "competition": "Serie A",
    "coup_envoi": 1793303100
-  },
-  "1550170": {
-   "affiche": "Frosinone - Lecce",
-   "competition": "Serie A",
-   "coup_envoi": 1793295000
   },
   "1550177": {
    "affiche": "AC Milan - Inter",
