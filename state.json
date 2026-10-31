@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "32bf54014bb6be04",
-  "376f0326473ff6e3",
-  "8f1a9c23f2f55e0b",
-  "20864a7f97f10963",
-  "2ddcc72adc4e2b53",
-  "ba1d1534299f3ba3",
-  "41c0454d0aa6653b",
-  "1bb77a47c1ca4590",
-  "1a7dbfb8e7a80e90",
-  "2e7ecf7d366daac2",
-  "8744eddcdafb4c85",
-  "1b1840ba67930904",
-  "4b15bc269ceccf4a",
-  "e9e0a23804faee9c",
-  "9a744bcd1dc5c956",
-  "32abf34bc3db045d",
-  "6057db9b1f6327f9",
-  "3064ffccb3861a45",
-  "0c43f7fab668b275",
-  "67cf41b8cdad21ee",
-  "c80578b3908eef56",
-  "09d749638a2cf1e2",
-  "473e6c675f07e6cc",
-  "8814ce0f035245ae",
-  "241a1c9af82188aa",
-  "55ea0b7ae7c5a17e",
-  "45f6341af22b7dc0",
-  "d48029563c36da67",
-  "4156e1a260a0aaa8",
-  "24e34f8407ab19fd",
-  "b6e1fa448d2697c6",
-  "6fd9d1e1ceef718e",
   "1a2ea6d831ac1ae9",
   "1703282f84c17bfe",
   "207698590c1cf0e6",
@@ -800,32 +768,54 @@
   "831bd0484217d4b0",
   "b1c1a193b90ce4ef",
   "c91b63d4387b822b",
-  "ff8d72535df4d906"
+  "ff8d72535df4d906",
+  "4ba54bb7a18190a4",
+  "2c6348ca3c55b92f",
+  "2cee902c6dbea678",
+  "ae7062060706de81",
+  "59dcf477dcf7b449",
+  "d42ce4d2e236dc50",
+  "6aa19a5c74181b64",
+  "68d96a5ccee83c4e",
+  "a611c1b1e0f23f64",
+  "a14e2bd7397ca506",
+  "6e6439351ca01668",
+  "360aadee039174f9",
+  "86e8e2b0e74dedce",
+  "977d6127655d7898",
+  "27d0e45a3d6c1d7a",
+  "3e8fc17ba3378be6",
+  "152c959e1593b6b0",
+  "13515859af7727fa",
+  "adc7201f5136f5ca",
+  "48b89d6a0572f797",
+  "7ae137747e47b554",
+  "6789ed541d307dd3",
+  "ec24acf61fe8b311",
+  "d5f7053585d82d1d",
+  "fc7941ed72bc3807",
+  "748f312d8d9976c8",
+  "a22348203f7c8376",
+  "3ea8f539f3842bae",
+  "1e296fca028406f5",
+  "59d3b6eb5d718ec5",
+  "7cabd2200b8d9e20",
+  "0af4a4879b9520e0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 22
+   "n": 24
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 17
+   "n": 19
   }
  },
- "dernier_appel_direct": 1793474580.064881,
- "dernier_passage_actus": 1793474580.3181124,
+ "dernier_appel_direct": 1793476755.5845363,
+ "dernier_passage_actus": 1793476755.776823,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Luis Enrique regrette le classement de Vitinha au Ballon d'Or (Get French Football News)",
-   "t": 1793282451
-  },
-  {
-   "genre": "actu",
-   "resume": "Liverpool cible le milieu de terrain Lamine Camara (L'observateur)",
-   "t": 1793289180
-  },
   {
    "genre": "actu",
    "resume": "Saison terminée pour Khvicha Kvaratskhelia victime d une grave blessure (RMC Sport)",
@@ -1115,14 +1105,19 @@
    "genre": "actu",
    "resume": "Xabi Alonso réclame plus de temps de jeu pour Estevao (L'Équipe)",
    "t": 1793474735
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour Michael Olise et les Bleus (L'Équipe)",
+   "t": 1793476915
+  },
+  {
+   "genre": "actu",
+   "resume": "Carrick et Le Bris sous pression en Premier League (RMC Sport)",
+   "t": 1793476921
   }
  ],
  "matchs": {
-  "1550169": {
-   "affiche": "Fiorentina - Atalanta",
-   "competition": "Serie A",
-   "coup_envoi": 1793303100
-  },
   "1550177": {
    "affiche": "AC Milan - Inter",
    "competition": "Serie A",
@@ -1285,5 +1280,5 @@
   }
  },
  "programme_jour": "2026-10-31",
- "programme_maj": 1793453506.9742644
+ "programme_maj": 1793476755.5841758
 }
