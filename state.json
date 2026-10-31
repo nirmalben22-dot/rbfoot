@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f46a3cd70403a93e",
-  "f92cc37f72bad510",
-  "a3f97ef0d04d7f70",
-  "fc1e643a8933d394",
-  "b1c30f27174a33f4",
-  "e98669dfbcb8d064",
-  "657100b9a43fd56e",
-  "ac2e373e3d01ba7b",
-  "377c7dc92e18db8b",
-  "915231bdd45046e3",
-  "fed5e38bb3a40c09",
-  "a6cd8215dab706a3",
-  "23b1f4ef4be0391e",
-  "a88b4a4cffb543d9",
-  "4015b09661004685",
-  "fa7376e926c21215",
-  "fa8f6b811b77bb3d",
-  "8f71e624804aae74",
-  "457f5dd9362a43b0",
-  "c63fbd76b0cd5417",
-  "0b40383e6308112c",
-  "92895a0bf043f775",
-  "0d302b4a2c359207",
-  "07dadac8b8fce902",
-  "da9d397674c259d5",
-  "8d40b688e8a37ce8",
-  "37831939d5dd3d08",
-  "8a8a5379b86ea939",
-  "347b4ead424e7762",
-  "d2054b9d1d2a8b37",
-  "9e7681f8eeb08bac",
   "d2e469b71cbd5e5e",
   "43380c984d43ad4e",
   "d60943dde776465d",
@@ -800,32 +769,53 @@
   "3090b544c5cc5ac6",
   "ae65130f1ff4c62d",
   "79a6d4abb6a81474",
-  "8b63a61b6f22664c"
+  "8b63a61b6f22664c",
+  "13d7590cc5d6e065",
+  "eda7b5a43c1ff5c7",
+  "9a8ba57a9a0383b5",
+  "ff3d78eb3253cbc4",
+  "c3c64739ea37261d",
+  "a544d5fbc52cc4a4",
+  "f9ec03e2865d77d8",
+  "9c3a73b59dd496b8",
+  "6a0579c76106f19a",
+  "d7c10c050975b2ff",
+  "f722b21216dbc6a8",
+  "8451aaf9bdfcc501",
+  "5a7d77e63069a671",
+  "08c78c69d024d0de",
+  "c741b869311671bb",
+  "760d1ff441b2bdd4",
+  "66dcac9a2de08c56",
+  "0e94bf28b660e016",
+  "1a9b29094b669625",
+  "869074cff91ccb7d",
+  "6a326112bb98a02b",
+  "a3866c31ee82f687",
+  "2a4b95c461e94966",
+  "a4ad1e72c73b4b83",
+  "b8663f3de23bb1a2",
+  "bbea47ec14ae1dbb",
+  "d9a214d52c1d45bd",
+  "195d94eabc13b654",
+  "e6a47547fcecef4b",
+  "e25e88ae7dde34cc",
+  "4a2d187f542e2460"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 11
+   "n": 12
   }
  },
- "dernier_appel_direct": 1793460606.1002042,
- "dernier_passage_actus": 1793460608.1903687,
+ "dernier_appel_direct": 1793462961.5569122,
+ "dernier_passage_actus": 1793462962.0167203,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Harry Kane acclamé par le public munichois pour son Ballon d'Or (L'Équipe)",
-   "t": 1793229751
-  },
-  {
-   "genre": "actu",
-   "resume": "Liverpool prend contact avec le milieu monégasque Camara (Sky Sports)",
-   "t": 1793231976
-  },
   {
    "genre": "actu",
    "resume": "Jérôme Rothen critique le départ de Pierre Sage vers Crystal Palace (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La Chine suspend la diffusion de la Liga à cause de Kylian Mbappé (Foot Mercato)",
    "t": 1793460671
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Havre se sépare de son entraîneur Didier Digard (Foot Mercato)",
+   "t": 1793463105
+  },
+  {
+   "genre": "actu",
+   "resume": "Diego Simeone égale un record historique de Luis Aragonés (Voetbal International)",
+   "t": 1793463110
   }
  ],
  "matchs": {
