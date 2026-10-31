@@ -1,28 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bb96c9c9d79d0362",
-  "3394ecbf16655a92",
-  "ab1fa8b88fffd7d9",
-  "bd93bab7298a0b28",
-  "652e49e993b34154",
-  "d820a0d805cb9147",
-  "b2400e90b05455c7",
-  "d5ecebc4b7727eae",
-  "d509fcb48ec00f87",
-  "b5700ab236f8f18b",
-  "55ac3270627c85de",
-  "0d13e36983c957a1",
-  "1b4aa55a101c4ee0",
-  "e848b3b4dd671c2d",
-  "657809088a8aca52",
-  "5f28f0e1809b339f",
-  "2e268091b70486ad",
-  "f5bb255d8122d761",
-  "61f80d5be4b0adad",
-  "7b04fcacfc08c8a2",
-  "99737d7125bfc0da",
-  "1e86a1824aa112b9",
   "a5b868206d1d6f10",
   "ce4f90ac82b28174",
   "577aef122e277d4e",
@@ -800,32 +778,44 @@
   "b4323e090764cfd2",
   "d0ed23f7a371e9a6",
   "97acd7318f5975bf",
-  "b54ce3de42be5d1d"
+  "b54ce3de42be5d1d",
+  "72c0c56eaa89acdf",
+  "710928c9e77a0f04",
+  "83f743263f64fafd",
+  "f423b98c692a8cf4",
+  "a1b29a3324a43a92",
+  "a8bae80ee97e6cdc",
+  "da1361e28ccae61c",
+  "806c86847893414c",
+  "1bd7d0510edf3f7b",
+  "9c71aeccf328d82e",
+  "6040ce9dab6ac065",
+  "a3ed2c94927b1708",
+  "1c409c99df61721d",
+  "b7d9026b7ab66ea8",
+  "93b92a51e05b5b89",
+  "55de9f42e277bcc8",
+  "9b7295d18f0173f8",
+  "d7687c5ab35ec93f",
+  "89bd8ba59aa07376",
+  "4f3dcfdab167af75",
+  "bc584bb0b20bb3fa",
+  "04df8b5179560436"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 9
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 5
+   "n": 6
   }
  },
- "dernier_appel_direct": 1793447679.127782,
- "dernier_passage_actus": 1793447679.3781443,
+ "dernier_appel_direct": 1793450433.6325476,
+ "dernier_passage_actus": 1793450433.7841952,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Vincent Kompany est sorti de l hopital apres une meningite (L'Équipe)",
-   "t": 1793222273
-  },
-  {
-   "genre": "actu",
-   "resume": "Inquiétude pour Maxence Lacroix avant la liste des Bleus (L'Équipe)",
-   "t": 1793224920
-  },
   {
    "genre": "actu",
    "resume": "Jadon Sancho refuse une offre en Espagne (BBC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La renaissance d'Andrea Belotti en Serie B (Foot Mercato)",
    "t": 1793447761
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG veut blinder son jeune latéral David Boly (L'Équipe)",
+   "t": 1793450549
+  },
+  {
+   "genre": "actu",
+   "resume": "Jon Martin calme les ardeurs du Real Madrid et du Barça (Sky Sports)",
+   "t": 1793450554
   }
  ],
  "matchs": {
