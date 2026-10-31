@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "92ac178bc17de2de",
-  "7adfd7f863e0368b",
-  "6088f68b4dd89d8b",
-  "251a55b813ae46be",
-  "4480a39b05b76556",
-  "042b2c7df06e968d",
-  "a8d778f5d173074c",
-  "46235e4840fe0490",
-  "2eefaea7b339905f",
-  "1486ab3996394285",
-  "8f8a02460504738a",
-  "875fc6a72b848074",
-  "3d3be529b6f7b013",
-  "7fdb86c8e2e3dda4",
-  "7e3f7f2840ce46f0",
-  "d730134e26baa938",
-  "24d07f67bef2bed6",
-  "66c550fd605467de",
-  "863a589487839d31",
-  "956541ff1f2f6a83",
-  "2061365c6f25b8fc",
-  "13e97f58928f9da2",
-  "c3cb2cb2bb400e09",
-  "bfd4dbd186ddbc25",
-  "eb504578eac43c1d",
-  "7a9ea792d9e48057",
-  "2435655cbfafa7d3",
-  "a50a584e82d5d37a",
-  "3db8e5f0a612f6a0",
-  "e67295a84a44efe4",
   "fae9fb4dc4ae9e80",
   "1c082bcb2b7b6a11",
   "86f00813e30ba2da",
@@ -800,27 +770,52 @@
   "d733a164ea2da296",
   "d462ae9d0baae53d",
   "02dbf8d1d8ebcf35",
-  "9871295fc24b57c4"
+  "9871295fc24b57c4",
+  "e5f3da1193fb631a",
+  "ecb170e100d0b94f",
+  "0aa867fdeeecf2fa",
+  "6eaa4f4613cc8583",
+  "ee4742512b62805f",
+  "9fe5eaf87dbe4b98",
+  "f8e516f210aa7861",
+  "8ec990d55e24f0b2",
+  "559862e418a7fc2e",
+  "ebd5c545ba2b0c7b",
+  "43a34bc5a379ca61",
+  "d0e31ba4794be667",
+  "3d29dc86839ae151",
+  "4df78b67c9b5e29f",
+  "d0caf7d5c38662db",
+  "9fcf17f0e6988d91",
+  "1f3a83d0b9c0e807",
+  "7a295806c34afcaf",
+  "d3bf7dcd4fe8922f",
+  "3f6a3e71d664e82e",
+  "e6b411fba6de528a",
+  "64006165a58246f2",
+  "eb3e932d57995d8f",
+  "30f62566b03a49b4",
+  "e8c9fd8d3369e108",
+  "8001466626ce20c7",
+  "7e28f05cd5741029",
+  "afdb21f584573ace",
+  "c8295fa500fc728d",
+  "588fd058389b10f4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 24
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 20
+   "n": 21
   }
  },
- "dernier_appel_direct": 1793479011.8066418,
- "dernier_passage_actus": 1793479012.0205925,
+ "dernier_appel_direct": 1793481285.3471112,
+ "dernier_passage_actus": 1793481285.6487985,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Saison terminée pour Khvicha Kvaratskhelia victime d une grave blessure (RMC Sport)",
-   "t": 1793292315
-  },
   {
    "genre": "actu",
    "resume": "Le Real Madrid prêt à racheter Jacobo Ramón à Côme (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Carrick et Le Bris sous pression en Premier League (RMC Sport)",
    "t": 1793476921
+  },
+  {
+   "genre": "actu",
+   "resume": "Tension à l'OM où les joueurs refusent une baisse de salaire (Foot Sur 7)",
+   "t": 1793481338
   }
  ],
  "matchs": {
