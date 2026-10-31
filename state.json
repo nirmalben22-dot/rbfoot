@@ -1,15 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "053b06521ca9a2dc",
-  "4ba0ec6d0176dd2f",
-  "0c7ca315a1eff198",
-  "ff07c99cc3ae73fb",
-  "631c8826eba376dd",
-  "a7675846b069b694",
-  "5e646f77191d76d7",
-  "267dd33d91b2e05e",
-  "d3d74dd02271619e",
   "c064340620434889",
   "cad146f27fe1960c",
   "a42d5f59d1d9380f",
@@ -800,12 +791,21 @@
   "1cca4da0a0bb499e",
   "da74b91d2d8fcf03",
   "4a87f064939cf0ed",
-  "5648f561f9b08175"
+  "5648f561f9b08175",
+  "6099dc06a2a04bc0",
+  "5082b7769aee85b5",
+  "7d5b8d779c2caa91",
+  "a961a8a3e9fed7fb",
+  "4055748bcb78321d",
+  "6a0a3279eb0325eb",
+  "09062b4a87617772",
+  "8b698c6960357ee9",
+  "214a8b218bf03d40"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-10-31",
@@ -813,14 +813,9 @@
   }
  },
  "dernier_appel_direct": 1793401034.1589665,
- "dernier_passage_actus": 1793418862.5697532,
+ "dernier_passage_actus": 1793421504.1706147,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le dossier Ibrahim Maza se refroidit pour le PSG cet hiver (RMC Sport)",
-   "t": 1793217152
-  },
   {
    "genre": "actu",
    "resume": "Coup dur pour Manchester United avec la blessure de Sesko (BBC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Cole Palmer de retour pour le choc entre Chelsea et Manchester United (The False 9)",
    "t": 1793419009
+  },
+  {
+   "genre": "actu",
+   "resume": "Aston Villa brille avec une méthode inattendue en Premier League (L'Équipe)",
+   "t": 1793421560
   }
  ],
  "matchs": {
