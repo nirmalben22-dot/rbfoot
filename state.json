@@ -1,69 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9dc1580dc3da154c",
-  "de92743fc3ef7fe7",
-  "48eba1051e2f2249",
-  "4d2e6753d112c159",
-  "28f2ac56d0c1df3a",
-  "a50df98fd3300383",
-  "c41e4cfbf33ebdbb",
-  "c1d173c8c633f202",
-  "aa1241188581f61d",
-  "426e173f37558056",
-  "a0d47c8aa2292e03",
-  "0171e684b835829c",
-  "0c1de3cbe4c52389",
-  "a97267bff15e464c",
-  "b84048d22f76a50e",
-  "3587ec3afcbb39a7",
-  "0e6eb29327ccfd10",
-  "d105b0ef61160348",
-  "398c6e3d825fe164",
-  "4874ebe296be0dad",
-  "f63469c34f5f5887",
-  "ce34b475536f3bf0",
-  "35982eb912f7aaa1",
-  "59de8c7b3d1214c4",
-  "b57e2fdec09c5d74",
-  "3abe0b78188f27d1",
-  "58a679d7e0ced537",
-  "2f767fe4daf1aa93",
-  "1ffd6e2c33f98906",
-  "199f424f67b97ac6",
-  "34df05e3bb03154c",
-  "3aaec18f150b66c3",
-  "b1865e2e9769e16f",
-  "4e3667d22b4843dd",
-  "b7d39bb70431d686",
-  "e0c1f17829c42a05",
-  "a705db23b9ad1193",
-  "0d9b6f177c4a741c",
-  "574ffaad514956fa",
-  "8aa5e22a93d75fcb",
-  "a0652d8ef0f9bb6e",
-  "0b117d30eab2351f",
-  "0605e245bd416104",
-  "9a5b78565c0ad09d",
-  "257445fb45480ac8",
-  "c3f4bbab7b251ea6",
-  "9f9e08a03493ac3b",
-  "631aaab1cefac53a",
-  "b7ffc74303d0f90b",
-  "feaf0410e5e920ee",
-  "88d7bee700613dc4",
-  "34844dbc671baa03",
-  "1963262f31311228",
-  "be91680f58b86fab",
-  "dad2246689022cf9",
-  "ffd29eb114e419df",
-  "cfb6a4c3425239f8",
-  "649ae2da97265728",
-  "306d109dce4c3262",
-  "d104a6fcddb7d6fe",
-  "70073545fed8ea7d",
-  "5dd99c5bc9505d72",
-  "1432edefb98893c7",
   "b9e24eafee00a8d6",
   "329c6fd7b309f547",
   "0dafbf3322f43e62",
@@ -800,32 +737,85 @@
   "89f7b82544fae97d",
   "6fbb9e6533591d3f",
   "cf977cdbdd988d25",
-  "d9d49450f95dc3a8"
+  "d9d49450f95dc3a8",
+  "96c66bb3c1aa3b80",
+  "dd7b6c36b27817ff",
+  "71587e9ad4f4ada9",
+  "5111ef0c7c180691",
+  "06836fa45dbcd282",
+  "b55aabf8347e5439",
+  "87022a59af462162",
+  "8693372e74906fb2",
+  "37d5c37e2aaee2d0",
+  "316e4552eaa3a96a",
+  "c25a6a43b866341d",
+  "b64564f778505419",
+  "d6580b400309257d",
+  "42c2eb694edc7e8d",
+  "c52d950e24af46ea",
+  "ce2b702939b35f58",
+  "a430383873df07fa",
+  "7cf2cbd4ffc47ea7",
+  "0b282831357ee5a9",
+  "95c38dd483656684",
+  "bc06817c360d91af",
+  "1bec60d20920c73c",
+  "bc0e6a9207af6c62",
+  "079dbb59c633945c",
+  "5dab7a7b3b63bea9",
+  "884b0ee3d60448fc",
+  "670a327abd67385f",
+  "eb5891319d92cc02",
+  "cc8b747fbe8991ab",
+  "85523ab7fb0e291c",
+  "bee293106693b6dd",
+  "e6db5c3308d8d0f9",
+  "c843e85753b3d11c",
+  "69f2200579b31076",
+  "93558823bfd77715",
+  "dc47608afa49bf6f",
+  "f057eb80211ab830",
+  "1458f5cc9dc78e7e",
+  "b5afc22e50658764",
+  "6c4593544e0dfb89",
+  "0e118eedc3be4666",
+  "9d33faa16bdb890c",
+  "276d1b3080d36050",
+  "1d015341477f324e",
+  "4df73f0de47b71b6",
+  "e03563f4a0350de0",
+  "eb467b301688de34",
+  "2df99db6b9849e0b",
+  "868acd43a7894373",
+  "bee2a5bf367aeb39",
+  "c7c12d7990f753b9",
+  "2e571c748ea46721",
+  "23f51056657f0078",
+  "7f38813ac05c7db2",
+  "420f9a1916fd3cbe",
+  "4b8b49e270a13c5d",
+  "dbcac39665ec0cd9",
+  "aa9c1c1a090dcba7",
+  "36235da504685c75",
+  "06d0f7cb5abac5e1",
+  "a71eee03eb3e0dc8",
+  "06eeb2b957f72c35",
+  "8b8f9d0f426610d7"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-10-30",
-   "n": 25
+   "jour": "2026-10-31",
+   "n": 2
   },
   "appels_api_football": {
-   "jour": "2026-10-30",
-   "n": 13
+   "jour": "2026-10-31",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793401034.1589665,
- "dernier_passage_actus": 1793398635.5625148,
+ "dernier_passage_actus": 1793405594.1305559,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Des paris très suspects entachent le Ballon d'Or (Le Figaro)",
-   "t": 1793208086
-  },
-  {
-   "genre": "actu",
-   "resume": "Hansi Flick réclame un renfort défensif au FC Barcelone (Tribuna.com)",
-   "t": 1793208091
-  },
   {
    "genre": "actu",
    "resume": "Grosse inquiétude pour Vincent Kompany après son hospitalisation (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le triplé historique d'Achraf Hakimi avec le PSG face au Havre (RMC Sport)",
    "t": 1793398773
+  },
+  {
+   "genre": "actu",
+   "resume": "Paulo Fonseca en discussion avec le Sporting CP (L'Équipe)",
+   "t": 1793405780
+  },
+  {
+   "genre": "actu",
+   "resume": "Olivier Giroud offre la victoire à Lille dans le derby (L'Équipe)",
+   "t": 1793405785
   }
  ],
  "matchs": {
@@ -1127,6 +1127,46 @@
    "affiche": "Frosinone - Lecce",
    "competition": "Serie A",
    "coup_envoi": 1793295000
+  },
+  "1550177": {
+   "affiche": "AC Milan - Inter",
+   "competition": "Serie A",
+   "coup_envoi": 1793475900
+  },
+  "1550179": {
+   "affiche": "Bologna - Monza",
+   "competition": "Serie A",
+   "coup_envoi": 1793455200
+  },
+  "1550186": {
+   "affiche": "Udinese - AS Roma",
+   "competition": "Serie A",
+   "coup_envoi": 1793466000
+  },
+  "1552207": {
+   "affiche": "Feyenoord - Fortuna Sittard",
+   "competition": "Eredivisie",
+   "coup_envoi": 1793460600
+  },
+  "1552208": {
+   "affiche": "Heerenveen - NEC Nijmegen",
+   "competition": "Eredivisie",
+   "coup_envoi": 1793468700
+  },
+  "1552209": {
+   "affiche": "PSV Eindhoven - Willem II",
+   "competition": "Eredivisie",
+   "coup_envoi": 1793468700
+  },
+  "1552210": {
+   "affiche": "Ajax - AZ Alkmaar",
+   "competition": "Eredivisie",
+   "coup_envoi": 1793476800
+  },
+  "1552211": {
+   "affiche": "Cambuur - GO Ahead Eagles",
+   "competition": "Eredivisie",
+   "coup_envoi": 1793476800
   },
   "1552801": {
    "affiche": "Le Havre - Paris Saint Germain",
@@ -1143,6 +1183,71 @@
    "competition": "Ligue 1",
    "coup_envoi": 1793383200
   },
+  "1552809": {
+   "affiche": "Estac Troyes - Le Mans",
+   "competition": "Ligue 1",
+   "coup_envoi": 1793475900
+  },
+  "1557447": {
+   "affiche": "Aston Villa - Fulham",
+   "competition": "Premier League",
+   "coup_envoi": 1793476800
+  },
+  "1557448": {
+   "affiche": "Bournemouth - Leeds",
+   "competition": "Premier League",
+   "coup_envoi": 1793458800
+  },
+  "1557449": {
+   "affiche": "Brentford - Nottingham Forest",
+   "competition": "Premier League",
+   "coup_envoi": 1793458800
+  },
+  "1557450": {
+   "affiche": "Chelsea - Manchester United",
+   "competition": "Premier League",
+   "coup_envoi": 1793449800
+  },
+  "1557451": {
+   "affiche": "Coventry - Sunderland",
+   "competition": "Premier League",
+   "coup_envoi": 1793458800
+  },
+  "1557452": {
+   "affiche": "Hull City - Ipswich",
+   "competition": "Premier League",
+   "coup_envoi": 1793458800
+  },
+  "1557454": {
+   "affiche": "Manchester City - Brighton",
+   "competition": "Premier League",
+   "coup_envoi": 1793458800
+  },
+  "1557456": {
+   "affiche": "Tottenham - Crystal Palace",
+   "competition": "Premier League",
+   "coup_envoi": 1793467800
+  },
+  "1570434": {
+   "affiche": "Barcelona - Alaves",
+   "competition": "Liga",
+   "coup_envoi": 1793476800
+  },
+  "1570435": {
+   "affiche": "Real Betis - Malaga",
+   "competition": "Liga",
+   "coup_envoi": 1793467800
+  },
+  "1570439": {
+   "affiche": "Levante - Atletico Madrid",
+   "competition": "Liga",
+   "coup_envoi": 1793451600
+  },
+  "1570441": {
+   "affiche": "Rayo Vallecano - Celta Vigo",
+   "competition": "Liga",
+   "coup_envoi": 1793459700
+  },
   "1570442": {
    "affiche": "Villarreal - Espanyol",
    "competition": "Liga",
@@ -1153,12 +1258,37 @@
    "competition": "Liga Portugal",
    "coup_envoi": 1793391300
   },
+  "1575532": {
+   "affiche": "FC Porto - Estoril",
+   "competition": "Liga Portugal",
+   "coup_envoi": 1793478600
+  },
+  "1575535": {
+   "affiche": "Moreirense - Estrela",
+   "competition": "Liga Portugal",
+   "coup_envoi": 1793460600
+  },
+  "1584450": {
+   "affiche": "Erzurumspor FK - Çorum FK",
+   "competition": "Süper Lig",
+   "coup_envoi": 1793442600
+  },
+  "1584451": {
+   "affiche": "Fenerbahçe - Göztepe",
+   "competition": "Süper Lig",
+   "coup_envoi": 1793462400
+  },
+  "1584454": {
+   "affiche": "Kocaelispor - Rizespor",
+   "competition": "Süper Lig",
+   "coup_envoi": 1793451600
+  },
   "1584455": {
    "affiche": "Konyaspor - Galatasaray",
    "competition": "Süper Lig",
    "coup_envoi": 1793379600
   }
  },
- "programme_jour": "2026-10-30",
- "programme_maj": 1793391323.5921156
+ "programme_jour": "2026-10-31",
+ "programme_maj": 1793405594.1278243
 }
