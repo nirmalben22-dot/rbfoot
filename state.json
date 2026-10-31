@@ -1,26 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e90b15b7d1b5d1bb",
-  "98558ba928b37346",
-  "50a1270349c03c9e",
-  "5d8b7c626e4d2247",
-  "e3ee453d5dc778fc",
-  "e3b6c3712a29f8e2",
-  "41ee4dd58a58b33b",
-  "33663aada4b843de",
-  "b03d7e58fedd1821",
-  "cfb4e3574c2efd64",
-  "056db6d00be8bf16",
-  "bba6de1513c8e398",
-  "76edf57025622033",
-  "00719a52e942bf40",
-  "4bb6b4b62060057f",
-  "fce9cdf0a90144b6",
-  "5e40bedf12a5214b",
-  "6b3662d20cd99520",
-  "26ef957e7b4b0da1",
-  "b284dbd4b24bb7aa",
   "bb96c9c9d79d0362",
   "3394ecbf16655a92",
   "ab1fa8b88fffd7d9",
@@ -800,27 +780,42 @@
   "42778142de0414e6",
   "3f535c9f76038f32",
   "d9fee3c07ed15d23",
-  "e31c37cbab626526"
+  "e31c37cbab626526",
+  "b6bb8336b4d4510b",
+  "3c2008550e6ef4d7",
+  "1915178304b9c408",
+  "9eb05c5885eeb07a",
+  "ffd95f4a4c3e8526",
+  "5bf89f9544cbd055",
+  "2bbf700406e27317",
+  "e3803e00b5f6f6bf",
+  "41b06d8e1d5b51fc",
+  "aadf0130d4f7181a",
+  "7aa1d7f1c4321c69",
+  "ef08985b64eb7e79",
+  "92e76c09ca23790e",
+  "435fdb481ac6ab71",
+  "4ff823afc963bd93",
+  "6e407c9d15908f91",
+  "b4323e090764cfd2",
+  "d0ed23f7a371e9a6",
+  "97acd7318f5975bf",
+  "b54ce3de42be5d1d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 8
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 4
+   "n": 5
   }
  },
- "dernier_appel_direct": 1793445296.2034533,
- "dernier_passage_actus": 1793445296.3457541,
+ "dernier_appel_direct": 1793447679.127782,
+ "dernier_passage_actus": 1793447679.3781443,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Ismail Jakobs prend sa retraite internationale avec le Senegal (Foot Mercato)",
-   "t": 1793222267
-  },
   {
    "genre": "actu",
    "resume": "Vincent Kompany est sorti de l hopital apres une meningite (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Facundo Medina cash sur son passage manqué à l'OM (RMC Sport)",
    "t": 1793445385
+  },
+  {
+   "genre": "actu",
+   "resume": "La renaissance d'Andrea Belotti en Serie B (Foot Mercato)",
+   "t": 1793447761
   }
  ],
  "matchs": {
