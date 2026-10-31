@@ -1,17 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5d3a1cc1320dd4f6",
-  "98dc8721512e5178",
-  "5fe5bca906c2b5b0",
-  "0b6e70268489ec4b",
-  "6f35aa66a73ecc08",
-  "b758b4468b6b59b4",
-  "566828ae6ef96a36",
-  "eb6761baeee7c92b",
-  "fdb32d22ed90ce69",
-  "13608777ac59bdca",
-  "9c110a5e76b6723e",
   "bd7e21eb9c0c1cc3",
   "f273651e975d9d2d",
   "13850fbb810cfcb9",
@@ -800,12 +789,23 @@
   "2e46d88a1c7c0892",
   "a7e700ee3960a8a1",
   "80c1d27eab6f8363",
-  "56b94a5e210d5fc7"
+  "56b94a5e210d5fc7",
+  "d398fb8265bebc63",
+  "a1cbb65c78a74ec6",
+  "31bbed5c72cc0532",
+  "49c8949ecea770ac",
+  "f8599b1c467a2074",
+  "05853a0c0fb74b64",
+  "039eba96c4ac5218",
+  "0c269303f8f6ddc9",
+  "825f7832e87262dc",
+  "df8c51697980ff1c",
+  "32501feab21f3c11"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-10-31",
@@ -813,14 +813,9 @@
   }
  },
  "dernier_appel_direct": 1793401034.1589665,
- "dernier_passage_actus": 1793409800.7084892,
+ "dernier_passage_actus": 1793413087.1402216,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Cristiano Ronaldo 2008 sacré plus grand Ballon d'Or de l'histoire (Foot Mercato)",
-   "t": 1793214246
-  },
   {
    "genre": "actu",
    "resume": "Federico Valverde se mobilise après le drame ferroviaire en Espagne (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Enquête autour de paris suspects sur le Ballon d'Or (Foot Sur 7)",
    "t": 1793409951
+  },
+  {
+   "genre": "actu",
+   "resume": "Des paris suspects sèment le doute sur le Ballon d'Or 2026 (Fennec Football)",
+   "t": 1793413134
   }
  ],
  "matchs": {
