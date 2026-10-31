@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a5b868206d1d6f10",
-  "ce4f90ac82b28174",
-  "577aef122e277d4e",
-  "27ca8e5d5172868d",
-  "cb4404bd98db97ef",
-  "51c0e16f1368aed7",
-  "a893ca242c4011f0",
-  "3168db3574ea22a5",
-  "c0815c1d5ff6fb6a",
-  "17d634c13b20c91f",
-  "88499f7ea367dfcd",
-  "3e0d00f6d05dfca1",
-  "d3cbaa8a5b83604e",
-  "a54866107762a2c2",
-  "653434da200b15da",
-  "8ceff576648434c3",
-  "f5c28a273654ccb5",
-  "532b37dd59e7604b",
-  "3594fa8cb625d44d",
-  "18c9dc5bc69df446",
-  "71f0b6b684de87b4",
-  "a9c546cb32794f60",
-  "8396ccbd2a3eb02c",
-  "f087aee550eed5f6",
-  "2a63c4a083241e51",
   "f97a73fb075e7771",
   "79977f127afd4d94",
   "977fe351509d77e9",
@@ -800,27 +775,47 @@
   "89bd8ba59aa07376",
   "4f3dcfdab167af75",
   "bc584bb0b20bb3fa",
-  "04df8b5179560436"
+  "04df8b5179560436",
+  "c57a806667541e76",
+  "33eef5bd42f79cf5",
+  "6259824c438f762d",
+  "dff5aeb3ccc682de",
+  "b36daea88d7b0ab0",
+  "eba2d8bdad1ba930",
+  "137d659160783084",
+  "7586706d874c0d61",
+  "17f52e63366ce858",
+  "f320f67576240841",
+  "7f03fd65aa8ffbf6",
+  "e53e108164cef9ce",
+  "6be1537ce7943f4c",
+  "38cb8508b972657e",
+  "6125930869b821ee",
+  "0c8bae8bdc597a1c",
+  "42ba769be89338c5",
+  "be2394da883889a6",
+  "109a144823706deb",
+  "880b0d6cd4128138",
+  "442672f952cddbbc",
+  "227ed712e63dba4d",
+  "4d331d457104fc6a",
+  "75c80c9f32927778",
+  "6f5791c2ec01876f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 11
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 6
+   "n": 8
   }
  },
- "dernier_appel_direct": 1793450433.6325476,
- "dernier_passage_actus": 1793450433.7841952,
+ "dernier_appel_direct": 1793453506.9749007,
+ "dernier_passage_actus": 1793453507.137578,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Jadon Sancho refuse une offre en Espagne (BBC Sport)",
-   "t": 1793224926
-  },
   {
    "genre": "actu",
    "resume": "Le transfert raté de la pépite marocaine au Real Madrid (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Jon Martin calme les ardeurs du Real Madrid et du Barça (Sky Sports)",
    "t": 1793450554
+  },
+  {
+   "genre": "actu",
+   "resume": "France Football porte plainte pour fuites au Ballon d'Or (Foot Mercato)",
+   "t": 1793453563
   }
  ],
  "matchs": {
@@ -1290,5 +1290,5 @@
   }
  },
  "programme_jour": "2026-10-31",
- "programme_maj": 1793429876.7050424
+ "programme_maj": 1793453506.9742644
 }
