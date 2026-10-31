@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f97a73fb075e7771",
-  "79977f127afd4d94",
-  "977fe351509d77e9",
-  "56427a7bd55f5cd9",
-  "7e7385060dad18dc",
-  "a162d206a589fef6",
-  "f5bd7aa7a567f68b",
-  "5cc36b5ca68ef097",
-  "5a4cc0b2a9422903",
-  "c523365131d5c802",
-  "9a0a31998ec221dd",
-  "80af2417d7b4d5f6",
-  "50586a8d08c7427b",
-  "950b962eabfa3433",
-  "4000281997faebc0",
-  "3e9d5f9931d3f0ec",
-  "2aaadc8171c6085b",
-  "373ced1bada3f2d3",
-  "959569d0fafd880d",
-  "839fe0b995fff85d",
-  "3d7f23f15fb3a9da",
-  "143cf811ab6212d7",
-  "7fa2986906a49cfa",
-  "ea2229e836fa380d",
-  "5e91cacbff70f3be",
   "eb52d40f0c0a6540",
   "45ad1b519c7f9db4",
   "a093e5299cd96ea6",
@@ -800,32 +775,47 @@
   "227ed712e63dba4d",
   "4d331d457104fc6a",
   "75c80c9f32927778",
-  "6f5791c2ec01876f"
+  "6f5791c2ec01876f",
+  "741d56b562dccc99",
+  "7c07edaa2a9af38f",
+  "976115e73aff737e",
+  "93cd298607a59dbb",
+  "6ebfcbbc78899951",
+  "4bd34618a7c6cd58",
+  "2536cc745d3a78fc",
+  "7c43b88629f1171e",
+  "1b91809a3e850111",
+  "27d4ab4d94028262",
+  "0d17eda162fac7e3",
+  "01fb2fe26481fe7e",
+  "308fcc461eb0bc92",
+  "ec0b238347d52b41",
+  "0c4ea00e7dfc0e0a",
+  "573acddb6c4154a1",
+  "118050c6c2f703ed",
+  "d57fe53d5d649f65",
+  "6589b9e600fedc35",
+  "da091dd74adcf222",
+  "64a793d78effd586",
+  "ff75c383079e9516",
+  "a44ad8bb080eaf70",
+  "8d80a5101478a5cb",
+  "a121132764247696"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-10-31",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-10-31",
-   "n": 8
+   "n": 9
   }
  },
- "dernier_appel_direct": 1793453506.9749007,
- "dernier_passage_actus": 1793453507.137578,
+ "dernier_appel_direct": 1793456123.4813273,
+ "dernier_passage_actus": 1793456123.7544477,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le transfert raté de la pépite marocaine au Real Madrid (Foot Mercato)",
-   "t": 1793227408
-  },
-  {
-   "genre": "actu",
-   "resume": "Flavien Tait explique pourquoi il n'aurait pas pu jouer à l'OM (RMC Sport)",
-   "t": 1793227413
-  },
   {
    "genre": "actu",
    "resume": "Sept ans de prison pour avoir menacé la famille d'Angel Di Maria (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "France Football porte plainte pour fuites au Ballon d'Or (Foot Mercato)",
    "t": 1793453563
+  },
+  {
+   "genre": "actu",
+   "resume": "José Mourinho sort du silence sur la polémique Kylian Mbappé (Foot Mercato)",
+   "t": 1793456183
+  },
+  {
+   "genre": "actu",
+   "resume": "Alan Shearer tacle Bruno Fernandes après des tensions à Manchester United (Foot Mercato)",
+   "t": 1793456187
   }
  ],
  "matchs": {
