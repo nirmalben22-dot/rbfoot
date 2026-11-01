@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "356a6d51f629f6ed",
-  "9177d98b3cd2ab3a",
-  "49b7c69d678e00f2",
-  "d660564c36f7dbc0",
-  "f6d943a689e2d0a8",
-  "1cb8a33a78bd4b90",
-  "5795098804a36f13",
-  "95ecd32b1936179c",
-  "3fad3a12db9cbbbd",
-  "1192f4e9134f4cda",
-  "2bca862f889b67b7",
-  "29b40b0264d56958",
-  "20a6325577bdfab2",
-  "84928121673c6955",
-  "6466566677fd6a62",
-  "ae1d425ae0ce5fc6",
-  "fd6e8adc8a4f71ad",
-  "982e2d348258b562",
-  "651ce9205d39454c",
-  "f93de454464d0a1a",
-  "8d33ba253d9a3baa",
-  "6676a2e56d37d62c",
-  "51cf2110e1ac7db4",
-  "11a5578668a8095c",
-  "2d77d6edb649d60d",
-  "268d267d1a60bcde",
-  "791fe362ecf2fdd8",
-  "5ed2d7cf74c8f8ec",
   "5d6d0bf7f310565d",
   "36946eb3f0ef4925",
   "80e03c2774cb6a02",
@@ -800,32 +772,50 @@
   "54c7849bffb409b7",
   "c902788b60302c35",
   "9dd0160853fc7512",
-  "9a988fd02364a187"
+  "9a988fd02364a187",
+  "c036ca08d0c95270",
+  "4e3ad3f07472a7dd",
+  "dd9dbaf788d43fa6",
+  "9d3b147c75922f42",
+  "bb90920083ce21fa",
+  "e5e4ff71fd9a872a",
+  "d734d5092b9810fa",
+  "d11858b5655ac8a8",
+  "d9c98f842d5dc6fc",
+  "55f51b2921908eac",
+  "bad9642bbbd9c527",
+  "99ab713f5c229820",
+  "52f1f8368b99914d",
+  "97ddab5e5d5cef96",
+  "3a121a20cfaae17b",
+  "c79190b067cfad35",
+  "1fc781dedb2e90fa",
+  "ccf37855de64d175",
+  "b39ba2c4b841ef60",
+  "e21a0c7dd8ca1256",
+  "c8cd0663910631ae",
+  "40c8f4d2c3a562f2",
+  "ae8e567c06452816",
+  "05e5e9cf26c2b77f",
+  "d20254141e1c0e98",
+  "87b9f8a128aba52f",
+  "d19ea99c3d22db64",
+  "ef83503fc9da3247"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 22
+   "n": 24
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 28
+   "n": 29
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793567708.1780064,
+ "dernier_passage_actus": 1793570075.843278,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Hansi Flick salue la réaction de Lamine Yamal (RMC Sport)",
-   "t": 1793374638
-  },
-  {
-   "genre": "actu",
-   "resume": "Chelsea garde un œil sur Jules Koundé (Tribuna.com)",
-   "t": 1793383304
-  },
   {
    "genre": "actu",
    "resume": "Le Paris FC officiellement racheté par la famille Arnault et Red Bull (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Alerte blessure pour Weston McKennie à la Juventus (Sky Sport)",
    "t": 1793567774
+  },
+  {
+   "genre": "actu",
+   "resume": "Le beau geste d Aurélien Tchouaméni envers un jeune supporter (L'Équipe)",
+   "t": 1793570132
+  },
+  {
+   "genre": "actu",
+   "resume": "Une offre de rachat bientôt transmise pour le SSC Naples (Foot Mercato)",
+   "t": 1793570137
   }
  ],
  "matchs": {
