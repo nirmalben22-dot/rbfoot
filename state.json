@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5d6d0bf7f310565d",
-  "36946eb3f0ef4925",
-  "80e03c2774cb6a02",
-  "21fce02959c6d5cb",
-  "c38eb4e1364ef03d",
-  "56df69fb87c37e79",
-  "73430ddaa7a6114f",
-  "ad39db95999ae5ce",
-  "600590f68f10a98b",
-  "6f7b5f9f7aae654b",
-  "38a35a2a46f104f4",
-  "0ec57a2eebb3dc50",
-  "cc429b2641e42e68",
-  "8e8471360de9c683",
-  "dffcfb077d0bf2c4",
-  "831bd0484217d4b0",
-  "b1c1a193b90ce4ef",
-  "c91b63d4387b822b",
-  "ff8d72535df4d906",
-  "4ba54bb7a18190a4",
-  "2c6348ca3c55b92f",
-  "2cee902c6dbea678",
-  "ae7062060706de81",
-  "59dcf477dcf7b449",
-  "d42ce4d2e236dc50",
-  "6aa19a5c74181b64",
-  "68d96a5ccee83c4e",
-  "a611c1b1e0f23f64",
-  "a14e2bd7397ca506",
-  "6e6439351ca01668",
-  "360aadee039174f9",
-  "86e8e2b0e74dedce",
-  "977d6127655d7898",
-  "27d0e45a3d6c1d7a",
-  "3e8fc17ba3378be6",
-  "152c959e1593b6b0",
   "13515859af7727fa",
   "adc7201f5136f5ca",
   "48b89d6a0572f797",
@@ -800,27 +764,58 @@
   "d20254141e1c0e98",
   "87b9f8a128aba52f",
   "d19ea99c3d22db64",
-  "ef83503fc9da3247"
+  "ef83503fc9da3247",
+  "732b24743fc49d88",
+  "806ebff4b0031c21",
+  "f4bf7d93231a3b7b",
+  "a73bbd6043079fcf",
+  "c6a2e8136dc51b8f",
+  "82f849c99d0905a1",
+  "c3d516167734e124",
+  "efde81ba54a3b550",
+  "d7181e10ec47838d",
+  "76d75f359ed28aaf",
+  "f5c367ce27316877",
+  "6ea55ee062396ccb",
+  "4aeb0d49180ee4c2",
+  "1ff5c060e84e52c2",
+  "032c375354b338f7",
+  "9d9252dc17982642",
+  "80f1ba37c927eff7",
+  "c4aff1dbbe651d91",
+  "560ac060baaf53ba",
+  "54be150e1af4d931",
+  "d66e9e38f26fe753",
+  "69d8c8c361d149af",
+  "c38032ce913a4e06",
+  "d7d8ca6ac6d47140",
+  "13895c6e86c7fa97",
+  "83a1c7f973cce3d9",
+  "76c3c853e9217426",
+  "e7b0d9712249723e",
+  "94720b4e4642be42",
+  "c8906353a54265af",
+  "7e8aeb58868b1e03",
+  "e4601ec1b65c1172",
+  "0f7e82ab077f0a77",
+  "24ee9eab77b09307",
+  "161cf3c1e35f950d",
+  "de98035a67f204ab"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 24
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 29
+   "n": 30
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793570075.843278,
+ "dernier_passage_actus": 1793572286.607775,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Paris FC officiellement racheté par la famille Arnault et Red Bull (RMC Sport)",
-   "t": 1793386122
-  },
   {
    "genre": "actu",
    "resume": "L'attaquant d'Everton Thierno Barry cambriolé après une vidéo YouTube (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Une offre de rachat bientôt transmise pour le SSC Naples (Foot Mercato)",
    "t": 1793570137
+  },
+  {
+   "genre": "actu",
+   "resume": "Accord trouvé entre Paulo Fonseca et le Sporting CP (MadeInGones)",
+   "t": 1793572347
   }
  ],
  "matchs": {
