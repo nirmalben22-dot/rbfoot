@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a544d5fbc52cc4a4",
-  "f9ec03e2865d77d8",
-  "9c3a73b59dd496b8",
-  "6a0579c76106f19a",
-  "d7c10c050975b2ff",
-  "f722b21216dbc6a8",
-  "8451aaf9bdfcc501",
-  "5a7d77e63069a671",
-  "08c78c69d024d0de",
-  "c741b869311671bb",
-  "760d1ff441b2bdd4",
-  "66dcac9a2de08c56",
-  "0e94bf28b660e016",
-  "1a9b29094b669625",
-  "869074cff91ccb7d",
-  "6a326112bb98a02b",
-  "a3866c31ee82f687",
-  "2a4b95c461e94966",
-  "a4ad1e72c73b4b83",
-  "b8663f3de23bb1a2",
-  "bbea47ec14ae1dbb",
-  "d9a214d52c1d45bd",
-  "195d94eabc13b654",
-  "e6a47547fcecef4b",
-  "e25e88ae7dde34cc",
-  "4a2d187f542e2460",
-  "2b05d46b64a7ea80",
-  "b70eab513310d874",
-  "bd8218f071457417",
-  "04ac689f7c672f89",
-  "63df70bf3136e5ad",
-  "7e08b3f10c34746f",
-  "70adb4491bc7f465",
-  "2bb4ed96301bec5a",
-  "fe74d4f3ec316ad4",
-  "1fa90b43a1473639",
-  "2a204499669e34ff",
-  "9edd58cee14a39b8",
   "0d435c2413a5dc96",
   "c7d05cc35b855c9b",
   "71e9183ddc9e2bf5",
@@ -800,32 +762,60 @@
   "127aed2fb7f87979",
   "3fad8430bca6d7dd",
   "cab1ac39431aa00e",
-  "a3dbe541d5813900"
+  "a3dbe541d5813900",
+  "6767bb5072f6b4da",
+  "207f91d4e5d8f11c",
+  "59548aa31e01f53a",
+  "09625f10bb083eac",
+  "fbc9255e0c65af7d",
+  "8cfc5d7edfb28f85",
+  "283ea84892a096b1",
+  "c1fe46971d37204b",
+  "37d8d0884e87db29",
+  "cd2658fc90aec193",
+  "337dad24522a9cf9",
+  "73e9b251e83451d4",
+  "ba43ec6570f9c9f1",
+  "52b6f1107941c209",
+  "291cfb7e9c6528de",
+  "1f876b9f3fee32bb",
+  "3646f610d46d9bad",
+  "35cb77eeb71ae654",
+  "6504781828782720",
+  "680f1861cb956441",
+  "38eefdab7d30eb83",
+  "74b1abcc1cf8c51d",
+  "c2c0dab35bae34a1",
+  "e2f05d0976cbab69",
+  "5cbf0cf7b53b6faa",
+  "4dd5ddfffbe4e8f1",
+  "a22fda55b21f94d5",
+  "ee8747b604070539",
+  "eef6e8f59b104408",
+  "bfafdd7b11252a63",
+  "771e58ff1a98832a",
+  "e84fbf32c29e36c0",
+  "f8387b573d9e22b9",
+  "fe13b1fa51a484dc",
+  "6cd917719f7ea556",
+  "f3e87f788b02e4fe",
+  "0c69fffa46ebf065",
+  "a72a1056abcf6a37"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 23
+   "n": 24
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793555503.5532708,
+ "dernier_passage_actus": 1793557739.7873216,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Un nouveau concurrent sérieux pour l'organisation de la finale du Mondial 2030 (Foot Mercato)",
-   "t": 1793358600
-  },
-  {
-   "genre": "actu",
-   "resume": "Les arbitres de Liga vont désormais expliquer leurs décisions après match (L'Équipe)",
-   "t": 1793361331
-  },
   {
    "genre": "actu",
    "resume": "Le patron de l'AC Milan promet du lourd au mercato (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Scène inquiétante et match interrompu lors du match du Real Madrid (Foot Mercato)",
    "t": 1793555619
+  },
+  {
+   "genre": "actu",
+   "resume": "Al Ittihad cible le défenseur du RB Leipzig Abdoul Koné (Foot Mercato)",
+   "t": 1793557883
+  },
+  {
+   "genre": "actu",
+   "resume": "José Mourinho se moque ouvertement des supporters du Racing Santander (Foot Mercato)",
+   "t": 1793557889
   }
  ],
  "matchs": {
@@ -1158,20 +1158,10 @@
    "competition": "Eredivisie",
    "coup_envoi": 1793476800
   },
-  "1552801": {
-   "affiche": "Le Havre - Paris Saint Germain",
-   "competition": "Ligue 1",
-   "coup_envoi": 1793383200
-  },
   "1552802": {
    "affiche": "Lille - Lens",
    "competition": "Ligue 1",
    "coup_envoi": 1793390700
-  },
-  "1552806": {
-   "affiche": "Nice - Rennes",
-   "competition": "Ligue 1",
-   "coup_envoi": 1793383200
   },
   "1552809": {
    "affiche": "Estac Troyes - Le Mans",
