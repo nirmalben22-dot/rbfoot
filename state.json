@@ -1,41 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "08184ed15929dca7",
-  "57fb0e64df6c834d",
-  "981ba51e4ed00c33",
-  "a50e757954f6fbac",
-  "b7a84027f7000b71",
-  "b5d458508fb3a656",
-  "29bdf965ae7ccf20",
-  "5d45fc34eba201fd",
-  "8fced8b164b1a76e",
-  "65586b1f884e39bf",
-  "7c5c1eabe0cecf23",
-  "395a42404c4483d1",
-  "0f5a2438f6a219d5",
-  "ea4cdbc611c5665c",
-  "136feb7d199a1d25",
-  "919e8e892e1c85ca",
-  "5c41ff62eb3d9556",
-  "cfe2f0d183756657",
-  "a4b2495e4940d416",
-  "43176c474a74ecef",
-  "13a784fac7f7c32e",
-  "9ad269ef6a3fb772",
-  "17ca130892da74ff",
-  "e0e7a16e2ebbf7f2",
-  "ea10e5a5811a39e0",
-  "0d277128ff69ffb6",
-  "bb5914429590a8a5",
-  "a3f948a908dca751",
-  "1aeefa8eb801f4e9",
-  "c9db3f9f958c9a47",
-  "5ac55371805ef738",
-  "1cb21cfb0de833cf",
-  "68a502d40f8c851a",
-  "969773d3efb96d7c",
-  "0247b0393892b213",
   "b65b3c9de71ba4d5",
   "93877104ba7a509c",
   "9d3b147c75922f42",
@@ -800,32 +765,57 @@
   "325175fb1acacdcb",
   "b9c41e86e633e93f",
   "305488aa7b14f418",
-  "72bc24da07ef31ee"
+  "72bc24da07ef31ee",
+  "cc1ba8a555fa663c",
+  "ac2c5ab5ebcb3aa0",
+  "ce9421ba5bf614b6",
+  "f4fa3c98632c8d21",
+  "631cc64115e25485",
+  "b3848a772945d0b1",
+  "5dfabecaf4ad8433",
+  "fbd05d378b43f017",
+  "0c92ac4a96b9d345",
+  "2d2d112c405725f5",
+  "12a99747129249a5",
+  "f8ddafb58bd19f50",
+  "1493bd311a03d364",
+  "1542993290cc69d7",
+  "70ee2f63b9bc8630",
+  "41fe37db5c2eaf8e",
+  "e87f728cff528895",
+  "3677da81feec081d",
+  "9ce6e52c5b1e8b79",
+  "9fe463010e0df9a2",
+  "d9e34ca826f35357",
+  "8130813a06d4c9b1",
+  "6cb27a581af4d2b2",
+  "929162c351c36e03",
+  "bb9e1d044ab33a50",
+  "273fa1734f57958f",
+  "07ae57d70470f25b",
+  "322e088d14038041",
+  "34b4ee3afa904e15",
+  "bd5e857f5255ac19",
+  "214e4dffa2e541b5",
+  "f98644398bfa000a",
+  "bd330ef77dda0245",
+  "16d6cec7e1a209c9",
+  "966577215879dd4a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 26
+   "n": 27
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793563045.8271878,
+ "dernier_passage_actus": 1793565344.882476,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour l'AC Milan avec la blessure de Fikayo Tomori (Sky Sport)",
-   "t": 1793367955
-  },
-  {
-   "genre": "actu",
-   "resume": "Christian Pulišić prolonge officiellement avec l'AC Milan jusqu'en 2031 (Foot Mercato)",
-   "t": 1793371441
-  },
   {
    "genre": "actu",
    "resume": "Coup dur pour Chelsea et Maxence Lacroix absent plusieurs semaines (Get French Football News)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Liam Rosenior sous le charme de l'international malien Lassine Sinayoko (RMC Sport)",
    "t": 1793563195
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour l'OM avec la sortie sur blessure d'Emerson (Foot Mercato)",
+   "t": 1793565402
+  },
+  {
+   "genre": "actu",
+   "resume": "Les supporters de l'OM s'en prennent à Frank McCourt (Foot Mercato)",
+   "t": 1793565406
   }
  ],
  "matchs": {
@@ -1157,11 +1157,6 @@
    "affiche": "Cambuur - GO Ahead Eagles",
    "competition": "Eredivisie",
    "coup_envoi": 1793476800
-  },
-  "1552802": {
-   "affiche": "Lille - Lens",
-   "competition": "Ligue 1",
-   "coup_envoi": 1793390700
   },
   "1552809": {
    "affiche": "Estac Troyes - Le Mans",
@@ -1227,16 +1222,6 @@
    "affiche": "Rayo Vallecano - Celta Vigo",
    "competition": "Liga",
    "coup_envoi": 1793459700
-  },
-  "1570442": {
-   "affiche": "Villarreal - Espanyol",
-   "competition": "Liga",
-   "coup_envoi": 1793390400
-  },
-  "1575531": {
-   "affiche": "Casa Pia - Sporting CP",
-   "competition": "Liga Portugal",
-   "coup_envoi": 1793391300
   },
   "1575532": {
    "affiche": "FC Porto - Estoril",
