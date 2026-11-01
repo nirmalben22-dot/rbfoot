@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "dff5aeb3ccc682de",
-  "b36daea88d7b0ab0",
-  "eba2d8bdad1ba930",
-  "137d659160783084",
-  "7586706d874c0d61",
-  "17f52e63366ce858",
-  "f320f67576240841",
-  "7f03fd65aa8ffbf6",
-  "e53e108164cef9ce",
-  "6be1537ce7943f4c",
-  "38cb8508b972657e",
-  "6125930869b821ee",
-  "0c8bae8bdc597a1c",
-  "42ba769be89338c5",
-  "be2394da883889a6",
-  "109a144823706deb",
-  "880b0d6cd4128138",
-  "442672f952cddbbc",
-  "227ed712e63dba4d",
-  "4d331d457104fc6a",
-  "75c80c9f32927778",
-  "6f5791c2ec01876f",
-  "741d56b562dccc99",
-  "7c07edaa2a9af38f",
-  "976115e73aff737e",
-  "93cd298607a59dbb",
-  "6ebfcbbc78899951",
   "4bd34618a7c6cd58",
   "2536cc745d3a78fc",
   "7c43b88629f1171e",
@@ -800,27 +773,49 @@
   "6a107c3d4543ef3f",
   "d573c563cbdc1441",
   "193a57192cf88364",
-  "df1b1fd7fa9569b3"
+  "df1b1fd7fa9569b3",
+  "5beaff291d84ab70",
+  "a575615dab5a5d97",
+  "4e2a788f75c9aade",
+  "3928503dae652af2",
+  "e598bf24a71d29de",
+  "ddc42026d4733da4",
+  "26998e35c04dbf94",
+  "c82c082186b63d19",
+  "176e099020c447db",
+  "6eded4b4dd7848f4",
+  "e50b13c18598670a",
+  "d5516b4e09a89267",
+  "5b6594dd62b716ad",
+  "42ce505ca30bc8e5",
+  "0d2cc474cfae02dd",
+  "fddb1ce4c1e28c35",
+  "dbab116994974056",
+  "beeae5583c1b0dc1",
+  "93f87cb692e1338b",
+  "d3dbf9f86bb7596c",
+  "22c5cf5122789f00",
+  "c2533be1acc9bbf6",
+  "042f7145fecdd262",
+  "7e2a221f3b2e84d3",
+  "ad1d250794826aa1",
+  "caa45ab7054ad6be",
+  "c8ba570ac6007842"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 9
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793548592.2078297,
+ "dernier_passage_actus": 1793550977.0891826,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Younès Belhanda règle ses comptes avec Walid Regragui (RMC Sport)",
-   "t": 1793315449
-  },
   {
    "genre": "actu",
    "resume": "La CAF acte le retour de la CAN tous les deux ans (CAFOnline.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Gary Neville très inquiet pour Manchester United (Sky Sports)",
    "t": 1793548742
+  },
+  {
+   "genre": "actu",
+   "resume": "Le départ de Paulo Fonseca se précise à Lyon (But! Football Club)",
+   "t": 1793551072
   }
  ],
  "matchs": {
