@@ -1,27 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "41443839f874b234",
-  "5cc9b7215f0a9389",
-  "d0640ad96eeacf74",
-  "b659c8d176a5a13f",
-  "c6e9f3671b142d0e",
-  "30562853b5fcd148",
-  "d1914b608d7ee3fb",
-  "17459c14fb560e6e",
-  "ce3ae539817022ad",
-  "24a1387f8d50a941",
-  "42778142de0414e6",
-  "3f535c9f76038f32",
-  "d9fee3c07ed15d23",
-  "e31c37cbab626526",
-  "b6bb8336b4d4510b",
-  "3c2008550e6ef4d7",
-  "1915178304b9c408",
-  "9eb05c5885eeb07a",
-  "ffd95f4a4c3e8526",
-  "5bf89f9544cbd055",
-  "2bbf700406e27317",
   "e3803e00b5f6f6bf",
   "41b06d8e1d5b51fc",
   "aadf0130d4f7181a",
@@ -800,27 +779,43 @@
   "51fadf4dd982135e",
   "d00a4c09a0df8b39",
   "fc8db633141a2a97",
-  "583601b75f1afa0e"
+  "583601b75f1afa0e",
+  "430131cc609ecaf8",
+  "75efce2929e1f06b",
+  "c4bf85724dd498b6",
+  "c9a0487b2d8731ee",
+  "50a2fc394d6eb9cb",
+  "b1dbe0d9be598423",
+  "66c0bc1a568e0cae",
+  "a9c4c66b944f52d5",
+  "eef61cbafff51d2f",
+  "6580a7c9d764b705",
+  "cf147e8639be5a2c",
+  "f3ca3068690b05d1",
+  "f7accdb293da5a1c",
+  "6111a812c1785dac",
+  "948626f9c6adabf9",
+  "6d9cea84a3c85174",
+  "c4891077aa469b0e",
+  "21563f9f2d089a1f",
+  "5a89fb4c6214fe2b",
+  "cfbef4b9d7b78a2c",
+  "74b5d81a87dcf50c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 6
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793541635.4820118,
+ "dernier_passage_actus": 1793543981.5190942,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le FC Barcelone prêt à écouter les offres pour Jules Koundé (Tribuna.com)",
-   "t": 1793307843
-  },
   {
    "genre": "actu",
    "resume": "Didier Deschamps et Antonio Conte ciblés par la Juventus (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le Paris Saint-Germain officialise deux nouvelles signatures (Sport.fr)",
    "t": 1793541770
+  },
+  {
+   "genre": "actu",
+   "resume": "Bixente Lizarazu recadre fermement Kylian Mbappé (Foot Mercato)",
+   "t": 1793544056
   }
  ],
  "matchs": {
