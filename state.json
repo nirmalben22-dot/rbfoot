@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "fcebcaf6ee3f8150",
-  "6af58f0cf193528f",
-  "ef1839faa9c25914",
-  "767b451fb41e5989",
-  "8a8b7b541b00e5e0",
-  "9121193e62a7f883",
-  "ebc63509b0f275de",
-  "19a2365ee4d5dac0",
-  "d3781ac2affb389b",
-  "eecf8f52fcba06be",
-  "272a1b5dcb8b6566",
-  "d382fce5643dea16",
-  "7831bbc3494b2192",
-  "508e03dcba1de880",
-  "bc80ba22359a57f5",
-  "b176428a3f0f44c6",
-  "5bf3681dc9df35b8",
-  "7bcc55d491fe5ac9",
-  "c2fc9faf8533526f",
-  "4565800743d529fb",
-  "bb9e1d044ab33a50",
-  "bd5ae2f26009529e",
-  "ab860b48bb6f266e",
-  "8b155a1abc14533c",
-  "4e781adf7f67e434",
-  "b60fb2530a0a1206",
-  "5342503784ef05e3",
-  "8237e0626d3560ad",
-  "5ff5206fb27dd99c",
-  "ac2c5ab5ebcb3aa0",
-  "af23ba917b7fffa5",
-  "d471bb1a86912d9c",
-  "f5572f00f75b0319",
-  "c8635accd529fd81",
-  "51ad1ae3e9dc3e9c",
-  "b83dae4595695dee",
-  "4e578f0e52a10115",
-  "5bcdf2067c19d980",
   "08184ed15929dca7",
   "57fb0e64df6c834d",
   "981ba51e4ed00c33",
@@ -800,32 +762,60 @@
   "2a56195549756759",
   "326b0cfa1f4cd9b6",
   "449c71cc6dd85aae",
-  "b0fee5f3e5bc16dc"
+  "b0fee5f3e5bc16dc",
+  "49b975c5fa66e5ee",
+  "de0f29e3734d81fa",
+  "5fcee519ab24ffd2",
+  "44c45963e7ccddc8",
+  "0013f59c4b66d211",
+  "ce6ac31aa27f3452",
+  "c01db2eb2496f332",
+  "2f159abed18dabb0",
+  "c3632e9cb239ec44",
+  "9c89d9257e547767",
+  "48978beb1c8e016b",
+  "f0bcfaec1130bb30",
+  "3aa3d47311e28247",
+  "0576285a2664b270",
+  "07003d968f5f813f",
+  "5c1a943458b23637",
+  "e3d5292e447bbd9d",
+  "ac9261fd0972267c",
+  "b143c393f0130faa",
+  "bf053b79e6275ab4",
+  "2afca21326ad094e",
+  "e6deb82814d4e7fb",
+  "0d89b539baeda1fc",
+  "25c1ae96f3516fde",
+  "f0e519d6ef74385c",
+  "4471b627a4659687",
+  "1c16ebdf0708313a",
+  "1f1993594709fca5",
+  "e421373b4d9819dc",
+  "fcfa2b889b70c853",
+  "749c5d49ec99299d",
+  "c5417fda3a1ec360",
+  "c470d4e90a537e29",
+  "ac626963a54148b9",
+  "325175fb1acacdcb",
+  "b9c41e86e633e93f",
+  "305488aa7b14f418",
+  "72bc24da07ef31ee"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 25
+   "n": 26
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793560683.4261045,
+ "dernier_passage_actus": 1793563045.8271878,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La MLS officialise un changement historique de calendrier (Foot Mercato)",
-   "t": 1793364337
-  },
-  {
-   "genre": "actu",
-   "resume": "Maxence Lacroix forfait pour le prochain rassemblement des Bleus (RMC Sport)",
-   "t": 1793367951
-  },
   {
    "genre": "actu",
    "resume": "Coup dur pour l'AC Milan avec la blessure de Fikayo Tomori (Sky Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La presse catalane scandalisée par le penalty obtenu par Kylian Mbappé (RMC Sport)",
    "t": 1793560749
+  },
+  {
+   "genre": "actu",
+   "resume": "João Neves dévoile les exigences de Luis Enrique au PSG (Foot Mercato)",
+   "t": 1793563191
+  },
+  {
+   "genre": "actu",
+   "resume": "Liam Rosenior sous le charme de l'international malien Lassine Sinayoko (RMC Sport)",
+   "t": 1793563195
   }
  ],
  "matchs": {
