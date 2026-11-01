@@ -1,23 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1bd7d0510edf3f7b",
-  "9c71aeccf328d82e",
-  "6040ce9dab6ac065",
-  "a3ed2c94927b1708",
-  "1c409c99df61721d",
-  "b7d9026b7ab66ea8",
-  "93b92a51e05b5b89",
-  "55de9f42e277bcc8",
-  "9b7295d18f0173f8",
-  "d7687c5ab35ec93f",
-  "89bd8ba59aa07376",
-  "4f3dcfdab167af75",
-  "bc584bb0b20bb3fa",
-  "04df8b5179560436",
-  "c57a806667541e76",
-  "33eef5bd42f79cf5",
-  "6259824c438f762d",
   "dff5aeb3ccc682de",
   "b36daea88d7b0ab0",
   "eba2d8bdad1ba930",
@@ -800,32 +783,39 @@
   "940c124bf9dc7fab",
   "37e774bca5313828",
   "ced81a934fc64b8c",
-  "f3c86138b784c974"
+  "f3c86138b784c974",
+  "faa7a27c6e426a5e",
+  "7f2fbdde3036600b",
+  "84251b1608d92d50",
+  "2ca71b4764b14da3",
+  "389d43c2309e8e40",
+  "583d0d06df0f19c4",
+  "93b5e9341565aab7",
+  "65125252f3e91ad3",
+  "82f24e9379ff7ea1",
+  "52d2dc8d1eaf96e8",
+  "24f75016afda8631",
+  "0a08b68f9c129dfd",
+  "5986c86937417cc1",
+  "6a107c3d4543ef3f",
+  "d573c563cbdc1441",
+  "193a57192cf88364",
+  "df1b1fd7fa9569b3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 7
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793546309.9153388,
+ "dernier_passage_actus": 1793548592.2078297,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Didier Deschamps et Antonio Conte ciblés par la Juventus (RMC Sport)",
-   "t": 1793310456
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Real Madrid réclame 80 millions aux clubs anglais (RMC Sport)",
-   "t": 1793312798
-  },
   {
    "genre": "actu",
    "resume": "Younès Belhanda règle ses comptes avec Walid Regragui (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Bixente Lizarazu recadre fermement Kylian Mbappé (Foot Mercato)",
    "t": 1793544056
+  },
+  {
+   "genre": "actu",
+   "resume": "Ibrahim Maza associé au Paris Saint-Germain (Fennec Football)",
+   "t": 1793548738
+  },
+  {
+   "genre": "actu",
+   "resume": "Gary Neville très inquiet pour Manchester United (Sky Sports)",
+   "t": 1793548742
   }
  ],
  "matchs": {
