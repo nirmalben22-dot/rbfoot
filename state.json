@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0d435c2413a5dc96",
-  "c7d05cc35b855c9b",
-  "71e9183ddc9e2bf5",
-  "432fd43bba3dc1d9",
-  "889bb4a73e918d08",
-  "8c29c05cad5effa9",
-  "5c1a943458b23637",
-  "55ed7c68f48528e0",
-  "297f416fb8e7e70d",
-  "d3963533c26f8465",
-  "4da3098917a018ee",
-  "09bd5614ca540b82",
-  "7b421a1ce8451f06",
-  "d3d7ae892cfff382",
-  "6d8435979b0d195a",
-  "e35bc753f7a6c542",
-  "df47c4aaf88797b3",
-  "7252c514e88ccf65",
-  "c9e8e9ff8e84f610",
-  "17efcec8d4f3e457",
-  "b45ef519a6b94617",
-  "97494e7b64bf7f7b",
-  "d7c13ce1ecc223df",
-  "d4dea5d05fda35f9",
-  "d74c9353a83ca8c1",
-  "dbd339ec5036aefa",
-  "84daad732692bcac",
-  "f2ee8d80c605a7e2",
-  "b2d5e682629422da",
   "fcebcaf6ee3f8150",
   "6af58f0cf193528f",
   "ef1839faa9c25914",
@@ -800,32 +771,51 @@
   "6cd917719f7ea556",
   "f3e87f788b02e4fe",
   "0c69fffa46ebf065",
-  "a72a1056abcf6a37"
+  "a72a1056abcf6a37",
+  "9d34b3b479cf67b3",
+  "17e2f4424a2096ac",
+  "fe830bbb9d71a824",
+  "bb397caf6682cec3",
+  "e842f1447307fa9c",
+  "6f6cd11e200e3095",
+  "4b0eb5fa89baf30f",
+  "5839abfc6b8f23dd",
+  "e1f58a4949ba3ad1",
+  "2a1dcb2dba5650c4",
+  "5206dd06356d157c",
+  "bf46b52585b1537a",
+  "775ad426c3057c89",
+  "6d5d087a21386ddb",
+  "8dd75faf06d2c16b",
+  "02936383c4bcc800",
+  "b10a66686540ed5d",
+  "11b1344f76cc90e5",
+  "c21db391e841ff22",
+  "86ecda3c5e1e3861",
+  "d37452cbfb05f3c3",
+  "e62865fe8e4dc736",
+  "8b4728ab890606f9",
+  "42a134d7f12405c0",
+  "533493f66ed7fa1f",
+  "2a56195549756759",
+  "326b0cfa1f4cd9b6",
+  "449c71cc6dd85aae",
+  "b0fee5f3e5bc16dc"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 24
+   "n": 25
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793557739.7873216,
+ "dernier_passage_actus": 1793560683.4261045,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le patron de l'AC Milan promet du lourd au mercato (Foot Mercato)",
-   "t": 1793361336
-  },
-  {
-   "genre": "actu",
-   "resume": "La Coupe d'Afrique des Nations revient au format initial (Voetbal International)",
-   "t": 1793364332
-  },
   {
    "genre": "actu",
    "resume": "La MLS officialise un changement historique de calendrier (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "José Mourinho se moque ouvertement des supporters du Racing Santander (Foot Mercato)",
    "t": 1793557889
+  },
+  {
+   "genre": "actu",
+   "resume": "Des nouvelles rassurantes pour la blessure de Michael Olise (Foot Mercato)",
+   "t": 1793560744
+  },
+  {
+   "genre": "actu",
+   "resume": "La presse catalane scandalisée par le penalty obtenu par Kylian Mbappé (RMC Sport)",
+   "t": 1793560749
   }
  ],
  "matchs": {
