@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "cbfea396e05f27aa",
-  "18217431c4a9ca6b",
-  "9be86cc2a2aaa639",
-  "705b3f7786cbb135",
-  "5ceb0f5d78e353e6",
-  "eb0a8eff91413091",
-  "33e5b1c9a66be07f",
-  "a65eac87730b9123",
-  "914752a6d04fb280",
-  "34246e8f124fb7dd",
-  "fd38bfaf2f58554b",
-  "07e2f3c43b46e9cc",
-  "489d3e567a09b8fc",
-  "e363b5c13b2f33f8",
-  "0cb5bd3044a3b34f",
-  "a884d4326eb4c481",
-  "71aaa94c0b46a875",
-  "94db5400a3c7080d",
-  "275a761854ee3b25",
-  "50ad89710f779e01",
-  "bd832f59aabebcb6",
-  "6763c6cedf475ffe",
-  "e9eeb3d6b09ec768",
-  "2280a6a676e9d145",
-  "ea3444a83343f926",
   "970f533c8cecd260",
   "ec42926059462168",
   "92edeeea4ff87ecb",
@@ -800,27 +775,47 @@
   "ae48ffd42cf308c5",
   "77bcd3e2ffe28901",
   "dbb6ab6d27c57229",
-  "021681094331acc7"
+  "021681094331acc7",
+  "1b0fbc1c1eb37242",
+  "11f906b488428308",
+  "23fc048b3bf7c720",
+  "d8042f828ae4de30",
+  "cc928d7bf1e3e6ef",
+  "9826ad545cb4f0c1",
+  "4e52a8201478614b",
+  "b33da2f11cf88129",
+  "0c93cddae76d5a20",
+  "ee59635b781e4003",
+  "3d424100cd50f3ba",
+  "f301be39ae551884",
+  "5f3202810b2ee4f3",
+  "1d60737b255b921b",
+  "527c38a7d7787c0b",
+  "735b8ad08bcb4d15",
+  "1f5c6e77db7b89be",
+  "4823cc92c3f7a240",
+  "29b37303215d6d8f",
+  "71071ae0fa41c9e5",
+  "bbd9adb69751bc43",
+  "714989c767208f66",
+  "06994c951ec513c1",
+  "c04bef12cffbbb17",
+  "4832f3f24ef297ee"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793535283.8198285,
+ "dernier_passage_actus": 1793538881.0920982,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Jack Grealish écarté du groupe à Everton pour indiscipline (BBC Sport)",
-   "t": 1793304811
-  },
   {
    "genre": "actu",
    "resume": "Azzedine Ounahi opéré avec succès après une grave blessure (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Emiliano Martinez complimente la France et tacle l Espagne (RMC Sport)",
    "t": 1793535440
+  },
+  {
+   "genre": "actu",
+   "resume": "Antoine Griezmann refuse désormais de parler aux médias français (Foot Mercato)",
+   "t": 1793539006
   }
  ],
  "matchs": {
