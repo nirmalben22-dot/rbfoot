@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "970f533c8cecd260",
-  "ec42926059462168",
-  "92edeeea4ff87ecb",
-  "9b45a90e22aadf54",
-  "2ae416f34b71f91f",
-  "023e1b6d21b1ed50",
-  "16786be93e472ae0",
-  "dc6af38b90155db4",
-  "ec83d42344eacf1a",
-  "bab45d2695861f69",
-  "04e02d1a902dd48e",
-  "9fb73c593a50f210",
-  "1d80feccf6472c1a",
-  "2f2ba08152172ec7",
   "41443839f874b234",
   "5cc9b7215f0a9389",
   "d0640ad96eeacf74",
@@ -800,27 +786,36 @@
   "714989c767208f66",
   "06994c951ec513c1",
   "c04bef12cffbbb17",
-  "4832f3f24ef297ee"
+  "4832f3f24ef297ee",
+  "1d800f6b2067a31c",
+  "bd864075c383fcb6",
+  "7eb1bc7790857a5f",
+  "4372291c5166e12f",
+  "9fd657e4cb3dc3d6",
+  "50357c20871f6d7b",
+  "eb949c59f5934f3b",
+  "4c5601899423c6d6",
+  "79488eb64d19e565",
+  "8059e13c7e0a8c20",
+  "51fadf4dd982135e",
+  "d00a4c09a0df8b39",
+  "fc8db633141a2a97",
+  "583601b75f1afa0e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-01",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-01",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793538881.0920982,
+ "dernier_passage_actus": 1793541635.4820118,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Azzedine Ounahi opéré avec succès après une grave blessure (Foot Mercato)",
-   "t": 1793304817
-  },
   {
    "genre": "actu",
    "resume": "Le FC Barcelone prêt à écouter les offres pour Jules Koundé (Tribuna.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Antoine Griezmann refuse désormais de parler aux médias français (Foot Mercato)",
    "t": 1793539006
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Paris Saint-Germain officialise deux nouvelles signatures (Sport.fr)",
+   "t": 1793541770
   }
  ],
  "matchs": {
