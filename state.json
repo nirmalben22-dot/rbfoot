@@ -1,57 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5c8e007f8ff6ca79",
-  "e848b3b4dd671c2d",
-  "9518526e29f9873d",
-  "47c09d6fc5335b14",
-  "edbbccead579c91b",
-  "f3e9a3bb115a8200",
-  "4e0de2fb2883a244",
-  "c6e12518bd8296d3",
-  "eefcf41ac225f69a",
-  "9de54807d6b6f284",
-  "f6d1bf9c50f56fee",
-  "1c4de87ebc2d101a",
-  "369843ec8c31dcca",
-  "e93b1f98728cf12a",
-  "2659f731d718b2e7",
-  "156aacac87a208db",
-  "374271e05b53c23d",
-  "dda53469dff4e16b",
-  "f7b7423a67fa747c",
-  "7a7db76193891afe",
-  "596c368c6c5caf92",
-  "63f6fd61570d4c6b",
-  "42a2a77ef8ddda7b",
-  "004300abac5877ca",
-  "79268e0e1aac341d",
-  "e7c8328807c9eacd",
-  "b63a78b3080f0503",
-  "465a21dbfcfdff35",
-  "09e84bd472d9f523",
-  "701e4365a6421e30",
-  "8c8ee79a440a42b6",
-  "d2a6405f54df5e76",
-  "ada9910f72da8951",
-  "e3671aba2df5346d",
-  "42267a89dd14280a",
-  "6231dbb3865bd1df",
-  "4a9c59c9fd066427",
-  "30726fe560fad71e",
-  "a60ecce96c274228",
-  "7620eda05129aad4",
-  "a90ffe0411b62ab0",
-  "fb553fc76f655bc6",
-  "b531bdd8d2d883a1",
-  "30f5c3caf651a95b",
-  "41febf63da422224",
-  "f5a034a112a7e137",
-  "17ca1df8c2651f67",
-  "a134b8534cd11902",
-  "c091863f50e8f7b7",
-  "5da87c13c72ff3fb",
-  "79e64e6edcf45c39",
   "b8715d83a01faee1",
   "a76781d9aaf8b55d",
   "dd437ed8bc9cafba",
@@ -800,32 +749,73 @@
   "b25d665c01e0912d",
   "627c72f80bb63263",
   "01784f312c1e911d",
-  "524dcdf47903d663"
+  "524dcdf47903d663",
+  "ec0658ad817aba1b",
+  "331cc2922c450ab7",
+  "7ab68dac4aeb6c11",
+  "dd7d1a47c2ae98fd",
+  "9205f61207523c20",
+  "2eb65ea555df612b",
+  "54fe0caf32d44385",
+  "b87ff1e108931d12",
+  "fed5a5926c98bf76",
+  "95dc26d2e39073c4",
+  "209addfd67ddf126",
+  "acc95dbf1b3e8c78",
+  "623dc6b9771eadda",
+  "a51a6e0102d953e1",
+  "8432dd28cfd8555a",
+  "64dd2dcca5c1ea94",
+  "1b12e25222c72000",
+  "8c873e1af3fda8c6",
+  "9e684a65c46382a3",
+  "fc28d40983276a7b",
+  "6a8b6031c4cc04a1",
+  "0f2a81268446102e",
+  "cc13a73971ce7843",
+  "acbb9eaee8cd2b79",
+  "d4775a1284f99646",
+  "1c9dda25f95d759a",
+  "8845cd81866d0a01",
+  "2af8421ff9b9769d",
+  "f1310fc139cc3e64",
+  "fec01545f394078d",
+  "d1cf03b7c3d22094",
+  "26d20b3845fa24c5",
+  "76a288f9820d8951",
+  "3e8d9431e3b42f9a",
+  "53fd7cdf423276c1",
+  "d8424aa102f417b1",
+  "b659c8d176a5a13f",
+  "17fc4c9fb396e453",
+  "dbcac39665ec0cd9",
+  "20177d17d17d01be",
+  "420f9a1916fd3cbe",
+  "5eb25c836c99ab16",
+  "66c550fd605467de",
+  "d5a64c3f3ed45d07",
+  "a6fbea3bafba05fa",
+  "084e063f9b61a3fd",
+  "53d2e28ef37fa526",
+  "ee403f853d99a34c",
+  "f11ae43099abc4a7",
+  "8d78372531c3372d",
+  "39abf3adc1c2a70b"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 12
+   "n": 13
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793622123.974759,
+ "dernier_passage_actus": 1793626806.5513816,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Paulo Fonseca en discussion avec le Sporting CP (L'Équipe)",
-   "t": 1793405780
-  },
-  {
-   "genre": "actu",
-   "resume": "Olivier Giroud offre la victoire à Lille dans le derby (L'Équipe)",
-   "t": 1793405785
-  },
   {
    "genre": "actu",
    "resume": "Enquête autour de paris suspects sur le Ballon d'Or (Foot Sur 7)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le Havre s'enfonce dans la crise avec un nouveau départ (Foot Mercato)",
    "t": 1793622175
+  },
+  {
+   "genre": "actu",
+   "resume": "Une prolongation record imminente à Arsenal (TOP Mercato)",
+   "t": 1793626862
+  },
+  {
+   "genre": "actu",
+   "resume": "Paulo Fonseca a annoncé son départ au vestiaire lyonnais (RMC Sport)",
+   "t": 1793626867
   }
  ],
  "matchs": {
@@ -1178,11 +1178,6 @@
    "competition": "Premier League",
    "coup_envoi": 1793458800
   },
-  "1557450": {
-   "affiche": "Chelsea - Manchester United",
-   "competition": "Premier League",
-   "coup_envoi": 1793449800
-  },
   "1557451": {
    "affiche": "Coventry - Sunderland",
    "competition": "Premier League",
@@ -1213,11 +1208,6 @@
    "competition": "Liga",
    "coup_envoi": 1793467800
   },
-  "1570439": {
-   "affiche": "Levante - Atletico Madrid",
-   "competition": "Liga",
-   "coup_envoi": 1793451600
-  },
   "1570441": {
    "affiche": "Rayo Vallecano - Celta Vigo",
    "competition": "Liga",
@@ -1237,11 +1227,6 @@
    "affiche": "Fenerbahçe - Göztepe",
    "competition": "Süper Lig",
    "coup_envoi": 1793462400
-  },
-  "1584454": {
-   "affiche": "Kocaelispor - Rizespor",
-   "competition": "Süper Lig",
-   "coup_envoi": 1793451600
   }
  },
  "programme_jour": "2026-10-31",
