@@ -1,56 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "047ef7d6fb11fbb0",
-  "28663d566ff04346",
-  "55f903c2c239cdda",
-  "f6fada142dd5db64",
-  "d69063385936d488",
-  "e09baea7a9c515e2",
-  "c782a521cb568099",
-  "d8f90461bc12e984",
-  "8e7d7c006458cbdc",
-  "f968bd24093350d0",
-  "fe034c69e3da1c85",
-  "b57d5966b61b9f4f",
-  "1a02ce3a9267c677",
-  "56cf7a14e27b80ed",
-  "98ceb4f78cb542e1",
-  "79542d011e48e36b",
-  "d79edca86a9583db",
-  "37c1f7cc27d35c32",
-  "d094305b19ca01a7",
-  "9c7401c9de0a9f47",
-  "bcfbc0681b1ed989",
-  "7fc3bcc14f100145",
-  "96ef2592b4088507",
-  "039d59ca94eb3ddc",
-  "d753734727ce582e",
-  "a1affb218728f0fa",
-  "2aa31947218254fc",
-  "79cf7d0d5e5894ee",
-  "e6fe0ba1ad2a5621",
-  "3f96015c167808c4",
-  "e2a2517931083cf8",
-  "8779f6858099628f",
-  "9f8db690eac35b98",
-  "579c0b80e223837d",
-  "ec74759a8078f06f",
-  "000f2f1539ef61c2",
-  "6bc17d2bb565365f",
-  "0e36d2b9a99c5912",
-  "50bf57c879aa235a",
-  "540645a5df39ba4b",
-  "9010d59d6011d8db",
-  "4a1b048962d48163",
-  "906f468cb58b5492",
-  "b65943c1b71f86eb",
-  "85130aed1de7254d",
-  "0b8d1b66498afa52",
-  "87b318bf94162c99",
-  "3f3fb0aa1db75f8d",
-  "e45cc7f9e731a50c",
-  "0598cf125d18578c",
   "43cfb96ca23c7f1c",
   "6052cdee4c2b7fa5",
   "56bb775aa138ed04",
@@ -800,32 +750,72 @@
   "022a22b63239167c",
   "be89b5ba926e2f03",
   "7a3b1b440683cd54",
-  "ec0d9436b91b81e2"
+  "ec0d9436b91b81e2",
+  "b651ae56be3d5c38",
+  "55d585d4d03fc046",
+  "9616f505867a7c70",
+  "f172a70fc922cc93",
+  "913c5e8ff0e8a8d1",
+  "195f3bb87a5955ab",
+  "31ac509e75c74ef4",
+  "0ca226c8b649cc04",
+  "d1ca2237136d03f1",
+  "88e0b7790d6b2407",
+  "533ddf9c58e9cf67",
+  "70adb4491bc7f465",
+  "35ceb121b98105cc",
+  "bd4b3b38449b0dda",
+  "3ce7e42d2d4d7f5c",
+  "7d1c12c54fa261da",
+  "3da5a9f4539760ef",
+  "fddb344c9e50e5bb",
+  "30a618dd98416c5d",
+  "8193692aff3a03af",
+  "1708d43c9e46c8a1",
+  "e2028e11a7e3f53d",
+  "02387a35a4265c28",
+  "8dc3ae022a4c1394",
+  "1270dd8625c2f464",
+  "f9880d8ca57b0540",
+  "5d6da3b35954baee",
+  "54f6f7e95744193c",
+  "3a429186cb2b3d24",
+  "9cd6fb318613d115",
+  "89e1bfdfee2d115a",
+  "f788f3bd5ca99a2b",
+  "3c2461ab77b6edf7",
+  "42cbd25fcf71426f",
+  "fdfbea2424635a78",
+  "a8131b3b7ff45a00",
+  "1b3530ae86701a31",
+  "24f53fc4d2266cc5",
+  "cdb4fb27de6a2198",
+  "e4b121f285dceb34",
+  "21923608eddc0859",
+  "1598cc98090a1fb0",
+  "88d7747453c66ba7",
+  "6fcb30bd3e8929d9",
+  "632baa7fa41803ab",
+  "9ad36c4a350287d2",
+  "39575ac4ec32c3af",
+  "f456a51f9ed38d96",
+  "941f6b5f933a82a5",
+  "c967508ea86507ad"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793641246.0490212,
+ "dernier_passage_actus": 1793644597.6016393,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Facundo Medina cash sur son passage manqué à l'OM (RMC Sport)",
-   "t": 1793445385
-  },
-  {
-   "genre": "actu",
-   "resume": "La renaissance d'Andrea Belotti en Serie B (Foot Mercato)",
-   "t": 1793447761
-  },
   {
    "genre": "actu",
    "resume": "Le PSG veut blinder son jeune latéral David Boly (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Premières tensions autour de la gestion de Hansi Flick au FC Barcelone (L'Équipe)",
    "t": 1793641397
+  },
+  {
+   "genre": "actu",
+   "resume": "Didier Digard quitte officiellement son poste d'entraîneur du Havre (RMC Sport)",
+   "t": 1793644660
+  },
+  {
+   "genre": "actu",
+   "resume": "Un joueur de D2 espagnole victime d'un arrêt cardiaque en plein match (L'Équipe)",
+   "t": 1793644666
   }
  ],
  "matchs": {
@@ -1122,16 +1122,6 @@
    "affiche": "AC Milan - Inter",
    "competition": "Serie A",
    "coup_envoi": 1793475900
-  },
-  "1552208": {
-   "affiche": "Heerenveen - NEC Nijmegen",
-   "competition": "Eredivisie",
-   "coup_envoi": 1793468700
-  },
-  "1552209": {
-   "affiche": "PSV Eindhoven - Willem II",
-   "competition": "Eredivisie",
-   "coup_envoi": 1793468700
   },
   "1552210": {
    "affiche": "Ajax - AZ Alkmaar",
