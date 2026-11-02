@@ -1,29 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bf46b52585b1537a",
-  "775ad426c3057c89",
-  "6d5d087a21386ddb",
-  "8dd75faf06d2c16b",
-  "02936383c4bcc800",
-  "b10a66686540ed5d",
-  "11b1344f76cc90e5",
-  "c21db391e841ff22",
-  "86ecda3c5e1e3861",
-  "d37452cbfb05f3c3",
-  "e62865fe8e4dc736",
-  "8b4728ab890606f9",
-  "42a134d7f12405c0",
-  "533493f66ed7fa1f",
-  "2a56195549756759",
-  "326b0cfa1f4cd9b6",
-  "449c71cc6dd85aae",
-  "b0fee5f3e5bc16dc",
-  "49b975c5fa66e5ee",
-  "de0f29e3734d81fa",
-  "5fcee519ab24ffd2",
-  "44c45963e7ccddc8",
-  "0013f59c4b66d211",
   "ce6ac31aa27f3452",
   "c01db2eb2496f332",
   "2f159abed18dabb0",
@@ -800,32 +777,45 @@
   "350bc0e358bbb519",
   "d742ab8942869d67",
   "6e321e2cfe76cc83",
-  "4e816aa8fb997ded"
+  "4e816aa8fb997ded",
+  "a96cdcedef1a4d24",
+  "eedd744cd43a8b64",
+  "778b4c063f6f8107",
+  "b053f33aeace2801",
+  "5578ba17e6adfafc",
+  "9c6fa6d38088fb0c",
+  "6bf5aaab8dfcb809",
+  "79a93cd1c05429f1",
+  "f3fa451674a1e6ab",
+  "9849a39e8ac387ea",
+  "e5c0e55f17ff8712",
+  "64f0cef6dddf4600",
+  "b1e0726b473dbf8a",
+  "d8b7961fbb812ce5",
+  "2deff500db0bf102",
+  "9967cfebc0acb00c",
+  "7d107731c4dae27d",
+  "790ce6ce52190708",
+  "e98495978ecc7882",
+  "3057b78a860d902c",
+  "0838f9c5768e946d",
+  "3d321fb44f14231b",
+  "aa8bfb5d2ec19f94"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793651220.3222814,
+ "dernier_passage_actus": 1793654296.5176144,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Alan Shearer tacle Bruno Fernandes après des tensions à Manchester United (Foot Mercato)",
-   "t": 1793456187
-  },
-  {
-   "genre": "actu",
-   "resume": "La Chine suspend la diffusion de la Liga à cause de Kylian Mbappé (Foot Mercato)",
-   "t": 1793460671
-  },
   {
    "genre": "actu",
    "resume": "Le Havre se sépare de son entraîneur Didier Digard (Foot Mercato)",
@@ -1115,15 +1105,19 @@
    "genre": "actu",
    "resume": "L'AC Milan piste le défenseur Massire Sylla (Tribuna.com)",
    "t": 1793651370
+  },
+  {
+   "genre": "actu",
+   "resume": "Tension à l'OM après la sortie d'Ali Zarrak (Foot Mercato)",
+   "t": 1793654351
+  },
+  {
+   "genre": "actu",
+   "resume": "Le boycott chinois inquiète le président de la Liga (L'Équipe)",
+   "t": 1793654356
   }
  ],
- "matchs": {
-  "1575532": {
-   "affiche": "FC Porto - Estoril",
-   "competition": "Liga Portugal",
-   "coup_envoi": 1793478600
-  }
- },
+ "matchs": {},
  "programme_jour": "2026-10-31",
  "programme_maj": 1793476755.5841758
 }
