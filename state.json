@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "714989c767208f66",
-  "06994c951ec513c1",
-  "c04bef12cffbbb17",
-  "4832f3f24ef297ee",
-  "1d800f6b2067a31c",
-  "bd864075c383fcb6",
-  "7eb1bc7790857a5f",
-  "4372291c5166e12f",
-  "9fd657e4cb3dc3d6",
-  "50357c20871f6d7b",
-  "eb949c59f5934f3b",
-  "4c5601899423c6d6",
-  "79488eb64d19e565",
-  "8059e13c7e0a8c20",
-  "51fadf4dd982135e",
-  "d00a4c09a0df8b39",
-  "fc8db633141a2a97",
-  "583601b75f1afa0e",
-  "430131cc609ecaf8",
-  "75efce2929e1f06b",
-  "c4bf85724dd498b6",
-  "c9a0487b2d8731ee",
-  "50a2fc394d6eb9cb",
-  "b1dbe0d9be598423",
-  "66c0bc1a568e0cae",
-  "a9c4c66b944f52d5",
-  "eef61cbafff51d2f",
-  "6580a7c9d764b705",
-  "cf147e8639be5a2c",
-  "f3ca3068690b05d1",
-  "f7accdb293da5a1c",
-  "6111a812c1785dac",
-  "948626f9c6adabf9",
-  "6d9cea84a3c85174",
-  "c4891077aa469b0e",
-  "21563f9f2d089a1f",
   "5a89fb4c6214fe2b",
   "cfbef4b9d7b78a2c",
   "74b5d81a87dcf50c",
@@ -800,27 +764,58 @@
   "2d3c7dac8a958716",
   "d64f61dbf85c9d90",
   "7df9ae2b63bec37c",
-  "deb5e09ae8061eba"
+  "deb5e09ae8061eba",
+  "2350b4d2350c2990",
+  "e60d5c23b7d18438",
+  "8c236ab9bd1a956b",
+  "f382049a06886af0",
+  "e8da8871f1f11498",
+  "ec0b37c10fec1244",
+  "212627274e94635a",
+  "9b944f86cdbb3d1a",
+  "e8e58431d5f009e1",
+  "9c3210ce22672993",
+  "24249f09ea6d5d7e",
+  "3bd650148b1593a1",
+  "394fe412b2674776",
+  "b6f671fb3a8b57dc",
+  "a78ebe06fbaed333",
+  "4c462cdefed77628",
+  "2bbd49a2ce9245c6",
+  "33f6b37969855074",
+  "4451f5e01a569887",
+  "936eb29e071ae512",
+  "ccf17452ecf06336",
+  "7d29abd7fe3dd87a",
+  "14fcda9ba7eb2c09",
+  "29996a16ab008707",
+  "6c407e60276bc80e",
+  "d467beaa0f941d11",
+  "32a09447a0e2895d",
+  "a5b80b09911c7568",
+  "7526914346d82676",
+  "8858260daac6417d",
+  "08f29ce0c1a2354a",
+  "a038b7f8d2d7237a",
+  "6cf537ab3ed906a9",
+  "4dd354c001391308",
+  "8d1c7e9939c32e41",
+  "acb3b1747d5ac540"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 12
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793630435.483133,
+ "dernier_passage_actus": 1793633939.9651682,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Enquête autour de paris suspects sur le Ballon d'Or (Foot Sur 7)",
-   "t": 1793409951
-  },
   {
    "genre": "actu",
    "resume": "Des paris suspects sèment le doute sur le Ballon d'Or 2026 (Fennec Football)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Paulo Fonseca a annoncé son départ au vestiaire lyonnais (RMC Sport)",
    "t": 1793626867
+  },
+  {
+   "genre": "actu",
+   "resume": "Le jeune attaquant JJ Gabriel vers le Real Madrid (Foot Mercato)",
+   "t": 1793633987
   }
  ],
  "matchs": {
@@ -1127,11 +1127,6 @@
    "affiche": "Udinese - AS Roma",
    "competition": "Serie A",
    "coup_envoi": 1793466000
-  },
-  "1552207": {
-   "affiche": "Feyenoord - Fortuna Sittard",
-   "competition": "Eredivisie",
-   "coup_envoi": 1793460600
   },
   "1552208": {
    "affiche": "Heerenveen - NEC Nijmegen",
@@ -1163,31 +1158,6 @@
    "competition": "Premier League",
    "coup_envoi": 1793476800
   },
-  "1557448": {
-   "affiche": "Bournemouth - Leeds",
-   "competition": "Premier League",
-   "coup_envoi": 1793458800
-  },
-  "1557449": {
-   "affiche": "Brentford - Nottingham Forest",
-   "competition": "Premier League",
-   "coup_envoi": 1793458800
-  },
-  "1557451": {
-   "affiche": "Coventry - Sunderland",
-   "competition": "Premier League",
-   "coup_envoi": 1793458800
-  },
-  "1557452": {
-   "affiche": "Hull City - Ipswich",
-   "competition": "Premier League",
-   "coup_envoi": 1793458800
-  },
-  "1557454": {
-   "affiche": "Manchester City - Brighton",
-   "competition": "Premier League",
-   "coup_envoi": 1793458800
-  },
   "1557456": {
    "affiche": "Tottenham - Crystal Palace",
    "competition": "Premier League",
@@ -1203,20 +1173,10 @@
    "competition": "Liga",
    "coup_envoi": 1793467800
   },
-  "1570441": {
-   "affiche": "Rayo Vallecano - Celta Vigo",
-   "competition": "Liga",
-   "coup_envoi": 1793459700
-  },
   "1575532": {
    "affiche": "FC Porto - Estoril",
    "competition": "Liga Portugal",
    "coup_envoi": 1793478600
-  },
-  "1575535": {
-   "affiche": "Moreirense - Estrela",
-   "competition": "Liga Portugal",
-   "coup_envoi": 1793460600
   },
   "1584451": {
    "affiche": "Fenerbahçe - Göztepe",
