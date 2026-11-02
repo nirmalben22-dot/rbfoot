@@ -1,11 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "91be6328a263fb60",
-  "ff30d74e9765ca6a",
-  "e7a461e762f0e3c8",
-  "67bf5d121985e1ce",
-  "80e9f259f318a75b",
   "2c48a82d415fdec4",
   "0c9b4a0ac0560d1a",
   "6648dd2f19c8dd60",
@@ -800,27 +795,27 @@
   "ff34e75f4c981ee3",
   "08a7e983d70ef7f2",
   "0ee7b1984d5a2311",
-  "5ff724fe8f20ed44"
+  "5ff724fe8f20ed44",
+  "ca2d5c00fa638417",
+  "f59d1374e590519f",
+  "719dc1754377266f",
+  "1b8c77d22193f373",
+  "afe749335525991e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 6
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793590155.828471,
+ "dernier_passage_actus": 1793594026.2960536,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Unai Simon sacré meilleur gardien de la saison (L'Équipe)",
-   "t": 1793394047
-  },
   {
    "genre": "actu",
    "resume": "Luis Enrique devient l'entraîneur le plus victorieux du PSG (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Real Madrid fortune promise si Yan Diomande gagne le Ballon d Or (Africa Top Sports)",
    "t": 1793590307
+  },
+  {
+   "genre": "actu",
+   "resume": "Une offre de transfert transmise en janvier pour Bruno Fernandes (TEAMtalk)",
+   "t": 1793594101
   }
  ],
  "matchs": {
