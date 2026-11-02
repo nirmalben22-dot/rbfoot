@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2c48a82d415fdec4",
-  "0c9b4a0ac0560d1a",
-  "6648dd2f19c8dd60",
-  "34791d98eec3ff13",
-  "a2ff7d983ac9f10b",
-  "cd083ea56718b11e",
-  "27cf890b65e4ca61",
   "f6960ee5deac1fe0",
   "4ed77600d7abc731",
   "2a6911a3cf8be642",
@@ -800,27 +793,29 @@
   "f59d1374e590519f",
   "719dc1754377266f",
   "1b8c77d22193f373",
-  "afe749335525991e"
+  "afe749335525991e",
+  "9c599e0522cb27b9",
+  "a635ee900bffbbdb",
+  "330d3af335775538",
+  "76f931b2813a594b",
+  "2e566b57fb81decd",
+  "7b0080154d8aeb30",
+  "906487067fec108a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 7
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793594026.2960536,
+ "dernier_passage_actus": 1793597819.2917135,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Luis Enrique devient l'entraîneur le plus victorieux du PSG (Foot Mercato)",
-   "t": 1793396458
-  },
   {
    "genre": "actu",
    "resume": "Les votes les plus improbables du Ballon d'Or révélés (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Une offre de transfert transmise en janvier pour Bruno Fernandes (TEAMtalk)",
    "t": 1793594101
+  },
+  {
+   "genre": "actu",
+   "resume": "Lassine Sinayoko marche sur les traces de George Weah (L'Équipe)",
+   "t": 1793597867
   }
  ],
  "matchs": {
