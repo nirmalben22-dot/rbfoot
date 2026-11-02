@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d5516b4e09a89267",
-  "5b6594dd62b716ad",
-  "42ce505ca30bc8e5",
-  "0d2cc474cfae02dd",
-  "fddb1ce4c1e28c35",
-  "dbab116994974056",
-  "beeae5583c1b0dc1",
-  "93f87cb692e1338b",
-  "d3dbf9f86bb7596c",
-  "22c5cf5122789f00",
-  "c2533be1acc9bbf6",
-  "042f7145fecdd262",
-  "7e2a221f3b2e84d3",
-  "ad1d250794826aa1",
-  "caa45ab7054ad6be",
-  "c8ba570ac6007842",
-  "2c48bc4e346e68b4",
-  "497a776c4187dd87",
-  "7c49ef207d25be14",
-  "8223bbf1cecf9bae",
-  "e86e84de107bd5cd",
-  "39000b59bfa1f8a1",
-  "4a5c643f088d6923",
-  "0237dcf54b47f4aa",
-  "3d423c092b915c73",
-  "06f34f8a17edd6dc",
-  "f6f161f3de555453",
-  "515010ebb33fdaee",
-  "f37e95ea712e9c59",
-  "39fb79d709872842",
-  "64e008d6f2c7425b",
-  "56b5c0967a366f1c",
-  "190900933e82bf90",
-  "de145923058e619e",
   "047ef7d6fb11fbb0",
   "28663d566ff04346",
   "55f903c2c239cdda",
@@ -800,32 +766,56 @@
   "ca81f065a1a58b75",
   "a8cd3ad2c05720f8",
   "0de32eca22fb9cd8",
-  "815660b921acab5e"
+  "815660b921acab5e",
+  "d604ab9d4ffd8734",
+  "61bb7a24705fd98b",
+  "58ab9e0a9cc4470b",
+  "4b17f74af0d998c1",
+  "54a3b88af2cc2018",
+  "ba45be1bd0a2fc1b",
+  "6ccaffcaf25fddf3",
+  "1bab105f573c57e1",
+  "e598bf24a71d29de",
+  "479100752c73848a",
+  "e88eeff3a7e1cdc2",
+  "c86d55ca66f868e1",
+  "2cc9df24c612e0b8",
+  "c1b9cf39f31b4cdb",
+  "ce9f307f5989dfd3",
+  "b5dc0a348cbf3c86",
+  "f91424ac2fde81c4",
+  "02067ef4a3e79f52",
+  "51139246a6a28dcd",
+  "91adac4eccf66c5e",
+  "b18ebf8a632c6cf0",
+  "bf84032b5b243a3a",
+  "d7ab509df88d6d85",
+  "a208ff29c7b77c0a",
+  "ac4518bdeee39354",
+  "cd0fcb33fa2c5e78",
+  "f330312ae3288f83",
+  "22508271fdc90f8f",
+  "46f6413eaf4422cd",
+  "7909d259a95973f9",
+  "022a22b63239167c",
+  "be89b5ba926e2f03",
+  "7a3b1b440683cd54",
+  "ec0d9436b91b81e2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793637833.813827,
+ "dernier_passage_actus": 1793641246.0490212,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Aston Villa brille avec une méthode inattendue en Premier League (L'Équipe)",
-   "t": 1793421560
-  },
-  {
-   "genre": "actu",
-   "resume": "Achraf Hakimi fait patienter le PSG pour sa prolongation (L'Équipe)",
-   "t": 1793445380
-  },
   {
    "genre": "actu",
    "resume": "Facundo Medina cash sur son passage manqué à l'OM (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Nabil Bentaleb forfait avec Lille en Ligue des champions (L'Équipe)",
    "t": 1793637896
+  },
+  {
+   "genre": "actu",
+   "resume": "Nouveau scandale fiscal autour de Gianni Infantino et la FIFA (Foot Mercato)",
+   "t": 1793641392
+  },
+  {
+   "genre": "actu",
+   "resume": "Premières tensions autour de la gestion de Hansi Flick au FC Barcelone (L'Équipe)",
+   "t": 1793641397
   }
  ],
  "matchs": {
@@ -1122,11 +1122,6 @@
    "affiche": "AC Milan - Inter",
    "competition": "Serie A",
    "coup_envoi": 1793475900
-  },
-  "1550186": {
-   "affiche": "Udinese - AS Roma",
-   "competition": "Serie A",
-   "coup_envoi": 1793466000
   },
   "1552208": {
    "affiche": "Heerenveen - NEC Nijmegen",
@@ -1158,20 +1153,10 @@
    "competition": "Premier League",
    "coup_envoi": 1793476800
   },
-  "1557456": {
-   "affiche": "Tottenham - Crystal Palace",
-   "competition": "Premier League",
-   "coup_envoi": 1793467800
-  },
   "1570434": {
    "affiche": "Barcelona - Alaves",
    "competition": "Liga",
    "coup_envoi": 1793476800
-  },
-  "1570435": {
-   "affiche": "Real Betis - Malaga",
-   "competition": "Liga",
-   "coup_envoi": 1793467800
   },
   "1575532": {
    "affiche": "FC Porto - Estoril",
