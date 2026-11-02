@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c8295fa500fc728d",
-  "588fd058389b10f4",
-  "f576764d8c8fc54d",
-  "a050b273bd2cadd8",
-  "f5f2e94a9bfcd6c5",
-  "9f06dfd2408e6814",
-  "1aabe996196de236",
-  "eb2fb0aa98695b26",
-  "81b66797b68155cf",
-  "7ef03104c9ea33bb",
-  "f311e345324aa37b",
-  "063e98088bdaa7b2",
-  "6f207cd499797ad6",
-  "c048855fc0a41ffc",
   "523867a80047abe8",
   "592f5377d3364c29",
   "3217a6c6c9ef155a",
@@ -800,32 +786,36 @@
   "49948041634b7ad1",
   "9871295fc24b57c4",
   "a25779fc685decf2",
-  "da3dd8177b55c365"
+  "da3dd8177b55c365",
+  "75bf80a414039182",
+  "785223b5377f9f91",
+  "e44d74c96604a463",
+  "487f14f973ec1782",
+  "91d21d7fb8ba4a35",
+  "b492f24bba8c370c",
+  "07091f2ab95dbf28",
+  "41cb9243ff2f5b68",
+  "a12024205b4b1c07",
+  "1e8105babce82dd5",
+  "d6a0856d7312a0ca",
+  "1a1ec98e0e378be2",
+  "d1dfcd409a74b7b9",
+  "d1abd8518fa321ff"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793583621.0811825,
+ "dernier_passage_actus": 1793586791.5114393,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Luis de la Fuente sacré entraîneur de la saison 2026 devant Luis Enrique (L'Équipe)",
-   "t": 1793388885
-  },
-  {
-   "genre": "actu",
-   "resume": "AC Milan : Endrick et Gonçalo Inácio visés cet hiver (Tribuna.com)",
-   "t": 1793391467
-  },
   {
    "genre": "actu",
    "resume": "Les révélations cash de Jorge Mendes sur João Félix et Bernardo Silva (Record)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Carlos Vicens sur la liste pour succéder à Paulo Fonseca (RMC Sport)",
    "t": 1793579084
+  },
+  {
+   "genre": "actu",
+   "resume": "Discussions imminentes à Manchester United pour l avenir de Lisandro Martinez (Tribuna.com)",
+   "t": 1793586843
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United ne négocie pas avec d autres entraîneurs dans le dos de Michael Carrick (Tribuna.com)",
+   "t": 1793586848
   }
  ],
  "matchs": {
