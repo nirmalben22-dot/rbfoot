@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5cbf0cf7b53b6faa",
-  "4dd5ddfffbe4e8f1",
-  "a22fda55b21f94d5",
-  "ee8747b604070539",
-  "eef6e8f59b104408",
-  "bfafdd7b11252a63",
-  "771e58ff1a98832a",
-  "e84fbf32c29e36c0",
-  "f8387b573d9e22b9",
-  "fe13b1fa51a484dc",
-  "6cd917719f7ea556",
-  "f3e87f788b02e4fe",
-  "0c69fffa46ebf065",
-  "a72a1056abcf6a37",
-  "9d34b3b479cf67b3",
-  "17e2f4424a2096ac",
-  "fe830bbb9d71a824",
-  "bb397caf6682cec3",
-  "e842f1447307fa9c",
-  "6f6cd11e200e3095",
-  "4b0eb5fa89baf30f",
-  "5839abfc6b8f23dd",
-  "e1f58a4949ba3ad1",
-  "2a1dcb2dba5650c4",
-  "5206dd06356d157c",
   "bf46b52585b1537a",
   "775ad426c3057c89",
   "6d5d087a21386ddb",
@@ -800,32 +775,47 @@
   "298f892309c5744c",
   "bf55a37c2fc49300",
   "eb0c3abff3c0cfcb",
-  "3df480d85e33cd9f"
+  "3df480d85e33cd9f",
+  "fff8660d225202dc",
+  "f95dc7aedbe4e17c",
+  "a7151c51b550e19e",
+  "8cfc5d7edfb28f85",
+  "0837c068fc4f904c",
+  "69dc1566074cb3f9",
+  "a3f8393d15986d37",
+  "3db68d921e3e7060",
+  "fff1715a0f4e56b6",
+  "b705d4db4dda7e80",
+  "36a8d0f3857233f7",
+  "edb342d219264f54",
+  "d61589b5804f1323",
+  "51bc61f0765afc10",
+  "c1f40aafcb94c813",
+  "566a0fb15081a7f5",
+  "3b41caa7db0264f2",
+  "cf4facee71b33f4f",
+  "5c62c1aedfddb5ef",
+  "55b36267b8c4a5d7",
+  "bc8a91507ee6d64a",
+  "350bc0e358bbb519",
+  "d742ab8942869d67",
+  "6e321e2cfe76cc83",
+  "4e816aa8fb997ded"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793648208.3391407,
+ "dernier_passage_actus": 1793651220.3222814,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "France Football porte plainte pour fuites au Ballon d'Or (Foot Mercato)",
-   "t": 1793453563
-  },
-  {
-   "genre": "actu",
-   "resume": "José Mourinho sort du silence sur la polémique Kylian Mbappé (Foot Mercato)",
-   "t": 1793456183
-  },
   {
    "genre": "actu",
    "resume": "Alan Shearer tacle Bruno Fernandes après des tensions à Manchester United (Foot Mercato)",
@@ -1115,39 +1105,19 @@
    "genre": "actu",
    "resume": "Prison requise contre des ultras brestois (L'Équipe)",
    "t": 1793648371
+  },
+  {
+   "genre": "actu",
+   "resume": "L'Udinese se sépare de Kosta Runjaic (L'Équipe)",
+   "t": 1793651356
+  },
+  {
+   "genre": "actu",
+   "resume": "L'AC Milan piste le défenseur Massire Sylla (Tribuna.com)",
+   "t": 1793651370
   }
  ],
  "matchs": {
-  "1550177": {
-   "affiche": "AC Milan - Inter",
-   "competition": "Serie A",
-   "coup_envoi": 1793475900
-  },
-  "1552210": {
-   "affiche": "Ajax - AZ Alkmaar",
-   "competition": "Eredivisie",
-   "coup_envoi": 1793476800
-  },
-  "1552211": {
-   "affiche": "Cambuur - GO Ahead Eagles",
-   "competition": "Eredivisie",
-   "coup_envoi": 1793476800
-  },
-  "1552809": {
-   "affiche": "Estac Troyes - Le Mans",
-   "competition": "Ligue 1",
-   "coup_envoi": 1793475900
-  },
-  "1557447": {
-   "affiche": "Aston Villa - Fulham",
-   "competition": "Premier League",
-   "coup_envoi": 1793476800
-  },
-  "1570434": {
-   "affiche": "Barcelona - Alaves",
-   "competition": "Liga",
-   "coup_envoi": 1793476800
-  },
   "1575532": {
    "affiche": "FC Porto - Estoril",
    "competition": "Liga Portugal",
