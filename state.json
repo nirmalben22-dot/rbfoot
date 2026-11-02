@@ -809,7 +809,7 @@
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 10
+   "n": 11
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
@@ -1232,11 +1232,6 @@
    "affiche": "Moreirense - Estrela",
    "competition": "Liga Portugal",
    "coup_envoi": 1793460600
-  },
-  "1584450": {
-   "affiche": "Erzurumspor FK - Çorum FK",
-   "competition": "Süper Lig",
-   "coup_envoi": 1793442600
   },
   "1584451": {
    "affiche": "Fenerbahçe - Göztepe",
