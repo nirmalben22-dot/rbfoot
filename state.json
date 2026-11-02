@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "43cfb96ca23c7f1c",
-  "6052cdee4c2b7fa5",
-  "56bb775aa138ed04",
-  "383e9a6aebaf0c3c",
-  "6cb7845d55ca28f0",
-  "21b1474a3e4b092f",
-  "4b7f9ad402b3e65a",
-  "6fbce67ece84a12f",
-  "127aed2fb7f87979",
-  "3fad8430bca6d7dd",
-  "cab1ac39431aa00e",
-  "a3dbe541d5813900",
-  "6767bb5072f6b4da",
-  "207f91d4e5d8f11c",
-  "59548aa31e01f53a",
-  "09625f10bb083eac",
-  "fbc9255e0c65af7d",
-  "8cfc5d7edfb28f85",
-  "283ea84892a096b1",
-  "c1fe46971d37204b",
-  "37d8d0884e87db29",
-  "cd2658fc90aec193",
-  "337dad24522a9cf9",
-  "73e9b251e83451d4",
-  "ba43ec6570f9c9f1",
-  "52b6f1107941c209",
-  "291cfb7e9c6528de",
-  "1f876b9f3fee32bb",
-  "3646f610d46d9bad",
-  "35cb77eeb71ae654",
-  "6504781828782720",
-  "680f1861cb956441",
-  "38eefdab7d30eb83",
-  "74b1abcc1cf8c51d",
-  "c2c0dab35bae34a1",
-  "e2f05d0976cbab69",
   "5cbf0cf7b53b6faa",
   "4dd5ddfffbe4e8f1",
   "a22fda55b21f94d5",
@@ -800,32 +764,58 @@
   "39575ac4ec32c3af",
   "f456a51f9ed38d96",
   "941f6b5f933a82a5",
-  "c967508ea86507ad"
+  "c967508ea86507ad",
+  "ad07b7cf5818c1b2",
+  "ab6e29a9e03a0856",
+  "64dcfb94da299ae1",
+  "e627dead58be8971",
+  "7c9c258d8e76e4d9",
+  "e8f5babe348e6353",
+  "9d40349d65ebcd2e",
+  "d094305b19ca01a7",
+  "a6656f93ac927408",
+  "225b858ee59f03e6",
+  "1f4f11246d94be0f",
+  "1f5416ef167fe533",
+  "c756e6233b3ea003",
+  "ca8b4b09a80c8083",
+  "841671b4b3f3c1f4",
+  "443af41c0eacee41",
+  "1e0c788e2f2693c0",
+  "99a1bad5b9d90f58",
+  "c7aec65906b261bd",
+  "fda089264d8312b7",
+  "3848113b9263a68c",
+  "265c09b5bde2be66",
+  "1addb93833d9902e",
+  "41a8491c4e447187",
+  "ed216ade4e211c8f",
+  "4fe35a6e4192bd14",
+  "5592bc142b68fd71",
+  "a0dcd3b982bc303c",
+  "7be21ef15780340b",
+  "d341e523025115c1",
+  "9c3da43dd38edffc",
+  "269c3aae1b7e937e",
+  "298f892309c5744c",
+  "bf55a37c2fc49300",
+  "eb0c3abff3c0cfcb",
+  "3df480d85e33cd9f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793644597.6016393,
+ "dernier_passage_actus": 1793648208.3391407,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le PSG veut blinder son jeune latéral David Boly (L'Équipe)",
-   "t": 1793450549
-  },
-  {
-   "genre": "actu",
-   "resume": "Jon Martin calme les ardeurs du Real Madrid et du Barça (Sky Sports)",
-   "t": 1793450554
-  },
   {
    "genre": "actu",
    "resume": "France Football porte plainte pour fuites au Ballon d'Or (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Un joueur de D2 espagnole victime d'un arrêt cardiaque en plein match (L'Équipe)",
    "t": 1793644666
+  },
+  {
+   "genre": "actu",
+   "resume": "Unai Emery ciblé par Manchester United (Tribuna.com)",
+   "t": 1793648365
+  },
+  {
+   "genre": "actu",
+   "resume": "Prison requise contre des ultras brestois (L'Équipe)",
+   "t": 1793648371
   }
  ],
  "matchs": {
