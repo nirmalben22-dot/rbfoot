@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "523867a80047abe8",
-  "592f5377d3364c29",
-  "3217a6c6c9ef155a",
-  "7ee303a5a2e01729",
-  "f382049a06886af0",
-  "c234c329c66f88c3",
-  "86a804e95f74b14d",
-  "5b30278050ed2e75",
-  "7d719b40cb26c20a",
-  "a8bd9309650de983",
-  "abc7a9a3ea12703a",
-  "94894f5f7c2843af",
-  "930054716d611a45",
   "91be6328a263fb60",
   "ff30d74e9765ca6a",
   "e7a461e762f0e3c8",
@@ -800,32 +787,35 @@
   "d6a0856d7312a0ca",
   "1a1ec98e0e378be2",
   "d1dfcd409a74b7b9",
-  "d1abd8518fa321ff"
+  "d1abd8518fa321ff",
+  "3e6db82130cbe463",
+  "059d277bf33a77c1",
+  "7c6a7224091a903b",
+  "2ddcba780f2f4182",
+  "67f5e45fe53e6063",
+  "40d4a197270f7d5b",
+  "12a48c8d9357c5b7",
+  "ef2e4d32395c7974",
+  "7f6c7aedbdbc6bc6",
+  "ff34e75f4c981ee3",
+  "08a7e983d70ef7f2",
+  "0ee7b1984d5a2311",
+  "5ff724fe8f20ed44"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-02",
-   "n": 4
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-02",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793586791.5114393,
+ "dernier_passage_actus": 1793590155.828471,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Les révélations cash de Jorge Mendes sur João Félix et Bernardo Silva (Record)",
-   "t": 1793391472
-  },
-  {
-   "genre": "actu",
-   "resume": "Hansi Flick ouvre la porte à une recrue hivernale au Barça (Foot Mercato)",
-   "t": 1793394042
-  },
   {
    "genre": "actu",
    "resume": "Unai Simon sacré meilleur gardien de la saison (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United ne négocie pas avec d autres entraîneurs dans le dos de Michael Carrick (Tribuna.com)",
    "t": 1793586848
+  },
+  {
+   "genre": "actu",
+   "resume": "Ivan Toney sur les tablettes de Manchester United (Business Upturn)",
+   "t": 1793590302
+  },
+  {
+   "genre": "actu",
+   "resume": "Real Madrid fortune promise si Yan Diomande gagne le Ballon d Or (Africa Top Sports)",
+   "t": 1793590307
   }
  ],
  "matchs": {
