@@ -1,24 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "750a0fb3ca52fca0",
-  "119c1794f880c159",
-  "9f6f92810b426b7c",
-  "eb24a5d376984c15",
-  "b5a9f701bb1b8d27",
-  "27d0f4de0d276f19",
-  "07caab40f47dffbb",
-  "460a431d8a0f26d4",
-  "b06e0e40e6a31f1b",
-  "3e15c7a6e1fabe9c",
-  "54c7849bffb409b7",
-  "c902788b60302c35",
-  "9dd0160853fc7512",
-  "9a988fd02364a187",
-  "c036ca08d0c95270",
-  "4e3ad3f07472a7dd",
-  "dd9dbaf788d43fa6",
-  "9d3b147c75922f42",
   "bb90920083ce21fa",
   "e5e4ff71fd9a872a",
   "d734d5092b9810fa",
@@ -800,27 +782,40 @@
   "865d4eda3cff1950",
   "65de231f76930be8",
   "c115065fb77af51b",
-  "961c3a0702281c2e"
+  "961c3a0702281c2e",
+  "9c869f944280c398",
+  "06df414e9f5d947b",
+  "aa745081a876415a",
+  "fb7e6b413dd0c282",
+  "5164cb4a88ea0677",
+  "7e125d88319dc522",
+  "0490f4b2ab190866",
+  "327f774e44447ad4",
+  "d416209bdb0114e9",
+  "a134b8534cd11902",
+  "aa9c1c1a090dcba7",
+  "bab45d2695861f69",
+  "bc46c310e2bf620f",
+  "5d91e9e0532008a7",
+  "393755a7bccea34b",
+  "28d83e6bab4f28c3",
+  "a5ce71f8e735f58b",
+  "b2bfb9353e565c53"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793664320.6710856,
+ "dernier_passage_actus": 1793668047.5445437,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Aston Villa attaque Jamie Carragher en justice (The New York Times)",
-   "t": 1793467289
-  },
   {
    "genre": "actu",
    "resume": "Bruno Fernandes en larmes après une nouvelle défaite de Manchester United (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Arsenal vise Eli Junior Kroupi pour renforcer son attaque en janvier (BBC Sport)",
    "t": 1793664381
+  },
+  {
+   "genre": "actu",
+   "resume": "Paolo Zanetti est le nouvel entraîneur de l'Udinese (Record)",
+   "t": 1793668105
   }
  ],
  "matchs": {},
