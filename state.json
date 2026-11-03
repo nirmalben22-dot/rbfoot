@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5eb25c836c99ab16",
-  "66c550fd605467de",
-  "d5a64c3f3ed45d07",
-  "a6fbea3bafba05fa",
-  "084e063f9b61a3fd",
-  "53d2e28ef37fa526",
-  "ee403f853d99a34c",
-  "f11ae43099abc4a7",
-  "8d78372531c3372d",
-  "39abf3adc1c2a70b",
-  "166e34d34e0c5c55",
-  "31fff6a0ef458456",
-  "deed7559b1d55a0e",
-  "be72bde83d5a8aeb",
-  "114de07f1bd44d34",
-  "5eb0c328ef15b193",
-  "ac70b8f6919bf5d4",
-  "27c41d28ad320c9d",
-  "bc198dbeb1f04de4",
-  "aef3ea79a05137bd",
-  "b5112dfdb7fb29d9",
-  "6c1fcade0a851c3e",
-  "1a3bd22d33ff8097",
-  "53e57da467ea08d8",
-  "5cfc1766e0dd8085",
-  "2ba9b20d39a6f9ea",
-  "370ae4b3756e57b7",
-  "fdd39dba02b88d76",
-  "6dfcf3640ad8253b",
-  "2583c006038db284",
-  "32151fff7d15edc6",
-  "b45894fe2337ebd7",
-  "50430fe5b23742a0",
-  "f3c6eb11c4d64402",
-  "fbabc2c887ad5c12",
-  "45986793df0dbd06",
-  "595f5c9aaa98d6a0",
-  "2f80e470fd1a6327",
-  "66b73962af03068e",
   "97836b4e84c340df",
   "6f38ecef25bd252c",
   "2d3c7dac8a958716",
@@ -800,32 +761,61 @@
   "7faeeaafe7d91542",
   "d9e1f3c726b37050",
   "846a7c5eba939aa7",
-  "507626c2ccd50d69"
+  "507626c2ccd50d69",
+  "b4f87fe37eaeb0b7",
+  "f12093be77439a40",
+  "e200503bd3a97f77",
+  "ba6282bffd015fd2",
+  "5cfc0f799f1eaafe",
+  "6328568f6ed2d4f4",
+  "d70b1d125b64e04d",
+  "ce73b73b0d7572ff",
+  "b78bf7c4c0adf78a",
+  "88ea9efa7d30f80c",
+  "19c2438ae3d6daa8",
+  "ca3e4e545fb8025b",
+  "d931cc2b0861ccea",
+  "d398b6e483a8c0fe",
+  "4cb0ef2ca4b4b1b1",
+  "c68ee7893dd55b46",
+  "8fcd0795ad576af5",
+  "4663662b126f3e3e",
+  "b6a82d2097626531",
+  "b9de5a811b1275cd",
+  "fe987737981c9a14",
+  "2dbbbf6bd299afe7",
+  "1333a081e75c1596",
+  "3ad0c43a3ba1678e",
+  "6bdaa1548919529d",
+  "5b2093f61608210a",
+  "2293ac39e15fde70",
+  "c285db23d4d26b9e",
+  "dcc43c3eb52618fc",
+  "67c4d9c2724dfb3d",
+  "3e8d9431e3b42f9a",
+  "dbcac39665ec0cd9",
+  "8fc41fbf2d007bb9",
+  "93663b32b1b9a5da",
+  "112403abf1570461",
+  "d5f70d306b5ab20b",
+  "49d398579795a907",
+  "43c6e278a45907a6",
+  "d87cc380a1f9d971"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793723664.0908427,
+ "dernier_passage_actus": 1793726994.311042,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Emiliano Martinez complimente la France et tacle l Espagne (RMC Sport)",
-   "t": 1793535440
-  },
-  {
-   "genre": "actu",
-   "resume": "Antoine Griezmann refuse désormais de parler aux médias français (Foot Mercato)",
-   "t": 1793539006
-  },
   {
    "genre": "actu",
    "resume": "Le Paris Saint-Germain officialise deux nouvelles signatures (Sport.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Al-Hilal revient à la charge pour Bruno Fernandes (Goal.com)",
    "t": 1793723729
+  },
+  {
+   "genre": "actu",
+   "resume": "Le football espagnol suspendu après le décès de Jesus de Miguel (RMC Sport)",
+   "t": 1793727072
+  },
+  {
+   "genre": "actu",
+   "resume": "Disparition de l'ancien international belge Toni Brogno (L'Équipe)",
+   "t": 1793727078
   }
  ],
  "matchs": {},
