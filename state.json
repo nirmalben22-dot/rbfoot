@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "97836b4e84c340df",
-  "6f38ecef25bd252c",
-  "2d3c7dac8a958716",
-  "d64f61dbf85c9d90",
-  "7df9ae2b63bec37c",
-  "deb5e09ae8061eba",
-  "2350b4d2350c2990",
-  "e60d5c23b7d18438",
-  "8c236ab9bd1a956b",
-  "f382049a06886af0",
-  "e8da8871f1f11498",
-  "ec0b37c10fec1244",
-  "212627274e94635a",
-  "9b944f86cdbb3d1a",
-  "e8e58431d5f009e1",
-  "9c3210ce22672993",
-  "24249f09ea6d5d7e",
-  "3bd650148b1593a1",
-  "394fe412b2674776",
-  "b6f671fb3a8b57dc",
-  "a78ebe06fbaed333",
-  "4c462cdefed77628",
-  "2bbd49a2ce9245c6",
-  "33f6b37969855074",
-  "4451f5e01a569887",
-  "936eb29e071ae512",
-  "ccf17452ecf06336",
-  "7d29abd7fe3dd87a",
-  "14fcda9ba7eb2c09",
-  "29996a16ab008707",
-  "6c407e60276bc80e",
-  "d467beaa0f941d11",
-  "32a09447a0e2895d",
   "a5b80b09911c7568",
   "7526914346d82676",
   "8858260daac6417d",
@@ -800,32 +767,55 @@
   "d5f70d306b5ab20b",
   "49d398579795a907",
   "43c6e278a45907a6",
-  "d87cc380a1f9d971"
+  "d87cc380a1f9d971",
+  "683e22515e72753f",
+  "2119ee9e6b42a4b2",
+  "a027d1ca86f13d44",
+  "4b3b0e0ad95b6bb5",
+  "2d1ce8f5bad90c3b",
+  "f1f7f3ce42e9383d",
+  "7e642cb6caaa5fe6",
+  "fbc12f51935ab1dc",
+  "6523b170aa6ded46",
+  "25b4bae0e757e2d3",
+  "36e3c4ccb68af2fd",
+  "0787b2f8efa095f6",
+  "1faee0ce69892786",
+  "859715209662b613",
+  "419cb11ff6fb00b2",
+  "ba1ed19b962b8ef0",
+  "5dc2c2db29f9fa7a",
+  "a718050d99ccf580",
+  "bc96a6333b17a56d",
+  "53768e8aff89dd0e",
+  "af58d55b88998065",
+  "f64ca964cdeb8fe9",
+  "f6909907d94ef3d4",
+  "a6b4b13cf177ee81",
+  "261bfaa83cd56d56",
+  "b664fab654b15dfa",
+  "986bc0938e60915e",
+  "6d1a9e259e298d95",
+  "194334c73b5af8c3",
+  "307f20e1bc22b61f",
+  "3339973c5571228f",
+  "5d52a76eb9870df7",
+  "940987c449f9f4f7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793726994.311042,
+ "dernier_passage_actus": 1793730041.731607,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Paris Saint-Germain officialise deux nouvelles signatures (Sport.fr)",
-   "t": 1793541770
-  },
-  {
-   "genre": "actu",
-   "resume": "Bixente Lizarazu recadre fermement Kylian Mbappé (Foot Mercato)",
-   "t": 1793544056
-  },
   {
    "genre": "actu",
    "resume": "Ibrahim Maza associé au Paris Saint-Germain (Fennec Football)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Disparition de l'ancien international belge Toni Brogno (L'Équipe)",
    "t": 1793727078
+  },
+  {
+   "genre": "actu",
+   "resume": "Folarin Balogun remplace Ansu Fati à Monaco (L'Équipe)",
+   "t": 1793730189
+  },
+  {
+   "genre": "actu",
+   "resume": "Triste record historique à domicile pour Liverpool (Sky Sports)",
+   "t": 1793730194
   }
  ],
  "matchs": {},
