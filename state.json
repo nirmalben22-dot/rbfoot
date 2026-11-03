@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c86d55ca66f868e1",
-  "2cc9df24c612e0b8",
-  "c1b9cf39f31b4cdb",
-  "ce9f307f5989dfd3",
-  "b5dc0a348cbf3c86",
-  "f91424ac2fde81c4",
-  "02067ef4a3e79f52",
-  "51139246a6a28dcd",
-  "91adac4eccf66c5e",
-  "b18ebf8a632c6cf0",
-  "bf84032b5b243a3a",
-  "d7ab509df88d6d85",
-  "a208ff29c7b77c0a",
-  "ac4518bdeee39354",
-  "cd0fcb33fa2c5e78",
-  "f330312ae3288f83",
-  "22508271fdc90f8f",
-  "46f6413eaf4422cd",
-  "7909d259a95973f9",
-  "022a22b63239167c",
-  "be89b5ba926e2f03",
-  "7a3b1b440683cd54",
-  "ec0d9436b91b81e2",
-  "b651ae56be3d5c38",
-  "55d585d4d03fc046",
-  "9616f505867a7c70",
-  "f172a70fc922cc93",
-  "913c5e8ff0e8a8d1",
   "195f3bb87a5955ab",
   "31ac509e75c74ef4",
   "0ca226c8b649cc04",
@@ -800,27 +772,50 @@
   "9bf4cc5a339dc4ae",
   "0ce6848fafc4d988",
   "4de6367e90d78dbf",
-  "9987fb70371df2fd"
+  "9987fb70371df2fd",
+  "87d6f63f2c0eaadc",
+  "af284f2c5b723505",
+  "7a2b57c40836980b",
+  "74a09dcde3addf52",
+  "1f53039cba3a2a47",
+  "b3e9b083f55e1846",
+  "2c25016c129b1a20",
+  "e38b96385299e922",
+  "0c2e31233d1ee738",
+  "3eeb5851d3473a8b",
+  "8f504a23f0001527",
+  "9d99cce776809502",
+  "bad225afb58eb4f1",
+  "50072afcb1a72136",
+  "46b875b51e7efe3b",
+  "4b0a39cebf667232",
+  "50f45729bec8f7a8",
+  "a1fd94eba4d2dfd4",
+  "5ae9561253a91dbf",
+  "37d1889bf740390a",
+  "b19996045a612b41",
+  "040f3f6efcbfea05",
+  "d5f9727622c86945",
+  "965bcc65e70f669d",
+  "60f9cfa3caeeebc0",
+  "720fede4c456544d",
+  "586ea5966c3edeb5",
+  "5a33d6676318a0a4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 21
+   "n": 22
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793737079.5188866,
+ "dernier_passage_actus": 1793740212.3806546,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Scène inquiétante et match interrompu lors du match du Real Madrid (Foot Mercato)",
-   "t": 1793555619
-  },
   {
    "genre": "actu",
    "resume": "Al Ittihad cible le défenseur du RB Leipzig Abdoul Koné (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Pas d hymne de la Ligue des champions en Espagne (L'Équipe)",
    "t": 1793737228
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG pulvérise un record historique en Ligue des Champions (MadeInReal)",
+   "t": 1793740263
   }
  ],
  "matchs": {},
