@@ -1,9 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bb90920083ce21fa",
-  "e5e4ff71fd9a872a",
-  "d734d5092b9810fa",
   "d11858b5655ac8a8",
   "d9c98f842d5dc6fc",
   "55f51b2921908eac",
@@ -800,27 +797,25 @@
   "393755a7bccea34b",
   "28d83e6bab4f28c3",
   "a5ce71f8e735f58b",
-  "b2bfb9353e565c53"
+  "b2bfb9353e565c53",
+  "8bf0a8cfcb872ec7",
+  "dc6892f6b05b696c",
+  "43383eba71910ca9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793668047.5445437,
+ "dernier_passage_actus": 1793671759.8307388,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Bruno Fernandes en larmes après une nouvelle défaite de Manchester United (RMC Sport)",
-   "t": 1793469398
-  },
   {
    "genre": "actu",
    "resume": "Harry Kane présente son Ballon d'Or au public de l'Allianz Arena (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Paolo Zanetti est le nouvel entraîneur de l'Udinese (Record)",
    "t": 1793668105
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane échangerait un Ballon d'Or contre la Ligue des Champions (Record)",
+   "t": 1793671813
   }
  ],
  "matchs": {},
