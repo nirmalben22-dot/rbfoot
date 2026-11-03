@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "adba9d83ab2076e4",
-  "fac14eaba2268015",
-  "14948c2e29906b94",
-  "f1393a4eadc82f75",
-  "b58313d1203ea0b7",
-  "a060a0fd0d33db00",
-  "37a1eb33f695b675",
-  "2dc5276749056738",
-  "60c60bd31bc2923f",
-  "bcf45fd99fa925d9",
-  "1a9fb63b50bcc14f",
-  "e16aba169d1d84d1",
-  "b0a6d9960c87ade4",
-  "549a4f27e9841557",
-  "b89c1dfac0046fdd",
-  "490f86baaddc50bb",
-  "4e4453830aeb21c4",
-  "a76781d9aaf8b55d",
-  "ca81f065a1a58b75",
-  "a8cd3ad2c05720f8",
-  "0de32eca22fb9cd8",
-  "815660b921acab5e",
-  "d604ab9d4ffd8734",
-  "61bb7a24705fd98b",
-  "58ab9e0a9cc4470b",
-  "4b17f74af0d998c1",
-  "54a3b88af2cc2018",
-  "ba45be1bd0a2fc1b",
-  "6ccaffcaf25fddf3",
-  "1bab105f573c57e1",
-  "e598bf24a71d29de",
-  "479100752c73848a",
-  "e88eeff3a7e1cdc2",
   "c86d55ca66f868e1",
   "2cc9df24c612e0b8",
   "c1b9cf39f31b4cdb",
@@ -800,32 +767,55 @@
   "b659c8d176a5a13f",
   "8e9bf6d0f00153ce",
   "d4167c4d363b834e",
-  "2ae0caa2e94b856a"
+  "2ae0caa2e94b856a",
+  "77f8ebf44717d156",
+  "adb81dd1f2480336",
+  "4ed26fb55e8ed3c4",
+  "ed935a2a85a6af52",
+  "ddc42026d4733da4",
+  "ce334c67342e2860",
+  "26348802f3df83a9",
+  "9d9d7c9df863632f",
+  "649e7a1c033efa90",
+  "9b2f656a6bfdafe0",
+  "60560249eb0c76be",
+  "22574cc7459a8f89",
+  "6bfa128c8c485650",
+  "22072cda78977cbe",
+  "82d0f1f6c7b9fe7b",
+  "c1cda0d059524144",
+  "a2e4b0e550bbb98a",
+  "10e55080d3d2a3fe",
+  "5fb2b91c6a6411eb",
+  "f6b6587993fe08cf",
+  "e5caaf7ba563acb9",
+  "69e8ff3ab6a452c9",
+  "7994c3d0aa641c5f",
+  "df08e07e55c4a92c",
+  "eecd877fd540ae97",
+  "f8161a2f3438b6f5",
+  "c2506c56e0ef1082",
+  "e2d1eafb230e9897",
+  "916a62e0f4d73456",
+  "9bf4cc5a339dc4ae",
+  "0ce6848fafc4d988",
+  "4de6367e90d78dbf",
+  "9987fb70371df2fd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793733745.4416597,
+ "dernier_passage_actus": 1793737079.5188866,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le départ de Paulo Fonseca se précise à Lyon (But! Football Club)",
-   "t": 1793551072
-  },
-  {
-   "genre": "actu",
-   "resume": "Erik ten Hag tacle ouvertement Cristiano Ronaldo (Foot Mercato)",
-   "t": 1793555615
-  },
   {
    "genre": "actu",
    "resume": "Scène inquiétante et match interrompu lors du match du Real Madrid (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United transmet une offre pour un joueur de City (Foot Mercato)",
    "t": 1793733811
+  },
+  {
+   "genre": "actu",
+   "resume": "Joao Neves a prolonge son contrat avec le PSG (Foot Mercato)",
+   "t": 1793737223
+  },
+  {
+   "genre": "actu",
+   "resume": "Pas d hymne de la Ligue des champions en Espagne (L'Équipe)",
+   "t": 1793737228
   }
  ],
  "matchs": {},
