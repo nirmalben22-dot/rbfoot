@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "613754c30e004467",
-  "fac83b1c79f5926f",
-  "4ff1129e51003511",
-  "d5d6c2b5e620621d",
-  "e2631616b698b06d",
-  "8c743337844c23f9",
-  "5be7be7bf7f9b9de",
-  "2884b094b6acbd8d",
-  "b59bd1d3d42dca01",
-  "904acf28b47fe916",
-  "b1e12dfd8d8b4241",
-  "9fa733963815450d",
-  "262824596e5cb98b",
-  "f8f299841428501d",
-  "dd36fb1ebc385e72",
-  "85724095c636e96c",
-  "27d31c9d1081e3af",
-  "12edcd192a75f384",
-  "eeab76da3330c9dd",
-  "166c4cd6091ceb19",
-  "17f7f58db14aa4b1",
-  "87b60e31fb165072",
-  "e1bb2a2fb46bfb12",
-  "d172574be0955842",
-  "50ad9e054d72b8f6",
-  "288f410c32fa2a0c",
-  "724fbd573c8ac7e7",
-  "f4a3f6e7b9d53f02",
-  "e378661f2281f29b",
-  "eaa82b4ffc10f798",
   "6764201f477ad9dd",
   "73b34d2d13c8aa97",
   "83ff6e8e75848213",
@@ -800,27 +770,52 @@
   "9871295fc24b57c4",
   "58b35c725a135ba2",
   "ba58d90a7a649d88",
-  "da3dd8177b55c365"
+  "da3dd8177b55c365",
+  "238b42077121d810",
+  "5fef81f0ac840f02",
+  "f10ed8a7cfe80f7c",
+  "e6da32701d12fd7c",
+  "b3050ed4ba041417",
+  "b40aef34f7ceb3fb",
+  "8cf4402cff6ddac7",
+  "02f59cf120778cde",
+  "19d35be6a813e472",
+  "f6781a8eddef9d90",
+  "fc2acfd53df6945b",
+  "9f176c0b1285ce97",
+  "124fb1b2f53d619f",
+  "6de0a60c46044373",
+  "a9c2ee35c0c482d6",
+  "2b67b6138d17949a",
+  "cc8680abf8ca6ce6",
+  "5f4c1dccf69d29d1",
+  "2e61932016efd929",
+  "395a375a032f8483",
+  "06b057aa3f5c5299",
+  "738b31c429cb0d44",
+  "675f7e0d41c119c0",
+  "8cc464e238051dfb",
+  "2be039510bb25a15",
+  "9c241f54210f0476",
+  "2824815679c8a17b",
+  "b7c7968fcad2c69e",
+  "e57b83e702c96537",
+  "8198a596e8865ac3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 10
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793714030.7707367,
+ "dernier_passage_actus": 1793717529.235253,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour le Bayern Munich avec plusieurs blessés (Foot Mercato)",
-   "t": 1793492322
-  },
   {
    "genre": "actu",
    "resume": "Vincent Kompany interdit de parler football au repos (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Unai Emery s en prend encore à l arbitrage de la Remontada (RMC Sport)",
    "t": 1793714102
+  },
+  {
+   "genre": "actu",
+   "resume": "West Ham se sépare de Nuno Espirito Santo et nomme Scott Parker (NewsCord)",
+   "t": 1793717591
   }
  ],
  "matchs": {},
