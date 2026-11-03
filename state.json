@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e21a0c7dd8ca1256",
-  "c8cd0663910631ae",
-  "40c8f4d2c3a562f2",
-  "ae8e567c06452816",
-  "05e5e9cf26c2b77f",
-  "d20254141e1c0e98",
-  "87b9f8a128aba52f",
-  "d19ea99c3d22db64",
-  "ef83503fc9da3247",
-  "732b24743fc49d88",
   "806ebff4b0031c21",
   "f4bf7d93231a3b7b",
   "a73bbd6043079fcf",
@@ -800,32 +790,32 @@
   "a029c011cba39a2e",
   "c09430af168d6296",
   "d0cc424c227a6eb4",
-  "f76dd56a50647f66"
+  "f76dd56a50647f66",
+  "2dde79b2f922e694",
+  "2fd3a128784a6de2",
+  "a9f94c60858045be",
+  "c84cf2ac9220a2ac",
+  "e4c299d3db03356d",
+  "6433c972844b5243",
+  "98bb8601314995da",
+  "de868047e8693c94",
+  "e4bf27db4b642d0e",
+  "0872ca19874120ef"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 4
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793678047.979413,
+ "dernier_passage_actus": 1793681252.7061586,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Harry Kane présente son Ballon d'Or au public de l'Allianz Arena (Foot Mercato)",
-   "t": 1793469403
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Havre confronté aux dérives de la multipropriété (Foot Mercato)",
-   "t": 1793474729
-  },
   {
    "genre": "actu",
    "resume": "Xabi Alonso réclame plus de temps de jeu pour Estevao (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Harry Kane échangerait un Ballon d'Or contre la Ligue des Champions (Record)",
    "t": 1793671813
+  },
+  {
+   "genre": "actu",
+   "resume": "Liverpool fonce sur Lamine Camara et devance Chelsea (Sport.fr)",
+   "t": 1793681300
+  },
+  {
+   "genre": "actu",
+   "resume": "Georges Mikautadze encense le Paris Saint-Germain avant le choc (L'Équipe)",
+   "t": 1793681305
   }
  ],
  "matchs": {},
