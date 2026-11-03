@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a5b80b09911c7568",
-  "7526914346d82676",
-  "8858260daac6417d",
-  "08f29ce0c1a2354a",
-  "a038b7f8d2d7237a",
-  "6cf537ab3ed906a9",
-  "4dd354c001391308",
-  "8d1c7e9939c32e41",
-  "acb3b1747d5ac540",
-  "0de2880291dd501b",
-  "9b448e708959a51e",
-  "f2034a674976cfc4",
-  "7725a46622e4bfac",
-  "7c03e1712c702d11",
-  "d1a64b2f4bdbca2d",
-  "fd403675dd2f484c",
-  "9d878c2dc8bbed89",
-  "b517ba9f17bec6f1",
-  "dfed2c03e2412fc6",
-  "9c36b76d2b28683f",
-  "250bd2876775ce87",
-  "634fbcac86b83231",
-  "675edf1ffbc82273",
-  "5b20b50a12a650a6",
-  "7c7ddc34e665a986",
-  "0aace496273ee14d",
-  "31bcb1b94d4a9556",
-  "edb7b99e10e48b31",
-  "10073c0e84680aea",
-  "ca8a814c3b25447c",
-  "b2cade9aa90beeb0",
-  "c2504dd539eaa6ab",
-  "d4d3adc9dc109093",
-  "8032e866e05d7b36",
-  "cad5b564b076d155",
-  "09cf86466d60201b",
-  "0d7479edec6fb95e",
-  "a9435e108a832785",
-  "af9938d032c6ffb0",
   "adba9d83ab2076e4",
   "fac14eaba2268015",
   "14948c2e29906b94",
@@ -800,32 +761,61 @@
   "307f20e1bc22b61f",
   "3339973c5571228f",
   "5d52a76eb9870df7",
-  "940987c449f9f4f7"
+  "940987c449f9f4f7",
+  "53bc2bdc04bc03ae",
+  "12078a7e3a82d00e",
+  "00f3bf8c55eb7ffc",
+  "bead411c928f2235",
+  "03b5e60f2b7300bb",
+  "54634b7f103fb432",
+  "2bbd2db5feb94cc1",
+  "0d5443a6a4cb062c",
+  "bcd10acd67d4eca8",
+  "05bc2e93f5549dd6",
+  "f983c68ce931d3d3",
+  "c4d5326154167f06",
+  "b6c7b7a2feed597b",
+  "f351f0b8f09bc4bf",
+  "0441e7813d66d038",
+  "5da9c9ba6625c84a",
+  "6c1414b5b5e8a29a",
+  "bdcd269a04fe038c",
+  "7f4a2de232ab35f4",
+  "9f737c3dfda70b30",
+  "a71bac9ccd1d53d5",
+  "574ff850bdf8eb50",
+  "7f421be5614b31d2",
+  "0ed372d05abd4a52",
+  "39db70992e9d14cc",
+  "7f13e3af7b6e3889",
+  "8a092e62678e013e",
+  "a8dd78100169742c",
+  "3ff2fb7433481e36",
+  "749499faf8ecc2d7",
+  "14314f0ebfbab2c1",
+  "4a1595da723e8336",
+  "1b6c354062470cb7",
+  "9a0890c740e2920f",
+  "f1790e6c60ca9cf0",
+  "b659c8d176a5a13f",
+  "8e9bf6d0f00153ce",
+  "d4167c4d363b834e",
+  "2ae0caa2e94b856a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-03",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-03",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793730041.731607,
+ "dernier_passage_actus": 1793733745.4416597,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Ibrahim Maza associé au Paris Saint-Germain (Fennec Football)",
-   "t": 1793548738
-  },
-  {
-   "genre": "actu",
-   "resume": "Gary Neville très inquiet pour Manchester United (Sky Sports)",
-   "t": 1793548742
-  },
   {
    "genre": "actu",
    "resume": "Le départ de Paulo Fonseca se précise à Lyon (But! Football Club)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Triste record historique à domicile pour Liverpool (Sky Sports)",
    "t": 1793730194
+  },
+  {
+   "genre": "actu",
+   "resume": "Mathys Tel figure dans la pré liste de Zinédine Zidane (L'Équipe)",
+   "t": 1793733803
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United transmet une offre pour un joueur de City (Foot Mercato)",
+   "t": 1793733811
   }
  ],
  "matchs": {},
