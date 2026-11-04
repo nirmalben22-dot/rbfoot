@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d0cc424c227a6eb4",
-  "f76dd56a50647f66",
-  "2dde79b2f922e694",
-  "2fd3a128784a6de2",
-  "a9f94c60858045be",
-  "c84cf2ac9220a2ac",
-  "e4c299d3db03356d",
-  "6433c972844b5243",
-  "98bb8601314995da",
-  "de868047e8693c94",
   "e4bf27db4b642d0e",
   "0872ca19874120ef",
   "a560eb0d80d28f6c",
@@ -800,32 +790,32 @@
   "a134b8534cd11902",
   "7e1f66de939d2f8e",
   "1d8436311225972e",
-  "9e44b5646a55c2c4"
+  "9e44b5646a55c2c4",
+  "d8cff5c92d25f213",
+  "b541e352433c689a",
+  "29fe563994493556",
+  "e801df6a810667f4",
+  "b05d4f9bdebb7894",
+  "b63e29edc51d73c5",
+  "54cf0a7969f4b2e5",
+  "2f02905d6aeff534",
+  "4be239d4e8fea516",
+  "da3eb8e678c70c06"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-04",
-   "n": 7
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-11-04",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793761957.2193983,
+ "dernier_passage_actus": 1793765736.230365,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le beau geste d Aurélien Tchouaméni envers un jeune supporter (L'Équipe)",
-   "t": 1793570132
-  },
-  {
-   "genre": "actu",
-   "resume": "Une offre de rachat bientôt transmise pour le SSC Naples (Foot Mercato)",
-   "t": 1793570137
-  },
   {
    "genre": "actu",
    "resume": "Accord trouvé entre Paulo Fonseca et le Sporting CP (MadeInGones)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Tensions à Everton autour de l'avenir de Jack Grealish (TheHardTackle.com)",
    "t": 1793762018
+  },
+  {
+   "genre": "actu",
+   "resume": "Christian Pulisic aurait dit oui pour un transfert à l'AC Milan (Sport.fr)",
+   "t": 1793765786
+  },
+  {
+   "genre": "actu",
+   "resume": "L'Olympique de Marseille pistant un attaquant espagnol sur le marché (Coeur Marseillais)",
+   "t": 1793765792
   }
  ],
  "matchs": {},
