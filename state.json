@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c453f1149d499e6e",
-  "85decda171b19fb4",
-  "6316b031a6dd370e",
-  "0a4cecc4f3a2bded",
-  "dede11bc2197bf74",
-  "21272df358f11f6d",
-  "f41fc71129d1d111",
-  "9bf30ccf6cf9129e",
-  "e1fdbf90e2caab7a",
-  "12f82c58fa3b0651",
-  "7fb4fe63842de78d",
-  "30222f64ec259f20",
-  "c8e3e76a904d8e26",
-  "247575555d1e05a4",
-  "eb9916e68447b982",
-  "11eb32f7250f0199",
-  "7d29d22417483848",
-  "5b87fc7fb6713265",
-  "212f69fe5d35218c",
-  "84af9eaf6720e43a",
-  "7edda4dc88c1fb07",
-  "269c2eb4e33040dd",
-  "f1c8c0348548b474",
-  "30d547217f5e9d3f",
-  "07246c99b875a9b5",
-  "82420fec7cacd53f",
-  "e0c93d20b01325f4",
-  "93d0bff51d525722",
   "f075bbae65aa51c1",
   "865d4eda3cff1950",
   "65de231f76930be8",
@@ -800,32 +772,50 @@
   "2e5e9cdaf218e8c3",
   "f91bd37f5b139cee",
   "4683fe9a058a3b0a",
-  "6ae15ce6b19ede25"
+  "6ae15ce6b19ede25",
+  "c1ba6c652c1cf9cc",
+  "52f5079c649ed7cb",
+  "50e6512da9da5517",
+  "ea8a2e1d93ebfb60",
+  "16970a6120dfc128",
+  "1c94b30308bdb320",
+  "233c05f49f6faa86",
+  "8e6b6f9bce2740cc",
+  "4c5d6b95c27edbf5",
+  "a9e1cc6abbc6cd51",
+  "b56bdaa9341bfc2f",
+  "65bd304609e152cc",
+  "c994c4790a5dd53a",
+  "81ac24445cfdb0ff",
+  "3b2cc23daaf66be6",
+  "817c27dbd36040e2",
+  "3570b87f8c88c206",
+  "5f6345db6904e7e4",
+  "7c945e6c322d80b0",
+  "a76781d9aaf8b55d",
+  "420f9a1916fd3cbe",
+  "3708af19fd5ff5e3",
+  "bd4a679606715748",
+  "3727cd3ba49946a5",
+  "66ca3b9c31117c17",
+  "bd07ec9be8fb8392",
+  "b0aadc00395b8eb8",
+  "f5c0798f0deff0bd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-04",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-04",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793750988.7657344,
+ "dernier_passage_actus": 1793755306.1497586,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Liam Rosenior sous le charme de l'international malien Lassine Sinayoko (RMC Sport)",
-   "t": 1793563195
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour l'OM avec la sortie sur blessure d'Emerson (Foot Mercato)",
-   "t": 1793565402
-  },
   {
    "genre": "actu",
    "resume": "Les supporters de l'OM s'en prennent à Frank McCourt (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Bruno Fernandes sort du silence après la victoire de Manchester United (RMC Sport)",
    "t": 1793751055
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG viserait Kobbie Mainoo pour renforcer son milieu (Sports Illustrated)",
+   "t": 1793755368
+  },
+  {
+   "genre": "actu",
+   "resume": "Bruno Fernandes refuse Al Hilal et reste à Manchester United (조선일보)",
+   "t": 1793755375
   }
  ],
  "matchs": {},
