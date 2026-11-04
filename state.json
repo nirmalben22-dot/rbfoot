@@ -1,26 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e4bf27db4b642d0e",
-  "0872ca19874120ef",
-  "a560eb0d80d28f6c",
-  "4709d0fde49c4b8c",
-  "271c6d97a67a4ef6",
-  "d444282cc7ed3391",
-  "1d045b93d13eb18d",
-  "f7aa38c541710214",
-  "aced9415a8ea6092",
-  "554940db22f473d8",
-  "69c04693cfc6842b",
-  "c863b10f07fd13f9",
-  "b43870bb5b853cad",
-  "677e37452e8dc76e",
-  "c8b204f83c42eadc",
-  "fda136360831e8a3",
-  "33a27e11575685cc",
-  "e6291d49b42f5d2b",
-  "bddb32fe142581bb",
-  "73f15a3f3614f9b8",
   "fda136360831e8a3",
   "3776224d6a616dfe",
   "03536d142f09e488",
@@ -800,32 +780,42 @@
   "54cf0a7969f4b2e5",
   "2f02905d6aeff534",
   "4be239d4e8fea516",
-  "da3eb8e678c70c06"
+  "da3eb8e678c70c06",
+  "6b535d3eab422cb2",
+  "62be9548f873d849",
+  "20c51d840ed0aadb",
+  "380e7d9675b3cdce",
+  "5924c744d1d469f9",
+  "90bec329e356a7e4",
+  "054ca8d097b504a2",
+  "6ed4cbc3afd7e6d9",
+  "cc2bff09ada1893b",
+  "593ce52ec2aba9eb",
+  "ab8a3f2a753ae189",
+  "aac741aa5f77e56f",
+  "be60b21e0fcf1976",
+  "a8af7d89bc874700",
+  "1591bb75170cd103",
+  "d8b7961fbb812ce5",
+  "fdcca3a58ce11d38",
+  "cdbc39aefbea6b51",
+  "eb680b32d730b9bd",
+  "5d659fab6aebc61e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-04",
-   "n": 9
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-04",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793765736.230365,
+ "dernier_passage_actus": 1793769682.9932928,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Accord trouvé entre Paulo Fonseca et le Sporting CP (MadeInGones)",
-   "t": 1793572347
-  },
-  {
-   "genre": "actu",
-   "resume": "Alejandro Balde dans le viseur de Manchester United (BBC Sport)",
-   "t": 1793579080
-  },
   {
    "genre": "actu",
    "resume": "Carlos Vicens sur la liste pour succéder à Paulo Fonseca (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'Olympique de Marseille pistant un attaquant espagnol sur le marché (Coeur Marseillais)",
    "t": 1793765792
+  },
+  {
+   "genre": "actu",
+   "resume": "Diego Simeone prend la défense de Robin Le Normand (RMC Sport)",
+   "t": 1793769741
+  },
+  {
+   "genre": "actu",
+   "resume": "Senny Mayulu s impose au Paris Saint Germain (L'Équipe)",
+   "t": 1793769747
   }
  ],
  "matchs": {},
