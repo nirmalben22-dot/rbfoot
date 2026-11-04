@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "cb77586e9ffaca58",
-  "f440b9eede0ce542",
-  "b79e7c56f85a63ec",
-  "936881173505d4bc",
-  "cfd1bbae9bc12a87",
-  "61c26dc7aeca03a8",
-  "173b89e329e71b56",
-  "3bfff6b2d2b95afa",
-  "188131fc009d761d",
-  "38ead45294013c54",
-  "8c08db87a3cfd4f9",
-  "a150948e7799ecd8",
-  "5502df90ae25b3b0",
-  "e2a47cc328de3d4f",
-  "e3c51ce801a0629c",
-  "f24d024907ca9f21",
-  "7d4aa1677d43c21c",
-  "90de8dba19cd5b77",
-  "c2a44c19c20ae175",
-  "034f95138d2f8329",
-  "2a4b95c461e94966",
-  "d75e40319b99f695",
-  "7faeeaafe7d91542",
-  "d9e1f3c726b37050",
-  "846a7c5eba939aa7",
-  "507626c2ccd50d69",
-  "b4f87fe37eaeb0b7",
-  "f12093be77439a40",
-  "e200503bd3a97f77",
   "ba6282bffd015fd2",
   "5cfc0f799f1eaafe",
   "6328568f6ed2d4f4",
@@ -800,32 +771,51 @@
   "72def9c67bf5cea3",
   "8cd8995c01b9d0d8",
   "dfc4ce9f4b41a3ff",
-  "5cd5c06fb9aada6a"
+  "5cd5c06fb9aada6a",
+  "bbc9d5bce5ce4c83",
+  "f5222beabb7ef187",
+  "19cab0492051e3d8",
+  "c13c1493051e92bf",
+  "00e28d6b7c4765ca",
+  "62cf340bb91db557",
+  "ef87bdfefa6243b8",
+  "a0887e717dc9177c",
+  "8b7029395b771eb4",
+  "00aaac30df7c1960",
+  "05664f4ef92dda24",
+  "7a017f515435fc93",
+  "5036f8d647320908",
+  "dd96129af8866f99",
+  "b705f2152eccf927",
+  "ef96351a53f974a3",
+  "638c36636a36f372",
+  "483bb3b3d702f9a8",
+  "9f60ad8e6733501d",
+  "18b36a04ca40c479",
+  "fb63c59cf9cdcad0",
+  "40311a6a98f4e481",
+  "6de021b2d0eaaaf8",
+  "564bbed6535dcab2",
+  "a77765da714564a7",
+  "adc1c78723660292",
+  "c68b58d3c9184db3",
+  "0e169fabb1961ff3",
+  "785bda4421e8c448"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-04",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-04",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793807467.511201,
+ "dernier_passage_actus": 1793810650.4491336,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Une offre de transfert transmise en janvier pour Bruno Fernandes (TEAMtalk)",
-   "t": 1793594101
-  },
-  {
-   "genre": "actu",
-   "resume": "Lassine Sinayoko marche sur les traces de George Weah (L'Équipe)",
-   "t": 1793597867
-  },
   {
    "genre": "actu",
    "resume": "Hécatombe offensive au Bayern Munich après le Borussia Dortmund (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Décès de Carlo Molinari figure emblématique du FC Metz (L'Équipe)",
    "t": 1793807530
+  },
+  {
+   "genre": "actu",
+   "resume": "Un grand espoir de l'OL menacé de licenciement (RMC Sport)",
+   "t": 1793810798
+  },
+  {
+   "genre": "actu",
+   "resume": "Lamine Yamal s'offre un nouveau record devant Kylian Mbappé (Foot Mercato)",
+   "t": 1793810803
   }
  ],
  "matchs": {},
