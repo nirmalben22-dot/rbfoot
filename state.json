@@ -1,18 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "dc6892f6b05b696c",
-  "43383eba71910ca9",
-  "8e9cbaca412fcb9f",
-  "602ead815a0c667b",
-  "1ca6f41b6148c06d",
-  "78e0573c4df38f34",
-  "cae4c63d66975ca8",
-  "8b18c0a8b28cdf1c",
-  "9fd0b3cb0a109917",
-  "0531b1afe3c0151e",
-  "a029c011cba39a2e",
-  "c09430af168d6296",
   "d0cc424c227a6eb4",
   "f76dd56a50647f66",
   "2dde79b2f922e694",
@@ -800,32 +788,34 @@
   "3a7495e8ca91d4b3",
   "3b8633188b182c3c",
   "beceea08ed313ff7",
-  "d0724fad35c272d3"
+  "d0724fad35c272d3",
+  "ae55fff87611a68e",
+  "fea8ada084d847d2",
+  "50d6b24ae787791c",
+  "fbd95bda248bf53a",
+  "f47f5f6ff778061d",
+  "5eac65743b6d68be",
+  "777a0ad8a4d4073d",
+  "8e95eb2f7683e90a",
+  "a134b8534cd11902",
+  "7e1f66de939d2f8e",
+  "1d8436311225972e",
+  "9e44b5646a55c2c4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-04",
-   "n": 5
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-11-04",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793758652.9189203,
+ "dernier_passage_actus": 1793761957.2193983,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Sporting Portugal se sépare de son entraîneur Rui Borges (Foot Mercato)",
-   "t": 1793567769
-  },
-  {
-   "genre": "actu",
-   "resume": "Alerte blessure pour Weston McKennie à la Juventus (Sky Sport)",
-   "t": 1793567774
-  },
   {
    "genre": "actu",
    "resume": "Le beau geste d Aurélien Tchouaméni envers un jeune supporter (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'AS Monaco a refusé la piste Sinayoko (Sport.fr)",
    "t": 1793758711
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea prépare une offre XXL pour Alex Scott (Sport.fr)",
+   "t": 1793762010
+  },
+  {
+   "genre": "actu",
+   "resume": "Tensions à Everton autour de l'avenir de Jack Grealish (TheHardTackle.com)",
+   "t": 1793762018
   }
  ],
  "matchs": {},
