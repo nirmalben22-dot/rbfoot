@@ -1,30 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f075bbae65aa51c1",
-  "865d4eda3cff1950",
-  "65de231f76930be8",
-  "c115065fb77af51b",
-  "961c3a0702281c2e",
-  "9c869f944280c398",
-  "06df414e9f5d947b",
-  "aa745081a876415a",
-  "fb7e6b413dd0c282",
-  "5164cb4a88ea0677",
-  "7e125d88319dc522",
-  "0490f4b2ab190866",
-  "327f774e44447ad4",
-  "d416209bdb0114e9",
-  "a134b8534cd11902",
-  "aa9c1c1a090dcba7",
-  "bab45d2695861f69",
-  "bc46c310e2bf620f",
-  "5d91e9e0532008a7",
-  "393755a7bccea34b",
-  "28d83e6bab4f28c3",
-  "a5ce71f8e735f58b",
-  "b2bfb9353e565c53",
-  "8bf0a8cfcb872ec7",
   "dc6892f6b05b696c",
   "43383eba71910ca9",
   "8e9cbaca412fcb9f",
@@ -800,27 +776,46 @@
   "66ca3b9c31117c17",
   "bd07ec9be8fb8392",
   "b0aadc00395b8eb8",
-  "f5c0798f0deff0bd"
+  "f5c0798f0deff0bd",
+  "379bbe2bb0697f9d",
+  "3330257f547e815b",
+  "c6b72b6019bdf65e",
+  "5c1dd3c63232cb51",
+  "3420ae5a9b33d06e",
+  "305197eaa0b640df",
+  "69ed53e2c9eb0330",
+  "165d5c65dc8d80a9",
+  "9bff77fa43a86e6b",
+  "3a69479840c0d888",
+  "c3ce9320ee132748",
+  "12a27923ac6df54c",
+  "26f11d36feb23559",
+  "0f16dabdafc3b6f4",
+  "409cd58be4bc0603",
+  "ab9f71d7545d0849",
+  "106fdf1965665e1d",
+  "7c59a474611dc1b1",
+  "8cea4e21ac1babff",
+  "782fb4c8449aaacd",
+  "3a7495e8ca91d4b3",
+  "3b8633188b182c3c",
+  "beceea08ed313ff7",
+  "d0724fad35c272d3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-04",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-04",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793755306.1497586,
+ "dernier_passage_actus": 1793758652.9189203,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Les supporters de l'OM s'en prennent à Frank McCourt (Foot Mercato)",
-   "t": 1793565406
-  },
   {
    "genre": "actu",
    "resume": "Le Sporting Portugal se sépare de son entraîneur Rui Borges (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Bruno Fernandes refuse Al Hilal et reste à Manchester United (조선일보)",
    "t": 1793755375
+  },
+  {
+   "genre": "actu",
+   "resume": "L'AS Monaco a refusé la piste Sinayoko (Sport.fr)",
+   "t": 1793758711
   }
  ],
  "matchs": {},
