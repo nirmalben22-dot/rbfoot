@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "180d6773748a4fd3",
-  "4a3bc747b260e4a0",
-  "74e06d117d60b60a",
-  "4bfca22ab9f1ec1a",
-  "664e286e65e60fd4",
-  "9b5a504490be6c49",
-  "3cfd3a84082b0bdf",
-  "1139b5993065f477",
-  "2d1c7c36f2b0e829",
-  "ec585d34549f3d2c",
-  "d5c54729c76a400a",
-  "3614532323c11021",
-  "2d9ab63ff22d679c",
-  "d1256a915177957c",
-  "79792fba5c6e55ed",
-  "1932b27ce5b0d3b3",
-  "e5d7319323cffe70",
-  "0787b2f8efa095f6",
-  "5af15992d7987a94",
-  "89b1d8ca3a61e709",
-  "c60a1634b5fbfa7e",
-  "5749eb2c07e48b7d",
-  "88f1ab4fa4966ffa",
-  "d3a503b7da0144b2",
-  "79f562723bb00b18",
-  "99b2afad8e2b2d62",
-  "b79f0b2d55138653",
-  "e2a3214b4e46593f",
-  "5ac6a94f4f92f6ab",
-  "09d98f2b4d9d9c69",
-  "33eafcac5c152888",
-  "f7d1133ff2d6ba53",
-  "52bbbb92c4bda8ea",
-  "e8dc32436cd7c32c",
-  "d0ed23f7a371e9a6",
-  "b81cbbab95125eaf",
-  "6b52ab71bf7fdcc9",
   "2dbb06e0015dc36c",
   "a868d2d5a34dfb2c",
   "331f3f7bd00303b2",
@@ -800,32 +763,59 @@
   "d9b6f3510c3926c6",
   "0a3ce84ddc683ffb",
   "aad72fbb5285ee30",
-  "9aacdf4647c5893e"
+  "9aacdf4647c5893e",
+  "918097f9ba3dacd5",
+  "2ff52719add93d7e",
+  "916970da4528200f",
+  "9e9777702ea9ce59",
+  "1694a7a1830d274d",
+  "67a42714d75e6f92",
+  "a765812300b0008d",
+  "cbe1eb0034b969ea",
+  "87e379fd8ef20a05",
+  "a681b7abbf211192",
+  "17ead56161f148f0",
+  "2948c5a7abeed39b",
+  "ae95d74130b1169c",
+  "72a7ad6ec89cc0e3",
+  "71ccefa2d144e1fa",
+  "cf5eda839ea7f481",
+  "cd863fa8870e5315",
+  "80a690edbe7ae902",
+  "06b56164e69574f5",
+  "c4bdd4bc3f0e8375",
+  "7abd1fd2e8e734e6",
+  "51ca51511efe8770",
+  "af76f12fbcecb7cc",
+  "3ef58932969de326",
+  "a5f61b51a07acc4b",
+  "7e3e7616bee9d0ae",
+  "23c80b12500caaa1",
+  "e27519908a472077",
+  "0f87efcefc17d29e",
+  "dfad8739401c4dca",
+  "df87a4463b07985a",
+  "267c8ad2ddcffac6",
+  "9ee9554533e9e7a8",
+  "fa00e6d1465417e0",
+  "9e5dcd31381c8a6e",
+  "2d7fe885e4bc5673",
+  "615419d74f785334"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-05",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-05",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793903662.877312,
+ "dernier_passage_actus": 1793907264.0113811,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Unai Emery s en prend encore à l arbitrage de la Remontada (RMC Sport)",
-   "t": 1793714102
-  },
-  {
-   "genre": "actu",
-   "resume": "West Ham se sépare de Nuno Espirito Santo et nomme Scott Parker (NewsCord)",
-   "t": 1793717591
-  },
   {
    "genre": "actu",
    "resume": "Zakaria Aboukhlal victime d'insultes racistes après la blessure d'Antonio Raimondo (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "De Magic System à l'équipe nationale du Sénégal: Pathé Mboup était déjà une star sans que personne ne le sache (RMC Sport)",
    "t": 1793903735
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane prolonge l'aventure avec le Bayern Munich (beIN SPORTS)",
+   "t": 1793907399
+  },
+  {
+   "genre": "actu",
+   "resume": "Lourdement suspendu, Olivier Létang monte au créneau (RMC Sport)",
+   "t": 1793907405
   }
  ],
  "matchs": {},
