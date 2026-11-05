@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9056f549dca1026f",
-  "7c6e6af48c7acb0f",
-  "2da940c40b310385",
-  "130706f8587407cc",
-  "af581993789ed323",
-  "b2398ce4b0fe75f2",
-  "e7a7c5bb9c2263c9",
-  "e0587765c85f3372",
-  "fa0626840a990e71",
-  "255ff26ddcb3e1fc",
-  "cb1f98558de4e400",
-  "d44d610f4ecd84b0",
-  "0259d5c55d4ce561",
-  "e6671ac83ec803bd",
-  "7e97f080bf543bbf",
-  "60639d39b0d1a8cf",
-  "d82bc7bfd8400a83",
-  "f1a51ac260697d75",
-  "9f89ac300a3ff36d",
-  "3c04705177af2faf",
-  "189612568e61dfe8",
-  "94efb32377636159",
-  "6bdcedfc82e2217d",
-  "745c5b9c2dbeb8b2",
-  "91f4c22876a04c3b",
-  "64a9bb9d22fdbae5",
-  "0f758f69c1a33e4c",
-  "c4a66bb0636082d5",
-  "5b11a22811869ba3",
-  "872e72d6cffe8a28",
-  "e9218fdf1d4ed1dc",
-  "237ec16b0c68a7ca",
   "1866f40cba1ec50e",
   "515903c5f25f897f",
   "326e6ed69763106b",
@@ -800,32 +768,54 @@
   "fb0dcba1746ab55b",
   "4d4a440588f45d7d",
   "3caddd55dcd50cf3",
-  "9b3f70b5c6e9ee90"
+  "9b3f70b5c6e9ee90",
+  "daa208238fbd998e",
+  "de710b9edfd83a19",
+  "4578123fd09a0955",
+  "5b08085c0f116617",
+  "d1fd02f560790bf5",
+  "e99e151f9d0cb315",
+  "4345e670b9f3501b",
+  "a330f89481159445",
+  "fbd74215028c4b2e",
+  "0ffba7ca626f6a19",
+  "26097e44386f2d29",
+  "12a76c3fba869572",
+  "054584a0f5a96bab",
+  "8ca1d01559cca06e",
+  "da0a6977846194b3",
+  "d3df377cfe09feb5",
+  "7aa031c19fbf0690",
+  "75eb3f93d367aa74",
+  "469dba1e92693f64",
+  "cadb959573f9e4eb",
+  "7c25b2382b4d458f",
+  "5a02f5ef165b769e",
+  "cbc35ee6fcf17c52",
+  "5e7013ed150a19f8",
+  "873265d49f214169",
+  "64f5ddae59641c1d",
+  "9e8c426c84a4e095",
+  "4846a8cf9db57c2b",
+  "a56d40c2c3a8440b",
+  "7531509447e29a7a",
+  "6c2d1be615d14671",
+  "2000e97d591b1196"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-05",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-05",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793910389.5160336,
+ "dernier_passage_actus": 1793913642.124555,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le football espagnol suspendu après le décès de Jesus de Miguel (RMC Sport)",
-   "t": 1793727072
-  },
-  {
-   "genre": "actu",
-   "resume": "Disparition de l'ancien international belge Toni Brogno (L'Équipe)",
-   "t": 1793727078
-  },
   {
    "genre": "actu",
    "resume": "Folarin Balogun remplace Ansu Fati à Monaco (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Crise à Naples et Massimiliano Allegri déjà sous pression (Foot Mercato)",
    "t": 1793910456
+  },
+  {
+   "genre": "actu",
+   "resume": "L'OL a bouclé le successeur de Paulo Fonseca (Foot Mercato)",
+   "t": 1793913744
+  },
+  {
+   "genre": "actu",
+   "resume": "Le LOSC réagit après la lourde suspension d'Olivier Létang (L'Équipe)",
+   "t": 1793913750
   }
  ],
  "matchs": {},
