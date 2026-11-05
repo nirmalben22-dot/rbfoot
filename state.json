@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "233c05f49f6faa86",
-  "8e6b6f9bce2740cc",
-  "4c5d6b95c27edbf5",
-  "a9e1cc6abbc6cd51",
-  "b56bdaa9341bfc2f",
-  "65bd304609e152cc",
-  "c994c4790a5dd53a",
   "81ac24445cfdb0ff",
   "3b2cc23daaf66be6",
   "817c27dbd36040e2",
@@ -800,27 +793,29 @@
   "144e64bbe6ebbd9f",
   "4e722be431364a64",
   "e8ff398c81099336",
-  "b5c04985e3191ebf"
+  "b5c04985e3191ebf",
+  "5e56f9a0f5efdfb4",
+  "fa32fc17cba45c08",
+  "8888ccaa39991192",
+  "38c4fcb0fd896e14",
+  "2d305d9ee55e0ec1",
+  "8e9bf6d0f00153ce",
+  "9c76d5cf7fa6638a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-05",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-05",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793850651.7908695,
+ "dernier_passage_actus": 1793854104.1266954,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Prison requise contre des ultras brestois (L'Équipe)",
-   "t": 1793648371
-  },
   {
    "genre": "actu",
    "resume": "L'Udinese se sépare de Kosta Runjaic (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le point sur la blessure de Moise Kean à Côme (Sky Sport)",
    "t": 1793850736
+  },
+  {
+   "genre": "actu",
+   "resume": "Mamadou Sarr raconte son passage difficile à Chelsea (L'Équipe)",
+   "t": 1793854150
   }
  ],
  "matchs": {},
