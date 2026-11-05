@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5a199f5ad8d5a03d",
-  "d094305b19ca01a7",
-  "661c349bc983590d",
-  "b2b1816fd9d356a9",
-  "f086b263899b8be2",
-  "85c243c4e9992caa",
-  "9dc527db4d46322f",
-  "d2b57f16d5c981c3",
-  "1b3bc8f8e7dcf716",
-  "3558a4b413824f31",
-  "8d82201343b68781",
-  "8f1c0098c31dc0cd",
-  "a2c1e3a9dc7da2fb",
-  "cda7a1c67618d13d",
-  "a0abbfbabc6b70ce",
-  "dd633f82449d0d9f",
-  "a09ae1a05e1dd77f",
-  "ba8acfb75537dedf",
-  "df59961780c387e7",
-  "91bb3a5637122e5d",
-  "0bd2f3763ad8b910",
-  "cade892fbc27415c",
-  "97882312ec67ed8a",
-  "bb1d9f3b31e1b959",
-  "2990b4fd77f6ec36",
-  "f3e22af8b019df25",
-  "2c3b187e1e8219fc",
-  "3b05c4f8c2a2765a",
-  "1cc089dbfc4df937",
-  "60515deaec1a2539",
-  "05f9a91fb78eaa94",
-  "297d245bce778962",
-  "49d12103a96ebee7",
-  "e3381a443b91acde",
-  "d96ffb2e87ba2ca0",
-  "a7f6962fb2bed393",
-  "9dc07ad0e699fd1c",
-  "2ac64aae9a4c3cc2",
   "69c2c09897bc4569",
   "e3140972c6e7c912",
   "9bc4d1f639e6c017",
@@ -800,32 +762,60 @@
   "56bb775aa138ed04",
   "c439d218fad807f1",
   "69599649e93585e3",
-  "9c9b3c19cf7d275f"
+  "9c9b3c19cf7d275f",
+  "778b4c063f6f8107",
+  "8131a7f4ed42b3b8",
+  "5c9deecfa8471ce0",
+  "19c9934ee02e6c21",
+  "509d3df240022865",
+  "2a85cacb42e9a17e",
+  "af547cbb6d0bf258",
+  "6c86abc916a108c8",
+  "b5ada4732795b985",
+  "c612dc2e3898b796",
+  "a3ac8163337e1f2f",
+  "32648d4ed356076c",
+  "bdcde496ebc7510b",
+  "b8eee0e31bd27be7",
+  "1bfc30660e35fd3b",
+  "6d5f911874ec1b09",
+  "dfb3452b408f8f21",
+  "aaeb6d689a93cdd6",
+  "2c1248eea4621a68",
+  "75768620ad60a14a",
+  "ab0d4224666dbc3a",
+  "c6bb44e4e678bf0d",
+  "06397fc747d41f55",
+  "75ad1127ab99b564",
+  "d44dbf3bb39f7038",
+  "68b203f8a4ebb842",
+  "ba5d41487d32633c",
+  "dec20c408276e07e",
+  "cd14407dd556ad25",
+  "58201cfb7b940ac9",
+  "71d3f9bbe64ee862",
+  "62b11797f2c1db1b",
+  "2034d7819395e319",
+  "5e09925da6dc6bd1",
+  "6432da6abcebb206",
+  "ee6e8293ab97b269",
+  "9ebc49b8125332b1",
+  "a1ea620fe85ccd5a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-05",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-05",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793839911.2582316,
+ "dernier_passage_actus": 1793843915.5252752,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Didier Digard quitte officiellement son poste d'entraîneur du Havre (RMC Sport)",
-   "t": 1793644660
-  },
-  {
-   "genre": "actu",
-   "resume": "Un joueur de D2 espagnole victime d'un arrêt cardiaque en plein match (L'Équipe)",
-   "t": 1793644666
-  },
   {
    "genre": "actu",
    "resume": "Unai Emery ciblé par Manchester United (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Nouveau record du monde avec 51 cartons rouges distribués (BBC Sport)",
    "t": 1793839974
+  },
+  {
+   "genre": "actu",
+   "resume": "Erling Haaland réagit à ses 62 buts en 62 matchs (Sky Sport)",
+   "t": 1793843975
+  },
+  {
+   "genre": "actu",
+   "resume": "Inquiétude autour de Vinicius après deux matchs sans réussir de dribble (BeSoccer ES)",
+   "t": 1793843980
   }
  ],
  "matchs": {},
