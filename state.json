@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4683fe9a058a3b0a",
-  "6ae15ce6b19ede25",
-  "c1ba6c652c1cf9cc",
-  "52f5079c649ed7cb",
-  "50e6512da9da5517",
-  "ea8a2e1d93ebfb60",
-  "16970a6120dfc128",
-  "1c94b30308bdb320",
   "233c05f49f6faa86",
   "8e6b6f9bce2740cc",
   "4c5d6b95c27edbf5",
@@ -800,27 +792,30 @@
   "b96b8b1736184967",
   "2e1bbaeea421f15a",
   "688c5839125f2d32",
-  "3e71ca8e753e35a3"
+  "3e71ca8e753e35a3",
+  "84a7d1100af533f1",
+  "77be1aa83a768c0e",
+  "b1e20b7c1c891baf",
+  "4a92f76c847d88be",
+  "144e64bbe6ebbd9f",
+  "4e722be431364a64",
+  "e8ff398c81099336",
+  "b5c04985e3191ebf"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-05",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-05",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793847285.2310772,
+ "dernier_passage_actus": 1793850651.7908695,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Unai Emery ciblé par Manchester United (Tribuna.com)",
-   "t": 1793648365
-  },
   {
    "genre": "actu",
    "resume": "Prison requise contre des ultras brestois (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Inquiétude autour de Vinicius après deux matchs sans réussir de dribble (BeSoccer ES)",
    "t": 1793843980
+  },
+  {
+   "genre": "actu",
+   "resume": "Le point sur la blessure de Moise Kean à Côme (Sky Sport)",
+   "t": 1793850736
   }
  ],
  "matchs": {},
