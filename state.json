@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "81ac24445cfdb0ff",
-  "3b2cc23daaf66be6",
-  "817c27dbd36040e2",
-  "3570b87f8c88c206",
-  "5f6345db6904e7e4",
-  "7c945e6c322d80b0",
-  "a76781d9aaf8b55d",
-  "420f9a1916fd3cbe",
-  "3708af19fd5ff5e3",
-  "bd4a679606715748",
-  "3727cd3ba49946a5",
-  "66ca3b9c31117c17",
-  "bd07ec9be8fb8392",
   "b0aadc00395b8eb8",
   "f5c0798f0deff0bd",
   "379bbe2bb0697f9d",
@@ -800,32 +787,35 @@
   "38c4fcb0fd896e14",
   "2d305d9ee55e0ec1",
   "8e9bf6d0f00153ce",
-  "9c76d5cf7fa6638a"
+  "9c76d5cf7fa6638a",
+  "8b4c2fc31a0f4638",
+  "6e682b73e2266c5a",
+  "f39073c129056708",
+  "8af723b2351ec2e3",
+  "56db391151a5bb74",
+  "9b604694557cd386",
+  "d79c12e1ba362123",
+  "08e2dc0e480c86fe",
+  "d83902ebb1f09f75",
+  "cfb2c8485c75c9a8",
+  "0478a7eb0d76be14",
+  "750f2aeb247361d4",
+  "80cad130b414ffe3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-05",
-   "n": 6
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-05",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793854104.1266954,
+ "dernier_passage_actus": 1793857597.8699253,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L'Udinese se sépare de Kosta Runjaic (L'Équipe)",
-   "t": 1793651356
-  },
-  {
-   "genre": "actu",
-   "resume": "L'AC Milan piste le défenseur Massire Sylla (Tribuna.com)",
-   "t": 1793651370
-  },
   {
    "genre": "actu",
    "resume": "Tension à l'OM après la sortie d'Ali Zarrak (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Mamadou Sarr raconte son passage difficile à Chelsea (L'Équipe)",
    "t": 1793854150
+  },
+  {
+   "genre": "actu",
+   "resume": "Samuel Umtiti accuse Lens d'avoir abandonné face à Côme (RMC Sport)",
+   "t": 1793857670
+  },
+  {
+   "genre": "actu",
+   "resume": "Le départ de Paulo Fonseca laisse les supporters lyonnais amers (L'Équipe)",
+   "t": 1793857675
   }
  ],
  "matchs": {},
