@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c439d218fad807f1",
-  "69599649e93585e3",
-  "9c9b3c19cf7d275f",
-  "778b4c063f6f8107",
-  "8131a7f4ed42b3b8",
-  "5c9deecfa8471ce0",
-  "19c9934ee02e6c21",
-  "509d3df240022865",
-  "2a85cacb42e9a17e",
-  "af547cbb6d0bf258",
-  "6c86abc916a108c8",
-  "b5ada4732795b985",
-  "c612dc2e3898b796",
-  "a3ac8163337e1f2f",
-  "32648d4ed356076c",
-  "bdcde496ebc7510b",
-  "b8eee0e31bd27be7",
-  "1bfc30660e35fd3b",
-  "6d5f911874ec1b09",
-  "dfb3452b408f8f21",
-  "aaeb6d689a93cdd6",
-  "2c1248eea4621a68",
-  "75768620ad60a14a",
-  "ab0d4224666dbc3a",
-  "c6bb44e4e678bf0d",
-  "06397fc747d41f55",
   "75ad1127ab99b564",
   "d44dbf3bb39f7038",
   "68b203f8a4ebb842",
@@ -800,27 +774,48 @@
   "5e0196cc248852e4",
   "62b4de80556803f8",
   "c1d93d8d02be86fa",
-  "9be6525a22bb923b"
+  "9be6525a22bb923b",
+  "257e9fb6c6002933",
+  "b7af7eaac49f4919",
+  "f37ae47fd54ea53b",
+  "5863b027bc1bd423",
+  "0415c4044480b14a",
+  "4656b4aba30d9ef9",
+  "00082eca129df95a",
+  "dcaa974d15da08c0",
+  "74712649ef671e05",
+  "873f4f0781e44629",
+  "ce35cf16c9822b11",
+  "a5e5a978790300cd",
+  "781e95c7c62f390d",
+  "d0003be8b2d325c4",
+  "4527a3c501d7bfec",
+  "218b6aa7942194c9",
+  "df63c051239a63dd",
+  "c913221951364df2",
+  "77125a8fe5557f3e",
+  "b795f2e921b2f6cb",
+  "4cf060e64fe1a07d",
+  "861cae4dcf768619",
+  "1f09fec6e9623477",
+  "6cb6be5e2143afea",
+  "b19fdb897c5c88ed",
+  "28aa44f5ed4dfcbc"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 1
+   "n": 2
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793924853.0125744,
+ "dernier_passage_actus": 1793929583.7485292,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Triste record historique à domicile pour Liverpool (Sky Sports)",
-   "t": 1793730194
-  },
   {
    "genre": "actu",
    "resume": "Mathys Tel figure dans la pré liste de Zinédine Zidane (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Amar Dedic arrêté en Angleterre avec un arc et des flèches (L'Équipe)",
    "t": 1793924993
+  },
+  {
+   "genre": "actu",
+   "resume": "Tension à Crystal Palace autour de Pierre Sage et Axel Disasi (RMC Sport)",
+   "t": 1793929648
   }
  ],
  "matchs": {},
