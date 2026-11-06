@@ -1,29 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4a92f76c847d88be",
-  "144e64bbe6ebbd9f",
-  "4e722be431364a64",
-  "e8ff398c81099336",
-  "b5c04985e3191ebf",
-  "5e56f9a0f5efdfb4",
-  "fa32fc17cba45c08",
-  "8888ccaa39991192",
-  "38c4fcb0fd896e14",
-  "2d305d9ee55e0ec1",
-  "8e9bf6d0f00153ce",
-  "9c76d5cf7fa6638a",
-  "8b4c2fc31a0f4638",
-  "6e682b73e2266c5a",
-  "f39073c129056708",
-  "8af723b2351ec2e3",
-  "56db391151a5bb74",
-  "9b604694557cd386",
-  "d79c12e1ba362123",
-  "08e2dc0e480c86fe",
-  "d83902ebb1f09f75",
-  "cfb2c8485c75c9a8",
-  "0478a7eb0d76be14",
   "750f2aeb247361d4",
   "80cad130b414ffe3",
   "cf1ff60338e2023d",
@@ -800,7 +777,30 @@
   "0913cdddf62cef63",
   "889fc27adcc0976a",
   "ddb18e27b2d24314",
-  "e18c3763097a3e04"
+  "e18c3763097a3e04",
+  "7a6cc5eb586eaaa8",
+  "f2acb72ba82780c9",
+  "2a58ac7b227cbffe",
+  "5c7eef4ad2d19408",
+  "1c2cb8dd5a04b881",
+  "6aea27f6b5223d3d",
+  "183f3c5f9b8064af",
+  "3f7d692244cf8f76",
+  "86d3a3d7348df922",
+  "499817edef53ac53",
+  "5ec251b8e90f91c9",
+  "2768571c1e744695",
+  "e35db576adc28bac",
+  "c60b1dba2f9f11a9",
+  "a8a3e35d428f11da",
+  "a9cf0d777dec2a26",
+  "3c2c662eaa1ad669",
+  "a4a142ede97e7aa3",
+  "46ce8fcba8235368",
+  "11b4b2fe52a64372",
+  "3416b1973355a3eb",
+  "db6c64cdb561f9d4",
+  "f7d3509d9c5ed1d5"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -809,11 +809,11 @@
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793939893.7404454,
+ "dernier_passage_actus": 1793943669.6226869,
  "evenements_vus": {},
  "historique": [
   {
