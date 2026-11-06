@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2d8b4b0e029c7942",
-  "5013fff4e6a16804",
-  "e1b2a133c5ea1847",
-  "6cdf3d6adfad61ad",
-  "b2ee77918d9e3448",
-  "2004dd02ebbc456a",
-  "8d013d87d6b019ed",
-  "44848509899045bc",
-  "1a9460ff5acef592",
-  "e2c49d204c44d791",
-  "94d71320f2604759",
-  "ecdf31065d3f667b",
-  "80d9494bde838c86",
-  "ad9b6e503f7c3f2f",
-  "c7d5a615019dacab",
-  "a0bc97b821b4f94a",
-  "e23ae7b4a1043330",
-  "648699cc883a4d91",
-  "45a94ce4782570b2",
-  "2ddf3c4679439d70",
-  "aad5204426c0f1fe",
-  "047ee0c5545f1882",
-  "3d9abaf0899c437d",
-  "d4e90f6d8998761c",
-  "cd22d455180ba7ae",
-  "162ed8825dadfba7",
-  "7978872b034e8b97",
-  "b2b614b4848383fd",
   "3434590db33bff88",
   "6bbff0c3d8efbc9d",
   "60feb98070c21e59",
@@ -800,32 +772,50 @@
   "71688d27fd8f474a",
   "bd41e33fa2a8470f",
   "ecf259e615792bf8",
-  "f7599759c47f8a4b"
+  "f7599759c47f8a4b",
+  "bcbda78ef284d660",
+  "d01af4e5f9b61a1b",
+  "49a732c53a6e4482",
+  "e02d5f9fea83a7d6",
+  "fc8bfe71312222ff",
+  "73ca643810aa6c4f",
+  "786d7936051e77d6",
+  "7dfac46280626038",
+  "179b0f46ffc4f6ce",
+  "9090d5e7882f4aeb",
+  "1198d794db2afcb9",
+  "e397f9893e2d2ae5",
+  "c9201d745694466e",
+  "31475476b21938cf",
+  "160b19e4b4416510",
+  "e228991d0e8346e0",
+  "879f712e68aa01a0",
+  "c0468e6a2d36e12a",
+  "7abd22c637e95cef",
+  "6150a87737088c12",
+  "c0ff31b7df718238",
+  "ce59faa5db906963",
+  "3a28c89ee85c2a6c",
+  "0461cbdeb0b49753",
+  "2743c692d60901ac",
+  "d701be69c10df8c4",
+  "fb78e944268aa33f",
+  "7e6002edb52c5c0b"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793980420.9127386,
+ "dernier_passage_actus": 1793983534.0303552,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le PSG égale le record d'invincibilité de l'OL en Ligue des champions (L'Équipe)",
-   "t": 1793751049
-  },
-  {
-   "genre": "actu",
-   "resume": "Bruno Fernandes sort du silence après la victoire de Manchester United (RMC Sport)",
-   "t": 1793751055
-  },
   {
    "genre": "actu",
    "resume": "Le PSG viserait Kobbie Mainoo pour renforcer son milieu (Sports Illustrated)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le Real Madrid et la Chine vers un apaisement diplomatique (L'Équipe)",
    "t": 1793980499
+  },
+  {
+   "genre": "actu",
+   "resume": "Un joueur refuse de signer au Paris Saint-Germain cet hiver (Foot Mercato)",
+   "t": 1793983590
+  },
+  {
+   "genre": "actu",
+   "resume": "L'Olympique de Marseille pistant un attaquant libre en fin de saison (Sport.fr)",
+   "t": 1793983595
   }
  ],
  "matchs": {},
