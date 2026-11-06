@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "8d9d62e7a043f741",
-  "4fa1af0b4504c19b",
-  "a134b8534cd11902",
-  "3ec041ad0da47992",
-  "5eb7962a4116e1db",
-  "ab0d99164d81849f",
-  "a14192f5c5fd5ac5",
-  "5448a75a967f3334",
-  "56132442527376e9",
-  "346173018c5ae410",
-  "73180393a4f7f1e2",
-  "baf3e796467ac673",
-  "b30f0ed591fa62a4",
-  "fc8ce4d75d1db332",
-  "e044498a635c4117",
-  "09ba9438db5751fa",
-  "7eb857fb6cf375c7",
-  "03452b34f45dc733",
-  "97c8c9db0f50ec4d",
-  "678d852e01cdf1b8",
-  "d63738c5cf46ff37",
-  "2a05ecc3c9782794",
-  "7ed29274193ee6bf",
-  "731ec50bf99a020a",
-  "36e451e0181750a0",
-  "b6067f7557aad827",
-  "147681f613345c26",
-  "7cde59c44613b3de",
-  "88b5ac99000f3436",
-  "9bbe482f02a906f8",
-  "f175300315b7104d",
   "2d8b4b0e029c7942",
   "5013fff4e6a16804",
   "e1b2a133c5ea1847",
@@ -800,32 +769,53 @@
   "59992091e128ab5b",
   "79f1647971e4dbec",
   "bfb35ae29fabc1a5",
-  "19a18f6dfe32e4f1"
+  "19a18f6dfe32e4f1",
+  "b1bb35ef8fcc29d1",
+  "03e5c67d248075a5",
+  "71481ba414db5388",
+  "e4a8416f9b8b9e6d",
+  "a9c30f826184ee3b",
+  "d094305b19ca01a7",
+  "de64a00ec133b4b6",
+  "9077554c0f4d83dc",
+  "10354a31804ded2e",
+  "1ee18b47ccc3a8a1",
+  "fa4208ce7930f22a",
+  "9c9d14bed32a841f",
+  "7a9d0422fa8f89c7",
+  "beccf573ba8b8974",
+  "6e716895ac3d8445",
+  "98a0a6b87ce1e6ca",
+  "cd0ec63e16ffd49c",
+  "9f141435d65d4a77",
+  "f54ee0b0bc81fb91",
+  "aee6b3fad5f38f60",
+  "ab2faca99c7cc291",
+  "4f9282dc76f40780",
+  "91bb3a5637122e5d",
+  "d625ae008f29ea14",
+  "92a1b33803f88102",
+  "15a3f94cc6be8284",
+  "d408c961394861de",
+  "71688d27fd8f474a",
+  "bd41e33fa2a8470f",
+  "ecf259e615792bf8",
+  "f7599759c47f8a4b"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793977393.1618986,
+ "dernier_passage_actus": 1793980420.9127386,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Paulo Fonseca au Portugal, un intérimaire sur le banc lyonnais (L'Équipe)",
-   "t": 1793745877
-  },
-  {
-   "genre": "actu",
-   "resume": "Nouveau coup dur pour le FC Barcelone avec la blessure de Rodri (Foot Mercato)",
-   "t": 1793745884
-  },
   {
    "genre": "actu",
    "resume": "Le PSG égale le record d'invincibilité de l'OL en Ligue des champions (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'Espagne menace de renoncer à la Coupe du Monde 2030 (RMC Sport)",
    "t": 1793977463
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour Manchester United avec la blessure de Carlos Baleba (L'Équipe)",
+   "t": 1793980494
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid et la Chine vers un apaisement diplomatique (L'Équipe)",
+   "t": 1793980499
   }
  ],
  "matchs": {},
