@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5b08085c0f116617",
-  "d1fd02f560790bf5",
-  "e99e151f9d0cb315",
-  "4345e670b9f3501b",
-  "a330f89481159445",
-  "fbd74215028c4b2e",
-  "0ffba7ca626f6a19",
-  "26097e44386f2d29",
-  "12a76c3fba869572",
-  "054584a0f5a96bab",
-  "8ca1d01559cca06e",
-  "da0a6977846194b3",
-  "d3df377cfe09feb5",
-  "7aa031c19fbf0690",
-  "75eb3f93d367aa74",
-  "469dba1e92693f64",
-  "cadb959573f9e4eb",
-  "7c25b2382b4d458f",
-  "5a02f5ef165b769e",
-  "cbc35ee6fcf17c52",
-  "5e7013ed150a19f8",
-  "873265d49f214169",
-  "64f5ddae59641c1d",
-  "9e8c426c84a4e095",
-  "4846a8cf9db57c2b",
-  "a56d40c2c3a8440b",
-  "7531509447e29a7a",
-  "6c2d1be615d14671",
   "2000e97d591b1196",
   "066e57c4cd8016c9",
   "48882201a2884678",
@@ -800,27 +772,50 @@
   "159fd703d71d6643",
   "d5ab09dfdc5fbaf1",
   "0da62d99619688f4",
-  "638fbf6ba6193f19"
+  "638fbf6ba6193f19",
+  "d58596e006c87e4a",
+  "026322907fac98cc",
+  "68f3453a398fe429",
+  "bb60d80ab0c3d7a0",
+  "3e4583b71d36ac33",
+  "7f77af478adadb49",
+  "0bdef5dd556517be",
+  "957dc78957e79533",
+  "9bc3af7c59e74c31",
+  "0cdac4a0efdcbfec",
+  "2dfbeea0c93ed641",
+  "c7adf8fdc8b6f002",
+  "073b2bd8638f0e26",
+  "6905bb8608922b72",
+  "73ae281c493e9a29",
+  "663e570492d4b01a",
+  "9c3c38d8de2802fc",
+  "3b7758fa90c96f67",
+  "bc9f009531118a6c",
+  "be538f77eaea19a8",
+  "1283ef8198326c25",
+  "4ac9d51cc022e53d",
+  "d57d9297ce32d331",
+  "2baf4dee5d783e4b",
+  "d6506b6dfd9aeeee",
+  "4c64440271ea30af",
+  "de7b72749772bd37",
+  "f3d972d6293734dc"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 22
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 23
+   "n": 24
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794002111.5840263,
+ "dernier_passage_actus": 1794004649.015513,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Tottenham : le soulagement pour Wilson Odobert (Foot Mercato)",
-   "t": 1793804119
-  },
   {
    "genre": "actu",
    "resume": "Le Havre discute avec Antoine Kombouaré (Get French Football News)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Arsène Wenger prêt à se présenter contre Gianni Infantino à la FIFA (Foot Mercato)",
    "t": 1794002174
+  },
+  {
+   "genre": "actu",
+   "resume": "Bakayoko impressionné par la nouvelle dimension du PSG (Foot Mercato)",
+   "t": 1794004730
   }
  ],
  "matchs": {},
