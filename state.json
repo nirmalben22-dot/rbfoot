@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c2fb33fa180646d3",
-  "277c13ba4c61df8d",
-  "ef427cf160115e1f",
-  "e6e442c8e75ffb7e",
-  "898138bc05d142c6",
-  "54d93790f2f1496e",
-  "6c639b57532e6141",
-  "72339fa7ecdb9866",
-  "8d5b6fbeacfa4f82",
-  "f2a5b08ee553fa81",
-  "6c46337324b004a9",
-  "58d434de3e01af34",
-  "69ee28ee2dc203a0",
-  "84415e11c806f6d2",
-  "4624d5e6db7f8a34",
-  "bd062f140587f041",
-  "d88f9b0be7094b40",
-  "a76781d9aaf8b55d",
-  "dd219064d8c8e69e",
-  "5fc5ee4232a80a12",
-  "c98c4bf342a097ec",
-  "5d52a76eb9870df7",
-  "fb0dcba1746ab55b",
-  "4d4a440588f45d7d",
-  "3caddd55dcd50cf3",
-  "9b3f70b5c6e9ee90",
-  "daa208238fbd998e",
-  "de710b9edfd83a19",
-  "4578123fd09a0955",
   "5b08085c0f116617",
   "d1fd02f560790bf5",
   "e99e151f9d0cb315",
@@ -800,27 +771,51 @@
   "4b860961bbe0be17",
   "e9a931dce2d249c0",
   "380619c3b88ed52c",
-  "5a5e68dffec4d965"
+  "5a5e68dffec4d965",
+  "62cf9dfa37883965",
+  "9dbfeb23598c60e1",
+  "0740e995a18348b3",
+  "ab8ec486e5af77e2",
+  "3be55c0e697f6d10",
+  "591efcb12660922c",
+  "510d5b4ef73de8cd",
+  "c2cf86e82d086d2d",
+  "de21cbb8ffbdabed",
+  "13a3f4fdf01425ee",
+  "256160d86b19519a",
+  "f2d1e8bdae96389f",
+  "aeb55e12d5636575",
+  "4f3f7f10d78c8091",
+  "fc023e8b65c69623",
+  "837941dd694f8e90",
+  "7b817fb186981532",
+  "3370e3563dd01ca1",
+  "b7f478b558d5c6a6",
+  "eea623201df67e1a",
+  "c92a8f13812b21e3",
+  "e9a728561245fb17",
+  "7fbcb4d3789a8467",
+  "dc348347d8df6137",
+  "7eb04dae5d5d14ed",
+  "159fd703d71d6643",
+  "d5ab09dfdc5fbaf1",
+  "0da62d99619688f4",
+  "638fbf6ba6193f19"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 21
+   "n": 22
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793999477.4674845,
+ "dernier_passage_actus": 1794002111.5840263,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour l'AC Milan et Samuel Chukwueze (Sky Sport)",
-   "t": 1793796551
-  },
   {
    "genre": "actu",
    "resume": "Tottenham : le soulagement pour Wilson Odobert (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Mauro Icardi ciblé par un cador de Serie A (Foot Mercato)",
    "t": 1793999534
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsène Wenger prêt à se présenter contre Gianni Infantino à la FIFA (Foot Mercato)",
+   "t": 1794002174
   }
  ],
  "matchs": {},
