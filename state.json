@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "cd863fa8870e5315",
-  "80a690edbe7ae902",
-  "06b56164e69574f5",
-  "c4bdd4bc3f0e8375",
-  "7abd1fd2e8e734e6",
-  "51ca51511efe8770",
-  "af76f12fbcecb7cc",
-  "3ef58932969de326",
-  "a5f61b51a07acc4b",
-  "7e3e7616bee9d0ae",
-  "23c80b12500caaa1",
-  "e27519908a472077",
-  "0f87efcefc17d29e",
-  "dfad8739401c4dca",
-  "df87a4463b07985a",
-  "267c8ad2ddcffac6",
-  "9ee9554533e9e7a8",
-  "fa00e6d1465417e0",
-  "9e5dcd31381c8a6e",
-  "2d7fe885e4bc5673",
-  "615419d74f785334",
-  "fdb488a3a77ee4f2",
-  "a222c2523f5d8bb5",
-  "9bbd34e379bd1e00",
-  "83d016990a63343d",
-  "d8dbd237e20f6a7b",
   "a1f80279f74bcff8",
   "2a918a7004297006",
   "29608113ad4676fc",
@@ -800,32 +774,48 @@
   "67762dc65832db20",
   "a1233a164c4247cc",
   "ac9f31c1b0c1f7b3",
-  "78223811d688bab7"
+  "78223811d688bab7",
+  "8142ee27edf43d9a",
+  "41c931ac56821a86",
+  "2af8928a7485ead8",
+  "ef72c069c09d0ceb",
+  "dd49dc8d91d8c44e",
+  "e010a4f9a11c773e",
+  "015ee5a2525da9b5",
+  "5cbcafdb1f749002",
+  "3ddbde81d9e95cfc",
+  "5b319ad3f6753738",
+  "590a8fd2a50ae458",
+  "80a1de2ef1a3b184",
+  "4161cdfe18fffb38",
+  "5b0f25cc7ae458a7",
+  "63af25b72ee5a190",
+  "11e6a5dfb1296609",
+  "345be733b6e2bba3",
+  "05b55e2e0bcad1c0",
+  "12393a096740145d",
+  "b841a964b40fe7ce",
+  "e916786cbdce131e",
+  "753e7e5c937b94ad",
+  "557b19a17b34aa52",
+  "aba49788a1ca79ec",
+  "5846665f414d523e",
+  "4c25fb826a5ebd2a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793993409.076811,
+ "dernier_passage_actus": 1793996553.5417573,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Christian Pulisic aurait dit oui pour un transfert à l'AC Milan (Sport.fr)",
-   "t": 1793765786
-  },
-  {
-   "genre": "actu",
-   "resume": "L'Olympique de Marseille pistant un attaquant espagnol sur le marché (Coeur Marseillais)",
-   "t": 1793765792
-  },
   {
    "genre": "actu",
    "resume": "Diego Simeone prend la défense de Robin Le Normand (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Coup dur pour Lens et Franjo Ivanovic avant l'OM (L'Équipe)",
    "t": 1793993550
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United préparerait le départ de Luke Shaw (Tribuna.com)",
+   "t": 1793996605
+  },
+  {
+   "genre": "actu",
+   "resume": "Un membre du staff du FC Porto suspendu trente jours (Record)",
+   "t": 1793996611
   }
  ],
  "matchs": {},
