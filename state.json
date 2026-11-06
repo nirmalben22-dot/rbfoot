@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a1f80279f74bcff8",
-  "2a918a7004297006",
-  "29608113ad4676fc",
-  "5c4217f3c14715f3",
-  "db06f21d6dccf372",
-  "6537cb6a02096fb1",
-  "725c005357f50a79",
-  "8bf3a921b9f396c8",
-  "25c1c26cc36e86a9",
-  "510bd6a0e7e95ca9",
-  "72cab1bfb988e8e9",
-  "73d6fcfbf56bda9f",
-  "ad7c733600b5bff0",
-  "da14d782a0e9f7ec",
   "c2fb33fa180646d3",
   "277c13ba4c61df8d",
   "ef427cf160115e1f",
@@ -800,32 +786,36 @@
   "557b19a17b34aa52",
   "aba49788a1ca79ec",
   "5846665f414d523e",
-  "4c25fb826a5ebd2a"
+  "4c25fb826a5ebd2a",
+  "7d398ff7eecb08dc",
+  "5e10839c07ec4b02",
+  "5ab325acd0e8ebcd",
+  "2b0b7cf4211aa51e",
+  "f8a97ab00a62e763",
+  "34dad54ac881b99d",
+  "1ef449f7178e214c",
+  "6bb18fd9945fc31a",
+  "311aedec84cd61d5",
+  "c75d75b8b4d204a7",
+  "4b860961bbe0be17",
+  "e9a931dce2d249c0",
+  "380619c3b88ed52c",
+  "5a5e68dffec4d965"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-06",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-06",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1793996553.5417573,
+ "dernier_passage_actus": 1793999477.4674845,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Diego Simeone prend la défense de Robin Le Normand (RMC Sport)",
-   "t": 1793769741
-  },
-  {
-   "genre": "actu",
-   "resume": "Senny Mayulu s impose au Paris Saint Germain (L'Équipe)",
-   "t": 1793769747
-  },
   {
    "genre": "actu",
    "resume": "Coup dur pour l'AC Milan et Samuel Chukwueze (Sky Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Un membre du staff du FC Porto suspendu trente jours (Record)",
    "t": 1793996611
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid et le PSG s intressent a Zion Suzuki (BBC Sport)",
+   "t": 1793999528
+  },
+  {
+   "genre": "actu",
+   "resume": "Mauro Icardi ciblé par un cador de Serie A (Foot Mercato)",
+   "t": 1793999534
   }
  ],
  "matchs": {},
