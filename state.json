@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7b964b980da967b4",
-  "f355b4e7b0c9824b",
-  "1502a10519c009b5",
-  "262eee3a630a9212",
-  "aa005b88a84e72d2",
-  "273c2ea3455d5979",
-  "8c61d99e113538e7",
-  "21a5147015c48e8c",
-  "3b9255443d200df0",
-  "e1e91f18bb59f7b3",
-  "314dc45c66b577e7",
-  "9c9633bbea1d5d37",
-  "d1abd8518fa321ff",
-  "c01e8708c0277624",
-  "a9f3ad907cf18b77",
-  "071d88f9e62892a1",
-  "f88cda2c66298c89",
-  "342102599cdf6814",
-  "9640f85d92ed0e3f",
-  "c436b872a5a5d480",
-  "e7cd4b0da4269a49",
-  "b4b42d77443143dc",
-  "7e3b9d38258c62b7",
-  "4070b1d543bbace1",
-  "db17bc48c3ca0989",
-  "f459a95d63eccbdc",
-  "f633be13dbc4000a",
-  "16d215def96142c6",
-  "64fed08da16699b5",
   "61e4fc97242bc887",
   "8f1565c3168836bd",
   "8bc08de2d80665fa",
@@ -800,32 +771,51 @@
   "86f1c118ad0312e2",
   "f1a9a98fbe670232",
   "216cb08e8e542865",
-  "65fe927a4b3f2615"
+  "65fe927a4b3f2615",
+  "fe1abd2c21e339cc",
+  "e14b5b8afbcdff74",
+  "8f635ad212d64914",
+  "312e783da5edaf9d",
+  "cc163fe684e5b7ab",
+  "c45a5f951c2ffd75",
+  "5e314d3d22616207",
+  "54c4a36ca84d9e1d",
+  "7879cef30087399d",
+  "b8b1d1d1cee0eb0e",
+  "c18913b530c2c794",
+  "f7d98ca8e066ee05",
+  "acea97dd08823fad",
+  "7b4e7e508f278c78",
+  "5d0128c89214593d",
+  "90bf3d432e040b8b",
+  "98bc9a2815f33c50",
+  "6cd2b6d7f8cf0948",
+  "1f55b3eb816e6615",
+  "8b49306c24af7e3e",
+  "25bb08d22ac791b3",
+  "642d12f8c6b82985",
+  "bdf358bed87707b4",
+  "23f1bd1947ad7370",
+  "b4e2f1de412e24fb",
+  "9871295fc24b57c4",
+  "2479d869154646f5",
+  "664eb536dc549187",
+  "8f312d666cf99c88"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794071905.8037934,
+ "dernier_passage_actus": 1794074145.4625633,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arnaud Kalimuendo pourrait faire son retour à l'Eintracht Francfort (L'Équipe)",
-   "t": 1793889825
-  },
-  {
-   "genre": "actu",
-   "resume": "Gianni Infantino accusé d'abus de pouvoir à l'aéroport de Miami (L'Équipe)",
-   "t": 1793889830
-  },
   {
    "genre": "actu",
    "resume": "Première convocation avec la Côte d'Ivoire pour Oumar Solet (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "David Silva sort de sa retraite et marque à quarante ans (L'Équipe)",
    "t": 1794072031
+  },
+  {
+   "genre": "actu",
+   "resume": "L'Argentine saisit le TAS suite aux sanctions de la FIFA (RMC Sport)",
+   "t": 1794074204
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Bayern Munich renonce finalement à la piste Doué (Sport.fr)",
+   "t": 1794074208
   }
  ],
  "matchs": {},
