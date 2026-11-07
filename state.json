@@ -1,29 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e561eafd743db5ba",
-  "15f39cf5f067338f",
-  "74b4efd014f46273",
-  "d41fdfbd13e3c0fe",
-  "6d2b4b264b358f42",
-  "a780b20be6fdd861",
-  "55e7be91c3d22001",
-  "ec631f4d9c636645",
-  "2bdbe4b8adcdf791",
-  "cac1b67dd7430043",
-  "baa463ecf2755e5b",
-  "1b0089269eb4c4b3",
-  "02563656f692c787",
-  "c3640cdcbfd07d64",
-  "9b62fc1188e7aac3",
-  "da8f1a874e616c6c",
-  "d41f6de5cbcffeae",
-  "8778cfbe9d845a4a",
-  "65fe681ccb7399f4",
-  "4db017fce28b015f",
-  "dcb4b554c850ac2c",
-  "9945c949ba2da16d",
-  "fffd6e67597962a6",
   "92fddbf072d43d37",
   "5648c19364ae65fd",
   "a369a6eb8794d342",
@@ -800,32 +777,45 @@
   "a4ad1e72c73b4b83",
   "942aae46ef1e6478",
   "b9e108f4f596eaeb",
-  "ce3488fc24868cb5"
+  "ce3488fc24868cb5",
+  "d81a1bcaa08b05c4",
+  "19a063cd9965ac28",
+  "86385d8472f64045",
+  "2f8f5717d9107e65",
+  "96097e46c2998438",
+  "14aa6c9df6ee7a73",
+  "fa1e875b339a8417",
+  "b69fee6375b36e97",
+  "154e52d731750ed0",
+  "e0600457d0993b1f",
+  "2b789523bfd82091",
+  "6985d2d9bd479d96",
+  "2b44e69ce086047e",
+  "04a76a5e81d766c3",
+  "cf953f033ef9c379",
+  "d3df377cfe09feb5",
+  "790837bbca2688c4",
+  "65225bb73579a696",
+  "831b8f91ac86c343",
+  "5f0aaa0e064a9e39",
+  "6c0885c94d1ce4bb",
+  "38d763a10003e7a3",
+  "ef3acc655c8302a0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794064658.2883987,
+ "dernier_passage_actus": 1794067089.8873901,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Mamadou Sarr raconte son passage difficile à Chelsea (L'Équipe)",
-   "t": 1793854150
-  },
-  {
-   "genre": "actu",
-   "resume": "Samuel Umtiti accuse Lens d'avoir abandonné face à Côme (RMC Sport)",
-   "t": 1793857670
-  },
   {
    "genre": "actu",
    "resume": "Le départ de Paulo Fonseca laisse les supporters lyonnais amers (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Andrea Cambiaso forfait avec la Juventus contre la Fiorentina (Sky Sport)",
    "t": 1794064775
+  },
+  {
+   "genre": "actu",
+   "resume": "Le retour de Jules Koundé avec le Barça prend du retard (Foot Mercato)",
+   "t": 1794067235
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane égale un record historique en Ligue des Champions (Tribuna.com)",
+   "t": 1794067241
   }
  ],
  "matchs": {},
