@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "92fddbf072d43d37",
-  "5648c19364ae65fd",
-  "a369a6eb8794d342",
-  "314ec5f1e2a6fe5d",
-  "d7d86e24c240515b",
-  "3a29b82f46908176",
-  "0e169fabb1961ff3",
-  "0af8389d9350d707",
-  "430835b63ce65e1f",
-  "245d411b2fdb9023",
-  "1d09787141a73899",
-  "ef3461a09b12ec64",
-  "fda38eaad78c2c9e",
-  "069416c5d988d036",
-  "65d4be197e57ee0d",
-  "10ca22d98a0477e3",
-  "8120622949dd10e2",
-  "ca1958f3cbc00b6a",
-  "5dcaf3f631c40fd4",
-  "1856883277f06573",
-  "d8106ea06fc9c06b",
-  "7f2a57e1703a9d76",
-  "1727875541b4d551",
-  "9ea561cf7971b5f4",
-  "d4ded3115d7d5286",
-  "477faeb90dcdc953",
-  "544894b2feba0584",
-  "a79ca45cb6156903",
-  "e55e19b54675547d",
-  "ab45048b8277f939",
-  "a802763f4432ac71",
-  "11238abc455c88b4",
-  "d2cad43e43e15f96",
-  "ac4945d4622db240",
-  "7fef0347dc5e97d5",
-  "dbb339e9528899a7",
-  "d934d8d78cb4722b",
-  "528af38ce308666b",
   "4f9a02ce54489ef4",
   "e842f1447307fa9c",
   "515010ebb33fdaee",
@@ -800,32 +762,60 @@
   "5f0aaa0e064a9e39",
   "6c0885c94d1ce4bb",
   "38d763a10003e7a3",
-  "ef3acc655c8302a0"
+  "ef3acc655c8302a0",
+  "a416048cee1a13b9",
+  "0149c7316de24daf",
+  "c7361aec61d01f05",
+  "3f7511e42cc00a33",
+  "b49d22cd41171cd1",
+  "ce61bc85c26e0450",
+  "454645970e7fb6ea",
+  "fcd648822f39263e",
+  "3355ebbcff7a412f",
+  "6a794c74a75b8457",
+  "27ea5c7d858e68ea",
+  "18685ceace45d256",
+  "8deff7cd4bc70b49",
+  "66b377154ba28946",
+  "5bbdf5549dd163a2",
+  "260bdc1204a56f7c",
+  "af867f3b10e1fa8a",
+  "0b0ccf942a93805c",
+  "d23a6fcc2d844a59",
+  "528e19153a5ed879",
+  "0560b18b361fb558",
+  "e7785703643e8164",
+  "ab74a9b0abdb8142",
+  "48a293102e7aea7e",
+  "6a7ee2bf29d85c0e",
+  "d4974b805acc8028",
+  "8299511c92e837cd",
+  "ae08aa6ed9ac7cbd",
+  "35cce0db3bdcc69e",
+  "3a2ee13e473615e8",
+  "a636fee6756ceaf2",
+  "6cda8b36dfd1159a",
+  "6b4d206586cfdcd1",
+  "1d1b1be4ae6bd8e7",
+  "8ccdc83ba78b95b9",
+  "7441ac852e4abc42",
+  "654767368bcaa068",
+  "15354d8c13c8c06c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794067089.8873901,
+ "dernier_passage_actus": 1794069550.582178,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le départ de Paulo Fonseca laisse les supporters lyonnais amers (L'Équipe)",
-   "t": 1793857675
-  },
-  {
-   "genre": "actu",
-   "resume": "Cristiano Ronaldo annonce sa retraite internationale avec le Portugal (RMC Sport)",
-   "t": 1793881609
-  },
   {
    "genre": "actu",
    "resume": "Manchester United aurait pris contact avec Didier Deschamps (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Harry Kane égale un record historique en Ligue des Champions (Tribuna.com)",
    "t": 1794067241
+  },
+  {
+   "genre": "actu",
+   "resume": "Carlos Vicens arrive à Lyon pour s'engager jusqu'en 2029 (L'Équipe)",
+   "t": 1794069685
+  },
+  {
+   "genre": "actu",
+   "resume": "Naples annule la conférence de presse de Massimiliano Allegri (L'Équipe)",
+   "t": 1794069690
   }
  ],
  "matchs": {},
