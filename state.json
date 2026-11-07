@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4f9a02ce54489ef4",
-  "e842f1447307fa9c",
-  "515010ebb33fdaee",
-  "67282933ab6ed14d",
-  "5e15d4fe28def7c1",
-  "33c85512bcba6592",
-  "ea96c0a2ff27e7b3",
-  "f86efecbc55981b8",
-  "d37d20b7c03a4cc3",
-  "1526707ed79d6f12",
-  "a31ee40354dc141c",
-  "7f65982653c622e7",
-  "92da15e63f6b2fda",
-  "d88f28bf19cc61a3",
-  "7f8accfebfeab774",
-  "80e745af839ca1ff",
-  "59a2e5f8c62541ec",
-  "9d2f00a64883d370",
-  "bfa68935b7f99b8d",
-  "a10fbc83f349eb88",
-  "8fe257c25147d591",
-  "b9e5c21f1199af3c",
-  "db81bfb250d65ba4",
-  "8c31dd5c1d92bb96",
-  "a5af6e397250cce3",
-  "03ebca38903f6a4a",
-  "e581f508397f1c3f",
-  "fbd5023997049efd",
-  "5cfd24eebcaf31c1",
-  "cc3612af41861497",
-  "8cbe43e4137e7987",
-  "ea77b170d2ce14d6",
-  "661b46f95e20b675",
-  "36316c52d6593933",
-  "ba6ca724eb5698ea",
-  "2c996d76c5c79b8b",
-  "743ba64418ba4be4",
-  "0cb2028cdba6e003",
-  "8aa9a3b7e8f99743",
   "7b964b980da967b4",
   "f355b4e7b0c9824b",
   "1502a10519c009b5",
@@ -800,32 +761,61 @@
   "8ccdc83ba78b95b9",
   "7441ac852e4abc42",
   "654767368bcaa068",
-  "15354d8c13c8c06c"
+  "15354d8c13c8c06c",
+  "542ca3395fb63771",
+  "067ac5fadadaf46b",
+  "6f039cba2d2a6c0f",
+  "1068d25b91d529ab",
+  "df5026c979a4c5f1",
+  "26dd8ebcaf5667e0",
+  "4b929ad0aa88f1b3",
+  "c1220d2c989bf86f",
+  "415e578cd55e10ce",
+  "6b48216dc267a146",
+  "abf2e26e6e8f2045",
+  "601ba7fabe55dd67",
+  "4e002056ac4cb1f5",
+  "512e7bf7d31ecc91",
+  "a77e05480f30d9d3",
+  "fea74b786e49d793",
+  "6c0d140229d3fb83",
+  "b2c19aad8b677c43",
+  "228eb82eab19fd2e",
+  "aa28b1044453ddac",
+  "6b7fbd73e727d9f7",
+  "abdfd5914ff7de71",
+  "560164db9c6575eb",
+  "59cbf6d5c4ae77bc",
+  "8a030fa736a7d34d",
+  "7eb327c2b457d9bc",
+  "9b968e84e5289939",
+  "3b3b2407371f0742",
+  "876889528d15cdcb",
+  "0ddbfedd2f2c53fe",
+  "7b037452ed5e1520",
+  "5aa89fc304aa6da3",
+  "1bbe0da46f114977",
+  "19dad2a40cc85785",
+  "1ee5e15b1879baea",
+  "86f1c118ad0312e2",
+  "f1a9a98fbe670232",
+  "216cb08e8e542865",
+  "65fe927a4b3f2615"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794069550.582178,
+ "dernier_passage_actus": 1794071905.8037934,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United aurait pris contact avec Didier Deschamps (Foot Mercato)",
-   "t": 1793881614
-  },
-  {
-   "genre": "actu",
-   "resume": "Allan Saint-Maximin refuse une offre colossale pour son jeu (Foot Mercato)",
-   "t": 1793886387
-  },
   {
    "genre": "actu",
    "resume": "Arnaud Kalimuendo pourrait faire son retour à l'Eintracht Francfort (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Naples annule la conférence de presse de Massimiliano Allegri (L'Équipe)",
    "t": 1794069690
+  },
+  {
+   "genre": "actu",
+   "resume": "Retour controversé pour un arbitre français condamné par la justice (Foot Mercato)",
+   "t": 1794072026
+  },
+  {
+   "genre": "actu",
+   "resume": "David Silva sort de sa retraite et marque à quarante ans (L'Équipe)",
+   "t": 1794072031
   }
  ],
  "matchs": {},
