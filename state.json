@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "75bf690ed4e9823a",
-  "5aec35e9a0230f50",
-  "c7bd17249fa783e2",
-  "5dbb3416aa036865",
-  "8fb86ba239155b34",
-  "dab71ebaf36fc02e",
-  "bdcc9010b1582710",
-  "59c2b184ceb727c8",
-  "45918b46dee12b17",
-  "71ca08d4918d46ab",
-  "939046fed85638d3",
-  "a3affcb4ab5efe97",
-  "a765ae29ae9ae933",
-  "6cc9988478c4cf03",
-  "70b470d338813029",
-  "c79446a9d35a99d7",
-  "54b308ffe0e71e1e",
-  "f539825276caf41f",
-  "c4f88440414ec55e",
-  "b72337098c7f3adb",
-  "b163e72e4a383ea1",
-  "ca0d55f7ef504e86",
-  "e0b15ef88f626877",
-  "9948f354186a37d6",
-  "d87311722e4e1ee6",
-  "18685ceace45d256",
-  "5fb8c027e09c8846",
-  "7b3b18417752ef78",
-  "841b546b2f92860e",
-  "834e877fab40bc24",
   "b2e7bd0374247439",
   "2429495fc346a8b6",
   "93fc4b31c1206678",
@@ -800,32 +770,52 @@
   "ec4bbfbd5b86b0da",
   "baa797ce10463865",
   "d0ed23f7a371e9a6",
-  "be1d4e4f58bd0c27"
+  "be1d4e4f58bd0c27",
+  "61aab84484dcd2ad",
+  "da197c7686a814a0",
+  "b399128fee2a8379",
+  "e8253b1c8d02a4ad",
+  "4fe4b37aa374fb36",
+  "f7bd680fa4302a3b",
+  "dbdf48ca373953a6",
+  "8d992fcc2b9cf384",
+  "3666da2260b9c1ea",
+  "2ab473ab7d98ef34",
+  "9d44d327a17976f2",
+  "f912640063f48743",
+  "f6abb52c31b2a09a",
+  "2f4d786c9324b6c7",
+  "e1bde70aa87e8495",
+  "22123d2938c7010c",
+  "5e5a642bc855f0be",
+  "a34fd3d361fdac7c",
+  "866f95ee983f9790",
+  "f16bc1243e0754c7",
+  "c26e4e8acb392890",
+  "4b51ef0fd10b633b",
+  "ec2943115be8aebc",
+  "b7c6e1d35a5a119a",
+  "a81f21d5efb25f66",
+  "1f01d86940cb692c",
+  "63fc17bac990c9c0",
+  "ed48d916f7efd717",
+  "3c56302d0868aad6",
+  "086aa308ebe94add"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 9
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794056680.0995746,
+ "dernier_passage_actus": 1794059667.0233784,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Huis clos partiel à Geoffroy Guichard pour trois matchs (L'Équipe)",
-   "t": 1793824495
-  },
-  {
-   "genre": "actu",
-   "resume": "Record historique pour Côme en Ligue des champions (L'Équipe)",
-   "t": 1793839968
-  },
   {
    "genre": "actu",
    "resume": "Nouveau record du monde avec 51 cartons rouges distribués (BBC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Arsenal repousse un échange proposé par le Barça entre Hincapie et Balde (Tribuna.com)",
    "t": 1794056748
+  },
+  {
+   "genre": "actu",
+   "resume": "Un nouvel entraîneur va très bientôt débarquer à Lyon (RMC Sport)",
+   "t": 1794059728
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur et longue absence pour Djibril Sidibé (Foot Mercato)",
+   "t": 1794059733
   }
  ],
  "matchs": {},
