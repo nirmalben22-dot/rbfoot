@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1eb5c70e0d0a83a8",
-  "3693d8976bae8b09",
-  "d667529563051c9a",
-  "a9a7b6b005b25b39",
-  "36337fecfc9353b3",
-  "2b44e69ce086047e",
-  "41efb0c6c8d1a940",
-  "2458862d7b0b95a7",
-  "bbea58f342b270ef",
-  "5e255f58197913dd",
-  "9b2f4a989bb9dd39",
-  "cdda165c43ae165f",
-  "f3cb115a3a9e80c8",
-  "9f031f37b0c127ac",
-  "3412a5a2f03cbd2b",
-  "b5d3d0732ad651eb",
-  "97edd21283a8ea73",
-  "807098fec9a6d9f1",
-  "64b2cecdae00df0d",
-  "ebb602780882ed67",
-  "82101c9bec8aeb5f",
-  "99c393b2e4e061ae",
-  "ff3239d6064ae9b8",
-  "bc53bff582793807",
-  "0994be2d33c6f64e",
-  "b2a9a29c899bbc5c",
-  "fd8bacd17543593c",
-  "1f0e89d4f4fcd23f",
-  "1cd4e52d84ad8e8e",
-  "b88058bd20b87ca8",
   "e561eafd743db5ba",
   "15f39cf5f067338f",
   "74b4efd014f46273",
@@ -800,32 +770,52 @@
   "ba9e7aba9841d730",
   "574a71147747e977",
   "f155442f4f8c70bd",
-  "4ab57a0835762660"
+  "4ab57a0835762660",
+  "07e1bf88ca8f9177",
+  "b8c149cdc8587926",
+  "9e3d4c4474994e10",
+  "ca680612163fc4d4",
+  "ce41a47ecfa625e6",
+  "006cfde02b8cfffb",
+  "fee26dfe3101f4aa",
+  "8f504a23f0001527",
+  "65d47710d049209b",
+  "7698879c2e2fd1a8",
+  "7d7b21284baed2bd",
+  "b0c109cfa06b98e4",
+  "e471fa1eeafc132b",
+  "04629e9d1a8bfaaa",
+  "6c067e4e1c74633b",
+  "529440696ce30582",
+  "b3985bb2f0f35006",
+  "efe076071adae265",
+  "ea664fbe55b60a8a",
+  "fb04ee50dbd44f85",
+  "1234900fc02dfd0f",
+  "194b8c02ca6a009e",
+  "cde62e5dadf744af",
+  "96e77a268974696d",
+  "eb7ea403b52131f8",
+  "572def3e0bc6b572",
+  "a4ad1e72c73b4b83",
+  "942aae46ef1e6478",
+  "b9e108f4f596eaeb",
+  "ce3488fc24868cb5"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794062221.0882375,
+ "dernier_passage_actus": 1794064658.2883987,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Inquiétude autour de Vinicius après deux matchs sans réussir de dribble (BeSoccer ES)",
-   "t": 1793843980
-  },
-  {
-   "genre": "actu",
-   "resume": "Le point sur la blessure de Moise Kean à Côme (Sky Sport)",
-   "t": 1793850736
-  },
   {
    "genre": "actu",
    "resume": "Mamadou Sarr raconte son passage difficile à Chelsea (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Ibrahim Ba candidat pour devenir le nouvel entraîneur du Havre (L'Équipe)",
    "t": 1794062285
+  },
+  {
+   "genre": "actu",
+   "resume": "William Saliba va rejouer avec les U21 d Arsenal (Sky Sports)",
+   "t": 1794064771
+  },
+  {
+   "genre": "actu",
+   "resume": "Andrea Cambiaso forfait avec la Juventus contre la Fiorentina (Sky Sport)",
+   "t": 1794064775
   }
  ],
  "matchs": {},
