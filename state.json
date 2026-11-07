@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b2e7bd0374247439",
-  "2429495fc346a8b6",
-  "93fc4b31c1206678",
-  "9677e29b04531da8",
-  "2b746c43b9196a0a",
-  "e788e2823f71fbf1",
-  "e2332022b52d31c7",
-  "e41e81bd25413489",
-  "cf9e58978c75d02b",
-  "16c0d5708a46ac9c",
-  "e5974a1f3e8e463a",
-  "44809e1cc972b1b4",
-  "1e0266348d87efb1",
-  "4ffd69279777f5fd",
-  "31b916e46177b2b7",
-  "1072b3715640debb",
-  "687a52b83940626f",
-  "17bef945439c18b1",
-  "0005eb2021e6d14d",
-  "15d109a93b992103",
-  "436219a536ac387b",
-  "2c9fb839bf23c95e",
-  "392d5a4e8b401fd9",
-  "c29d54f5aea16465",
-  "2564744eab77ebc5",
-  "7f68f9418ef57f4e",
-  "d65cb063adf3632e",
-  "c3f7b113fbe73fb1",
   "1eb5c70e0d0a83a8",
   "3693d8976bae8b09",
   "d667529563051c9a",
@@ -800,32 +772,50 @@
   "63fc17bac990c9c0",
   "ed48d916f7efd717",
   "3c56302d0868aad6",
-  "086aa308ebe94add"
+  "086aa308ebe94add",
+  "dacbd59db2e373a6",
+  "43038f6a62a5694f",
+  "f6708eb04883ef55",
+  "5a995f0ea628fcc1",
+  "562b46921eaee122",
+  "17c952dbe7dfedac",
+  "b0277ad4d94fc3b6",
+  "f683903d7510ae53",
+  "6a29a0bf5cfe8601",
+  "f539825276caf41f",
+  "076878ff4c57e7a9",
+  "8cc36abb70bc7507",
+  "cd9f0306feac4d97",
+  "23fcdb5e6eebce8b",
+  "4e39b9d517a60edf",
+  "917f562f99250849",
+  "3fd470f87040e8c4",
+  "dc7d2ddaa5a75488",
+  "78b6e4154444ab34",
+  "a32aff4c895625cc",
+  "d4a51e6d84b86da5",
+  "0fee530536a89a4e",
+  "d6e8896978df313d",
+  "33f04167d956d0c1",
+  "ba9e7aba9841d730",
+  "574a71147747e977",
+  "f155442f4f8c70bd",
+  "4ab57a0835762660"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794059667.0233784,
+ "dernier_passage_actus": 1794062221.0882375,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Nouveau record du monde avec 51 cartons rouges distribués (BBC Sport)",
-   "t": 1793839974
-  },
-  {
-   "genre": "actu",
-   "resume": "Erling Haaland réagit à ses 62 buts en 62 matchs (Sky Sport)",
-   "t": 1793843975
-  },
   {
    "genre": "actu",
    "resume": "Inquiétude autour de Vinicius après deux matchs sans réussir de dribble (BeSoccer ES)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Coup dur et longue absence pour Djibril Sidibé (Foot Mercato)",
    "t": 1794059733
+  },
+  {
+   "genre": "actu",
+   "resume": "Deux retours majeurs au FC Barcelone pour le choc en Liga (L'Équipe)",
+   "t": 1794062280
+  },
+  {
+   "genre": "actu",
+   "resume": "Ibrahim Ba candidat pour devenir le nouvel entraîneur du Havre (L'Équipe)",
+   "t": 1794062285
   }
  ],
  "matchs": {},
