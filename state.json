@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "43e29b963784b933",
-  "1a590bb7fb75707f",
-  "8e95eb2f7683e90a",
-  "2be039510bb25a15",
-  "856e3574ab19aa17",
-  "b7b3dd17d185d238",
-  "3fdab735902521a7",
-  "0411173dd99b285d",
-  "9c481a8e608d99f0",
-  "417cbc6b37cc770c",
-  "0535089600896cc4",
-  "970a730f84b1818e",
-  "63fc52bd386bcd96",
-  "8d10b8e8cd623b25",
-  "5ed217806e1474f3",
   "ff7743906ef0fd6a",
   "4ea320e8907eaa85",
   "52a158ea9c31adba",
@@ -800,32 +785,37 @@
   "f7eecf3f333059bf",
   "51f98af42f8b0289",
   "7a0f436ce0221a58",
-  "045454de2c867c68"
+  "045454de2c867c68",
+  "de475b15d932ab89",
+  "9e857bd0b5c1e7e7",
+  "fcf55cf5aff8bbb3",
+  "da45e58ff5286c22",
+  "656c2870a9b4db6c",
+  "d81686ada4882998",
+  "c74245c3a677c5f8",
+  "a09ae1a05e1dd77f",
+  "dfc2b8ff39c0c6f6",
+  "2390ae542c1ac74a",
+  "fd06de14d36c95a4",
+  "24e68c4cf3781c8c",
+  "f0f6193f42d054fd",
+  "203d173144f602d4",
+  "ad9b7d08ec67560d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 3
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794025724.5315075,
+ "dernier_passage_actus": 1794029019.0206919,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Accord imminent pour la prolongation de Raphinha au FC Barcelone (Foot Mercato)",
-   "t": 1793813912
-  },
-  {
-   "genre": "actu",
-   "resume": "Le gardien David Ospina annonce sa retraite à trente huit ans (L'Équipe)",
-   "t": 1793813917
-  },
   {
    "genre": "actu",
    "resume": "Erreur flagrante de la VAR sur le penalty accorde a Kylian Mbappe (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La France menacée à l'indice UEFA sans le PSG (L'Équipe)",
    "t": 1794025789
+  },
+  {
+   "genre": "actu",
+   "resume": "Le témoignage émouvant de Paul Nardi sur son combat contre la maladie (L'Équipe)",
+   "t": 1794029072
+  },
+  {
+   "genre": "actu",
+   "resume": "Reda Belahyane souligne l impact de son entraîneur à la Lazio Rome (L'Équipe)",
+   "t": 1794029077
   }
  ],
  "matchs": {},
