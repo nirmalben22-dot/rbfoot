@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "08ba505ed63d188d",
-  "98f3535322df12be",
-  "cace2c3c31c2a634",
-  "521fc4f029ef4e5d",
-  "fba0c688aeff735c",
-  "178cc8ecde2d32d4",
-  "278032ac3518140a",
-  "660e6a8e82071fce",
-  "72da196b48c61b3b",
-  "7695c8678558ee66",
-  "3bd47668d1a9ed87",
-  "a35177a8cdf47834",
-  "878f4e1b327b2c0a",
-  "7425c5c0360379d5",
-  "d1618cceef95568a",
-  "931be871bd673748",
-  "e9b81a84970bde86",
-  "06700c9dd99bf8a3",
-  "d3b4216e2b1e4f09",
-  "f3c4eb273142a79a",
-  "06e35bc84f1e484c",
-  "2d107c4aba2be358",
-  "728f23455936c75b",
-  "4e2c3fd7bbb77386",
-  "5b8709bb0f0fae37",
-  "31aa2f1573399112",
-  "38e3674e485b52e4",
-  "2843acb02eb38f52",
   "75bf690ed4e9823a",
   "5aec35e9a0230f50",
   "c7bd17249fa783e2",
@@ -800,32 +772,50 @@
   "d2ef7d8dd7e5d670",
   "c4e8864672c00ef0",
   "944a7e09123471e2",
-  "1b871d99fff03f92"
+  "1b871d99fff03f92",
+  "1ff0c2a549a38135",
+  "0b5c41c9f85f2815",
+  "bf81b3ad0fc70e52",
+  "33ec916c187207f8",
+  "5eef585b02172f06",
+  "957ce989d5e285f6",
+  "41bf6f36337a5288",
+  "6ad56490a21136ef",
+  "3fd1e7c4bcba74fe",
+  "62a08a417d0ccf95",
+  "4b79470e70692367",
+  "a814e650b6e76417",
+  "55083179334d4ff7",
+  "7b9d85f923f09bb9",
+  "77be1aa83a768c0e",
+  "9895ddec7b9f040f",
+  "d3bcdc2e81e658bf",
+  "bbe80bbc6b5a3137",
+  "f5384d1ba76dba1d",
+  "988c2dbb19ade7bb",
+  "5acc05e969496e42",
+  "674adc1fd6305629",
+  "dcb2ac901dcd96de",
+  "43ddd0c9fe12e688",
+  "ec4bbfbd5b86b0da",
+  "baa797ce10463865",
+  "d0ed23f7a371e9a6",
+  "be1d4e4f58bd0c27"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 7
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794053336.5236342,
+ "dernier_passage_actus": 1794056680.0995746,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Folarin Balogun poussé vers la sortie cet hiver (L'Équipe)",
-   "t": 1793821218
-  },
-  {
-   "genre": "actu",
-   "resume": "Pape Gueye sans sommeil après le naufrage contre le PSG (RMC Sport)",
-   "t": 1793821221
-  },
   {
    "genre": "actu",
    "resume": "Huis clos partiel à Geoffroy Guichard pour trois matchs (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Carlos Vicens proche de devenir le nouvel entraîneur de Lyon (Foot Mercato)",
    "t": 1794053500
+  },
+  {
+   "genre": "actu",
+   "resume": "JJ Gabriel se rapproche du Real Madrid et vise le Ballon d'Or (BBC Sport)",
+   "t": 1794056742
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsenal repousse un échange proposé par le Barça entre Hincapie et Balde (Tribuna.com)",
+   "t": 1794056748
   }
  ],
  "matchs": {},
