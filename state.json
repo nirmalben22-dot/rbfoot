@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "61e4fc97242bc887",
-  "8f1565c3168836bd",
-  "8bc08de2d80665fa",
-  "fe76f6b844fde84d",
-  "12fa6abc8da529e0",
-  "b7e12543ec0b9cde",
-  "94e5b956af76790b",
-  "fd9f3e52920f2cbe",
-  "5a3779d852dfbe51",
-  "df8ce1716f10369e",
-  "2d6c1cd83801fe39",
-  "14cbf6de635ebd7b",
-  "b705f2152eccf927",
-  "2af850c34b4ca090",
-  "22be71ed2768b157",
-  "bf4bf44d53dc96a4",
-  "7df52ebc69adfcdf",
-  "041472e729c5c81b",
-  "b9d674b7b46580cd",
-  "8512e17ea6799ea1",
-  "efe5307fc3d29b60",
-  "2a060f11f3e71c3b",
-  "730ad3fbba6d98ed",
-  "895a15a40e7f2320",
-  "7625f7cd3e6a51d3",
-  "f324d14c4e470eb2",
-  "59992091e128ab5b",
-  "79f1647971e4dbec",
-  "bfb35ae29fabc1a5",
-  "19a18f6dfe32e4f1",
-  "b1bb35ef8fcc29d1",
-  "03e5c67d248075a5",
-  "71481ba414db5388",
-  "e4a8416f9b8b9e6d",
-  "a9c30f826184ee3b",
-  "d094305b19ca01a7",
-  "de64a00ec133b4b6",
-  "9077554c0f4d83dc",
-  "10354a31804ded2e",
   "1ee18b47ccc3a8a1",
   "fa4208ce7930f22a",
   "9c9d14bed32a841f",
@@ -800,32 +761,61 @@
   "9871295fc24b57c4",
   "2479d869154646f5",
   "664eb536dc549187",
-  "8f312d666cf99c88"
+  "8f312d666cf99c88",
+  "bd49c587749ee083",
+  "08d5de451c2d7a82",
+  "ea61679dfbfcd497",
+  "ec3f17a1ed15a902",
+  "f812ffe376df3961",
+  "b1823e3257165fff",
+  "59ff137dc96fd433",
+  "b5997ee8d67a9773",
+  "f91e2213841a2fb6",
+  "91a8c9269a3d88df",
+  "afcddcaff340547a",
+  "0f75afcc2df9ccc0",
+  "670cfdead2a39995",
+  "ec495eaecbd0db59",
+  "96ab2b6707464c4b",
+  "737a422cc6b24202",
+  "272d02b4b18d31f9",
+  "36aabc7aae9b16d2",
+  "b3c551cd297e7809",
+  "229d98a497e9018b",
+  "6339b4b6e9f32336",
+  "872910d0bb65c1f4",
+  "0c49915f0a6215ae",
+  "f2832eaf19dca7be",
+  "befd0a5f5c774333",
+  "bff3275cdeea6fcb",
+  "595af441fc1c25a4",
+  "16b2d804d2b24f0d",
+  "68426764b9aefc0e",
+  "dee92cbc2763dde2",
+  "627cbbeb5078bfca",
+  "7f7cd0df887c738b",
+  "c4d550b72dddad36",
+  "62136ab1a7db3ba8",
+  "1e638aa7913f76bc",
+  "c559cdccc2d2930e",
+  "2966fbcf85debb81",
+  "05052c8075552abf",
+  "b052a22e113ed796"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794074145.4625633,
+ "dernier_passage_actus": 1794076774.7441752,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Première convocation avec la Côte d'Ivoire pour Oumar Solet (L'Équipe)",
-   "t": 1793893446
-  },
-  {
-   "genre": "actu",
-   "resume": "Harry Kane prolonge au Bayern Munich jusqu en 2029 (L'Équipe)",
-   "t": 1793893451
-  },
   {
    "genre": "actu",
    "resume": "Le PSG s'intéresserait à Abde Ezzalzouli cet hiver (Les Titis du PSG)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le Bayern Munich renonce finalement à la piste Doué (Sport.fr)",
    "t": 1794074208
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid attentif aux performances de Jacobo Ramón à Côme (Foot Mercato)",
+   "t": 1794076918
+  },
+  {
+   "genre": "actu",
+   "resume": "Olivier Pantaloni présent avec Nice à Angers malgré le deuil (L'Équipe)",
+   "t": 1794076923
   }
  ],
  "matchs": {},
