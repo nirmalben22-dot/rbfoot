@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "80c4cb7fba636795",
-  "2f5fd60b2a8944bf",
-  "97d41085e3e36bb9",
-  "36f70422936e7599",
-  "78eb8292a96c4d32",
-  "af1cd07e83306168",
-  "bbad8d73c9e11e74",
-  "46c78694831dc883",
   "43e29b963784b933",
   "1a590bb7fb75707f",
   "8e95eb2f7683e90a",
@@ -800,27 +792,30 @@
   "ac49c2d7bbb4f434",
   "90aa71bf20c2675d",
   "be6d9fd5b08d970c",
-  "cc64851673237e91"
+  "cc64851673237e91",
+  "abf9eaa83b7c3af2",
+  "886c241dcd82dd65",
+  "5fcea2f63fa0e071",
+  "3d5c6c0199b46b97",
+  "f7eecf3f333059bf",
+  "51f98af42f8b0289",
+  "7a0f436ce0221a58",
+  "045454de2c867c68"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-07",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-07",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794022358.0388558,
+ "dernier_passage_actus": 1794025724.5315075,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Lamine Yamal s'offre un nouveau record devant Kylian Mbappé (Foot Mercato)",
-   "t": 1793810803
-  },
   {
    "genre": "actu",
    "resume": "Accord imminent pour la prolongation de Raphinha au FC Barcelone (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Jack Grealish absent du groupe d Everton contre Newcastle (The New York Times)",
    "t": 1794013249
+  },
+  {
+   "genre": "actu",
+   "resume": "La France menacée à l'indice UEFA sans le PSG (L'Équipe)",
+   "t": 1794025789
   }
  ],
  "matchs": {},
