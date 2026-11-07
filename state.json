@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7380fa7a0cd31338",
-  "d61dea37f39b2427",
-  "148a640bf9c54316",
-  "6cdb3bc4b14b136a",
-  "12d7a8f076c83c95",
-  "1a143fe719589256",
-  "81db0a1c18f9120b",
-  "44c0596e4657c01b",
-  "28a3deac7a5f1333",
-  "181c253c04379eb1",
-  "1cbfe488e5db8170",
-  "7b0882b9cec3a0f2",
-  "f283fd42e70c525e",
-  "ba7a510a0cd82c09",
-  "46fbc05f311b2796",
-  "f91045d55675b806",
-  "e3f52c8a91e698c7",
-  "11f7a331267f4b9a",
-  "de766448ebc3a012",
-  "e8bdc8200082a274",
-  "3ecf51f1fc317b93",
-  "bdf7acace7b243db",
-  "b403ad50bf7596a2",
-  "26284570d7554586",
-  "f220490140818354",
-  "2ba64302f271a2b1",
-  "1cd2a00d27a4483a",
-  "c9ac71e0a2c1625d",
-  "b94501d96c62752e",
-  "dd3649699166a5aa",
-  "1fd2776b758cfaf6",
-  "b2d5d3dd70cc56f0",
   "cade892fbc27415c",
   "98a257f8e3d15eab",
   "3d406e941f90e7aa",
@@ -800,32 +768,54 @@
   "c728919b5d005e05",
   "c769aa49dbc9d824",
   "e1759c91d3ad376f",
-  "83d93ccecbf5e73a"
+  "83d93ccecbf5e73a",
+  "c42db103eace9130",
+  "4c230d2128cea4f4",
+  "d101ca39adb3cc31",
+  "5598084db7790b57",
+  "175aabd01ddf2cfc",
+  "a6cf017b89c81b71",
+  "f89fb114ad366e4f",
+  "7a50ac3a92e41730",
+  "ed93ca7a5d180d98",
+  "0cdb84162ccfdcf5",
+  "428afd375298b242",
+  "06602c9b98f401df",
+  "abf3455a03bcbcd3",
+  "3cf2819e91b006bf",
+  "fe03874925551b40",
+  "2bbd49a2ce9245c6",
+  "7ae0e60a5b29419a",
+  "23242b8c974e20e0",
+  "90b6482a7c2996c2",
+  "2f01b42403cb061e",
+  "7d94647bdedc6536",
+  "b17d5be17eb0208a",
+  "aa78278bbdb38b5f",
+  "48e7f3ea63eb26b7",
+  "f1f5e7c02126b648",
+  "df1a2ff3565e4dc3",
+  "0f90e151d4db439f",
+  "14903e1821777512",
+  "87fe7c2f7ad4d1b9",
+  "fc884405461fffde",
+  "2d94d540889257a0",
+  "6b1a23e69472016e"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-06",
-   "n": 25
+   "jour": "2026-11-07",
+   "n": 2
   },
   "appels_api_football": {
-   "jour": "2026-11-06",
-   "n": 26
+   "jour": "2026-11-07",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794007294.5183368,
+ "dernier_passage_actus": 1794013099.5290332,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Décès de Carlo Molinari figure emblématique du FC Metz (L'Équipe)",
-   "t": 1793807530
-  },
-  {
-   "genre": "actu",
-   "resume": "Un grand espoir de l'OL menacé de licenciement (RMC Sport)",
-   "t": 1793810798
-  },
   {
    "genre": "actu",
    "resume": "Lamine Yamal s'offre un nouveau record devant Kylian Mbappé (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United s'active pour le latéral du Barça Alejandro Balde (Sky Sports)",
    "t": 1794007448
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Bayern Munich cible une jeune pépite du FC Porto (DailyMercato)",
+   "t": 1794013245
+  },
+  {
+   "genre": "actu",
+   "resume": "Jack Grealish absent du groupe d Everton contre Newcastle (The New York Times)",
+   "t": 1794013249
   }
  ],
  "matchs": {},
