@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c1220d2c989bf86f",
-  "415e578cd55e10ce",
-  "6b48216dc267a146",
-  "abf2e26e6e8f2045",
-  "601ba7fabe55dd67",
-  "4e002056ac4cb1f5",
-  "512e7bf7d31ecc91",
-  "a77e05480f30d9d3",
-  "fea74b786e49d793",
-  "6c0d140229d3fb83",
-  "b2c19aad8b677c43",
-  "228eb82eab19fd2e",
-  "aa28b1044453ddac",
-  "6b7fbd73e727d9f7",
-  "abdfd5914ff7de71",
-  "560164db9c6575eb",
-  "59cbf6d5c4ae77bc",
-  "8a030fa736a7d34d",
-  "7eb327c2b457d9bc",
-  "9b968e84e5289939",
-  "3b3b2407371f0742",
-  "876889528d15cdcb",
-  "0ddbfedd2f2c53fe",
-  "7b037452ed5e1520",
-  "5aa89fc304aa6da3",
-  "1bbe0da46f114977",
-  "19dad2a40cc85785",
-  "1ee5e15b1879baea",
-  "86f1c118ad0312e2",
-  "f1a9a98fbe670232",
-  "216cb08e8e542865",
   "65fe927a4b3f2615",
   "fe1abd2c21e339cc",
   "e14b5b8afbcdff74",
@@ -800,32 +769,53 @@
   "2b23e356f25a87a5",
   "5c27c2f5760c787e",
   "e49395658bea27a5",
-  "28cdb64005899455"
+  "28cdb64005899455",
+  "7763298a343b7552",
+  "05e36257d462e686",
+  "b3bfb55f5671dff0",
+  "017eea3513a5ee0b",
+  "528c2b3028201c28",
+  "81c8614aef4e15e8",
+  "dd0c52e7132ecbec",
+  "5b1ea9eab7554566",
+  "a1dfa0c798b7a99f",
+  "0386338c76c6591d",
+  "c4cf591daa23473d",
+  "2d56a97e89e08f13",
+  "9926f0f542383f34",
+  "134673e2e1a19d08",
+  "48d9efa39bb77d04",
+  "8efce9ae33ff4c78",
+  "7cd01699180d227c",
+  "cdeeb65b8f3a8537",
+  "f6d4d4c2c7d8d4db",
+  "618952db1b782123",
+  "0e0395dce05581f7",
+  "ab47dd5a586eaad4",
+  "37fe656d98392c39",
+  "b0a08c43fdac859a",
+  "f9840874706a55be",
+  "022ff2b8f8e034f0",
+  "967ff1178a4df683",
+  "24da9e53ab7d732d",
+  "9ff177ac31a8c75e",
+  "30fec6d0e50a1741",
+  "462172e0cd15def9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 22
+   "n": 24
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 24
+   "n": 25
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794167550.029604,
+ "dernier_passage_actus": 1794169670.125133,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le père de Neymar nommé PDG de Santos (Foot Mercato)",
-   "t": 1793986655
-  },
-  {
-   "genre": "actu",
-   "resume": "Pablo Pagis la surprise de Zidane en équipe de France (RMC Sport)",
-   "t": 1793989902
-  },
   {
    "genre": "actu",
    "resume": "Kylian Mbappé replacé en pointe par Zinédine Zidane (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La LFP refuse de décaler le match entre Lens et l'OM (L'Équipe)",
    "t": 1794167676
+  },
+  {
+   "genre": "actu",
+   "resume": "Les supporters de Lens en colère après la défaite contre Côme (L'Équipe)",
+   "t": 1794169816
+  },
+  {
+   "genre": "actu",
+   "resume": "Pire début défensif de l'histoire pour Manchester United en Premier League (Foot-Africa.com)",
+   "t": 1794169820
   }
  ],
  "matchs": {},
