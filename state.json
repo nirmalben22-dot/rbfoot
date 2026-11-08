@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2390ae542c1ac74a",
-  "fd06de14d36c95a4",
-  "24e68c4cf3781c8c",
-  "f0f6193f42d054fd",
-  "203d173144f602d4",
-  "ad9b7d08ec67560d",
-  "730e0c5eab181144",
-  "71c7b401123bc465",
-  "cabbc3ca30542c62",
-  "2ab941d6abd9a36f",
-  "0e1de78f4af3bab7",
-  "d4e4b7cab6c1eacb",
-  "3095756ee9e18e5c",
-  "c27f6442fdc532b3",
-  "35f92daa3cd0f35e",
-  "213d746124bc95a6",
-  "019c1c621c28ad05",
-  "a4ec7ee08cf36ef8",
-  "fa11942df2013b6c",
-  "f1f1517095c32ad5",
-  "bc5d3f96d10a06de",
-  "96369d4872550921",
-  "370645cc663cf3d4",
-  "24d811be843b0276",
-  "6b8bab555613b56a",
-  "f2e38fd4f18181f7",
-  "c27f6442fdc532b3",
-  "a624bd19e8c3aa78",
-  "4ac4c1edb1259a10",
-  "16272b492e5337ed",
-  "1ce4df2c5d19cd2a",
-  "30ec6103f99cfff3",
-  "a3b50acf514dd614",
-  "c8912920680eb656",
-  "297a2400cf1d06ca",
-  "0b8340a3036183ed",
-  "f758db4d1e92f455",
-  "104001e6a436fc04",
-  "b63bc39075298262",
   "e3f6f386ff7c6235",
   "5ece6ff7e9a1b4c3",
   "e611ee7faa94e151",
@@ -800,32 +761,61 @@
   "07d135db1b194e8a",
   "ca871b375952b5e0",
   "739622445b3ad656",
-  "b774f77e143f4548"
+  "b774f77e143f4548",
+  "11f906b488428308",
+  "db70cc4675e704d1",
+  "bbe978d14305dc3f",
+  "f9ec702d465bcfeb",
+  "8d175ccde5130ea4",
+  "b1c48fc15c470491",
+  "1cf8a09f717d5c28",
+  "2102d8b4e8809b6c",
+  "8da17ca52aef83b2",
+  "0ae19134c921b5bf",
+  "6b159d486d2b264e",
+  "530d9a3c7c001a07",
+  "168d854312c04573",
+  "e853fa96409dcb08",
+  "65ee20945bbb4d3e",
+  "a5936eb647f97bc9",
+  "4f99df2df2c043c4",
+  "0bb12d32fa34f41f",
+  "84962fe293dd0631",
+  "d0a01c95077625b8",
+  "663e570492d4b01a",
+  "1d89dbdb272c673c",
+  "75a64dd12225badc",
+  "aefd69e7ae4428d7",
+  "22bcddd2cc939a0a",
+  "a18376ed2b2432e3",
+  "ace17caff0bb54dc",
+  "656e8b326e796b57",
+  "27c1e85f2c96db31",
+  "6e1533de384ea4d2",
+  "4ea81968f47509c0",
+  "a4225c328adc6197",
+  "4a30a51ad03cd41e",
+  "715aed9edfa55227",
+  "c1d85d68be5388b1",
+  "7e4074c15e52d09b",
+  "948aa319264d525a",
+  "e1759c91d3ad376f",
+  "45740fc75c67f327"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794140601.1612427,
+ "dernier_passage_actus": 1794144291.4503324,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L'OL a bouclé le successeur de Paulo Fonseca (Foot Mercato)",
-   "t": 1793913744
-  },
-  {
-   "genre": "actu",
-   "resume": "Le LOSC réagit après la lourde suspension d'Olivier Létang (L'Équipe)",
-   "t": 1793913750
-  },
   {
    "genre": "actu",
    "resume": "Amar Dedic arrêté en Angleterre avec un arc et des flèches (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Michael Carrick s'exprime sur son avenir à Manchester United (Foot Mercato)",
    "t": 1794140752
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour le Bayern Munich avec la blessure de Manuel Neuer (Foot Mercato)",
+   "t": 1794144432
+  },
+  {
+   "genre": "actu",
+   "resume": "Le FC Barcelone veut conserver sa pépite de 16 ans Tunkara (Tribuna.com)",
+   "t": 1794144437
   }
  ],
  "matchs": {},
