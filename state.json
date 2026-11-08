@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6fabe6405c3c9237",
-  "ee6e1e5bd35962ed",
-  "2c764313a1f35bae",
-  "7891144445cb8afd",
-  "21c45f12a631315c",
-  "f7a3a61798d67a04",
-  "4e98c132b3b04ed0",
-  "20c5129b537c075f",
-  "1a48f865970452e9",
-  "c73d8a0bfca6a121",
-  "40f1b51b2e57eb87",
-  "2777e6e5ebd89ed8",
-  "4788dff39379ca67",
-  "1903236111c6711e",
-  "62b53e02970f4b6c",
-  "e9b5a98e5cd6a477",
-  "57d36d176a79f34d",
-  "b39d27a4809210c8",
-  "67fc5f64c6972b48",
-  "9d3271c5cf545833",
-  "1eeeecfb7a1cf465",
-  "4bc853c062fba8f0",
-  "b0d93fb6606c58b3",
-  "542c1912b4ec94a9",
-  "d43f75194dba7684",
-  "16b8b223e0120bff",
-  "65376a3eaa7d1c57",
-  "bf09b0fa65d238a4",
-  "6c1c2e8eefd1d5c5",
-  "33f0dfd6332991f9",
   "914c808671cfac67",
   "440aad38a3382f44",
   "e85fba5452098836",
@@ -800,27 +770,52 @@
   "d095ce27173cb56e",
   "9c110b928940a4bc",
   "10ca22d98a0477e3",
-  "f6f2228425ca848b"
+  "f6f2228425ca848b",
+  "179c659bf8c866c1",
+  "0b4258889caf9838",
+  "a738b36e11ab5480",
+  "f2e04ce3388d5f76",
+  "bbbad3d6ad50b614",
+  "42c529694b1382fd",
+  "574a58a16f3ba7ad",
+  "3f8ac8d8c97b06b7",
+  "4a525af5b2bfbf36",
+  "ce0ab270b16b275a",
+  "302484d1502b80a6",
+  "f53cff6b3aa14d48",
+  "631315c3240dc575",
+  "cb7138d3311f0d5a",
+  "ffb2c3a39c9591d2",
+  "7f31a63bb5f3a979",
+  "1775c4dd50bf8e34",
+  "fb103ce636713539",
+  "bcd34223ffa4508e",
+  "a0a75aed2e3a047b",
+  "00607546e0ea38af",
+  "d6ef139643a60f23",
+  "9f644c881b0eb13c",
+  "345734cb71c4a46c",
+  "690b5544cee1f7f8",
+  "33bf47b0f9c20faa",
+  "029dbc9861042bfa",
+  "0040569280680f21",
+  "4240fd792b2c5e80",
+  "9b7922cdf4ee1a16"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 12
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794149833.3421543,
+ "dernier_passage_actus": 1794152138.9906461,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Thomas Tuchel écarte Cole Palmer de la sélection anglaise (L'Équipe)",
-   "t": 1793969822
-  },
   {
    "genre": "actu",
    "resume": "Bernardo Silva nommé nouveau capitaine de la sélection du Portugal (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Mobilisation et solidarité après la mort de Jesus de Miguel (RMC Sport)",
    "t": 1794147534
+  },
+  {
+   "genre": "actu",
+   "resume": "Sébastien Bannier nommé sélectionneur des U23 de Côte d'Ivoire (L'Équipe)",
+   "t": 1794152199
   }
  ],
  "matchs": {},
