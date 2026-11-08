@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "78223811d688bab7",
-  "8142ee27edf43d9a",
-  "41c931ac56821a86",
-  "2af8928a7485ead8",
-  "ef72c069c09d0ceb",
-  "dd49dc8d91d8c44e",
-  "e010a4f9a11c773e",
-  "015ee5a2525da9b5",
-  "5cbcafdb1f749002",
-  "3ddbde81d9e95cfc",
-  "5b319ad3f6753738",
-  "590a8fd2a50ae458",
-  "80a1de2ef1a3b184",
-  "4161cdfe18fffb38",
-  "5b0f25cc7ae458a7",
   "63af25b72ee5a190",
   "11e6a5dfb1296609",
   "345be733b6e2bba3",
@@ -800,27 +785,37 @@
   "e10c18cc3ebca24f",
   "5c633268d8afab60",
   "2558fa865bb382c6",
-  "67716e767b058702"
+  "67716e767b058702",
+  "cb1ad775bc8cdca9",
+  "5d4d7f33b363c618",
+  "c97ca7fb6df3a84c",
+  "d008b5c0f431c1c2",
+  "49e0824dce3868d4",
+  "7cf0f25eb8d4baea",
+  "2b0c74bf2e342fde",
+  "c159ae799d46a632",
+  "1f1073c171689df5",
+  "354ab3b26c57baa0",
+  "03e46dd33c711c43",
+  "0ae1069e0acef20d",
+  "f5720f4811c8ac9a",
+  "80e5e3c3828fd5ec",
+  "301829cbd1760d9b"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794099505.3024044,
+ "dernier_passage_actus": 1794103324.7503936,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le président du LOSC Olivier Létang suspendu quatre mois (Foot Mercato)",
-   "t": 1793903728
-  },
   {
    "genre": "actu",
    "resume": "De Magic System à l'équipe nationale du Sénégal: Pathé Mboup était déjà une star sans que personne ne le sache (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Luis Enrique vole au secours de Ferran Torres (Foot Mercato)",
    "t": 1794099572
+  },
+  {
+   "genre": "actu",
+   "resume": "Scènes de chaos dans les couloirs de Valence Real Madrid (RMC Sport)",
+   "t": 1794103439
   }
  ],
  "matchs": {},
