@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ec3f17a1ed15a902",
-  "f812ffe376df3961",
-  "b1823e3257165fff",
-  "59ff137dc96fd433",
-  "b5997ee8d67a9773",
-  "f91e2213841a2fb6",
-  "91a8c9269a3d88df",
-  "afcddcaff340547a",
-  "0f75afcc2df9ccc0",
-  "670cfdead2a39995",
-  "ec495eaecbd0db59",
-  "96ab2b6707464c4b",
-  "737a422cc6b24202",
-  "272d02b4b18d31f9",
-  "36aabc7aae9b16d2",
-  "b3c551cd297e7809",
-  "229d98a497e9018b",
-  "6339b4b6e9f32336",
-  "872910d0bb65c1f4",
-  "0c49915f0a6215ae",
-  "f2832eaf19dca7be",
-  "befd0a5f5c774333",
-  "bff3275cdeea6fcb",
-  "595af441fc1c25a4",
-  "16b2d804d2b24f0d",
-  "68426764b9aefc0e",
-  "dee92cbc2763dde2",
-  "627cbbeb5078bfca",
-  "7f7cd0df887c738b",
   "c4d550b72dddad36",
   "62136ab1a7db3ba8",
   "1e638aa7913f76bc",
@@ -800,27 +771,51 @@
   "e5c38a63c0089563",
   "626d11fd8f7b9964",
   "46e0bbaf961d00fa",
-  "a7e21cd51cd72173"
+  "a7e21cd51cd72173",
+  "73ea193b7995158a",
+  "247976d296135f87",
+  "7c993dfc9be23ce9",
+  "25025b641be6aee1",
+  "84f86390a7f7473a",
+  "b3464d5b1ce1ebe6",
+  "2503a97a633f98dd",
+  "52a7a81f17e65c98",
+  "bdf0723b696cf174",
+  "94eb66a5ddabe9c5",
+  "358909e1b8015049",
+  "656e06c98f19caf0",
+  "d566146faed107a0",
+  "d63ab0f42e72bbf6",
+  "d78762dddc5ddc71",
+  "d2c77fbb5084cc4c",
+  "e9122d3d34b85dd4",
+  "c1016c6b52dc0361",
+  "0dcf09337abc35a4",
+  "70a88a1e5bb83f2c",
+  "90f8cb62874bf7f6",
+  "65990570d416bfec",
+  "5edfc8ba81b256dc",
+  "15651c671168c48f",
+  "20fff425dae2349c",
+  "3d7ca845dc908088",
+  "db592ff6dd42ce7f",
+  "3cbd7538f4476c7c",
+  "d84713bc46543e61"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 24
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 26
+   "n": 27
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794172291.7964582,
+ "dernier_passage_actus": 1794174762.9013765,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Kylian Mbappé replacé en pointe par Zinédine Zidane (L'Équipe)",
-   "t": 1793989909
-  },
   {
    "genre": "actu",
    "resume": "Le parcours impressionnant de Ferencvaros en Ligue Europa (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Pire début défensif de l'histoire pour Manchester United en Premier League (Foot-Africa.com)",
    "t": 1794169820
+  },
+  {
+   "genre": "actu",
+   "resume": "Joseph Oughourlian hausse le ton dans le vestiaire de Lens (L'Équipe)",
+   "t": 1794174905
   }
  ],
  "matchs": {},
