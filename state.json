@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e3f6f386ff7c6235",
-  "5ece6ff7e9a1b4c3",
-  "e611ee7faa94e151",
-  "76b22e7e8c9d6949",
-  "a265d242cbd81b1d",
-  "a79aa10f32629546",
-  "1096467c49940b51",
-  "2278cc2979ea7050",
-  "6529a8cc4b1aa49c",
-  "e397551121069afc",
-  "b8504b72e7dddd52",
-  "7051f84b88a3a1b3",
-  "17a043ecd31fc88c",
-  "82ba18f1d0e733ca",
-  "be597fb3b6d0448c",
   "dc5bf1e8ac4122e4",
   "116e1f33ec6bd590",
   "864a5c7f30baaed0",
@@ -800,32 +785,37 @@
   "7e4074c15e52d09b",
   "948aa319264d525a",
   "e1759c91d3ad376f",
-  "45740fc75c67f327"
+  "45740fc75c67f327",
+  "e7581ac233663cc5",
+  "8e26bf7a69ae0357",
+  "2ab941d6abd9a36f",
+  "cb2cbd5d7e50c546",
+  "d296decb32db9788",
+  "d7e33994a2c41d89",
+  "0c01887cfa5d9773",
+  "75a76419850bb753",
+  "1f355e56b4a110f4",
+  "d831f5dc9b764109",
+  "8ee5bada45ebe8ee",
+  "25926505a5028713",
+  "0b4cfea61e9c2990",
+  "29832d22f7ce02b2",
+  "db25a156708c4ce8"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794144291.4503324,
+ "dernier_passage_actus": 1794147271.3218231,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Amar Dedic arrêté en Angleterre avec un arc et des flèches (L'Équipe)",
-   "t": 1793924993
-  },
-  {
-   "genre": "actu",
-   "resume": "Tension à Crystal Palace autour de Pierre Sage et Axel Disasi (RMC Sport)",
-   "t": 1793929648
-  },
   {
    "genre": "actu",
    "resume": "Thomas Tuchel écarte Cole Palmer de la sélection anglaise (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le FC Barcelone veut conserver sa pépite de 16 ans Tunkara (Tribuna.com)",
    "t": 1794144437
+  },
+  {
+   "genre": "actu",
+   "resume": "Vinicius Jr perd son statut de titulaire au Real Madrid (Foot Mercato)",
+   "t": 1794147530
+  },
+  {
+   "genre": "actu",
+   "resume": "Mobilisation et solidarité après la mort de Jesus de Miguel (RMC Sport)",
+   "t": 1794147534
   }
  ],
  "matchs": {},
