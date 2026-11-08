@@ -1,9 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b841a964b40fe7ce",
-  "e916786cbdce131e",
-  "753e7e5c937b94ad",
   "557b19a17b34aa52",
   "aba49788a1ca79ec",
   "5846665f414d523e",
@@ -800,27 +797,25 @@
   "6ca17a37d88ff645",
   "70adddf6223f82c9",
   "e7977c9c69cda6bc",
-  "0590af55ab7bdf8d"
+  "0590af55ab7bdf8d",
+  "441e7811e94fc5fc",
+  "83c59fc5723de74e",
+  "9c042d9e85a819e5"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794106466.039306,
+ "dernier_passage_actus": 1794109646.1917675,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "De Magic System à l'équipe nationale du Sénégal: Pathé Mboup était déjà une star sans que personne ne le sache (RMC Sport)",
-   "t": 1793903735
-  },
   {
    "genre": "actu",
    "resume": "Harry Kane prolonge l'aventure avec le Bayern Munich (beIN SPORTS)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Scènes de chaos dans les couloirs de Valence Real Madrid (RMC Sport)",
    "t": 1794103439
+  },
+  {
+   "genre": "actu",
+   "resume": "Mason Greenwood regretterait déjà son départ de Marseille (Sport.fr)",
+   "t": 1794109696
   }
  ],
  "matchs": {},
