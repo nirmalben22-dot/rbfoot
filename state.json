@@ -1,29 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5e5a642bc855f0be",
-  "a34fd3d361fdac7c",
-  "866f95ee983f9790",
-  "f16bc1243e0754c7",
-  "c26e4e8acb392890",
-  "4b51ef0fd10b633b",
-  "ec2943115be8aebc",
-  "b7c6e1d35a5a119a",
-  "a81f21d5efb25f66",
-  "1f01d86940cb692c",
-  "63fc17bac990c9c0",
-  "ed48d916f7efd717",
-  "3c56302d0868aad6",
-  "086aa308ebe94add",
-  "dacbd59db2e373a6",
-  "43038f6a62a5694f",
-  "f6708eb04883ef55",
-  "5a995f0ea628fcc1",
-  "562b46921eaee122",
-  "17c952dbe7dfedac",
-  "b0277ad4d94fc3b6",
-  "f683903d7510ae53",
-  "6a29a0bf5cfe8601",
   "f539825276caf41f",
   "076878ff4c57e7a9",
   "8cc36abb70bc7507",
@@ -800,32 +777,45 @@
   "24f1fa951d703efa",
   "085b73b9b855db02",
   "4959a5e29b11d76b",
-  "5298f8bf125894be"
+  "5298f8bf125894be",
+  "13025d0c51ebe819",
+  "20c92e9b412adfb4",
+  "6f71d0aef547426e",
+  "266b55e5662f1a27",
+  "0616a032654bacc8",
+  "551ce49f2ad4e35c",
+  "f230234b98930e00",
+  "ee181ec5c90cdec9",
+  "68a0eefc97db4dcc",
+  "27182b640affa68d",
+  "3c35f41e771bbabf",
+  "4e5fb620abba34e4",
+  "5e4cd564f69c423f",
+  "b512be1f239ee463",
+  "36ca676c02d8365d",
+  "bf7ed6a4f45d107b",
+  "3992b51f98b7c547",
+  "19a18f6dfe32e4f1",
+  "7531eb6c960bea03",
+  "9aa8ffda49c80177",
+  "03d3d0d1a4bfe7bc",
+  "9e80e4603d3d3d57",
+  "fc58868a64299db7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794157083.923092,
+ "dernier_passage_actus": 1794159371.5113163,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Affaire Hamraoui Aminata Diallo renvoyée devant la justice (Foot Mercato)",
-   "t": 1793974366
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour Arsenal et Bukayo Saka blessé au quadriceps (L'Équipe)",
-   "t": 1793977457
-  },
   {
    "genre": "actu",
    "resume": "L'Espagne menace de renoncer à la Coupe du Monde 2030 (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United hésite entre Julian Nagelsmann et Eddie Howe (LiveScore)",
    "t": 1794157164
+  },
+  {
+   "genre": "actu",
+   "resume": "Olivier Létang lourdement suspendu et très remonté contre la FFF (RMC Sport)",
+   "t": 1794159513
+  },
+  {
+   "genre": "actu",
+   "resume": "Olivier Létang optimiste pour la prolongation d Ethan Mbappé (RMC Sport)",
+   "t": 1794159518
   }
  ],
  "matchs": {},
