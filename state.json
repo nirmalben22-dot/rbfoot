@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2b0b7cf4211aa51e",
-  "f8a97ab00a62e763",
-  "34dad54ac881b99d",
-  "1ef449f7178e214c",
-  "6bb18fd9945fc31a",
-  "311aedec84cd61d5",
-  "c75d75b8b4d204a7",
-  "4b860961bbe0be17",
   "e9a931dce2d249c0",
   "380619c3b88ed52c",
   "5a5e68dffec4d965",
@@ -800,27 +792,30 @@
   "5149d98486eaf480",
   "8ce0cc7b390f8895",
   "5e5114bac38afb9b",
-  "cd8619ff6e06b477"
+  "cd8619ff6e06b477",
+  "1e1f548a640df546",
+  "2bcc261b154d2e40",
+  "62ecc5ef22ea049d",
+  "5aedd3dc1c034c32",
+  "a1881572a75ba6a3",
+  "89e0011e51c1e163",
+  "7ef9e2d986f89f26",
+  "79b47b90d6a1a7c8"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794112635.238868,
+ "dernier_passage_actus": 1794115833.5579202,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Lourdement suspendu, Olivier Létang monte au créneau (RMC Sport)",
-   "t": 1793907405
-  },
   {
    "genre": "actu",
    "resume": "Le Bayern Munich s'active pour l'avenir de Michael Olise (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le Barça prêt à inclure Kouné pour Willian Pacho (Sport.fr)",
    "t": 1794112776
+  },
+  {
+   "genre": "actu",
+   "resume": "Kylian Mbappé tourne la page de l'affaire de Ceuta à Valence (L'Équipe)",
+   "t": 1794115882
   }
  ],
  "matchs": {},
