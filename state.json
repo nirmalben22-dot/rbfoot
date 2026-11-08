@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "557b19a17b34aa52",
-  "aba49788a1ca79ec",
-  "5846665f414d523e",
-  "4c25fb826a5ebd2a",
-  "7d398ff7eecb08dc",
-  "5e10839c07ec4b02",
-  "5ab325acd0e8ebcd",
   "2b0b7cf4211aa51e",
   "f8a97ab00a62e763",
   "34dad54ac881b99d",
@@ -800,27 +793,29 @@
   "0590af55ab7bdf8d",
   "441e7811e94fc5fc",
   "83c59fc5723de74e",
-  "9c042d9e85a819e5"
+  "9c042d9e85a819e5",
+  "236583fce78a51d8",
+  "0be404365a7ad9b7",
+  "6685ce27158795d2",
+  "5149d98486eaf480",
+  "8ce0cc7b390f8895",
+  "5e5114bac38afb9b",
+  "cd8619ff6e06b477"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794109646.1917675,
+ "dernier_passage_actus": 1794112635.238868,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Harry Kane prolonge l'aventure avec le Bayern Munich (beIN SPORTS)",
-   "t": 1793907399
-  },
   {
    "genre": "actu",
    "resume": "Lourdement suspendu, Olivier Létang monte au créneau (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Mason Greenwood regretterait déjà son départ de Marseille (Sport.fr)",
    "t": 1794109696
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Barça prêt à inclure Kouné pour Willian Pacho (Sport.fr)",
+   "t": 1794112776
   }
  ],
  "matchs": {},
