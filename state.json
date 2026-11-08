@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7b9d85f923f09bb9",
-  "77be1aa83a768c0e",
-  "9895ddec7b9f040f",
-  "d3bcdc2e81e658bf",
-  "bbe80bbc6b5a3137",
-  "f5384d1ba76dba1d",
-  "988c2dbb19ade7bb",
-  "5acc05e969496e42",
-  "674adc1fd6305629",
-  "dcb2ac901dcd96de",
-  "43ddd0c9fe12e688",
-  "ec4bbfbd5b86b0da",
-  "baa797ce10463865",
-  "d0ed23f7a371e9a6",
-  "be1d4e4f58bd0c27",
-  "61aab84484dcd2ad",
-  "da197c7686a814a0",
-  "b399128fee2a8379",
-  "e8253b1c8d02a4ad",
-  "4fe4b37aa374fb36",
-  "f7bd680fa4302a3b",
-  "dbdf48ca373953a6",
-  "8d992fcc2b9cf384",
-  "3666da2260b9c1ea",
-  "2ab473ab7d98ef34",
-  "9d44d327a17976f2",
-  "f912640063f48743",
-  "f6abb52c31b2a09a",
-  "2f4d786c9324b6c7",
-  "e1bde70aa87e8495",
-  "22123d2938c7010c",
   "5e5a642bc855f0be",
   "a34fd3d361fdac7c",
   "866f95ee983f9790",
@@ -800,32 +769,53 @@
   "0563455ca7bd53b7",
   "97e82b6238e3c6dd",
   "16d28bb1ed5cd5e3",
-  "84b6bad06b7ac61a"
+  "84b6bad06b7ac61a",
+  "cf64d5ff61c14f30",
+  "a67c5fe970294201",
+  "b37bfa33a44b2c4f",
+  "5a9eed2611a2784f",
+  "c5de00a827bf295c",
+  "6a7b3f9a0aebd4d7",
+  "f18168429b21b6f7",
+  "06e144bc86b4c95c",
+  "0dfed25e05a5b46b",
+  "a64f3da7db3aa5af",
+  "d85053e3deb840b3",
+  "12bce022fdf63c5c",
+  "88e8f0952850df65",
+  "f906c1d045576a94",
+  "09b223e1c4cde133",
+  "7b3e40e503e73dd1",
+  "d672f9d83c12b46a",
+  "55fb32784bda91bb",
+  "85ee46a07b8ae71c",
+  "a3acd42673ab874a",
+  "8d9d498f4a51fafd",
+  "7a300f9eb4d0012f",
+  "9139c196436544a6",
+  "4c64440271ea30af",
+  "0ed44f14a8949e3e",
+  "801650337899a0a9",
+  "e42c86a620ae9fc6",
+  "24f1fa951d703efa",
+  "085b73b9b855db02",
+  "4959a5e29b11d76b",
+  "5298f8bf125894be"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-08",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-08",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794154615.6087112,
+ "dernier_passage_actus": 1794157083.923092,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Bernardo Silva nommé nouveau capitaine de la sélection du Portugal (Foot Mercato)",
-   "t": 1793969828
-  },
-  {
-   "genre": "actu",
-   "resume": "Le PSG fait officiellement son entrée dans le Guinness Book (Foot Mercato)",
-   "t": 1793974361
-  },
   {
    "genre": "actu",
    "resume": "Affaire Hamraoui Aminata Diallo renvoyée devant la justice (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Sébastien Bannier nommé sélectionneur des U23 de Côte d'Ivoire (L'Équipe)",
    "t": 1794152199
+  },
+  {
+   "genre": "actu",
+   "resume": "Pierre Sage plus que jamais menacé à Crystal Palace (RMC Sport)",
+   "t": 1794157159
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United hésite entre Julian Nagelsmann et Eddie Howe (LiveScore)",
+   "t": 1794157164
   }
  ],
  "matchs": {},
