@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a42c0e400c6b8094",
-  "c5aac0fa13aeaacf",
-  "7ab5d96c888b5678",
-  "f9b360d820ca45f2",
-  "17428d672f789cdb",
-  "da4da9081ac1ef68",
-  "d68a68637070974e",
-  "03fe764fecea9f08",
-  "6b04770f500d15fa",
-  "8953a3a873c643d5",
-  "2747bb3734a830e0",
-  "f140f76b2bad1d11",
-  "1e12e8cf9c312549",
-  "48395d54f4c33ba0",
-  "2434c647caefc1e1",
-  "2def714001f96135",
-  "1b80ffdfff129b24",
-  "01e33dd1b35ddc69",
-  "4c2aeb0781f8ff01",
-  "0153d00600c0517d",
-  "d2ee59566c582aec",
-  "cd36f9444f3d9602",
-  "eaa5677cf4782c48",
-  "fb547cee32fb2731",
-  "bf2293d9af0ff16c",
-  "00e917a8a72b95a6",
-  "1185420c1d533cdd",
   "657f71565e4d25d1",
   "ed6bc9e8c63e241b",
   "a6c7e5bc0578c98f",
@@ -800,32 +773,49 @@
   "165fe1bec7e4f4c4",
   "3b004c3ded0dc481",
   "606a48a45b03eae5",
-  "948cb5da272fdabb"
+  "948cb5da272fdabb",
+  "8d5c059565fa1bc9",
+  "6746c741b7165a97",
+  "1df041ef0697f771",
+  "73230419eee40efd",
+  "4c249b44399d97cf",
+  "18b2dcbc701e27e7",
+  "6e847ae2a5efa003",
+  "5d6de882744249c0",
+  "8ca1ea797aa41731",
+  "47d5f5d3f0f6943b",
+  "6e3079209a9b5e75",
+  "0ae24b8aa83f3a9d",
+  "de5c1fe35f99aeec",
+  "bb547af91a2c212a",
+  "448f627fdc22128f",
+  "618c506d99a7f1b6",
+  "4a42da22fca23706",
+  "8bf3b8d5183d294a",
+  "9d86cc8e6db6fc5e",
+  "a184c1bd84b6c0ab",
+  "cef9be871d97c59b",
+  "8054e58aaaa5b2e5",
+  "bd61fedd9c0ff651",
+  "24e9222489c9d776",
+  "cd734000bdcf4969",
+  "462e36e4f5c1fd51",
+  "4bbf3e8d92c3d247"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 20
+   "n": 22
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794263096.2346272,
+ "dernier_passage_actus": 1794266043.3772275,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur et longue absence pour Djibril Sidibé (Foot Mercato)",
-   "t": 1794059733
-  },
-  {
-   "genre": "actu",
-   "resume": "Deux retours majeurs au FC Barcelone pour le choc en Liga (L'Équipe)",
-   "t": 1794062280
-  },
   {
    "genre": "actu",
    "resume": "Ibrahim Ba candidat pour devenir le nouvel entraîneur du Havre (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Tom Brady quitte ses fonctions de propriétaire minoritaire à Birmingham (Sky Sports)",
    "t": 1794263241
+  },
+  {
+   "genre": "actu",
+   "resume": "Virgil van Dijk et Brian Brobbey forfaits pour la trêve (Voetbal International)",
+   "t": 1794266188
+  },
+  {
+   "genre": "actu",
+   "resume": "L'Atlético de Madrid vise Martín Zubimendi pour cet hiver (Foot Mercato)",
+   "t": 1794266194
   }
  ],
  "matchs": {},
