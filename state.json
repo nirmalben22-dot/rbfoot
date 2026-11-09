@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "97e82b6238e3c6dd",
-  "16d28bb1ed5cd5e3",
-  "84b6bad06b7ac61a",
-  "cf64d5ff61c14f30",
-  "a67c5fe970294201",
-  "b37bfa33a44b2c4f",
-  "5a9eed2611a2784f",
-  "c5de00a827bf295c",
-  "6a7b3f9a0aebd4d7",
-  "f18168429b21b6f7",
-  "06e144bc86b4c95c",
-  "0dfed25e05a5b46b",
-  "a64f3da7db3aa5af",
-  "d85053e3deb840b3",
-  "12bce022fdf63c5c",
-  "88e8f0952850df65",
-  "f906c1d045576a94",
-  "09b223e1c4cde133",
-  "7b3e40e503e73dd1",
-  "d672f9d83c12b46a",
-  "55fb32784bda91bb",
-  "85ee46a07b8ae71c",
-  "a3acd42673ab874a",
-  "8d9d498f4a51fafd",
-  "7a300f9eb4d0012f",
-  "9139c196436544a6",
-  "4c64440271ea30af",
-  "0ed44f14a8949e3e",
-  "801650337899a0a9",
-  "e42c86a620ae9fc6",
-  "24f1fa951d703efa",
-  "085b73b9b855db02",
   "4959a5e29b11d76b",
   "5298f8bf125894be",
   "13025d0c51ebe819",
@@ -800,32 +768,54 @@
   "31e3a95938b78805",
   "2aabc8e0635f4cae",
   "08c35000306d405d",
-  "612ee2518315e2c4"
+  "612ee2518315e2c4",
+  "5c90b7310042da8d",
+  "18a91588834d02ef",
+  "3fa14ad9163ee61a",
+  "a9fc4db9d87efd0c",
+  "a13774e523cdf418",
+  "b270cb5ad8d243e9",
+  "f69829c4a8423fd0",
+  "7e1fd955dddcb677",
+  "28708c77d7dd1cf0",
+  "dcafc5d50eb1207a",
+  "69e6f16901baaf09",
+  "413cd08f4211ed69",
+  "d4a1673887f21a7b",
+  "a68727c840dcf2a9",
+  "3ae31e8378cb2b2f",
+  "1ea02fe6feffe256",
+  "5f8f1a45855b5df1",
+  "49ffee095d13a5dd",
+  "a44d45db3a3a4f5c",
+  "9e30c7dc0240b1d7",
+  "2ab83f65ff573369",
+  "b9d3af2e82f39ab2",
+  "ee411117588a5959",
+  "0f3794a5a54f8b9b",
+  "cd3e071cb3434c3f",
+  "6e771bdab838b6ca",
+  "baa797ce10463865",
+  "112194d108426e98",
+  "edc51fc3e9ad0c17",
+  "1e2a1055fd35bde5",
+  "4f1dcb6ee1ab03f3",
+  "e0eaf21c97a40b9f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794250368.4202676,
+ "dernier_passage_actus": 1794253740.2708647,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Reda Belahyane souligne l impact de son entraîneur à la Lazio Rome (L'Équipe)",
-   "t": 1794029077
-  },
-  {
-   "genre": "actu",
-   "resume": "Victor Osimhen opéré du genou après sa blessure en Ligue des champions (L'Équipe)",
-   "t": 1794053494
-  },
   {
    "genre": "actu",
    "resume": "Carlos Vicens proche de devenir le nouvel entraîneur de Lyon (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Kylian Mbappé élu joueur du mois d'octobre en Liga (L'Équipe)",
    "t": 1794250519
+  },
+  {
+   "genre": "actu",
+   "resume": "Des menaces inacceptables contre les U17 de l'OL (L'Équipe)",
+   "t": 1794253798
+  },
+  {
+   "genre": "actu",
+   "resume": "Ben White revient sur son absence avec l'Angleterre (BBC Sport)",
+   "t": 1794253804
   }
  ],
  "matchs": {},
