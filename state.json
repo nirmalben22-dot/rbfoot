@@ -1,30 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c72e3bb12a5c6e4f",
-  "b7d4ffd7d773453a",
-  "f8b734514633d03f",
-  "559e9ac396fb01ed",
-  "e522fc9f007f0f58",
-  "f08779925b8ee097",
-  "af5d11bcf7c624bc",
-  "ed1fb929d8caaf60",
-  "f92ea818e18a5834",
-  "452d2baaf6113549",
-  "2b02f01945bc0f82",
-  "8e3715a15f1e7c3c",
-  "7e4140049e1e7328",
-  "694553083718cc9e",
-  "8f097584019e2ca2",
-  "f9a0e6d30b22fcad",
-  "80df94805bf077c4",
-  "3dbaba8aa0b2adff",
-  "aba49788a1ca79ec",
-  "666a3f805fda8192",
-  "2652cd47a7e420b4",
-  "977e8c98a623d1e0",
-  "e422c49afa061abe",
-  "fd07ff76c9200f78",
   "a42c0e400c6b8094",
   "c5aac0fa13aeaacf",
   "7ab5d96c888b5678",
@@ -800,32 +776,46 @@
   "104cdaf5f7e6a1c2",
   "efad02a605d4d2f5",
   "206f8ccea03e84e6",
-  "96c3c2e6eeff4c60"
+  "96c3c2e6eeff4c60",
+  "f382049a06886af0",
+  "2b85d3751d23b5c6",
+  "bd315e772e8e5e97",
+  "4ab43f88d32670c1",
+  "a32c3af9fc3fb99f",
+  "3007a513293aba07",
+  "f9e21f83c30b0c65",
+  "66f3d34483f7bdf4",
+  "dc90939f21922b1c",
+  "9d0a6b630366feab",
+  "7210b362f8838337",
+  "0021849289091277",
+  "a7f0a9f29b671535",
+  "f74bdce5c4158bd3",
+  "0719ae050ced3ec2",
+  "f90dfc81ec4bd672",
+  "8f667f122ed279d6",
+  "d910d002784b1607",
+  "c53ce49ee056217a",
+  "44eac493f0d9b274",
+  "165fe1bec7e4f4c4",
+  "3b004c3ded0dc481",
+  "606a48a45b03eae5",
+  "948cb5da272fdabb"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794260047.2426,
+ "dernier_passage_actus": 1794263096.2346272,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arsenal repousse un échange proposé par le Barça entre Hincapie et Balde (Tribuna.com)",
-   "t": 1794056748
-  },
-  {
-   "genre": "actu",
-   "resume": "Un nouvel entraîneur va très bientôt débarquer à Lyon (RMC Sport)",
-   "t": 1794059728
-  },
   {
    "genre": "actu",
    "resume": "Coup dur et longue absence pour Djibril Sidibé (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'OM menacé par la DNCG pour le mercato d'hiver (TOP Mercato)",
    "t": 1794260098
+  },
+  {
+   "genre": "actu",
+   "resume": "Mauricio Pochettino pressenti pour remplacer Michael Carrick à Manchester United (talkSPORT)",
+   "t": 1794263235
+  },
+  {
+   "genre": "actu",
+   "resume": "Tom Brady quitte ses fonctions de propriétaire minoritaire à Birmingham (Sky Sports)",
+   "t": 1794263241
   }
  ],
  "matchs": {},
