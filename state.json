@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e62c9a0d1b99c1e7",
-  "ba5d5cfc534dc471",
-  "57e1af077c615ba7",
-  "96d34119cdda9383",
-  "e7d2e874a8ad6057",
-  "46d1d5ed2076f184",
-  "ab1e2a36be55a32b",
-  "b3d087c4288da02d",
-  "d095ce27173cb56e",
-  "9c110b928940a4bc",
-  "10ca22d98a0477e3",
-  "f6f2228425ca848b",
-  "179c659bf8c866c1",
-  "0b4258889caf9838",
-  "a738b36e11ab5480",
-  "f2e04ce3388d5f76",
-  "bbbad3d6ad50b614",
-  "42c529694b1382fd",
-  "574a58a16f3ba7ad",
-  "3f8ac8d8c97b06b7",
-  "4a525af5b2bfbf36",
-  "ce0ab270b16b275a",
-  "302484d1502b80a6",
-  "f53cff6b3aa14d48",
-  "631315c3240dc575",
-  "cb7138d3311f0d5a",
-  "ffb2c3a39c9591d2",
-  "7f31a63bb5f3a979",
-  "1775c4dd50bf8e34",
-  "fb103ce636713539",
-  "bcd34223ffa4508e",
-  "a0a75aed2e3a047b",
-  "00607546e0ea38af",
-  "d6ef139643a60f23",
-  "9f644c881b0eb13c",
-  "345734cb71c4a46c",
-  "690b5544cee1f7f8",
   "33bf47b0f9c20faa",
   "029dbc9861042bfa",
   "0040569280680f21",
@@ -800,32 +763,59 @@
   "544ed576ce6750ca",
   "5bc13037f4b39fad",
   "d63ad2ae14429799",
-  "7189097eb0d8993c"
+  "7189097eb0d8993c",
+  "6c56c8e014d836d4",
+  "a1742e83c779778a",
+  "7fcdd7e388406121",
+  "9e3b97e42f5b7a7c",
+  "b2901877a24ab098",
+  "0f5981c8e19db3b0",
+  "4308a66ecf3f7dff",
+  "3ae2974f82ea40a1",
+  "3392092843d9fdd6",
+  "1e9ac57af568ea9a",
+  "32ed1734f5ff8afd",
+  "0f9a2e1739b53b2f",
+  "135ae739b82c3b05",
+  "e1def4e60638efa9",
+  "2c0d978bef41badb",
+  "b44321dfc2b8bb30",
+  "f868aa5ea8f0d69a",
+  "3aeded0b8167dfe4",
+  "83279f869e654e67",
+  "3a4c7dc11f19d15c",
+  "adc5229514f88fa7",
+  "906e84cae3532019",
+  "63b43d6e1c111c4c",
+  "ec4aa415f788ba6e",
+  "37921b4b25798eeb",
+  "644a93d804c68360",
+  "abd81f87b00d3c44",
+  "00fc6484426400af",
+  "4b34534e31d4be92",
+  "cebcc175affe76d9",
+  "5c3a53a62c4498a4",
+  "ab21798786291cbd",
+  "71b9cfa2d620ff45",
+  "4fcedefb9437138d",
+  "6df581c8fca93757",
+  "6ef06a972fb1edce",
+  "bd29aabdb131d58f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794243463.1099234,
+ "dernier_passage_actus": 1794246977.9665446,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Bayern Munich cible une jeune pépite du FC Porto (DailyMercato)",
-   "t": 1794013245
-  },
-  {
-   "genre": "actu",
-   "resume": "Jack Grealish absent du groupe d Everton contre Newcastle (The New York Times)",
-   "t": 1794013249
-  },
   {
    "genre": "actu",
    "resume": "La France menacée à l'indice UEFA sans le PSG (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pau Cubarsi remporte le trophee du Golden Boy 2026 (L'Équipe)",
    "t": 1794243527
+  },
+  {
+   "genre": "actu",
+   "resume": "Carlos Vicens est le nouvel entraîneur de l'OL (RMC Sport)",
+   "t": 1794247036
+  },
+  {
+   "genre": "actu",
+   "resume": "Alberto Aquilani démis de ses fonctions par Sassuolo (L'Équipe)",
+   "t": 1794247042
   }
  ],
  "matchs": {},
