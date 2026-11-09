@@ -1,27 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "36ca676c02d8365d",
-  "bf7ed6a4f45d107b",
-  "3992b51f98b7c547",
-  "19a18f6dfe32e4f1",
-  "7531eb6c960bea03",
-  "9aa8ffda49c80177",
-  "03d3d0d1a4bfe7bc",
-  "9e80e4603d3d3d57",
-  "fc58868a64299db7",
-  "ec55b3dfaaec43f7",
-  "c0ec7c2a02fada8c",
-  "1d939d309306d308",
-  "dd4edfb867525b25",
-  "0bf9005ae6ac803c",
-  "9bdcfbe247b09232",
-  "46947d3121fa87ee",
-  "f382049a06886af0",
-  "a9147c84683c6717",
-  "75534e7d711bcb5c",
-  "96ed79705106e45d",
-  "4d7f3cfb83cc0563",
   "c72e3bb12a5c6e4f",
   "b7d4ffd7d773453a",
   "f8b734514633d03f",
@@ -800,27 +779,43 @@
   "047223a0417204ba",
   "6506e80f588f960d",
   "36c33c76686d1484",
-  "008e29499de0eea3"
+  "008e29499de0eea3",
+  "978ceceade0128ee",
+  "77c090aed7333afb",
+  "579614be48bfa62d",
+  "08e3209c77ca89a1",
+  "bb08f01afbe00a85",
+  "c1669df8382bad1d",
+  "040b426546279dde",
+  "36fa5dd9f684c60c",
+  "8a7ef82aa659bbd9",
+  "7ab8436763505dbf",
+  "29fcec1ccee248f0",
+  "d43bea288ba0ce84",
+  "784d0910acf0d1f8",
+  "b36efc74244ea467",
+  "92cb7160aa4d828a",
+  "d93681eb09fb497e",
+  "ab4fb6ac5be980bc",
+  "104cdaf5f7e6a1c2",
+  "efad02a605d4d2f5",
+  "206f8ccea03e84e6",
+  "96c3c2e6eeff4c60"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 17
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794256796.2174025,
+ "dernier_passage_actus": 1794260047.2426,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "JJ Gabriel se rapproche du Real Madrid et vise le Ballon d'Or (BBC Sport)",
-   "t": 1794056742
-  },
   {
    "genre": "actu",
    "resume": "Arsenal repousse un échange proposé par le Barça entre Hincapie et Balde (Tribuna.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "L'OM contraint de vendre des joueurs au mercato hivernal (L'Équipe)",
    "t": 1794256929
+  },
+  {
+   "genre": "actu",
+   "resume": "L'OM menacé par la DNCG pour le mercato d'hiver (TOP Mercato)",
+   "t": 1794260098
   }
  ],
  "matchs": {},
