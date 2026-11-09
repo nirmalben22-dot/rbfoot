@@ -1,22 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4959a5e29b11d76b",
-  "5298f8bf125894be",
-  "13025d0c51ebe819",
-  "20c92e9b412adfb4",
-  "6f71d0aef547426e",
-  "266b55e5662f1a27",
-  "0616a032654bacc8",
-  "551ce49f2ad4e35c",
-  "f230234b98930e00",
-  "ee181ec5c90cdec9",
-  "68a0eefc97db4dcc",
-  "27182b640affa68d",
-  "3c35f41e771bbabf",
-  "4e5fb620abba34e4",
-  "5e4cd564f69c423f",
-  "b512be1f239ee463",
   "36ca676c02d8365d",
   "bf7ed6a4f45d107b",
   "3992b51f98b7c547",
@@ -800,27 +784,38 @@
   "edc51fc3e9ad0c17",
   "1e2a1055fd35bde5",
   "4f1dcb6ee1ab03f3",
-  "e0eaf21c97a40b9f"
+  "e0eaf21c97a40b9f",
+  "829ef1f0a75bfaf4",
+  "e2556bd45e1e1002",
+  "316c5335a2e65903",
+  "0c92afde61652281",
+  "8008488e52aa506c",
+  "d04957b9c174ceda",
+  "43bc659a4466002e",
+  "089ddf6fe62f1e47",
+  "dc00bbd10720e94f",
+  "612f25f79e63c508",
+  "e772a90c523145ad",
+  "084e063f9b61a3fd",
+  "047223a0417204ba",
+  "6506e80f588f960d",
+  "36c33c76686d1484",
+  "008e29499de0eea3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 16
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794253740.2708647,
+ "dernier_passage_actus": 1794256796.2174025,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Carlos Vicens proche de devenir le nouvel entraîneur de Lyon (Foot Mercato)",
-   "t": 1794053500
-  },
   {
    "genre": "actu",
    "resume": "JJ Gabriel se rapproche du Real Madrid et vise le Ballon d'Or (BBC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Ben White revient sur son absence avec l'Angleterre (BBC Sport)",
    "t": 1794253804
+  },
+  {
+   "genre": "actu",
+   "resume": "L'OM contraint de vendre des joueurs au mercato hivernal (L'Équipe)",
+   "t": 1794256929
   }
  ],
  "matchs": {},
