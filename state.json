@@ -1,23 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "657f71565e4d25d1",
-  "ed6bc9e8c63e241b",
-  "a6c7e5bc0578c98f",
-  "8dc60037f930655e",
-  "e1eeb9c545e44ff5",
-  "3dbd347778f8632d",
-  "2199c68a50419b19",
-  "cdb4b056c204e983",
-  "b53caa5c604bff9d",
-  "a083bb072d1cf2d4",
-  "e4fa9935c14ff159",
-  "4248fc21773be769",
-  "4d7ee19a4ecc05fe",
-  "c5d1ff8e87748cfa",
-  "18e9e40d73a6e66b",
-  "f49e5660015b25a3",
-  "3df0e8ae571cd266",
   "59af357cfe4fd4a0",
   "beed0bd6e3090a90",
   "8a99aa37caa855e1",
@@ -800,27 +783,39 @@
   "24e9222489c9d776",
   "cd734000bdcf4969",
   "462e36e4f5c1fd51",
-  "4bbf3e8d92c3d247"
+  "4bbf3e8d92c3d247",
+  "cd8b1d4b41c639dc",
+  "f92c52b0ffabc17b",
+  "2d4de30d467862d3",
+  "e2f52d02e0da658e",
+  "825c0a545f693bc1",
+  "545be2c464c9b289",
+  "c27498cf10bdda76",
+  "dce972453603009e",
+  "436a9a06bcf36d86",
+  "de5852c693e79e00",
+  "71cbb9eedd0b6860",
+  "7fbfcdb97703ae71",
+  "c1598492be3dc225",
+  "4f34f0002b069e34",
+  "dff1ee0719e4e9a1",
+  "802e9a6d197122ac",
+  "c439d218fad807f1"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 22
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 23
+   "n": 24
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794266043.3772275,
+ "dernier_passage_actus": 1794268528.1280875,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Ibrahim Ba candidat pour devenir le nouvel entraîneur du Havre (L'Équipe)",
-   "t": 1794062285
-  },
   {
    "genre": "actu",
    "resume": "William Saliba va rejouer avec les U21 d Arsenal (Sky Sports)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "L'Atlético de Madrid vise Martín Zubimendi pour cet hiver (Foot Mercato)",
    "t": 1794266194
+  },
+  {
+   "genre": "actu",
+   "resume": "Saël Kumbedi appelé en équipe de France (L'Équipe)",
+   "t": 1794268663
   }
  ],
  "matchs": {},
