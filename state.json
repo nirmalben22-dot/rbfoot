@@ -1,41 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2102d8b4e8809b6c",
-  "8da17ca52aef83b2",
-  "0ae19134c921b5bf",
-  "6b159d486d2b264e",
-  "530d9a3c7c001a07",
-  "168d854312c04573",
-  "e853fa96409dcb08",
-  "65ee20945bbb4d3e",
-  "a5936eb647f97bc9",
-  "4f99df2df2c043c4",
-  "0bb12d32fa34f41f",
-  "84962fe293dd0631",
-  "d0a01c95077625b8",
-  "663e570492d4b01a",
-  "1d89dbdb272c673c",
-  "75a64dd12225badc",
-  "aefd69e7ae4428d7",
-  "22bcddd2cc939a0a",
-  "a18376ed2b2432e3",
-  "ace17caff0bb54dc",
-  "656e8b326e796b57",
-  "27c1e85f2c96db31",
-  "6e1533de384ea4d2",
-  "4ea81968f47509c0",
-  "a4225c328adc6197",
-  "4a30a51ad03cd41e",
-  "715aed9edfa55227",
-  "c1d85d68be5388b1",
-  "7e4074c15e52d09b",
-  "948aa319264d525a",
-  "e1759c91d3ad376f",
-  "45740fc75c67f327",
-  "e7581ac233663cc5",
-  "8e26bf7a69ae0357",
-  "2ab941d6abd9a36f",
   "cb2cbd5d7e50c546",
   "d296decb32db9788",
   "d7e33994a2c41d89",
@@ -800,32 +765,57 @@
   "c14aea38c1b1084b",
   "34e7f4e5f9e671ab",
   "706e5534ebea5bd3",
-  "b6c45e86ab5c84d2"
+  "b6c45e86ab5c84d2",
+  "838b56c4ca5771c1",
+  "14ee9ba97127ca6a",
+  "4a81eb43a9f2b4fc",
+  "c268a29696420513",
+  "b23e14813d656637",
+  "9e6676846c9de4c4",
+  "11cd3ee10eaa2fd0",
+  "c61dc4ecebc9a0b2",
+  "c4907d58eeab04bb",
+  "77f587e9d1931798",
+  "b6ea8a065b8c62cc",
+  "719562dc324705a6",
+  "0086ab6e4ffb3845",
+  "aab3be944a54e528",
+  "0feb826a23ddae02",
+  "782a42fb220f2c99",
+  "434869c4bef30163",
+  "6810c84096bf173b",
+  "372b6cc689e4aa20",
+  "31c14304ef73d970",
+  "536e5c34f7296bac",
+  "7208f6b50679b4ad",
+  "39add14a0dfb3d23",
+  "efff3472b56af317",
+  "780948d089c97853",
+  "df1a2ff3565e4dc3",
+  "52238b66ac60478b",
+  "b5260a43d23ae391",
+  "a6428e76b759e8b7",
+  "b009fb6450a2f9bb",
+  "2b7b186d6abb3431",
+  "762eba6f9a2f9716",
+  "59edb1a43e62c4bb",
+  "5ba3b204258d403c",
+  "3724f88f6fbee9f3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 6
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794235991.2960994,
+ "dernier_passage_actus": 1794239599.345987,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arsène Wenger prêt à se présenter contre Gianni Infantino à la FIFA (Foot Mercato)",
-   "t": 1794002174
-  },
-  {
-   "genre": "actu",
-   "resume": "Bakayoko impressionné par la nouvelle dimension du PSG (Foot Mercato)",
-   "t": 1794004730
-  },
   {
    "genre": "actu",
    "resume": "Marcus Rashford voit Lamine Yamal remporter sept Ballons d'Or (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United s'intéresse à Andrea Cambiaso (YSscores)",
    "t": 1794236139
+  },
+  {
+   "genre": "actu",
+   "resume": "Pau Cubarsi succède à Désiré Doué et remporte le Golden Boy (Foot Mercato)",
+   "t": 1794239746
+  },
+  {
+   "genre": "actu",
+   "resume": "L UEFA sanctionne l Olympique de Marseille après des incidents (RMC Sport)",
+   "t": 1794239751
   }
  ],
  "matchs": {},
