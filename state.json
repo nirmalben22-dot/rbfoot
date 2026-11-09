@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9499ade27947dec7",
-  "c740696144309c50",
-  "27517a439e5135eb",
-  "e5b94d29a91cf6e5",
-  "58e87884716dfe2c",
-  "bfd331a120181bba",
-  "6ed8714510774062",
-  "fc3cc36a7a9761d7",
-  "65a2858a0086aa88",
-  "552b4734d8b881c1",
-  "3bc162acc6333e91",
-  "f292f8b78d110b5f",
-  "42ef8291452a0ffd",
   "4ebcce78f3a24c59",
   "152c959e1593b6b0",
   "b193b43cac645e82",
@@ -800,27 +787,35 @@
   "415ad665642ce8c2",
   "8395afa0d81f4130",
   "206598ce2eec81af",
-  "838bcac04bf39b6e"
+  "838bcac04bf39b6e",
+  "33b61673b8abd674",
+  "ae2ad9d42cf5bfe5",
+  "1384782237fdbeb5",
+  "72e2b7b224158429",
+  "740910692e757788",
+  "f424a5df0f72a22e",
+  "a604dc3128996a7a",
+  "9cfcfaaec38d3c29",
+  "3ba2bc10d44ac4d5",
+  "842b34a9c79a645c",
+  "b55c3486e5e6fa5e",
+  "ab0e6292b82662fb",
+  "b69e2c43257c4234"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 1
+   "n": 2
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794199593.0200367,
+ "dernier_passage_actus": 1794203273.501821,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour Lens et Franjo Ivanovic avant l'OM (L'Équipe)",
-   "t": 1793993550
-  },
   {
    "genre": "actu",
    "resume": "Manchester United préparerait le départ de Luke Shaw (Tribuna.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Yannick Cahuzac tire la sonnette d'alarme à Lens (L'Équipe)",
    "t": 1794184995
+  },
+  {
+   "genre": "actu",
+   "resume": "Bruno Genesio salue la réaction de Keyliane Abdallah (RMC Sport)",
+   "t": 1794203350
   }
  ],
  "matchs": {},
