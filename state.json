@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "33bf47b0f9c20faa",
-  "029dbc9861042bfa",
-  "0040569280680f21",
-  "4240fd792b2c5e80",
-  "9b7922cdf4ee1a16",
-  "153eaf2dcb1e98bf",
-  "ac599dc43077f10f",
-  "689d06982b9d7df8",
-  "23ccc86d6a03d1ee",
-  "f4f74ed6f3b9d9fc",
-  "b4b05b58edd6f2e2",
-  "442d9c948efad1eb",
-  "317ce521d86f135b",
-  "9a1895a8669c105c",
-  "5d42466f54fd16f9",
-  "65f7666838e0dfd0",
-  "f1ebb09429874f15",
-  "e274c4fe8bfcb6f1",
-  "9d60cb4e1b5c7f62",
-  "2527c8dd5bc22c4c",
-  "ef74bde34e2e66be",
-  "3a95231df5bfbbe2",
-  "4f762cfec72bf0f9",
-  "b840d9c56bcf27a6",
-  "d527a82954bc1b0a",
-  "5e1cfba486649719",
-  "69176eb2b836bc72",
-  "8bdf4db04f8dcbcb",
-  "ff946009de0c2c07",
-  "d2b587b869c6005a",
-  "33671a8a2f6ec0ac",
-  "2d6c84c0c63f212d",
-  "0563455ca7bd53b7",
   "97e82b6238e3c6dd",
   "16d28bb1ed5cd5e3",
   "84b6bad06b7ac61a",
@@ -800,32 +767,55 @@
   "4fcedefb9437138d",
   "6df581c8fca93757",
   "6ef06a972fb1edce",
-  "bd29aabdb131d58f"
+  "bd29aabdb131d58f",
+  "f4343fb73ff7f0be",
+  "065c984c6c2bbe05",
+  "0fd0f1569d61d218",
+  "1b1441c5504610c7",
+  "11b8772af11b6047",
+  "7b0c2cd11c4ff8be",
+  "aaf32a6a740cfc30",
+  "498c115fa298a091",
+  "ce0ab270b16b275a",
+  "d2ee8c3027365bc6",
+  "29f6f4200e73bb63",
+  "4d936ec0d849e60f",
+  "4220f1779c5e3723",
+  "cf4d0b513ef1d18f",
+  "d8511b4f3427f878",
+  "b0d923a520b73bb2",
+  "c557e8d9d32dfa0f",
+  "dccd3d36dbbd6c61",
+  "fa29485a4f686968",
+  "ef016ebda8124edd",
+  "676026f7c66d87f3",
+  "66b025bf0c0fe149",
+  "ecc129214532355c",
+  "7e26c625ccd636a4",
+  "383447e89ab3db62",
+  "5abb0bb7e8a594be",
+  "e200fb308d21edcb",
+  "e9e02dbcc5fd6aae",
+  "f3cffc8d32a14769",
+  "31e3a95938b78805",
+  "2aabc8e0635f4cae",
+  "08c35000306d405d",
+  "612ee2518315e2c4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-09",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-09",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794246977.9665446,
+ "dernier_passage_actus": 1794250368.4202676,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La France menacée à l'indice UEFA sans le PSG (L'Équipe)",
-   "t": 1794025789
-  },
-  {
-   "genre": "actu",
-   "resume": "Le témoignage émouvant de Paul Nardi sur son combat contre la maladie (L'Équipe)",
-   "t": 1794029072
-  },
   {
    "genre": "actu",
    "resume": "Reda Belahyane souligne l impact de son entraîneur à la Lazio Rome (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Alberto Aquilani démis de ses fonctions par Sassuolo (L'Équipe)",
    "t": 1794247042
+  },
+  {
+   "genre": "actu",
+   "resume": "Le FC Porto réalise un début de saison totalement fou (Foot Mercato)",
+   "t": 1794250514
+  },
+  {
+   "genre": "actu",
+   "resume": "Kylian Mbappé élu joueur du mois d'octobre en Liga (L'Équipe)",
+   "t": 1794250519
   }
  ],
  "matchs": {},
