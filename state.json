@@ -1,11 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e6685239415dbd5b",
-  "7f11ba7c2f2efe61",
-  "49019f43be62f0b6",
-  "c8974fc050c8f809",
-  "316be7160c9b2c19",
   "4f8bfa0a88217975",
   "f1f0cff95eb68a4e",
   "dbc917c9580566c7",
@@ -800,32 +795,27 @@
   "697aef73cb8e3bd0",
   "bef38c1e013ce7d5",
   "9bf598564dbd923a",
-  "2e0fcc47d296261d"
+  "2e0fcc47d296261d",
+  "3908399e2b87e573",
+  "7d8d3a3c5411bfbc",
+  "457db8be15a21fbe",
+  "6ce6c65dc4123964",
+  "42d9a9110f97a816"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 1
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794272169.3906224,
+ "dernier_passage_actus": 1794275976.9332738,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Andrea Cambiaso forfait avec la Juventus contre la Fiorentina (Sky Sport)",
-   "t": 1794064775
-  },
-  {
-   "genre": "actu",
-   "resume": "Le retour de Jules Koundé avec le Barça prend du retard (Foot Mercato)",
-   "t": 1794067235
-  },
   {
    "genre": "actu",
    "resume": "Harry Kane égale un record historique en Ligue des Champions (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "AC Milan relance la piste Tresoldi, Bruges exige 50 millions (Tribuna.com)",
    "t": 1794272312
+  },
+  {
+   "genre": "actu",
+   "resume": "MICHAEL CARRICK VERS LE LIMOGEAGE À MANCHESTER UNITED (BBC)",
+   "t": 1794276044
+  },
+  {
+   "genre": "actu",
+   "resume": "ROBERTO D AVERSA NOUVEL ENTRAÎNEUR DE SASSUOLO (Tribuna.com)",
+   "t": 1794276048
   }
  ],
  "matchs": {},
