@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "317f69b1af7aea59",
-  "3ae917b05584c754",
-  "4806e2bf3e3423af",
-  "aab821e04aac9cf3",
-  "84479c403cac2d83",
-  "2028d5e5e8a79710",
-  "3a6b9659ef28d0db",
-  "0edfee416484f8af",
-  "f0eacb093520a3aa",
-  "d4de8704b0185ddb",
-  "cd0c6e602dac1435",
-  "bf1dff3ca29e38c5",
-  "7a6d0ea63e87c4f5",
-  "92164ab0f0b5a5f2",
-  "f45d1d5fb66a3408",
-  "797a4a7426f17a52",
-  "7e0c2f59680ec78d",
-  "676fcfdb486455da",
-  "7806706c26c4cad5",
-  "16292815d189cf12",
-  "72c4f7df8e31ba76",
-  "e6aecedb65010760",
-  "8b1e4c6fc1b7b0a1",
-  "fa2c5c3833962af6",
-  "ab1f9ff6a8bd9949",
-  "55a8f0e18c520cda",
-  "812da35e6415558f",
-  "0db57fba154bc1d6",
-  "8c206f7418ad4ba1",
-  "cc693b41bd8ca9fc",
-  "aaf25061b51e606e",
-  "df72fc3ea68bf20d",
-  "c9c257aa3f3aa12e",
-  "d46359de2b9b7fbd",
   "2c788632f88eef91",
   "2f8de09ca5a8ed95",
   "c649bd5aeb242838",
@@ -800,27 +766,56 @@
   "2093dedd552566df",
   "30be5f2ca733cafc",
   "13ed75c333082d36",
-  "2fc5c94de67ab377"
+  "2fc5c94de67ab377",
+  "2d970b5e53232eaf",
+  "7b8a711e83a824c2",
+  "ebce9df9c141589f",
+  "19a063cd9965ac28",
+  "6048fcf50d811525",
+  "44fea7ff3235e2b7",
+  "53568308b782b78b",
+  "eb5a1b07f193826a",
+  "2c2b7991c9f4bf08",
+  "2c3dbc1702776626",
+  "d6523af7fdb5e36d",
+  "b53cff23fbab680f",
+  "89d764837a41f906",
+  "c7b1a73836db32c1",
+  "aaf5a2e85f0ea242",
+  "6289eff5ea30dfaf",
+  "b4848a1b0e36cf44",
+  "f8e4981a5d400f89",
+  "ef9a8028749d70f8",
+  "1cf64a2d1898c7c5",
+  "4c624af47d9bbb3b",
+  "63424a1a99357243",
+  "93bd79ef775e41f5",
+  "2e349720e624c623",
+  "05185354bfeb6483",
+  "2ae537dae94fe0e8",
+  "91bd8e4bda145d28",
+  "fb7dd9e2f426d890",
+  "9fcde84fa2201149",
+  "f8cde4cb54d9e2a6",
+  "6ff5970b1e5578d9",
+  "9b3f70b5c6e9ee90",
+  "80c1d27eab6f8363",
+  "acc83ae2c0f1ee48"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 14
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794338310.2669961,
+ "dernier_passage_actus": 1794341549.5864754,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Scènes de chaos dans les couloirs de Valence Real Madrid (RMC Sport)",
-   "t": 1794103439
-  },
   {
    "genre": "actu",
    "resume": "Mason Greenwood regretterait déjà son départ de Marseille (Sport.fr)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Aurélien Tchouaméni blessé et incertain avec l'équipe de France (L'Équipe)",
    "t": 1794338458
+  },
+  {
+   "genre": "actu",
+   "resume": "Steven Gerrard encense le prodige barcelonais Lamine Yamal (L'Équipe)",
+   "t": 1794341601
   }
  ],
  "matchs": {},
