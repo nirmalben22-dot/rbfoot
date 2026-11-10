@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "59af357cfe4fd4a0",
-  "beed0bd6e3090a90",
-  "8a99aa37caa855e1",
-  "0b2297ea798e600c",
-  "bcc59c637bfdd81b",
-  "d58511684e8c9264",
-  "d4059368e15942ae",
-  "8bebf13c1838908a",
-  "f6f834f0755c5155",
-  "e68f2efa8cc557dd",
-  "e92bdcfe0300dd18",
-  "fb78e513993d5c37",
-  "1c1239e0f3d67780",
-  "4bd04e0740b245e8",
-  "4004f2b443733315",
   "e6685239415dbd5b",
   "7f11ba7c2f2efe61",
   "49019f43be62f0b6",
@@ -800,27 +785,37 @@
   "4f34f0002b069e34",
   "dff1ee0719e4e9a1",
   "802e9a6d197122ac",
-  "c439d218fad807f1"
+  "c439d218fad807f1",
+  "6f6a093745bff252",
+  "6c8d818f47b1cfc4",
+  "9b2b7cc3e4fe6954",
+  "da10c56f84baaa51",
+  "b7d262904cfd823d",
+  "0df52f5c6d60eeb9",
+  "689446bf80bf1556",
+  "5a3758a304456724",
+  "37c00d71e9c7e8c3",
+  "dbfccc3b888e38aa",
+  "8e6064f7abf5e59c",
+  "697aef73cb8e3bd0",
+  "bef38c1e013ce7d5",
+  "9bf598564dbd923a",
+  "2e0fcc47d296261d"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-09",
-   "n": 23
+   "jour": "2026-11-10",
+   "n": 1
   },
   "appels_api_football": {
-   "jour": "2026-11-09",
-   "n": 24
+   "jour": "2026-11-10",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794268528.1280875,
+ "dernier_passage_actus": 1794272169.3906224,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "William Saliba va rejouer avec les U21 d Arsenal (Sky Sports)",
-   "t": 1794064771
-  },
   {
    "genre": "actu",
    "resume": "Andrea Cambiaso forfait avec la Juventus contre la Fiorentina (Sky Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Saël Kumbedi appelé en équipe de France (L'Équipe)",
    "t": 1794268663
+  },
+  {
+   "genre": "actu",
+   "resume": "AC Milan relance la piste Tresoldi, Bruges exige 50 millions (Tribuna.com)",
+   "t": 1794272312
   }
  ],
  "matchs": {},
