@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ae2ad9d42cf5bfe5",
-  "1384782237fdbeb5",
-  "72e2b7b224158429",
-  "740910692e757788",
-  "f424a5df0f72a22e",
-  "a604dc3128996a7a",
-  "9cfcfaaec38d3c29",
-  "3ba2bc10d44ac4d5",
-  "842b34a9c79a645c",
-  "b55c3486e5e6fa5e",
-  "ab0e6292b82662fb",
-  "b69e2c43257c4234",
-  "c6838a2c9f8a2f65",
-  "16e804d07c628e0a",
-  "8e5a846ec7f25133",
-  "c988ce5105ac53dd",
-  "3b1bbb210793cfd1",
-  "997b17eb97f70df6",
-  "97024fde65e426a4",
-  "95a430f4e0636a39",
-  "18851b63c77c54c2",
-  "ebee60e784fd7eb8",
-  "ae98ba9deadd7e4c",
-  "07bb65547a30ce6b",
-  "48eb803b99672a16",
   "aace9cffe3d5b412",
   "655da9c38f42b2e6",
   "41dbbca8d8ba0bef",
@@ -800,32 +775,47 @@
   "8dab8df23d3a5228",
   "dcd7b623ac72f3d2",
   "13b1c1dd687783d7",
-  "488e7058be77d3f1"
+  "488e7058be77d3f1",
+  "04e382f985995203",
+  "830ee452bd916afd",
+  "f79085ab8b961f71",
+  "9810c4904a01f62d",
+  "5dce7b37745545b9",
+  "a049846962de1858",
+  "01fed4a5109d592c",
+  "c0b5d8dbe7d5121f",
+  "f76d00cd72c92ea5",
+  "64882f76b9638492",
+  "6d5a90d1f3524b8f",
+  "2ebbd0a81fd1102a",
+  "3b6afbd4b9555d01",
+  "940e10351ae2588c",
+  "852a0b0d72bfdee6",
+  "f672c13c68620493",
+  "f946739e7b47dc07",
+  "f40eb3de79213059",
+  "89ca46bc24be787b",
+  "b834d9d0cafd59b8",
+  "f5fa49e6713b2292",
+  "fc5d516710192a41",
+  "11f627b098f2a9bc",
+  "d37a8ec74078d364",
+  "de55ae6f751f1556"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794318383.7075608,
+ "dernier_passage_actus": 1794321483.72043,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L'Argentine saisit le TAS suite aux sanctions de la FIFA (RMC Sport)",
-   "t": 1794074204
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Bayern Munich renonce finalement à la piste Doué (Sport.fr)",
-   "t": 1794074208
-  },
   {
    "genre": "actu",
    "resume": "Le Real Madrid attentif aux performances de Jacobo Ramón à Côme (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United se sépare de Michael Carrick (Elbotola)",
    "t": 1794318532
+  },
+  {
+   "genre": "actu",
+   "resume": "Eric Maxim Choupo Moting envisage un retour en Bundesliga (Foot Mercato)",
+   "t": 1794321543
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid satisfait des progrès de Mastantuono en Italie (Tribuna.com)",
+   "t": 1794321549
   }
  ],
  "matchs": {},
