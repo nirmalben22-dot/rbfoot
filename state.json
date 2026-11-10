@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2c788632f88eef91",
-  "2f8de09ca5a8ed95",
-  "c649bd5aeb242838",
-  "0e82a9889e6a2cbb",
-  "f0a65ba8cbfbfa66",
-  "154ff83495ea53e5",
-  "48658232f8a3a3d5",
-  "a35592d6ac1f8252",
-  "c732bc9874d55893",
-  "73bde690f356b319",
-  "413fa1458957561f",
-  "f795b50d39201a27",
-  "613f41e081b3a905",
-  "65e28b991205db3d",
-  "e580e9af448c4094",
-  "1d3621d7b0381b6c",
-  "ff1202dc20abd8e9",
-  "e2761fe741661508",
-  "ede0503e8f362573",
-  "4199072d764ee37e",
-  "62426e2af5c6a1bb",
-  "8720b8a9a90651fb",
-  "40d085d0c986ea2b",
-  "9ec40ce666cee088",
-  "7be0df0c52107604",
-  "e816528eb8bb5705",
-  "efe3593d26b38deb",
-  "241d6ab67042a8cd",
-  "5c212b1328c8f623",
-  "87782ef44719019b",
   "e90fc08154b4b32e",
   "45ee0204e384f06d",
   "b3e1d822bb98a03e",
@@ -800,32 +770,52 @@
   "6ff5970b1e5578d9",
   "9b3f70b5c6e9ee90",
   "80c1d27eab6f8363",
-  "acc83ae2c0f1ee48"
+  "acc83ae2c0f1ee48",
+  "83abdd292b77201f",
+  "7c2a34cfb255393b",
+  "a0c9949568f16de5",
+  "e7679e0fb2437b50",
+  "f10cb6d2f4744d5d",
+  "ce0af559ca8d2beb",
+  "1f05ffb667944607",
+  "15e7ef06c8798f02",
+  "79cbbc756fc79eda",
+  "3150d15b1fc1f813",
+  "ed631ced03d5df4d",
+  "6a97487c8ad92398",
+  "13c9c0a9082acb97",
+  "5b7ec1ea7a6c01fb",
+  "5c3bb76bb8fdef50",
+  "cef9b4e616dab00c",
+  "993f35cc3d6cbe79",
+  "94c97e779f225228",
+  "63e9145570e678b9",
+  "580e91b38c96b342",
+  "ba44d04c7bcee6e4",
+  "e679d22332bacaac",
+  "eb179622560cc80c",
+  "a8746378c27204a1",
+  "ab78a8933621c0c9",
+  "c418b911707049e0",
+  "86d2eee1684dd5cd",
+  "72f8728ecfb03756",
+  "25e18a5fa8c5487f",
+  "57e4c056db1ef575"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794341549.5864754,
+ "dernier_passage_actus": 1794344565.3799047,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Mason Greenwood regretterait déjà son départ de Marseille (Sport.fr)",
-   "t": 1794109696
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Barça prêt à inclure Kouné pour Willian Pacho (Sport.fr)",
-   "t": 1794112776
-  },
   {
    "genre": "actu",
    "resume": "Kylian Mbappé tourne la page de l'affaire de Ceuta à Valence (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Steven Gerrard encense le prodige barcelonais Lamine Yamal (L'Équipe)",
    "t": 1794341601
+  },
+  {
+   "genre": "actu",
+   "resume": "Aurélien Tchouaméni forfait avec l'équipe de France (Foot Mercato)",
+   "t": 1794344616
+  },
+  {
+   "genre": "actu",
+   "resume": "Stuttgart fixe le prix de Bilal El Khannouss (Elbotola)",
+   "t": 1794344621
   }
  ],
  "matchs": {},
