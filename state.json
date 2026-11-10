@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "aace9cffe3d5b412",
-  "655da9c38f42b2e6",
-  "41dbbca8d8ba0bef",
-  "1835fb854f412a01",
-  "f1fead7230341ec9",
-  "a6deaf735550a37b",
-  "fd314a716ee48307",
-  "95a430f4e0636a39",
-  "3b1bbb210793cfd1",
-  "bc811ac2bbb6cf79",
-  "f095150ba686563e",
-  "3ab4b4fe4cccd42c",
-  "f3da755916709844",
-  "0982de986f719f5a",
-  "d094305b19ca01a7",
-  "e842f1447307fa9c",
-  "7f5a105ce4907c9a",
-  "7c94f102b04f71a6",
-  "c36c8298b1d947a9",
-  "7de9524059245d56",
-  "cfff18725085b5e3",
-  "18bbaaac439c6861",
-  "e43bd0db4495df74",
-  "6766df47f24110c8",
-  "6575a82151e95af5",
-  "364a4a22b6846b0d",
-  "26e68c556fd480ad",
   "a6e3036ccbda2407",
   "da13e8b1fcaa4025",
   "5d0e28a4d177e9d5",
@@ -800,27 +773,49 @@
   "fc5d516710192a41",
   "11f627b098f2a9bc",
   "d37a8ec74078d364",
-  "de55ae6f751f1556"
+  "de55ae6f751f1556",
+  "e400db04517f07ea",
+  "070f7c237712b0c7",
+  "5267e8c913daf3e8",
+  "e876ea4a886fd571",
+  "83a6d4482630dc99",
+  "217be156ece61841",
+  "d1347e01e19589e8",
+  "bbbe8c6c930b22e3",
+  "47361cf55416e1f1",
+  "bd5490d89b94777e",
+  "130145baeea203ef",
+  "1e93fdd4503fde86",
+  "8f9e8fa4001a7ac6",
+  "b678f1f4e3b99cf6",
+  "1d510df4ea55f889",
+  "fdd2860a7351883a",
+  "57ae82674f39de94",
+  "390e3537a1be605c",
+  "21b8e30188630557",
+  "0f5883052fcf2951",
+  "3d94952893a301d3",
+  "19e6f28c8d3d9c78",
+  "77699c4a794ef207",
+  "66792b0cce5df4d8",
+  "3a0a8d31a1f0c073",
+  "86ee93105b2724e4",
+  "8d4d9bc26918faef"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 10
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794321483.72043,
+ "dernier_passage_actus": 1794324456.829258,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Real Madrid attentif aux performances de Jacobo Ramón à Côme (Foot Mercato)",
-   "t": 1794076918
-  },
   {
    "genre": "actu",
    "resume": "Olivier Pantaloni présent avec Nice à Angers malgré le deuil (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le Real Madrid satisfait des progrès de Mastantuono en Italie (Tribuna.com)",
    "t": 1794321549
+  },
+  {
+   "genre": "actu",
+   "resume": "Marcus Thuram forfait avec l'équipe de France (Foot Mercato)",
+   "t": 1794324523
   }
  ],
  "matchs": {},
