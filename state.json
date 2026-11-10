@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bca59652204234f4",
-  "e23657d3b6045480",
-  "2f7185df9f7f2fb4",
-  "e734d42b227ddab3",
-  "a66b3ec201b9bc32",
-  "0684d213f7cde5c4",
-  "0f3d1a23a137aad5",
-  "aa82db3ac1963c7f",
-  "02e7e775135d502c",
-  "8936e562052ae8f0",
-  "cf0c8f64836ad91c",
-  "8f43d79ecb9797d3",
-  "5aedcd15bff483e0",
-  "9c577e2e00f3c834",
-  "df9aedd415ddbf8f",
-  "c3ab769261a6a95f",
-  "0c2282cb82b2fdbb",
-  "4531284b4ecdc7c8",
-  "8b9a86570217c16d",
-  "a56cfdb9652ff1f3",
-  "477fbc0827357666",
-  "0dd9fad6a4846e23",
-  "32d69be5ffa83cba",
-  "4cb326190e03fa71",
-  "9ef7da8ab90c79e5",
-  "b9e24eafee00a8d6",
-  "e95b7ace1ac4e1ce",
   "162ed8825dadfba7",
   "d0ed23f7a371e9a6",
   "f540587861086f05",
@@ -800,32 +773,49 @@
   "df6f2648b732409d",
   "71d08daca9b1714c",
   "2cceab1208edc6a5",
-  "35bf675ee08c6304"
+  "35bf675ee08c6304",
+  "9b2fee567fad20dd",
+  "5cb0687ef05e1bc4",
+  "c06184cb50d3d416",
+  "e0217fec12e6f7ae",
+  "86ed595634407bff",
+  "c9d5fe9a6c89690b",
+  "29ca92ae1b9409db",
+  "89352c2efae0d588",
+  "e7968ba0c3c28838",
+  "88276820b4fe163d",
+  "da00197e2806cb0b",
+  "704b2889556a1f7b",
+  "441796aec1f365fe",
+  "89a2270aca6180cc",
+  "ff25e0e171857539",
+  "cad30f2da04359ad",
+  "2836214998941917",
+  "6f5776db0f025ca5",
+  "45fd4715bd772605",
+  "ba5638187fa638ca",
+  "8d14cced9f7c2f96",
+  "29cf5b1dc818e130",
+  "0aa7641af8144547",
+  "894693617cd0ead7",
+  "e258c53cc73e9cad",
+  "685f957c858f3906",
+  "b1c8fe3db6a114ce"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794331414.8589196,
+ "dernier_passage_actus": 1794334345.9644194,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Olivier Pantaloni présent avec Nice à Angers malgré le deuil (L'Équipe)",
-   "t": 1794076923
-  },
-  {
-   "genre": "actu",
-   "resume": "Ez Abde ferme la porte au Paris Saint Germain (Sport.fr)",
-   "t": 1794099566
-  },
   {
    "genre": "actu",
    "resume": "Luis Enrique vole au secours de Ferran Torres (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Marcus Thuram forfait avec l'équipe de France (Foot Mercato)",
    "t": 1794324523
+  },
+  {
+   "genre": "actu",
+   "resume": "Eli Junior Kroupi appele chez les Bleus en remplacement de Marcus Thuram (L'Équipe)",
+   "t": 1794334404
+  },
+  {
+   "genre": "actu",
+   "resume": "Olivier Letang va saisir le CNOSF pour contester sa suspension (L'Équipe)",
+   "t": 1794334410
   }
  ],
  "matchs": {},
