@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4f8bfa0a88217975",
-  "f1f0cff95eb68a4e",
-  "dbc917c9580566c7",
-  "f2b08c7bdc60fe9d",
-  "82f0da90f8439886",
-  "24e2342158ce45bb",
-  "3c9615dc7b9c914c",
-  "d8431740abf6ff1e",
   "97fd99802c3801c6",
   "a8f154a4348663c3",
   "4c7fe608b68d2251",
@@ -800,27 +792,30 @@
   "7d8d3a3c5411bfbc",
   "457db8be15a21fbe",
   "6ce6c65dc4123964",
-  "42d9a9110f97a816"
+  "42d9a9110f97a816",
+  "773fb81280563333",
+  "9d89afcae9cde8bb",
+  "0fbcfce419c16aa8",
+  "3041f82ff9bf31ab",
+  "bb8005b3f8cd2b95",
+  "c752ecd5d2e374a7",
+  "d8256f7a6e10741d",
+  "ffe378cd27779525"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794275976.9332738,
+ "dernier_passage_actus": 1794279090.6370873,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Harry Kane égale un record historique en Ligue des Champions (Tribuna.com)",
-   "t": 1794067241
-  },
   {
    "genre": "actu",
    "resume": "Carlos Vicens arrive à Lyon pour s'engager jusqu'en 2029 (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "ROBERTO D AVERSA NOUVEL ENTRAÎNEUR DE SASSUOLO (Tribuna.com)",
    "t": 1794276048
+  },
+  {
+   "genre": "actu",
+   "resume": "Leroy Sané pourrait quitter Galatasaray dès le mois de janvier (Tribuna.com)",
+   "t": 1794279235
   }
  ],
  "matchs": {},
