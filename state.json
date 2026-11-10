@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "31c14304ef73d970",
-  "536e5c34f7296bac",
-  "7208f6b50679b4ad",
-  "39add14a0dfb3d23",
-  "efff3472b56af317",
-  "780948d089c97853",
-  "df1a2ff3565e4dc3",
-  "52238b66ac60478b",
-  "b5260a43d23ae391",
-  "a6428e76b759e8b7",
-  "b009fb6450a2f9bb",
-  "2b7b186d6abb3431",
-  "762eba6f9a2f9716",
-  "59edb1a43e62c4bb",
-  "5ba3b204258d403c",
-  "3724f88f6fbee9f3",
-  "52030b4e21a985e0",
-  "06789e07865e2a43",
-  "febcd7852606af0a",
-  "fe5d7e90ac4b5385",
-  "db20c91304452a86",
-  "e81f57bcc70424d7",
-  "efd514a1ba8f3c10",
-  "c45000a42f5f827f",
-  "adcf7e9db7009ad2",
-  "aa65d2f7dbe18de6",
-  "6eead166ae8d10ec",
-  "87c7dedde9b9df43",
-  "5b177928c78656c4",
-  "e67a294433532990",
   "9cc79a569a13f631",
   "67443a6a9fd07361",
   "fe0a4c6425e9e19b",
@@ -800,32 +770,52 @@
   "621cbc473422a186",
   "b9e24eafee00a8d6",
   "aef3d2e8cc55934f",
-  "a20fc7d355340312"
+  "a20fc7d355340312",
+  "659622c31e5ef69a",
+  "838b56c4ca5771c1",
+  "5a965d19b64aebe5",
+  "378ae1bb2e86151c",
+  "4ac16b8391e90192",
+  "8b569ce0c82ca521",
+  "e924f27a4bebf658",
+  "adab1f5b87da8943",
+  "512022366db34262",
+  "ce6fd07eeeee5009",
+  "b4801f131128e19f",
+  "0a2107188553f6a7",
+  "c1014287ae359d4c",
+  "ecd6df6d0f2df4ef",
+  "060fc825eece15c8",
+  "6e139195cfc9f9dd",
+  "8fcf4860ab6026c7",
+  "f1df5b43409013e9",
+  "8af86d248083a689",
+  "d517889c45dc27f7",
+  "cdc5514e5cbadcf8",
+  "f1bf59ebb14e02da",
+  "c8222f82200cd592",
+  "b751da8f138bee26",
+  "f4dc5ab0f7538f6a",
+  "d3b84b6df9344afc",
+  "294604d7322fe70e",
+  "3c82b9f3deb8ce58",
+  "fd4050e6bccf2834",
+  "88e70e82008af3af"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 23
+   "n": 24
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794347089.967478,
+ "dernier_passage_actus": 1794349552.2682261,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Michael Carrick s'exprime sur son avenir à Manchester United (Foot Mercato)",
-   "t": 1794140752
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour le Bayern Munich avec la blessure de Manuel Neuer (Foot Mercato)",
-   "t": 1794144432
-  },
   {
    "genre": "actu",
    "resume": "Le FC Barcelone veut conserver sa pépite de 16 ans Tunkara (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Virgil van Dijk laisse planer le doute sur son avenir (Foot Mercato)",
    "t": 1794347238
+  },
+  {
+   "genre": "actu",
+   "resume": "Gianni Infantino bientôt convoqué par le Congrès américain (RMC Sport)",
+   "t": 1794349605
+  },
+  {
+   "genre": "actu",
+   "resume": "La terrible révélation de Scott McTominay sur son cœur (RMC Sport)",
+   "t": 1794349610
   }
  ],
  "matchs": {},
