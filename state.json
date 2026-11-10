@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "28cdb64005899455",
-  "7763298a343b7552",
-  "05e36257d462e686",
-  "b3bfb55f5671dff0",
-  "017eea3513a5ee0b",
-  "528c2b3028201c28",
-  "81c8614aef4e15e8",
   "dd0c52e7132ecbec",
   "5b1ea9eab7554566",
   "a1dfa0c798b7a99f",
@@ -800,27 +793,29 @@
   "6f03bf982c041164",
   "c614df52fa24578b",
   "279a980f4986814c",
-  "de1480c199bd22bf"
+  "de1480c199bd22bf",
+  "5c900a5d98571fde",
+  "defb6a76c3efc22a",
+  "6d12c6a4c0b8f47b",
+  "2e9c943b1f5272f6",
+  "aae568fbd20ff48e",
+  "d0b580f3f948bd0e",
+  "d8acec2d61f5dec8"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794285348.6721656,
+ "dernier_passage_actus": 1794288828.0924747,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Carlos Vicens arrive à Lyon pour s'engager jusqu'en 2029 (L'Équipe)",
-   "t": 1794069685
-  },
   {
    "genre": "actu",
    "resume": "Naples annule la conférence de presse de Massimiliano Allegri (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Leroy Sané pourrait quitter Galatasaray dès le mois de janvier (Tribuna.com)",
    "t": 1794279235
+  },
+  {
+   "genre": "actu",
+   "resume": "Bientôt un retour pour Vincent Kompany au Bayern Munich (L'Équipe)",
+   "t": 1794288892
   }
  ],
  "matchs": {},
