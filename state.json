@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e90fc08154b4b32e",
-  "45ee0204e384f06d",
-  "b3e1d822bb98a03e",
-  "c14aea38c1b1084b",
-  "34e7f4e5f9e671ab",
-  "706e5534ebea5bd3",
-  "b6c45e86ab5c84d2",
-  "838b56c4ca5771c1",
-  "14ee9ba97127ca6a",
-  "4a81eb43a9f2b4fc",
-  "c268a29696420513",
-  "b23e14813d656637",
-  "9e6676846c9de4c4",
-  "11cd3ee10eaa2fd0",
-  "c61dc4ecebc9a0b2",
-  "c4907d58eeab04bb",
-  "77f587e9d1931798",
-  "b6ea8a065b8c62cc",
-  "719562dc324705a6",
-  "0086ab6e4ffb3845",
-  "aab3be944a54e528",
-  "0feb826a23ddae02",
-  "782a42fb220f2c99",
-  "434869c4bef30163",
-  "6810c84096bf173b",
-  "372b6cc689e4aa20",
   "31c14304ef73d970",
   "536e5c34f7296bac",
   "7208f6b50679b4ad",
@@ -800,32 +774,48 @@
   "86d2eee1684dd5cd",
   "72f8728ecfb03756",
   "25e18a5fa8c5487f",
-  "57e4c056db1ef575"
+  "57e4c056db1ef575",
+  "0fd2f7f42791d659",
+  "1497d4615e16172b",
+  "a6d5d0a2995cb8ba",
+  "e5c96ae351647eca",
+  "881b1de97d85561d",
+  "c93d01b431892659",
+  "c6c53ec6d5e61b62",
+  "d45ca6a410487b70",
+  "3c121fd96a346a69",
+  "17cdb983d7c52560",
+  "168fd6e7393fa5f1",
+  "261bcc36b80a143a",
+  "df3610d9a81c0d49",
+  "ac0f20e0d2e19860",
+  "632a1d499781f48f",
+  "bbc397698fbf77f7",
+  "17c76fcbf704bfa3",
+  "84b78a0f223ef7b0",
+  "2338b0f87b2d3248",
+  "e7cc0973071bd2fa",
+  "ac012af825138ca8",
+  "f62f09d3021ec838",
+  "621cbc473422a186",
+  "b9e24eafee00a8d6",
+  "aef3d2e8cc55934f",
+  "a20fc7d355340312"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-10",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-10",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794344565.3799047,
+ "dernier_passage_actus": 1794347089.967478,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Kylian Mbappé tourne la page de l'affaire de Ceuta à Valence (L'Équipe)",
-   "t": 1794115882
-  },
-  {
-   "genre": "actu",
-   "resume": "Zinédine Zidane estime que Kylian Mbappé méritait le Ballon d'Or (Foot Mercato)",
-   "t": 1794140745
-  },
   {
    "genre": "actu",
    "resume": "Michael Carrick s'exprime sur son avenir à Manchester United (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Stuttgart fixe le prix de Bilal El Khannouss (Elbotola)",
    "t": 1794344621
+  },
+  {
+   "genre": "actu",
+   "resume": "Tension chez les Bleus entre Mbappé et Dembélé (Get French Football News)",
+   "t": 1794347233
+  },
+  {
+   "genre": "actu",
+   "resume": "Virgil van Dijk laisse planer le doute sur son avenir (Foot Mercato)",
+   "t": 1794347238
   }
  ],
  "matchs": {},
