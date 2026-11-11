@@ -1,41 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1d638c6fb460b076",
-  "f630df4ed1747002",
-  "ede9cfb21fca329e",
-  "b47ebfa380564bfd",
-  "d3b4ecee78708a07",
-  "c5e30e96478d8195",
-  "7e7855da2632ac4e",
-  "902c5a97a8c292e5",
-  "7751a6b8d7ffdf40",
-  "4d0e512e3e2aa339",
-  "a44d3fccb4d760ee",
-  "2649ee4028dfe979",
-  "64232e83228b28ad",
-  "7f9c4f5464807a81",
-  "3b92ebe3e4eb29b9",
-  "1161cb2a77d2f976",
-  "8dab8df23d3a5228",
-  "dcd7b623ac72f3d2",
-  "13b1c1dd687783d7",
-  "488e7058be77d3f1",
-  "04e382f985995203",
-  "830ee452bd916afd",
-  "f79085ab8b961f71",
-  "9810c4904a01f62d",
-  "5dce7b37745545b9",
-  "a049846962de1858",
-  "01fed4a5109d592c",
-  "c0b5d8dbe7d5121f",
-  "f76d00cd72c92ea5",
-  "64882f76b9638492",
-  "6d5a90d1f3524b8f",
-  "2ebbd0a81fd1102a",
-  "3b6afbd4b9555d01",
-  "940e10351ae2588c",
-  "852a0b0d72bfdee6",
   "f672c13c68620493",
   "f946739e7b47dc07",
   "f40eb3de79213059",
@@ -800,32 +765,57 @@
   "d8acec2d61f5dec8",
   "6c92f30e73b2a9ca",
   "9ed8cfc18d671d2b",
-  "e885afa4eb071247"
+  "e885afa4eb071247",
+  "842735ae6741e9b3",
+  "62eb7d94980e347a",
+  "5f4cef7d2fe38ad9",
+  "87a1c673c01f5d81",
+  "b3e9b083f55e1846",
+  "4031276945696fe7",
+  "035469d766b75715",
+  "5d33881edb5e5acb",
+  "b124ca8608ef882d",
+  "ab28a878b037beeb",
+  "71025ef2aec9a313",
+  "e58268604c24ddb3",
+  "2e9d56b4935814ba",
+  "3a3894bf43f06b17",
+  "65eb89b83b326db8",
+  "11eb812e5ee1d0c6",
+  "bd16ccb700f565ec",
+  "d009b5829521acab",
+  "4b6937bd935dcbb5",
+  "5db0b808afa6a5a4",
+  "eb44607138ff6dd4",
+  "d4976942f45b7330",
+  "5b605e949c5ac8b4",
+  "0b96c878c34fe437",
+  "a321d8ee4b98e601",
+  "3d3cdaa9fe416a8f",
+  "996ef70170523153",
+  "c8c525701b52d53a",
+  "a348e68f71332e07",
+  "c0b9d6fe25b44b54",
+  "be125712b6687055",
+  "f822ee0b8aa0c442",
+  "77905fb71cdb4dd2",
+  "aada9f89d70749c5",
+  "df1b823e14a43d5f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794416164.3423405,
+ "dernier_passage_actus": 1794419587.2443142,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pire début défensif de l'histoire pour Manchester United en Premier League (Foot-Africa.com)",
-   "t": 1794169820
-  },
-  {
-   "genre": "actu",
-   "resume": "Joseph Oughourlian hausse le ton dans le vestiaire de Lens (L'Équipe)",
-   "t": 1794174905
-  },
   {
    "genre": "actu",
    "resume": "Yannick Cahuzac tire la sonnette d'alarme à Lens (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Accord verbal entre Manchester United et Mauricio Pochettino (Foot Mercato)",
    "t": 1794416306
+  },
+  {
+   "genre": "actu",
+   "resume": "Cédric Bakambu quitte son club et dépose plainte (RMC Sport)",
+   "t": 1794419650
+  },
+  {
+   "genre": "actu",
+   "resume": "Robert Sanchez indemne après un crash en Ferrari (L'Équipe)",
+   "t": 1794419654
   }
  ],
  "matchs": {},
