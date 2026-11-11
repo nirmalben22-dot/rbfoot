@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "fc75f043aed3e721",
-  "e6635aa97e67941f",
-  "4709dd237c5b168a",
-  "68da258d75f2a0c6",
-  "98dbc4ad80ec24d5",
-  "172a88cf94641f5b",
-  "73d6c5f57482bfe9",
-  "288a680b6ca5ebb2",
-  "246c5c483d336f1c",
-  "12ec5b676e5b6ad2",
-  "2ac8195568490ebf",
-  "212eab20b87fa613",
-  "a23f35abd85af36d",
-  "58592c4eb653c2af",
-  "330c0c464ba9500b",
-  "745e6559c49546c5",
-  "7465f945d9fe2908",
-  "1c75838165ed69a6",
-  "72566b70088bee90",
-  "e86e12d88f967f10",
-  "947870acdbedd1e8",
-  "73f8f387e9669c59",
-  "a6f4df5996dea163",
-  "b19eb5911152bdde",
-  "d75541874dc664e5",
-  "c10a4c2af0648f96",
-  "dc22ff87a177cc7f",
-  "90ecb9f9cba89008",
-  "2fd68cc6b3139c38",
-  "f8d8856c175d32fb",
-  "7b51c20df1a84be8",
-  "1e92bdc205eb3341",
-  "7b76b19454b56356",
-  "7fc21f3a5c5eef8a",
-  "3afec680b93609a0",
-  "f3ad3a73697345e0",
   "58094724f5904174",
   "0d874359c157d623",
   "d64b924ddd5bf4a7",
@@ -800,32 +764,58 @@
   "c408a52ff2983df2",
   "b780cfc974c881dc",
   "81c3c82d4331bcc4",
-  "c4b154a7da5b149c"
+  "c4b154a7da5b149c",
+  "b72986badc9ef59c",
+  "4e7418e8ce2fc647",
+  "ee96cb025968e014",
+  "7c68f9b74e568d58",
+  "4ece57ee5f4231b4",
+  "0a29cf04728d2415",
+  "dd96fc21b1e3ff44",
+  "c699c8b0a9ede5ae",
+  "7dbfc9a2b9976862",
+  "4d6363e3cd4eb25c",
+  "abe21ef43b33d3f8",
+  "33307b97d5529e7e",
+  "8476ee602b3165f4",
+  "d5a4bc9bf9505598",
+  "d84e5deefb44ab00",
+  "f8ee52d3df98e9b0",
+  "6e4d351c1a8ca6ea",
+  "1471f4947d0b3fa2",
+  "1714e9274bca3829",
+  "b2dfd61da8c4ccfe",
+  "eade6b1cae8d22c8",
+  "e9d9f54db74e171d",
+  "55896bf262434fc6",
+  "1deebfbb55b47065",
+  "0494df653c5fade3",
+  "27fa491e8ca9c125",
+  "d764e4c110938a87",
+  "5ed233ea79954248",
+  "7830cba111d9156f",
+  "bce15b7e0cd8f8fb",
+  "6afbef1e892569ac",
+  "dd252af73864c9ef",
+  "18164eaf7b48eef7",
+  "21bfb161fe25e634",
+  "9831a80bf20372cc",
+  "41ea64d02012fcd3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794406219.1382053,
+ "dernier_passage_actus": 1794409709.707576,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Les nouvelles sont inquiétantes pour Jamal Musiala au Bayern (Foot Mercato)",
-   "t": 1794165001
-  },
-  {
-   "genre": "actu",
-   "resume": "Rafael Leao réévalué par le staff médical du Portugal (Record)",
-   "t": 1794165006
-  },
   {
    "genre": "actu",
    "resume": "Leeds condamne de violentes insultes racistes visant Jayden Bogle (BBC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le PSG se positionne sur la pépite Gianluca Prestianni (Foot Mercato)",
    "t": 1794406300
+  },
+  {
+   "genre": "actu",
+   "resume": "Ian Maatsen prolonge l'aventure avec Aston Villa (Tribuna.com)",
+   "t": 1794409773
+  },
+  {
+   "genre": "actu",
+   "resume": "Le FC Barcelone vise un international algérien pour le mercato d'hiver (Foot Mercato)",
+   "t": 1794409780
   }
  ],
  "matchs": {},
