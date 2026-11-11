@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5cfb98626c31546e",
-  "a4baf529c12e68c4",
-  "2407b3db29c368fd",
-  "e3515d6bad518c8f",
-  "f095150ba686563e",
-  "d094305b19ca01a7",
-  "a69b180aac6e4f83",
-  "139d8c1610cde854",
-  "cc9c35137471b0d4",
-  "8c738750bc6fdb0c",
-  "f23d548b9bfdb9de",
-  "9e34f955a023396d",
-  "b314901f94c88509",
-  "fdb30771ca4b705e",
-  "87b71b2e9735d961",
-  "14572b8eaa76658d",
-  "e02dff41089eda26",
-  "ecd5b14e02b01177",
-  "6d9e6125e8d08877",
-  "6797c58fc5d052af",
-  "3a687fe5621f8839",
-  "def4c4e3425dd21f",
-  "83d9e0ae28082c37",
-  "041174ff204f5556",
-  "0855e44c705ad729",
-  "a4dfdc477268abd5",
-  "4f0878688cddc99e",
-  "0082a38684292cf0",
-  "689ea88806205036",
-  "77f98fd922ef2002",
   "f2de8f17d14577bd",
   "99f2eee6458e3fd5",
   "eb9870d6656b1b0c",
@@ -800,32 +770,52 @@
   "b4615450bb4c1a12",
   "9b8bbe10821b89f3",
   "e2b11a16147987ce",
-  "ccaf61a337239f6b"
+  "ccaf61a337239f6b",
+  "a4ecff6aa1c8e93c",
+  "e94bf75f51358a22",
+  "d51f211dedd9c62e",
+  "b53592a6019bbcb2",
+  "77407df9cc071dd9",
+  "cc497037393e0d32",
+  "51288629f5e61168",
+  "fe3424ac92f367ba",
+  "77abc7eca0e7a269",
+  "958615f3cec225e5",
+  "694f1f22127fb282",
+  "d8f69b93cf9e4a27",
+  "4b3c55860357684f",
+  "50541443394fcfdd",
+  "c75aff0291c389ba",
+  "fc7ba842309948d4",
+  "022296c4e85af1af",
+  "96a5779bc127ad20",
+  "5771177ae0fd8b24",
+  "f39163646f0302ad",
+  "85618b0b14ade8e0",
+  "ba024e9b2114564d",
+  "eac05ae4fe008374",
+  "48773995746608b9",
+  "b053d8c41310d381",
+  "2be46fc1d4f6d754",
+  "8a237a9d23010359",
+  "bccc8099df547f66",
+  "4562f7afd0da8d2e",
+  "084e063f9b61a3fd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794422828.5555763,
+ "dernier_passage_actus": 1794426282.2017474,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Lamine Yamal touche au genou et forfait avec l Espagne (L'Équipe)",
-   "t": 1794227917
-  },
-  {
-   "genre": "actu",
-   "resume": "Pierre Kalulu blesse aux ischios et forfait chez les Bleus (L'Équipe)",
-   "t": 1794227922
-  },
   {
    "genre": "actu",
    "resume": "Alisson fixe ses conditions pour son avenir à Liverpool (Voetbal International)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Valérien Ismaël en passe de devenir entraîneur du Havre (L'Équipe)",
    "t": 1794422976
+  },
+  {
+   "genre": "actu",
+   "resume": "Kylian Mbappé forfait pour le choc face à l'Italie (Foot Mercato)",
+   "t": 1794426339
+  },
+  {
+   "genre": "actu",
+   "resume": "Thomas Tuchel fait une mise au point sur son avenir (Sky Sports)",
+   "t": 1794426345
   }
  ],
  "matchs": {},
