@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "58094724f5904174",
-  "0d874359c157d623",
-  "d64b924ddd5bf4a7",
-  "0792fcea75c8ce54",
-  "00d4caab8efbd8be",
-  "b07cad68a788449d",
-  "6de11aec1f484054",
-  "78848a4b7e0ccba1",
-  "ad4d4985a10009d0",
-  "e6aaf67e519274b4",
-  "dd859c0433ad67cc",
-  "8a68d66a79cd5810",
-  "311720b75dd74c3f",
-  "a20cbf3446b922ba",
-  "455cdd8e81c4f940",
-  "8f8157ab9f1c4dcd",
-  "fa998a9489953b4b",
-  "069b583c5989e08f",
-  "56d99b1d7fb3e4db",
-  "5b60494c1b4a2378",
-  "9a7be6f0529acc43",
-  "78a06a1a445c0070",
-  "d3fac39c1118ca0c",
-  "ac9ff387d03832cc",
-  "2b49dd5952fe89fb",
-  "8d5a5e83926745cb",
-  "f4c95d0153897fa0",
-  "816e14945d51cf0c",
-  "2ee41f0025e5a782",
-  "a839ff6511091295",
-  "ed9227a0b2553e55",
   "694dea98b92cf45d",
   "b4995a21fbae6594",
   "a5ad27efd73a846c",
@@ -800,32 +769,53 @@
   "18164eaf7b48eef7",
   "21bfb161fe25e634",
   "9831a80bf20372cc",
-  "41ea64d02012fcd3"
+  "41ea64d02012fcd3",
+  "4b79daa82757ff9d",
+  "bb1c771733d11187",
+  "4f76b18442b00691",
+  "89215f6a32deae40",
+  "b227a7fb2f0e674e",
+  "04f3a5cb93b74500",
+  "65cf76423ec549e8",
+  "ce9deec1d5a9273b",
+  "b85ac6f8796dc857",
+  "93938eb958a31d4e",
+  "2030c90be59743f5",
+  "6765c69c96be9147",
+  "6622f9e65f491195",
+  "2c70f1fe0e9915ad",
+  "abb718beeace2c5d",
+  "977e849b0f0677c8",
+  "afa94fea4d1297fd",
+  "64fd33aff00a38b4",
+  "9d13deb104bbafcf",
+  "3ab6456c7c3397de",
+  "442bc0001be2567f",
+  "b0796a0636f4b977",
+  "7b1ceae7cafd4463",
+  "623365eca11573e3",
+  "2cea8eb05416b058",
+  "d012836627ef4f67",
+  "8d2309c227f4cd5b",
+  "eef4dadf30575001",
+  "4a748344d6eeed34",
+  "9bb518c008aa5695",
+  "d7e8c3545bc654fd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794409709.707576,
+ "dernier_passage_actus": 1794412679.017902,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Leeds condamne de violentes insultes racistes visant Jayden Bogle (BBC Sport)",
-   "t": 1794167669
-  },
-  {
-   "genre": "actu",
-   "resume": "La LFP refuse de décaler le match entre Lens et l'OM (L'Équipe)",
-   "t": 1794167676
-  },
   {
    "genre": "actu",
    "resume": "Les supporters de Lens en colère après la défaite contre Côme (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le FC Barcelone vise un international algérien pour le mercato d'hiver (Foot Mercato)",
    "t": 1794409780
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane entre un peu plus dans l'histoire de l'Angleterre (RMC Sport)",
+   "t": 1794412732
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour Manuel Neuer au Bayern Munich (Foot Mercato)",
+   "t": 1794412737
   }
  ],
  "matchs": {},
