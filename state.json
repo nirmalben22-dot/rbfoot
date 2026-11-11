@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "28708c77d7dd1cf0",
-  "dcafc5d50eb1207a",
-  "69e6f16901baaf09",
-  "413cd08f4211ed69",
-  "d4a1673887f21a7b",
-  "a68727c840dcf2a9",
-  "3ae31e8378cb2b2f",
-  "1ea02fe6feffe256",
   "5f8f1a45855b5df1",
   "49ffee095d13a5dd",
   "a44d45db3a3a4f5c",
@@ -800,27 +792,30 @@
   "a4ad1e72c73b4b83",
   "d829d8e108899021",
   "a9e25506b031305f",
-  "5e0c6d02527e71c7"
+  "5e0c6d02527e71c7",
+  "b920ebf27ee0e2ff",
+  "88746fc126fec22a",
+  "9d50cbb38a8524d5",
+  "727efa088bc9c21b",
+  "2d2fab20663255d4",
+  "a3c00ff6ecb663fe",
+  "c2318b76f7adf5ca",
+  "3c5dc7a0c8c0ddb1"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794371567.1171992,
+ "dernier_passage_actus": 1794375261.0138595,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Olivier Létang lourdement suspendu et très remonté contre la FFF (RMC Sport)",
-   "t": 1794159513
-  },
   {
    "genre": "actu",
    "resume": "Olivier Létang optimiste pour la prolongation d Ethan Mbappé (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le Napoli s'intéresse à l'attaquant Patrick Zabi (Tribuna.com)",
    "t": 1794364586
+  },
+  {
+   "genre": "actu",
+   "resume": "Hugo Oliveira déjà sous pression sur le banc strasbourgeois (L'Équipe)",
+   "t": 1794375326
   }
  ],
  "matchs": {},
