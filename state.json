@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ce0ab270b16b275a",
-  "d2ee8c3027365bc6",
-  "29f6f4200e73bb63",
-  "4d936ec0d849e60f",
-  "4220f1779c5e3723",
-  "cf4d0b513ef1d18f",
-  "d8511b4f3427f878",
-  "b0d923a520b73bb2",
-  "c557e8d9d32dfa0f",
-  "dccd3d36dbbd6c61",
-  "fa29485a4f686968",
-  "ef016ebda8124edd",
-  "676026f7c66d87f3",
-  "66b025bf0c0fe149",
   "ecc129214532355c",
   "7e26c625ccd636a4",
   "383447e89ab3db62",
@@ -800,27 +786,36 @@
   "fcbdc860893f71ed",
   "ac7a4b32d8295336",
   "bd4f35f6fe43391a",
-  "b1a0a53182f78aeb"
+  "b1a0a53182f78aeb",
+  "a4ec47d93a02ebda",
+  "57114f4b5383baa6",
+  "875cb4f54cb00ead",
+  "1e5eeac56f05243c",
+  "fedaf0bb226f671e",
+  "55cf894a31e087c8",
+  "552f0907dd0a5a59",
+  "7ddd6d71a9133b84",
+  "72287cbaa62fba6f",
+  "1faeae0133ab0536",
+  "9b27c4e032e735ad",
+  "d0f8ddfbc049175a",
+  "e0ead77dd2a56554",
+  "6e85d3db0f9576d6"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794361674.1734757,
+ "dernier_passage_actus": 1794364452.0636125,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United hésite entre Julian Nagelsmann et Eddie Howe (LiveScore)",
-   "t": 1794157164
-  },
   {
    "genre": "actu",
    "resume": "Olivier Létang lourdement suspendu et très remonté contre la FFF (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "L'Inter veut prolonger Hakan Çalhanoğlu face à la Juventus (Tribuna.com)",
    "t": 1794361891
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Napoli s'intéresse à l'attaquant Patrick Zabi (Tribuna.com)",
+   "t": 1794364586
   }
  ],
  "matchs": {},
