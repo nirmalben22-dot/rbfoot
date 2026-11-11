@@ -1,18 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "644a93d804c68360",
-  "abd81f87b00d3c44",
-  "00fc6484426400af",
-  "4b34534e31d4be92",
-  "cebcc175affe76d9",
-  "5c3a53a62c4498a4",
-  "ab21798786291cbd",
-  "71b9cfa2d620ff45",
-  "4fcedefb9437138d",
-  "6df581c8fca93757",
-  "6ef06a972fb1edce",
-  "bd29aabdb131d58f",
   "f4343fb73ff7f0be",
   "065c984c6c2bbe05",
   "0fd0f1569d61d218",
@@ -800,32 +788,34 @@
   "d8548364b724cc79",
   "ff034babd2847161",
   "279562864234c8ee",
-  "964102270f00df78"
+  "964102270f00df78",
+  "5b02246bf152c6d0",
+  "7d9ae325bd51936d",
+  "b4b53640c86587d2",
+  "f9ec363c2c3287bd",
+  "afd309a0ed09148e",
+  "57f1e7a16853532e",
+  "5c380f2dcc5bca2c",
+  "c85699d4d02f3bd7",
+  "cfff5922233b56b8",
+  "3c0d0e4a5a5a45f3",
+  "4289ffa6de12fb0d",
+  "71f62fd7c096790e"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-10",
-   "n": 22
+   "jour": "2026-11-11",
+   "n": 2
   },
   "appels_api_football": {
-   "jour": "2026-11-10",
-   "n": 26
+   "jour": "2026-11-11",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794354760.9323041,
+ "dernier_passage_actus": 1794357872.748057,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Vinicius Jr perd son statut de titulaire au Real Madrid (Foot Mercato)",
-   "t": 1794147530
-  },
-  {
-   "genre": "actu",
-   "resume": "Mobilisation et solidarité après la mort de Jesus de Miguel (RMC Sport)",
-   "t": 1794147534
-  },
   {
    "genre": "actu",
    "resume": "Sébastien Bannier nommé sélectionneur des U23 de Côte d'Ivoire (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Carlos Vicens nouvel entraîneur de l'Olympique Lyonnais (RMC Sport)",
    "t": 1794352467
+  },
+  {
+   "genre": "actu",
+   "resume": "Cristianinho convoqué avec la sélection U17 du Portugal (Record)",
+   "t": 1794357941
+  },
+  {
+   "genre": "actu",
+   "resume": "Stuttgart fixe le prix de Jamie Leweling à 30 millions (Tribuna.com)",
+   "t": 1794357947
   }
  ],
  "matchs": {},
