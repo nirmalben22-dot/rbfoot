@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f4343fb73ff7f0be",
-  "065c984c6c2bbe05",
-  "0fd0f1569d61d218",
-  "1b1441c5504610c7",
-  "11b8772af11b6047",
-  "7b0c2cd11c4ff8be",
-  "aaf32a6a740cfc30",
-  "498c115fa298a091",
   "ce0ab270b16b275a",
   "d2ee8c3027365bc6",
   "29f6f4200e73bb63",
@@ -800,32 +792,30 @@
   "cfff5922233b56b8",
   "3c0d0e4a5a5a45f3",
   "4289ffa6de12fb0d",
-  "71f62fd7c096790e"
+  "71f62fd7c096790e",
+  "91db18fa82b1ed6b",
+  "26f5cf152489b1d1",
+  "234ac671668c5348",
+  "2430dccd85899a13",
+  "fcbdc860893f71ed",
+  "ac7a4b32d8295336",
+  "bd4f35f6fe43391a",
+  "b1a0a53182f78aeb"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-11",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-11",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794357872.748057,
+ "dernier_passage_actus": 1794361674.1734757,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Sébastien Bannier nommé sélectionneur des U23 de Côte d'Ivoire (L'Équipe)",
-   "t": 1794152199
-  },
-  {
-   "genre": "actu",
-   "resume": "Pierre Sage plus que jamais menacé à Crystal Palace (RMC Sport)",
-   "t": 1794157159
-  },
   {
    "genre": "actu",
    "resume": "Manchester United hésite entre Julian Nagelsmann et Eddie Howe (LiveScore)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Stuttgart fixe le prix de Jamie Leweling à 30 millions (Tribuna.com)",
    "t": 1794357947
+  },
+  {
+   "genre": "actu",
+   "resume": "Jude Bellingham se confie sur la pression au Real Madrid (Tribuna.com)",
+   "t": 1794361885
+  },
+  {
+   "genre": "actu",
+   "resume": "L'Inter veut prolonger Hakan Çalhanoğlu face à la Juventus (Tribuna.com)",
+   "t": 1794361891
   }
  ],
  "matchs": {},
