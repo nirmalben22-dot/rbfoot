@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5307f58c676d0d89",
-  "0c2ff4c24007c11c",
-  "a40d1d44c407661f",
-  "7b34bebc4aaa7745",
-  "9a18f3b213f71fea",
-  "e53e7adbbc0702c7",
-  "2adab51a68b63e03",
-  "d41be35ecdd4ad60",
-  "23e309ea4a5227cd",
-  "888f641f24586e1c",
   "efaf63c42ff6b002",
   "5d2c2270960809ee",
   "43549d07417ba476",
@@ -800,32 +790,32 @@
   "fffe4c528d58763d",
   "78e545570eb963b7",
   "55520c3dd6cb25f1",
-  "95476f1b5b1e93ed"
+  "95476f1b5b1e93ed",
+  "f49448214aac2742",
+  "507a31ca1b4515b8",
+  "fc7818b1bafccbaa",
+  "b3e33402327f2f2a",
+  "f08f0028d38d0ff0",
+  "70f0488f4b8f35f3",
+  "362fb2f0798df9ed",
+  "a6751fd395ad14a9",
+  "cc39be068d589c30",
+  "79ed8b365bb59641"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 1
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794441931.2796843,
+ "dernier_passage_actus": 1794446372.589858,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Jose Mourinho elu entraineur du mois en Liga (L'Équipe)",
-   "t": 1794243522
-  },
-  {
-   "genre": "actu",
-   "resume": "Pau Cubarsi remporte le trophee du Golden Boy 2026 (L'Équipe)",
-   "t": 1794243527
-  },
   {
    "genre": "actu",
    "resume": "Carlos Vicens est le nouvel entraîneur de l'OL (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le Bayern Munich garde un œil sur Oskar Pietuszewski (Record)",
    "t": 1794441978
+  },
+  {
+   "genre": "actu",
+   "resume": "Michael Olise appelait Thierry Henry tous les jours pour faire les JO (L'Équipe)",
+   "t": 1794446430
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid en approche pour une pépite de 16 ans (Sport.fr)",
+   "t": 1794446436
   }
  ],
  "matchs": {},
