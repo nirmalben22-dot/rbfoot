@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2fc5c94de67ab377",
-  "2d970b5e53232eaf",
-  "7b8a711e83a824c2",
-  "ebce9df9c141589f",
-  "19a063cd9965ac28",
-  "6048fcf50d811525",
-  "44fea7ff3235e2b7",
-  "53568308b782b78b",
   "eb5a1b07f193826a",
   "2c2b7991c9f4bf08",
   "2c3dbc1702776626",
@@ -800,27 +792,30 @@
   "f979082540a37e29",
   "c66dceec4929199d",
   "639cf864a69f1651",
-  "e4dea0421ba25fc7"
+  "e4dea0421ba25fc7",
+  "4bbdc32ff86b8a1b",
+  "56d38bfec90e9d7f",
+  "e865c2dfeb29f916",
+  "94e2f7ee73b60113",
+  "6db13d111a6aaaa4",
+  "7eb04dae5d5d14ed",
+  "072a64189d0628f9",
+  "dbe24792ac50a6f4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794450301.201282,
+ "dernier_passage_actus": 1794453591.1921458,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le FC Porto réalise un début de saison totalement fou (Foot Mercato)",
-   "t": 1794250514
-  },
   {
    "genre": "actu",
    "resume": "Kylian Mbappé élu joueur du mois d'octobre en Liga (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Manchester United s'intéresse à une pépite du Stade Rennais (Sport.fr)",
    "t": 1794450392
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea cible plusieurs pépites de Premier League (Sport.fr)",
+   "t": 1794453728
   }
  ],
  "matchs": {},
