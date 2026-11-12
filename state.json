@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "3ede99607c4384ef",
-  "7b49ddfca86067d0",
-  "f2288925c4567403",
-  "4b213e31e6c7c1bb",
-  "5a31b0becea713c5",
-  "b6e2d0004452c188",
-  "3070dff8864b2787",
-  "c0424e16e4da4f2c",
-  "6161763ead1a6485",
-  "1565e0f752ec90ea",
-  "6c5fd49e4155636a",
-  "e32c0fa619ead414",
-  "9fcac422236bbc2e",
-  "342efa4230541529",
-  "a2211465b44fe51e",
-  "19c5ddd25f9c6298",
-  "f02e289d3982ac83",
-  "400c7d9b21fd4ad5",
-  "b40e4079b5c5c24d",
-  "b14e33183b49db60",
-  "97fa1edf0f9e1aba",
-  "84e72feb2d4a3c1d",
-  "9d8db57ac8ebaf64",
-  "99856c10d44a7fc4",
-  "cc346305d83c9a49",
-  "876b535728e90e44",
-  "6282725f309eb9d3",
-  "93b769458c98ebd2",
-  "b3cfb168f9c5e4b2",
-  "a7a8aea36c06cd7f",
-  "2f6ba477d3617c13",
   "72be3b2a5293ed93",
   "f6123940d7a8457e",
   "19ca65cc2a864ea3",
@@ -800,32 +769,53 @@
   "92176e7448d62899",
   "bef6abbd7e6a2948",
   "db05ed010b60caf2",
-  "d77962776a362c00"
+  "d77962776a362c00",
+  "95ad4f7664feb0cd",
+  "42954ab3b210f292",
+  "631dfc4a2abd0987",
+  "a180f945cf5fa1f3",
+  "32cb7ef6473c2af2",
+  "10d069d140d76822",
+  "dd436ceac4304fc9",
+  "0ed7bcaa021f6496",
+  "1890213ea9258f5d",
+  "e49488a717b7643b",
+  "556b6eea5855970d",
+  "91505fe706f09a88",
+  "345557f27b6e3ee5",
+  "8b43bd46123d4b50",
+  "e942f9da72f16406",
+  "0877fab967634409",
+  "645b22aa15d7b21b",
+  "3b3b9bb073531004",
+  "4d64cb62b7668d8a",
+  "69d91ed4190ff221",
+  "87b94d74c8fbd866",
+  "caf84672260d510d",
+  "ac3faf4423544662",
+  "0a5471a49d35d5cb",
+  "5ebe257a54e9c559",
+  "3bb2bea74e36de8c",
+  "9d633d6a600cc11e",
+  "e5456b3bbbefd93c",
+  "968999a7143aa3ae",
+  "5644a7f5d351bfc7",
+  "1dbb676527810006"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794493668.255716,
+ "dernier_passage_actus": 1794497291.1518636,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Virgil van Dijk et Brian Brobbey forfaits pour la trêve (Voetbal International)",
-   "t": 1794266188
-  },
-  {
-   "genre": "actu",
-   "resume": "L'Atlético de Madrid vise Martín Zubimendi pour cet hiver (Foot Mercato)",
-   "t": 1794266194
-  },
   {
    "genre": "actu",
    "resume": "Saël Kumbedi appelé en équipe de France (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Yaya Fofana la nouvelle sensation de la Côte d'Ivoire (Foot Mercato)",
    "t": 1794493833
+  },
+  {
+   "genre": "actu",
+   "resume": "Emiliano Martinez de retour à l'entraînement avec une protection (L'Équipe)",
+   "t": 1794497384
+  },
+  {
+   "genre": "actu",
+   "resume": "Pierre Sage négocie déjà son retour sur le banc de Lens (RMC Sport)",
+   "t": 1794497391
   }
  ],
  "matchs": {},
