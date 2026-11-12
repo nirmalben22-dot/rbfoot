@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "efaf63c42ff6b002",
-  "5d2c2270960809ee",
-  "43549d07417ba476",
-  "a0e2a6f34c37dd5b",
-  "2093dedd552566df",
-  "30be5f2ca733cafc",
-  "13ed75c333082d36",
   "2fc5c94de67ab377",
   "2d970b5e53232eaf",
   "7b8a711e83a824c2",
@@ -800,32 +793,29 @@
   "362fb2f0798df9ed",
   "a6751fd395ad14a9",
   "cc39be068d589c30",
-  "79ed8b365bb59641"
+  "79ed8b365bb59641",
+  "4eb0eeb3e3bb2abd",
+  "312b43d44eac923c",
+  "a4e2cfff39d59d4f",
+  "f979082540a37e29",
+  "c66dceec4929199d",
+  "639cf864a69f1651",
+  "e4dea0421ba25fc7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 3
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794446372.589858,
+ "dernier_passage_actus": 1794450301.201282,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Carlos Vicens est le nouvel entraîneur de l'OL (RMC Sport)",
-   "t": 1794247036
-  },
-  {
-   "genre": "actu",
-   "resume": "Alberto Aquilani démis de ses fonctions par Sassuolo (L'Équipe)",
-   "t": 1794247042
-  },
   {
    "genre": "actu",
    "resume": "Le FC Porto réalise un début de saison totalement fou (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le Real Madrid en approche pour une pépite de 16 ans (Sport.fr)",
    "t": 1794446436
+  },
+  {
+   "genre": "actu",
+   "resume": "Tension et crise autour de l'équipe de France et Zinedine Zidane (Howl.Link)",
+   "t": 1794450386
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United s'intéresse à une pépite du Stade Rennais (Sport.fr)",
+   "t": 1794450392
   }
  ],
  "matchs": {},
