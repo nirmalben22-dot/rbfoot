@@ -1,18 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "89d764837a41f906",
-  "c7b1a73836db32c1",
-  "aaf5a2e85f0ea242",
-  "6289eff5ea30dfaf",
-  "b4848a1b0e36cf44",
-  "f8e4981a5d400f89",
-  "ef9a8028749d70f8",
-  "1cf64a2d1898c7c5",
-  "4c624af47d9bbb3b",
-  "63424a1a99357243",
-  "93bd79ef775e41f5",
-  "2e349720e624c623",
   "05185354bfeb6483",
   "2ae537dae94fe0e8",
   "91bd8e4bda145d28",
@@ -800,27 +788,34 @@
   "9f636d717141ff78",
   "b1f872d01353cf0f",
   "629ca0a646b3cd99",
-  "6e2044d8fa4d5db7"
+  "6e2044d8fa4d5db7",
+  "ec26fd9ba6b7ed55",
+  "891dbd07e1b9a8a6",
+  "062d23986add4add",
+  "35f076a60425ba93",
+  "f47a39c14ddd1fd2",
+  "1b5a3aff51fc7c1f",
+  "3919b0833ea37c37",
+  "4ed035d227f3fd61",
+  "4433faa3faeb4dbd",
+  "966702c24c1cfd6e",
+  "4f4a82c8b6cf0c06",
+  "57af0c389dc16981"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 7
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794457495.6646566,
+ "dernier_passage_actus": 1794461430.5727353,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Des menaces inacceptables contre les U17 de l'OL (L'Équipe)",
-   "t": 1794253798
-  },
   {
    "genre": "actu",
    "resume": "Ben White revient sur son absence avec l'Angleterre (BBC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Manchester United vise un nouveau buteur venu d'Arabie saoudite (Sport.fr)",
    "t": 1794457633
+  },
+  {
+   "genre": "actu",
+   "resume": "Michael Olise impressionne avec 24 buts impliqués cette saison (L'Équipe)",
+   "t": 1794461535
   }
  ],
  "matchs": {},
