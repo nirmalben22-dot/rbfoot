@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b6e3da69ac85991a",
-  "94b1e1d55776ade0",
-  "9c9c47a8cda75a32",
-  "0743e45a52d293fd",
-  "330a9204a19b76e5",
-  "7b2bc3b536ec4836",
-  "83d48d1e0303e4a9",
-  "13af0ce1e005e348",
-  "d071d5e168d3e8d9",
-  "d457396fcd5f0560",
-  "e4bd5f10cb1b626c",
-  "119d13798b6791e5",
-  "c0aafbaf851cf7b5",
-  "be1c84b5ec1c9998",
-  "042c8a8b71711ead",
-  "fc69ea2d58405d34",
-  "35c865b8da7cb0db",
-  "a022d9afb7aab038",
-  "7e80795e3f4d09d7",
-  "bc37a58ca09ccc48",
-  "221374cf25e3d850",
-  "a1287f0aee75e9ab",
-  "38050a896799e406",
-  "9ce8c9a532a86493",
-  "0f92124892c0f7ed",
-  "b6615dfec611a41a",
-  "20263378fd2aa1f2",
-  "a4e00b7f79f308e6",
-  "c0299169bfacd38a",
-  "409349c69daadaa3",
-  "b60f0613be3b94d8",
-  "680998708b4bab59",
-  "ca82634996f141b2",
-  "abc0b3298bda556d",
-  "55a8f0e18c520cda",
-  "9df858e01bc4aae8",
   "c83ac9d62d7e6e51",
   "0e0a51caec5d48c9",
   "f310fa6ca163af56",
@@ -800,32 +764,58 @@
   "69cffdf740308ad6",
   "1e938f9a419a8686",
   "150c5a5480d60195",
-  "3906c60e82038d1d"
+  "3906c60e82038d1d",
+  "8afe3f4d63d5aa09",
+  "35b94b8bcd5ae6e2",
+  "a6d5d0a2995cb8ba",
+  "43b5248d7090a4a7",
+  "c0e9f09c66f37c8d",
+  "8b2d8d91ca7055a5",
+  "70921f08e56045f2",
+  "abc117c8202077b9",
+  "7eaebf1a8ddd8ac0",
+  "66cd438027d5d42c",
+  "0e94add93b5254a3",
+  "a56da1b9fae88c53",
+  "a84997c4468ba4b9",
+  "12b7f48d73d58e2e",
+  "8cd8141172c76651",
+  "0fb388f9ce06f27a",
+  "1e1cbfe0299b1761",
+  "cd924d7556ff9018",
+  "7ab099060da7ff0e",
+  "2db8188706283f2c",
+  "007afbbb2284f9c5",
+  "fdaf2c5dad0d73d7",
+  "fac330496b9ff65d",
+  "83f79c11486e2980",
+  "5e58ded69099c8fd",
+  "f8104bc001bc2fcc",
+  "da852987945dc018",
+  "a24cbfa073ed8f30",
+  "1a41e1c26a03ead6",
+  "3bec77690528e818",
+  "d29f5e6e8a00f91f",
+  "46ae948efc4abcf7",
+  "56a1342e0c551ad7",
+  "b33ecf459ab8dcf7",
+  "4475a770d4821bd2",
+  "0b9b8da5ee05e729"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794501310.3364587,
+ "dernier_passage_actus": 1794504750.9844928,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "MICHAEL CARRICK VERS LE LIMOGEAGE À MANCHESTER UNITED (BBC)",
-   "t": 1794276044
-  },
-  {
-   "genre": "actu",
-   "resume": "ROBERTO D AVERSA NOUVEL ENTRAÎNEUR DE SASSUOLO (Tribuna.com)",
-   "t": 1794276048
-  },
   {
    "genre": "actu",
    "resume": "Leroy Sané pourrait quitter Galatasaray dès le mois de janvier (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'agent de Lucas Beraldo sort du silence sur son avenir au PSG (Foot Mercato)",
    "t": 1794501377
+  },
+  {
+   "genre": "actu",
+   "resume": "Pierre Sage proche d'un retour sur le banc du RC Lens (Tribuna.com)",
+   "t": 1794504820
+  },
+  {
+   "genre": "actu",
+   "resume": "La descente aux enfers de l'ancien buteur Mario Jardel (RMC Sport)",
+   "t": 1794504826
   }
  ],
  "matchs": {},
