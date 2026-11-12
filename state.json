@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "cdf007acc3762f8d",
-  "d71db0cc24999f8f",
-  "69cca56250dabfdb",
-  "50f66d25f4b1bab6",
-  "eaaea93d0ccbad03",
-  "1ce9fc9cff1aac7b",
   "5307f58c676d0d89",
   "0c2ff4c24007c11c",
   "a40d1d44c407661f",
@@ -800,27 +794,28 @@
   "55ea20eefacea9d1",
   "dfbd941a2ac8a0b5",
   "de91e35abbd5e239",
-  "bef38c1e013ce7d5"
+  "bef38c1e013ce7d5",
+  "15c5bdbc0ce18b4c",
+  "6c0f2a33c638416f",
+  "fffe4c528d58763d",
+  "78e545570eb963b7",
+  "55520c3dd6cb25f1",
+  "95476f1b5b1e93ed"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-11",
-   "n": 22
+   "jour": "2026-11-12",
+   "n": 1
   },
   "appels_api_football": {
-   "jour": "2026-11-11",
-   "n": 22
+   "jour": "2026-11-12",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794438997.3804264,
+ "dernier_passage_actus": 1794441931.2796843,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L UEFA sanctionne l Olympique de Marseille après des incidents (RMC Sport)",
-   "t": 1794239751
-  },
   {
    "genre": "actu",
    "resume": "Jose Mourinho elu entraineur du mois en Liga (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Les États-Unis renoncent à la Coupe du monde U17 (L'Équipe)",
    "t": 1794439199
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Bayern Munich garde un œil sur Oskar Pietuszewski (Record)",
+   "t": 1794441978
   }
  ],
  "matchs": {},
