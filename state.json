@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "72be3b2a5293ed93",
-  "f6123940d7a8457e",
-  "19ca65cc2a864ea3",
-  "2da4681cc632219e",
-  "477850263cb148b7",
-  "557de7579a72bfeb",
-  "a373b62c9e283108",
-  "3dda43ac4ddc29e3",
-  "6a40543ee8ab787b",
-  "63ca90978d7322fb",
-  "d340ebac5753dd0d",
-  "417878068500846d",
-  "8eb458af52196873",
-  "910ccfd020e91a73",
-  "8e18ed09f9433717",
-  "51c2080642baefae",
-  "9dfc73a7f013c3cf",
-  "9b701741dacb557d",
-  "fff5e02a05ed769e",
-  "9b6d3c6a694e4a19",
-  "f0e91682d10726cd",
-  "567aac30df4db75e",
-  "b58e511b8f3bc979",
-  "7a5d659a9cefb860",
-  "dfecc028045f7e35",
-  "71d34f726f68a84b",
-  "83d70d96f9358e83",
-  "5a128ee50626b4d1",
-  "48583b096a72a392",
-  "32131b6b5a740cef",
-  "a5d0b6c4c4a63856",
-  "1157aff28a422338",
-  "c5cd8c48fcec43af",
   "b6e3da69ac85991a",
   "94b1e1d55776ade0",
   "9c9c47a8cda75a32",
@@ -800,32 +767,55 @@
   "e5456b3bbbefd93c",
   "968999a7143aa3ae",
   "5644a7f5d351bfc7",
-  "1dbb676527810006"
+  "1dbb676527810006",
+  "7c932567f8140056",
+  "e25ad020f100d666",
+  "6ae7fffbb5616857",
+  "17b6ab3692ecd84a",
+  "90ef97af199eb1d2",
+  "535b303a16e6240b",
+  "9835b7b39effd4bf",
+  "55328a57127db8a0",
+  "4d9094db1b4b36a3",
+  "c1ab305c8c1e5e39",
+  "17e23d6287d232f8",
+  "96998c0acf62962c",
+  "7947973f690e687f",
+  "61a003bce0671c09",
+  "8db5b2ccfc494116",
+  "4017e8350aa53f43",
+  "69f7baa315de3d39",
+  "63ee0262c39016dd",
+  "6a49aeac49d48aae",
+  "958376836a8d80f1",
+  "13752c15b8b0d2bf",
+  "47d76475656efbc4",
+  "af9c7c3d9c992103",
+  "a6a4023f4dbf905a",
+  "a0c3eadcf76ac0e2",
+  "11b3e5064b30beed",
+  "3d5e821e42c86d88",
+  "b68cc3a79bc570a0",
+  "10b9a6021e2cfbbf",
+  "69cffdf740308ad6",
+  "1e938f9a419a8686",
+  "150c5a5480d60195",
+  "3906c60e82038d1d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794497291.1518636,
+ "dernier_passage_actus": 1794501310.3364587,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Saël Kumbedi appelé en équipe de France (L'Équipe)",
-   "t": 1794268663
-  },
-  {
-   "genre": "actu",
-   "resume": "AC Milan relance la piste Tresoldi, Bruges exige 50 millions (Tribuna.com)",
-   "t": 1794272312
-  },
   {
    "genre": "actu",
    "resume": "MICHAEL CARRICK VERS LE LIMOGEAGE À MANCHESTER UNITED (BBC)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pierre Sage négocie déjà son retour sur le banc de Lens (RMC Sport)",
    "t": 1794497391
+  },
+  {
+   "genre": "actu",
+   "resume": "Thierry Henry dévoile sa méthode folle pour analyser les matchs (Foot Mercato)",
+   "t": 1794501371
+  },
+  {
+   "genre": "actu",
+   "resume": "L'agent de Lucas Beraldo sort du silence sur son avenir au PSG (Foot Mercato)",
+   "t": 1794501377
   }
  ],
  "matchs": {},
