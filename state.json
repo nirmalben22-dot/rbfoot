@@ -1,11 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "eb5a1b07f193826a",
-  "2c2b7991c9f4bf08",
-  "2c3dbc1702776626",
-  "d6523af7fdb5e36d",
-  "b53cff23fbab680f",
   "89d764837a41f906",
   "c7b1a73836db32c1",
   "aaf5a2e85f0ea242",
@@ -800,27 +795,27 @@
   "6db13d111a6aaaa4",
   "7eb04dae5d5d14ed",
   "072a64189d0628f9",
-  "dbe24792ac50a6f4"
+  "dbe24792ac50a6f4",
+  "721dd5d626e1a85b",
+  "9f636d717141ff78",
+  "b1f872d01353cf0f",
+  "629ca0a646b3cd99",
+  "6e2044d8fa4d5db7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 6
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794453591.1921458,
+ "dernier_passage_actus": 1794457495.6646566,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Kylian Mbappé élu joueur du mois d'octobre en Liga (L'Équipe)",
-   "t": 1794250519
-  },
   {
    "genre": "actu",
    "resume": "Des menaces inacceptables contre les U17 de l'OL (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Chelsea cible plusieurs pépites de Premier League (Sport.fr)",
    "t": 1794453728
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United vise un nouveau buteur venu d'Arabie saoudite (Sport.fr)",
+   "t": 1794457633
   }
  ],
  "matchs": {},
