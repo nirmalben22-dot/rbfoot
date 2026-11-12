@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c83ac9d62d7e6e51",
-  "0e0a51caec5d48c9",
-  "f310fa6ca163af56",
-  "fab428d39808fd5b",
-  "e32ca9410faf72d1",
-  "447e261f56c6b3dc",
-  "98ba071d05d24388",
-  "d0ed23f7a371e9a6",
-  "000b008bb76d3c95",
-  "ab21798786291cbd",
-  "1badf72289251ae3",
-  "1a6bcd23b9ed5da5",
-  "463f2e915b93d4bd",
-  "aff9409f07749f56",
-  "03b228c9715417f9",
-  "e05ab64c6567d815",
-  "6866a74ba870bab5",
-  "1601bf0de5ca5c29",
-  "af628bae906aea88",
-  "4195f9823e8642d1",
-  "888acd08b5d8c2bc",
-  "a055f6e19b8440e1",
-  "268d69275134f884",
-  "9fbb56fdf9d85731",
-  "f3863637b0b5160a",
-  "fcc2778867ab5119",
-  "28aed1756b2f3efb",
-  "0395ba5928f72764",
-  "9941f34de2387280",
-  "fe360eafb0812ed4",
-  "d73a3766cb18a3c8",
-  "0c7ea9d30d117743",
   "32688150ae987624",
   "1e6fba77d51deb5b",
   "3aeccc83593f1441",
@@ -800,32 +768,54 @@
   "56a1342e0c551ad7",
   "b33ecf459ab8dcf7",
   "4475a770d4821bd2",
-  "0b9b8da5ee05e729"
+  "0b9b8da5ee05e729",
+  "c528900d56001b70",
+  "6c514e507d7eb1f8",
+  "a60ddaf0fc9304c2",
+  "685ffd76a2991c00",
+  "a6543124c6197b4f",
+  "32ccb0b0d20ab716",
+  "b1490c9459bfdf0a",
+  "646e7158f69f022d",
+  "8b3babd5eec93780",
+  "72b60fc783dfe50d",
+  "30538ed266d7e332",
+  "e682b3e6de093826",
+  "de0656007b177811",
+  "e8fd1654b85c4229",
+  "63058c1995babf8b",
+  "7505f89a86774efb",
+  "11ddc64cba30c6c5",
+  "096edd5e1ffe149f",
+  "23b3179ae10d4fa8",
+  "c9f1a571a1456e74",
+  "835017daa77611c3",
+  "c009f20870111bba",
+  "d071d5e168d3e8d9",
+  "6e570b55fa5d3d9e",
+  "86559d009a1cc528",
+  "3276fe4804e4a060",
+  "0e7b80ed02779357",
+  "abc0b3298bda556d",
+  "3da84a40d06aaace",
+  "55a8f0e18c520cda",
+  "3a29b82f46908176",
+  "143a863eba0f406c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794504750.9844928,
+ "dernier_passage_actus": 1794508090.5255973,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Leroy Sané pourrait quitter Galatasaray dès le mois de janvier (Tribuna.com)",
-   "t": 1794279235
-  },
-  {
-   "genre": "actu",
-   "resume": "Bientôt un retour pour Vincent Kompany au Bayern Munich (L'Équipe)",
-   "t": 1794288892
-  },
   {
    "genre": "actu",
    "resume": "Endrick ouvre la porte a un depart du Real Madrid cet hiver (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La descente aux enfers de l'ancien buteur Mario Jardel (RMC Sport)",
    "t": 1794504826
+  },
+  {
+   "genre": "actu",
+   "resume": "Le RC Lens se sépare de Yannick Cahuzac (Foot Mercato)",
+   "t": 1794508201
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United a dépensé 130 millions pour virer ses entraîneurs (Foot Mercato)",
+   "t": 1794508207
   }
  ],
  "matchs": {},
