@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4b79daa82757ff9d",
-  "bb1c771733d11187",
-  "4f76b18442b00691",
-  "89215f6a32deae40",
-  "b227a7fb2f0e674e",
-  "04f3a5cb93b74500",
-  "65cf76423ec549e8",
-  "ce9deec1d5a9273b",
-  "b85ac6f8796dc857",
-  "93938eb958a31d4e",
-  "2030c90be59743f5",
-  "6765c69c96be9147",
-  "6622f9e65f491195",
-  "2c70f1fe0e9915ad",
-  "abb718beeace2c5d",
-  "977e849b0f0677c8",
-  "afa94fea4d1297fd",
-  "64fd33aff00a38b4",
-  "9d13deb104bbafcf",
-  "3ab6456c7c3397de",
-  "442bc0001be2567f",
-  "b0796a0636f4b977",
-  "7b1ceae7cafd4463",
-  "623365eca11573e3",
-  "2cea8eb05416b058",
-  "d012836627ef4f67",
-  "8d2309c227f4cd5b",
-  "eef4dadf30575001",
-  "4a748344d6eeed34",
-  "9bb518c008aa5695",
   "d7e8c3545bc654fd",
   "1dcd7e4c2e2587c5",
   "2cb046cb350a9fed",
@@ -800,32 +770,52 @@
   "1d82ebf68d8259ab",
   "8455e5481d73c014",
   "761b313270cefe12",
-  "6882d8d1af9d3e08"
+  "6882d8d1af9d3e08",
+  "116db57a3252d3f0",
+  "cfcdc92200823f6d",
+  "53a4899e06a010d6",
+  "c4068e49d48b709a",
+  "8ae7e673faea0d12",
+  "95c9c1d44b180789",
+  "47c7e0f92ba3f137",
+  "a91f41adfffff6e7",
+  "00071a06281a246b",
+  "9588eda4e0e60631",
+  "e3985aee831fbe57",
+  "a7142791593de32a",
+  "51b5e836c36b5b86",
+  "71b32c18257da8d0",
+  "75c9d85404d86fab",
+  "4c3dc51e304860b1",
+  "76231de249acef20",
+  "0963436d887438f9",
+  "ea4d8032f55fcde4",
+  "574e22b141f46045",
+  "623fd74ecca1fee2",
+  "4a822188745834b8",
+  "d4ba2199c29f38d2",
+  "44b7ce4fbaf139c4",
+  "8307fff12f65e8d3",
+  "447e261f56c6b3dc",
+  "7da7316280b160b2",
+  "654be2028dcd1069",
+  "3855f6bd21773dae",
+  "62004bbcd8944f01"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-12",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-12",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794515174.2492635,
+ "dernier_passage_actus": 1794518464.4281218,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United se sépare de Michael Carrick (Elbotola)",
-   "t": 1794318532
-  },
-  {
-   "genre": "actu",
-   "resume": "Eric Maxim Choupo Moting envisage un retour en Bundesliga (Foot Mercato)",
-   "t": 1794321543
-  },
   {
    "genre": "actu",
    "resume": "Le Real Madrid satisfait des progrès de Mastantuono en Italie (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le PSG perturbe les plans de Benfica pour Gianluca Prestianni (Foot Mercato)",
    "t": 1794511981
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United et Manchester City s'affrontent pour Malo Gusto (BBC Sport)",
+   "t": 1794518651
+  },
+  {
+   "genre": "actu",
+   "resume": "Victor Boniface souhaite quitter le Bayer Leverkusen (AfricaFoot)",
+   "t": 1794518656
   }
  ],
  "matchs": {},
