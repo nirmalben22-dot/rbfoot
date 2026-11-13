@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0a5471a49d35d5cb",
-  "5ebe257a54e9c559",
-  "3bb2bea74e36de8c",
-  "9d633d6a600cc11e",
-  "e5456b3bbbefd93c",
-  "968999a7143aa3ae",
-  "5644a7f5d351bfc7",
-  "1dbb676527810006",
-  "7c932567f8140056",
-  "e25ad020f100d666",
-  "6ae7fffbb5616857",
-  "17b6ab3692ecd84a",
-  "90ef97af199eb1d2",
-  "535b303a16e6240b",
-  "9835b7b39effd4bf",
-  "55328a57127db8a0",
-  "4d9094db1b4b36a3",
-  "c1ab305c8c1e5e39",
-  "17e23d6287d232f8",
-  "96998c0acf62962c",
-  "7947973f690e687f",
-  "61a003bce0671c09",
-  "8db5b2ccfc494116",
-  "4017e8350aa53f43",
-  "69f7baa315de3d39",
-  "63ee0262c39016dd",
-  "6a49aeac49d48aae",
-  "958376836a8d80f1",
-  "13752c15b8b0d2bf",
-  "47d76475656efbc4",
   "af9c7c3d9c992103",
   "a6a4023f4dbf905a",
   "a0c3eadcf76ac0e2",
@@ -800,32 +770,52 @@
   "8249cbceeb9cae82",
   "4a51519e8038521f",
   "a5dc2b9581146f42",
-  "d57fb606acd72048"
+  "d57fb606acd72048",
+  "8fd6d55db6e3b0b5",
+  "fef899a0e2b8131f",
+  "c6ac2db4548aa648",
+  "29053520d68b368c",
+  "c4388614f50bca21",
+  "3851eaf53dd44275",
+  "1319207ed9148078",
+  "23a06f230872f066",
+  "7dac52b1d499eea2",
+  "6d49892127bb12de",
+  "eef5dc97c02e5e98",
+  "af80f97dacef1da4",
+  "55865eb68a466670",
+  "e0a48d94eb140986",
+  "a2129f80a16cfca8",
+  "5c1c819a54356aa0",
+  "f3749d249a6dd6c1",
+  "00108d22a4c9821f",
+  "1cc77b08eab1e9de",
+  "2cbe11a18bad7fa0",
+  "10b0d3bc94184719",
+  "9a3057e302e6a16e",
+  "e5a36a2e6c1dad7e",
+  "414d9b5c92526bf3",
+  "75ce958b295f7630",
+  "71b1f13841b2b0d6",
+  "431e5dcb18ee77b1",
+  "461678a37a1466a9",
+  "e9add272ab1e619a",
+  "5daaefd86633207d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794595439.1309648,
+ "dernier_passage_actus": 1794598732.715579,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Stuttgart fixe le prix de Jamie Leweling à 30 millions (Tribuna.com)",
-   "t": 1794357947
-  },
-  {
-   "genre": "actu",
-   "resume": "Jude Bellingham se confie sur la pression au Real Madrid (Tribuna.com)",
-   "t": 1794361885
-  },
   {
    "genre": "actu",
    "resume": "L'Inter veut prolonger Hakan Çalhanoğlu face à la Juventus (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Viktor Gyökeres refuse de quitter Arsenal (Foot Mercato)",
    "t": 1794592578
+  },
+  {
+   "genre": "actu",
+   "resume": "L appel de Manchester City examiné mi décembre (L'Équipe)",
+   "t": 1794598797
+  },
+  {
+   "genre": "actu",
+   "resume": "Ronaldinho de retour sur les terrains à 46 ans (BBC Sport)",
+   "t": 1794598802
   }
  ],
  "matchs": {},
