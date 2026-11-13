@@ -1,18 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "50541443394fcfdd",
-  "c75aff0291c389ba",
-  "fc7ba842309948d4",
-  "022296c4e85af1af",
-  "96a5779bc127ad20",
-  "5771177ae0fd8b24",
-  "f39163646f0302ad",
-  "85618b0b14ade8e0",
-  "ba024e9b2114564d",
-  "eac05ae4fe008374",
-  "48773995746608b9",
-  "b053d8c41310d381",
   "2be46fc1d4f6d754",
   "8a237a9d23010359",
   "bccc8099df547f66",
@@ -800,27 +788,34 @@
   "c10f714f1b09bb37",
   "1601bf0de5ca5c29",
   "4cc2c64940ca760c",
-  "0d1aac4adfadcd5a"
+  "0d1aac4adfadcd5a",
+  "0ee6a9f9c443febb",
+  "96a2a91d2cea6934",
+  "e6a2493471a07485",
+  "31c0b450c15422fd",
+  "f1b58c33c7473cf5",
+  "1ce760db5357eb28",
+  "79a7d59af106739a",
+  "451c3144376023d1",
+  "c408a52ff2983df2",
+  "2126d64688efe83e",
+  "5bbda434aa0f91ea",
+  "cfe959bff606cc1a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794529869.5871391,
+ "dernier_passage_actus": 1794534492.2711334,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Eli Junior Kroupi appele chez les Bleus en remplacement de Marcus Thuram (L'Équipe)",
-   "t": 1794334404
-  },
   {
    "genre": "actu",
    "resume": "Olivier Letang va saisir le CNOSF pour contester sa suspension (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Grosse frayeur pour Désiré Doué avec les Bleus (RMC Sport)",
    "t": 1794530097
+  },
+  {
+   "genre": "actu",
+   "resume": "Jude Bellingham bat le record anglais de passes décisives (Tribuna.com)",
+   "t": 1794534560
   }
  ],
  "matchs": {},
