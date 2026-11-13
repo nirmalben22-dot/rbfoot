@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a56da1b9fae88c53",
-  "a84997c4468ba4b9",
-  "12b7f48d73d58e2e",
-  "8cd8141172c76651",
-  "0fb388f9ce06f27a",
-  "1e1cbfe0299b1761",
-  "cd924d7556ff9018",
-  "7ab099060da7ff0e",
-  "2db8188706283f2c",
-  "007afbbb2284f9c5",
-  "fdaf2c5dad0d73d7",
-  "fac330496b9ff65d",
-  "83f79c11486e2980",
-  "5e58ded69099c8fd",
-  "f8104bc001bc2fcc",
-  "da852987945dc018",
-  "a24cbfa073ed8f30",
-  "1a41e1c26a03ead6",
-  "3bec77690528e818",
-  "d29f5e6e8a00f91f",
-  "46ae948efc4abcf7",
-  "56a1342e0c551ad7",
-  "b33ecf459ab8dcf7",
-  "4475a770d4821bd2",
-  "0b9b8da5ee05e729",
-  "c528900d56001b70",
-  "6c514e507d7eb1f8",
-  "a60ddaf0fc9304c2",
-  "685ffd76a2991c00",
   "a6543124c6197b4f",
   "32ccb0b0d20ab716",
   "b1490c9459bfdf0a",
@@ -800,32 +771,51 @@
   "7f40d6637511846a",
   "8b9e165829fed54a",
   "e3056ef02cd53554",
-  "d9ea8a61c50a8be9"
+  "d9ea8a61c50a8be9",
+  "671d49d70b17f440",
+  "a35b2bba92084652",
+  "3ab643b97eaa1955",
+  "e909a1377d51de2d",
+  "282f6f96726fdde3",
+  "e3acf5e93c60313b",
+  "a46561a00b870522",
+  "ad337d904cfde5a4",
+  "a5541c3af6308569",
+  "56ff5ccd4735535d",
+  "abd724b621c1c2a3",
+  "e1777edf47b1e2d3",
+  "544b03cd49394db3",
+  "c3eb3516e1b5e309",
+  "3403e336c691ce35",
+  "68ee2488bdfb3fb8",
+  "d101bc727b3830c2",
+  "8de52ef077b55b76",
+  "8fe908d14abc433c",
+  "e98d8eac56e31e58",
+  "842b4bebdf468e14",
+  "ffe92cbd18d05f8e",
+  "318db0ca3c404c90",
+  "6eedc9f6a5c1115b",
+  "88333639b5639e18",
+  "bc8e2ec3c513686c",
+  "057eabcfab10bb45",
+  "574a5c8ccf19a7f3",
+  "eaa4ce14ff288b2c"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794602138.9346218,
+ "dernier_passage_actus": 1794605384.0741029,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Napoli s'intéresse à l'attaquant Patrick Zabi (Tribuna.com)",
-   "t": 1794364586
-  },
-  {
-   "genre": "actu",
-   "resume": "Hugo Oliveira déjà sous pression sur le banc strasbourgeois (L'Équipe)",
-   "t": 1794375326
-  },
   {
    "genre": "actu",
    "resume": "Le titi parisien Senny Mayulu convoqué en équipe de France (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pas d échange entre Martín Zubimendi et Julián Álvarez (Tribuna.com)",
    "t": 1794602298
+  },
+  {
+   "genre": "actu",
+   "resume": "Didier Digard devient le nouvel entraîneur du RC Lens (Foot Mercato)",
+   "t": 1794605461
+  },
+  {
+   "genre": "actu",
+   "resume": "Pape Gueye met sa carrière internationale entre parenthèses (Foot Mercato)",
+   "t": 1794605465
   }
  ],
  "matchs": {},
