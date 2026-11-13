@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "8f0727e0a62a35af",
-  "574098d40aa2618a",
-  "ea9088ca1241304a",
-  "a85b9896287c6a82",
-  "4b17d1ae09643421",
-  "f73738bdd2665439",
-  "b44d8e430e3ed591",
-  "51ea2b6b027dfecf",
-  "52a6924ffbec792c",
-  "aaede2fbd401a765",
-  "0bef6fb0356ed039",
-  "60b33f98050545f5",
-  "eaaa10d492919b59",
-  "c0fe223f64e579ce",
-  "0b6b4e87d8068455",
-  "e56219da34936b51",
-  "f52bf223500d1b97",
-  "bd29d86addc536f9",
-  "154fda739f3dbbda",
-  "ddf4edc9c698f200",
-  "61b17d12da0532c4",
-  "b12833e559701f91",
-  "6765394a5c20865c",
-  "8f46f341531e526a",
-  "8aeda2f406a39840",
-  "c58884b51fb9e33a",
-  "0da0e885ab0a62dd",
-  "b1f9d5361c8e9ff9",
-  "ba267237fc23f827",
-  "6d4524a821686176",
-  "cbcd1324d6051275",
-  "ae3d0ca6e47a1db7",
-  "8b1ac384acdf6d01",
-  "bad864ae1643b975",
-  "b9e24eafee00a8d6",
-  "1faeae0133ab0536",
-  "49eade1730164e12",
   "92176e7448d62899",
   "bef6abbd7e6a2948",
   "db05ed010b60caf2",
@@ -800,32 +763,59 @@
   "9a3709166ada49aa",
   "b5eb478dc5e1060f",
   "0fbbfb0ac284f688",
-  "baa797ce10463865"
+  "baa797ce10463865",
+  "dfaafce0648e2b1c",
+  "6b12d0e542453aba",
+  "041d37f59b433d1a",
+  "eb9f929ebad25b74",
+  "ee71f221cc1a8b7d",
+  "bdbb4b2177c58578",
+  "2bbe1f1b0adb00c5",
+  "630a5e0c77489437",
+  "0ae82b8ed80adc4e",
+  "fd7f7d26c7d2b3bc",
+  "9f45c1257230ddc3",
+  "8e4ab3f966c0e939",
+  "411c66e5884d320e",
+  "0edf53b85c7c4ebd",
+  "a58c53db5a07d41c",
+  "55f71423b0147acc",
+  "e2c050c7d5e9c8ff",
+  "be0af69629f30300",
+  "7158d1c8617d9a82",
+  "8d81173316014cf5",
+  "98f50442dae9d46d",
+  "bcbec55e8bdb5819",
+  "a489a62fceb5b909",
+  "66ecea7171322a20",
+  "494b22bfa9e245f4",
+  "8d5ea4eeece22147",
+  "3ab0b0026ade8ddb",
+  "990d2ef30ffbc562",
+  "1875651cfd62b4d0",
+  "850c075c4f5f3d65",
+  "847cd0d28f3f6cfc",
+  "adcd28107becbe35",
+  "a4a691fcaf00cfba",
+  "62e9e01a14b55f42",
+  "46718737d63f244b",
+  "c0745c6ac5ec9ad2",
+  "184eb978e38f0c8d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794589313.0521493,
+ "dernier_passage_actus": 1794592405.6071556,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Carlos Vicens nouvel entraîneur de l'Olympique Lyonnais (RMC Sport)",
-   "t": 1794352467
-  },
-  {
-   "genre": "actu",
-   "resume": "Cristianinho convoqué avec la sélection U17 du Portugal (Record)",
-   "t": 1794357941
-  },
   {
    "genre": "actu",
    "resume": "Stuttgart fixe le prix de Jamie Leweling à 30 millions (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le RC Lens s intéresse à Walid Regragui (Foot Mercato)",
    "t": 1794589404
+  },
+  {
+   "genre": "actu",
+   "resume": "La statistique accablante sur Gianluigi Donnarumma (Dailysports)",
+   "t": 1794592573
+  },
+  {
+   "genre": "actu",
+   "resume": "Viktor Gyökeres refuse de quitter Arsenal (Foot Mercato)",
+   "t": 1794592578
   }
  ],
  "matchs": {},
