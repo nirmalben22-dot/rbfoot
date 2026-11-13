@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "27b7a1d8c66e4641",
-  "5977c352ad7dd0cc",
-  "8926849b0eee96e4",
-  "cd852ac1b028ae22",
-  "09659da4c31b1821",
-  "51e6d8c1e88c03c7",
-  "eec15136e6f213c5",
-  "f6a03f1438ec5e5c",
-  "455fd3ef11f1a83e",
-  "f7e8593b018a88e2",
-  "3fe76bdd467dffd2",
-  "cc45a6443e0fe45f",
-  "69cfbd28790fa2b5",
   "06d5a89f90cd871d",
   "ef5d05d7b7f3b448",
   "0c9c8fed04f7899c",
@@ -800,32 +787,35 @@
   "fd5a20cc2ffce47a",
   "7e99d5d68d43a710",
   "3a29b82f46908176",
-  "66d370b158ee054e"
+  "66d370b158ee054e",
+  "8e7d77ff7e73e216",
+  "a6338d2a4ef3f572",
+  "be6d1684acefe563",
+  "c78570650ccd82d5",
+  "a14172a21ff64193",
+  "567bdb92cff764b9",
+  "796bd2bc91c3eaf4",
+  "5ac28de31983a55b",
+  "a51dfa3bae8fcaaa",
+  "fe8b5ae8743ed11b",
+  "0ad58ef301d107a2",
+  "76ab9f73c12e537f",
+  "af58f01a6a4245e0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 24
+   "n": 25
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794611322.9524226,
+ "dernier_passage_actus": 1794613823.5587146,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Harry Kane entre un peu plus dans l'histoire de l'Angleterre (RMC Sport)",
-   "t": 1794412732
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour Manuel Neuer au Bayern Munich (Foot Mercato)",
-   "t": 1794412737
-  },
   {
    "genre": "actu",
    "resume": "Accord verbal entre Manchester United et Mauricio Pochettino (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Fabrizio Romano clarifie la rumeur Nico Paz à Manchester United (Tribuna.com)",
    "t": 1794611488
+  },
+  {
+   "genre": "actu",
+   "resume": "Mohamed Salah devient le meilleur buteur de l'histoire de l'Égypte (L'Équipe)",
+   "t": 1794613981
+  },
+  {
+   "genre": "actu",
+   "resume": "Un ancien directeur sportif du Milan s'en prend à Rafael Leão (Record)",
+   "t": 1794613987
   }
  ],
  "matchs": {},
