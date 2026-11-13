@@ -1,28 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "af9c7c3d9c992103",
-  "a6a4023f4dbf905a",
-  "a0c3eadcf76ac0e2",
-  "11b3e5064b30beed",
-  "3d5e821e42c86d88",
-  "b68cc3a79bc570a0",
-  "10b9a6021e2cfbbf",
-  "69cffdf740308ad6",
-  "1e938f9a419a8686",
-  "150c5a5480d60195",
-  "3906c60e82038d1d",
-  "8afe3f4d63d5aa09",
-  "35b94b8bcd5ae6e2",
-  "a6d5d0a2995cb8ba",
-  "43b5248d7090a4a7",
-  "c0e9f09c66f37c8d",
-  "8b2d8d91ca7055a5",
-  "70921f08e56045f2",
-  "abc117c8202077b9",
-  "7eaebf1a8ddd8ac0",
-  "66cd438027d5d42c",
-  "0e94add93b5254a3",
   "a56da1b9fae88c53",
   "a84997c4468ba4b9",
   "12b7f48d73d58e2e",
@@ -800,27 +778,44 @@
   "431e5dcb18ee77b1",
   "461678a37a1466a9",
   "e9add272ab1e619a",
-  "5daaefd86633207d"
+  "5daaefd86633207d",
+  "cb3726e22660acda",
+  "5bddda909a3e09d8",
+  "f1595cd7b4f7e44d",
+  "33782dce0eee20f2",
+  "367172615b245c97",
+  "f575331b41ed343a",
+  "1a9b2716ac21ed95",
+  "7f663efba0b60d3b",
+  "b658eb3efb60924d",
+  "2513dc3d4034866e",
+  "dcb9ecf71e63583a",
+  "0b17d4829685db74",
+  "619ae00e3ba7d2ff",
+  "52500b44eda9193d",
+  "c2b70eec62b6c56e",
+  "863536e4fc5cc546",
+  "1c9edf198a358798",
+  "c83ef38fe2f1ad71",
+  "7f40d6637511846a",
+  "8b9e165829fed54a",
+  "e3056ef02cd53554",
+  "d9ea8a61c50a8be9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 16
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794598732.715579,
+ "dernier_passage_actus": 1794602138.9346218,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L'Inter veut prolonger Hakan Çalhanoğlu face à la Juventus (Tribuna.com)",
-   "t": 1794361891
-  },
   {
    "genre": "actu",
    "resume": "Le Napoli s'intéresse à l'attaquant Patrick Zabi (Tribuna.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Ronaldinho de retour sur les terrains à 46 ans (BBC Sport)",
    "t": 1794598802
+  },
+  {
+   "genre": "actu",
+   "resume": "Pas d échange entre Martín Zubimendi et Julián Álvarez (Tribuna.com)",
+   "t": 1794602298
   }
  ],
  "matchs": {},
