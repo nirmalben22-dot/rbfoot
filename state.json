@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "23130e4bc97f7136",
-  "91801fbffb8c4df0",
-  "b622461945bf53eb",
-  "75edf6a60dfd4d72",
-  "d710505f8d7c3b68",
-  "5bca6ae3dd5c1bf9",
-  "9254b6daf4b7f588",
   "cf6e0df1f741944c",
   "300b8592e83fea79",
   "71f6da85cdfd69bf",
@@ -800,27 +793,29 @@
   "791d976ade038b74",
   "ba0508d584c30fec",
   "9b3f70b5c6e9ee90",
-  "80c1d27eab6f8363"
+  "80c1d27eab6f8363",
+  "cfabf08c9cf6b00b",
+  "a43c9e6301d22882",
+  "fcda9c90ea747fc2",
+  "45fd9cfaa6ed3dd9",
+  "ff5e7d5da43f1b8e",
+  "e65a49319c21dae5",
+  "65259cc991b5635e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794544490.1305263,
+ "dernier_passage_actus": 1794548326.9031405,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Olivier Letang va saisir le CNOSF pour contester sa suspension (L'Équipe)",
-   "t": 1794334410
-  },
   {
    "genre": "actu",
    "resume": "Aurélien Tchouaméni blessé et incertain avec l'équipe de France (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Jude Bellingham bat le record anglais de passes décisives (Tribuna.com)",
    "t": 1794534560
+  },
+  {
+   "genre": "actu",
+   "resume": "Pierre Sage en route pour un retour au RC Lens (L'Équipe)",
+   "t": 1794548466
   }
  ],
  "matchs": {},
