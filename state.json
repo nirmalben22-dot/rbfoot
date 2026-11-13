@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4ef75f52229bf627",
-  "a179a59adb5f0d81",
-  "4fbd9fd0c128a093",
-  "15d694d992315682",
-  "bc3d79caf010cac6",
-  "5db0bbfba5989a50",
-  "3f172fe2bbc52ee0",
-  "3be7e7727885b9c2",
-  "82d862d5893ad13d",
-  "80b0e2645701c07d",
-  "0c8de48fcf0599ba",
-  "629ee60fb4aaeb3d",
-  "0f1ce8cb2725b530",
-  "13c70880c45552df",
-  "bc8d14639fae6e84",
-  "5e206f0225fb3e5a",
-  "1ce69a197d3ace53",
-  "196f0c3d0408d07b",
-  "a8f7287088e25df6",
-  "b8ff46cbfc219ed2",
-  "4ad6e6cd45a8284d",
-  "62af3012d6632a1f",
-  "aabb4f38371ad3a1",
-  "865b10bcf06e2b35",
-  "48db58fead0e0ecb",
-  "73b62be237b7e470",
-  "7fbfcdb97703ae71",
-  "29a847e215fec06a",
-  "7e162808411b2384",
-  "bf922b94aa14def3",
-  "798f883ae5639c73",
-  "2251a60b5fe1b8ed",
-  "d6bf5a32529d4b4d",
   "04824e78761431db",
   "8af02743e8cbc28f",
   "ecc4db82077c9ffe",
@@ -800,32 +767,55 @@
   "025ecf06db8d6dad",
   "d5f526fe3b07a06e",
   "8d0af6284da53fb0",
-  "6887a914ce006778"
+  "6887a914ce006778",
+  "5eaf2d8ce644c5e4",
+  "91ae0154984b31ca",
+  "163e8e49ef7f225d",
+  "3d51b0ca813c46c7",
+  "1c2e23b7ddfc64b5",
+  "fe932c2f92e9cf7f",
+  "f731fc3dfcaa8979",
+  "80d1c5bbce33600b",
+  "8a7cb9ffe4f719a6",
+  "955623871cb68613",
+  "e18ab2a8e41af1d2",
+  "2b05e15a30dd1069",
+  "008f3d85a9005f16",
+  "3ed37ff952161e5b",
+  "a6ce60bdd51dd376",
+  "dc90939f21922b1c",
+  "342efa4230541529",
+  "73b8f1c4baa1be05",
+  "1220258b956d8953",
+  "f91e3206b135f90b",
+  "95d418e4b6ddc6f5",
+  "ce49295ea4037ec6",
+  "a12e687f45a0a1be",
+  "f0ff0ee36e389da6",
+  "4a172cdda2af452c",
+  "087b48b9aeea3f77",
+  "de58139a812733ff",
+  "2ee83d9d1d200e69",
+  "89dcbfe017502f9a",
+  "c74056c4c13fad3d",
+  "14736fc15869b259",
+  "75e874dee9de7dfe",
+  "ef2000ddc2dd33cd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794579487.6042192,
+ "dernier_passage_actus": 1794582714.650691,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Tension chez les Bleus entre Mbappé et Dembélé (Get French Football News)",
-   "t": 1794347233
-  },
-  {
-   "genre": "actu",
-   "resume": "Virgil van Dijk laisse planer le doute sur son avenir (Foot Mercato)",
-   "t": 1794347238
-  },
   {
    "genre": "actu",
    "resume": "Gianni Infantino bientôt convoqué par le Congrès américain (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Hommage vibrant du Portugal pour Cristiano Ronaldo (RMC Sport)",
    "t": 1794579557
+  },
+  {
+   "genre": "actu",
+   "resume": "Tensions en Guinée avec Ilaix Moriba accusé de chantage (RMC Sport)",
+   "t": 1794582841
+  },
+  {
+   "genre": "actu",
+   "resume": "Le rachat des Girondins de Bordeaux officiellement validé par la justice (RMC Sport)",
+   "t": 1794582846
   }
  ],
  "matchs": {},
