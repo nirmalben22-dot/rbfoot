@@ -1,28 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "23c2560e93f9e84b",
-  "393326689afcf5de",
-  "261059dbfc31a60a",
-  "2a9d24e2f601ae06",
-  "fa6b25be74e7460c",
-  "212582ddf854006f",
-  "15d0d4991c4b97f4",
-  "b63cb8099d759236",
-  "89f62cd87bb85714",
-  "e62cbd4649f6aafc",
-  "ccd5d7d2c4aa9286",
-  "ed0042a0d7dc4c74",
-  "3404311eb534283f",
-  "e2d92bcd6217f8ac",
-  "8f9f50fac857e7c9",
-  "9fb83db5bff12e8a",
-  "b7851a1c2d02d696",
-  "2e402c0079b3c9f1",
-  "d861baa72754383e",
-  "496919aa8ecd3952",
-  "697b44cfd3b697e3",
-  "e0b0ab2578166eef",
   "8f0727e0a62a35af",
   "574098d40aa2618a",
   "ea9088ca1241304a",
@@ -800,32 +778,44 @@
   "24568601f121cab7",
   "24ebb94b86b3303d",
   "781546d6e91bdc13",
-  "bf417e7a0816e9f4"
+  "bf417e7a0816e9f4",
+  "48ef4ea90b3f57eb",
+  "a82d528b11aa46fe",
+  "be4125e2e408b9b3",
+  "e4929d243147de9b",
+  "f9cf49cf41cf756f",
+  "58413c8177911905",
+  "f50836543816b3ad",
+  "4b3889acb6f84bca",
+  "a536b41ead5361c7",
+  "630584a009c007be",
+  "7240ce7c2b19f947",
+  "d52ba3f1a5b4a382",
+  "a358f42f993f55f5",
+  "38f2d0c8b0d7fa9d",
+  "32bb7b3528f1ac72",
+  "b0bbcf1d7f081186",
+  "68b0d16e50984772",
+  "4a19947d3f5a6e90",
+  "9a3709166ada49aa",
+  "b5eb478dc5e1060f",
+  "0fbbfb0ac284f688",
+  "baa797ce10463865"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794585999.5650864,
+ "dernier_passage_actus": 1794589313.0521493,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Gianni Infantino bientôt convoqué par le Congrès américain (RMC Sport)",
-   "t": 1794349605
-  },
-  {
-   "genre": "actu",
-   "resume": "La terrible révélation de Scott McTominay sur son cœur (RMC Sport)",
-   "t": 1794349610
-  },
   {
    "genre": "actu",
    "resume": "Carlos Vicens nouvel entraîneur de l'Olympique Lyonnais (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le rachat des Girondins de Bordeaux officiellement validé par la justice (RMC Sport)",
    "t": 1794582846
+  },
+  {
+   "genre": "actu",
+   "resume": "Medhi Benatia règle ses comptes avec Pablo Longoria (RMC Sport)",
+   "t": 1794589399
+  },
+  {
+   "genre": "actu",
+   "resume": "Le RC Lens s intéresse à Walid Regragui (Foot Mercato)",
+   "t": 1794589404
   }
  ],
  "matchs": {},
