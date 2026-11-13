@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a6543124c6197b4f",
-  "32ccb0b0d20ab716",
-  "b1490c9459bfdf0a",
-  "646e7158f69f022d",
-  "8b3babd5eec93780",
-  "72b60fc783dfe50d",
-  "30538ed266d7e332",
-  "e682b3e6de093826",
-  "de0656007b177811",
-  "e8fd1654b85c4229",
-  "63058c1995babf8b",
-  "7505f89a86774efb",
-  "11ddc64cba30c6c5",
-  "096edd5e1ffe149f",
-  "23b3179ae10d4fa8",
-  "c9f1a571a1456e74",
-  "835017daa77611c3",
-  "c009f20870111bba",
-  "d071d5e168d3e8d9",
-  "6e570b55fa5d3d9e",
-  "86559d009a1cc528",
-  "3276fe4804e4a060",
-  "0e7b80ed02779357",
-  "abc0b3298bda556d",
-  "3da84a40d06aaace",
-  "55a8f0e18c520cda",
-  "3a29b82f46908176",
-  "143a863eba0f406c",
-  "6d2de42fdc8d0d34",
-  "4550e8b76bb7bb9d",
-  "2b98d338e8e30017",
-  "935fd47c65334602",
-  "448dfcaf9fa05360",
-  "6391b67bd0c4496a",
-  "dc7b4d5cf7986791",
-  "818fc8d3ec4b4429",
-  "7f0d333dd8e3c577",
   "7cd0f6fcb48eaebe",
   "fb3693a8434818bb",
   "99b51a8a0b12de44",
@@ -800,32 +763,59 @@
   "bc8e2ec3c513686c",
   "057eabcfab10bb45",
   "574a5c8ccf19a7f3",
-  "eaa4ce14ff288b2c"
+  "eaa4ce14ff288b2c",
+  "b3d1bf9c7c789693",
+  "1761dc52d0338b9e",
+  "69a2f62d0d7db607",
+  "9e8c39e81d6d4393",
+  "ba0cd5034a7388b2",
+  "fd0547f35e08c6b5",
+  "6c27454fa1712a1c",
+  "7a8e675f947406f3",
+  "a8f7a8c0c84caa27",
+  "316252f3b3d836e4",
+  "40c28a8a5021db56",
+  "fe292ef1729d2431",
+  "7fc478f045378607",
+  "5eaa103357e5963c",
+  "411890c2059a1020",
+  "c11f92eb3b3fee15",
+  "5074c9ba5dc59656",
+  "41c70af262598422",
+  "a8dd850ee3bf99ba",
+  "b6b8ab76f3d515aa",
+  "44a25745d3b8c1fe",
+  "85d88da00a8df8f9",
+  "999148f81824ad6a",
+  "bc80563d10e6afde",
+  "3a87deda40589175",
+  "78bdda27dfd4a370",
+  "e029069217185b9b",
+  "faa8c907ef224c8a",
+  "f34f966ead6582b0",
+  "75e775522f3cf46f",
+  "378f486b359d2ee2",
+  "435f92177aa5563c",
+  "1c783a240c4788aa",
+  "e2a44631b3479e18",
+  "b1901404dcdd61da",
+  "05d62fe5705999ae",
+  "e0bd43cef2b36327"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-13",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-13",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794605384.0741029,
+ "dernier_passage_actus": 1794608463.3319023,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le titi parisien Senny Mayulu convoqué en équipe de France (RMC Sport)",
-   "t": 1794406294
-  },
-  {
-   "genre": "actu",
-   "resume": "Le PSG se positionne sur la pépite Gianluca Prestianni (Foot Mercato)",
-   "t": 1794406300
-  },
   {
    "genre": "actu",
    "resume": "Ian Maatsen prolonge l'aventure avec Aston Villa (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pape Gueye met sa carrière internationale entre parenthèses (Foot Mercato)",
    "t": 1794605465
+  },
+  {
+   "genre": "actu",
+   "resume": "Jesus Owono lourdement suspendu après le drame (L'Équipe)",
+   "t": 1794608511
+  },
+  {
+   "genre": "actu",
+   "resume": "Didier Digard nommé nouvel entraîneur de Lens (RMC Sport)",
+   "t": 1794608516
   }
  ],
  "matchs": {},
