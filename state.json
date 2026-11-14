@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6421212cff20a1db",
-  "b08958f6e4becb41",
-  "0a1bdac48f90e073",
-  "b677c0ccf1003254",
-  "3043fe7bfb597075",
-  "43196548c4f41722",
-  "b56a3bf91dda27f8",
-  "f86a7afee7d4c20e",
-  "d322cd3febe159af",
-  "791d976ade038b74",
-  "ba0508d584c30fec",
-  "9b3f70b5c6e9ee90",
-  "80c1d27eab6f8363",
-  "cfabf08c9cf6b00b",
-  "a43c9e6301d22882",
-  "fcda9c90ea747fc2",
-  "45fd9cfaa6ed3dd9",
-  "ff5e7d5da43f1b8e",
-  "e65a49319c21dae5",
-  "65259cc991b5635e",
-  "68cfa4f4b861949f",
-  "40195bb3149178bb",
-  "62ec0180f13f4f59",
-  "746edd55e6f5ec36",
-  "ac06069b7c93fa83",
   "4ea03798599ca58c",
   "9f5cbcace394098a",
   "fcde02aea6b4ad9c",
@@ -800,32 +775,47 @@
   "a4772bd7f13acc98",
   "fc75faa127303524",
   "40ea6c11ff489000",
-  "37ffc04c42667d9e"
+  "37ffc04c42667d9e",
+  "682aa2acf4881d8c",
+  "a8a4a76f62115ff9",
+  "3916ccdaf55016a5",
+  "68d0e93a7248af9a",
+  "baf6b5360cbb18c0",
+  "abcd542e428f778a",
+  "0805c41e8842d4cb",
+  "a23466dd35c61a53",
+  "7b75f91a7e48e1c2",
+  "cb7140b934a3ce67",
+  "7696087dfd8851e5",
+  "ced4b93eabda3fa8",
+  "f0f1d41345f5e8a8",
+  "125c90fad452b852",
+  "e40a815fde5deb21",
+  "85b4ad2ee560fc27",
+  "87fe5727b4c89958",
+  "570028b1910a52bd",
+  "f75e36c9a7d7385b",
+  "88c426ccbece5f33",
+  "2b041b6eee5a8733",
+  "752f79c82e20e508",
+  "780e7cfc4b59cc44",
+  "d0ed23f7a371e9a6",
+  "49eade1730164e12"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 9
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794662422.3370826,
+ "dernier_passage_actus": 1794665568.5948126,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Les États-Unis renoncent à la Coupe du monde U17 (L'Équipe)",
-   "t": 1794439199
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Bayern Munich garde un œil sur Oskar Pietuszewski (Record)",
-   "t": 1794441978
-  },
   {
    "genre": "actu",
    "resume": "Michael Olise appelait Thierry Henry tous les jours pour faire les JO (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Thomas Tuchel rappelle le protocole antiraciste avant le choc face à l Espagne (RMC Sport)",
    "t": 1794662503
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsène Wenger renoncerait à la présidence de la FIFA (L'Équipe)",
+   "t": 1794665729
+  },
+  {
+   "genre": "actu",
+   "resume": "Medhi Benatia s'exprime sur la finale de la CAN 2025 (RMC Sport)",
+   "t": 1794665734
   }
  ],
  "matchs": {},
