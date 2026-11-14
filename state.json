@@ -1,26 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ef642fa7e3ebbb3c",
-  "0860ab1715f143a2",
-  "41e079490674222a",
-  "6377e23e46e3ead5",
-  "7abe3a0486a9f352",
-  "9764b1fccf2b2e8c",
-  "38d8a85dc80c7e33",
-  "b08f22664649aa99",
-  "e7025854f2075577",
-  "523590d439435fe4",
-  "38c79625d2097f11",
-  "5086ca37b2409408",
-  "a5d9ce148eda45e4",
-  "5ae920875d2d766b",
-  "7da0d47c0da73c24",
-  "4031276945696fe7",
-  "5605b211d2856af6",
-  "2ce679a2aa8fcf2a",
-  "ffd4d890131e0ae6",
-  "598f0947fe0ae2b0",
   "e17cb358a5aa36af",
   "d19e8fc513137c3b",
   "d8829089556f5946",
@@ -800,32 +780,42 @@
   "6da666bfab8f3510",
   "47f3d3e9756a7e59",
   "c3e53b5db81e1b4e",
-  "64cd391cbfbdad69"
+  "64cd391cbfbdad69",
+  "a65ef3fcfe7be0f0",
+  "5b39154f4926aab9",
+  "d094305b19ca01a7",
+  "7170f3690edb0dfa",
+  "addd527ea448d28a",
+  "b3f49321aaf69331",
+  "e307b28a803a84e8",
+  "793bb505df9310bc",
+  "59ae7c1d709190e1",
+  "5ee51c163ee19cba",
+  "2e579244be2caa35",
+  "2b27986d588999f8",
+  "6449703da4280596",
+  "fad3552e6f818790",
+  "c7bb0852e54d73a5",
+  "65b27e423d524d99",
+  "640311bf6dda8854",
+  "71e2ab617001ace2",
+  "87778b7d2b259ac5",
+  "a6775fc098ec9893"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794668286.2426584,
+ "dernier_passage_actus": 1794670705.005357,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Real Madrid en approche pour une pépite de 16 ans (Sport.fr)",
-   "t": 1794446436
-  },
-  {
-   "genre": "actu",
-   "resume": "Tension et crise autour de l'équipe de France et Zinedine Zidane (Howl.Link)",
-   "t": 1794450386
-  },
   {
    "genre": "actu",
    "resume": "Manchester United s'intéresse à une pépite du Stade Rennais (Sport.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Frenkie de Jong forfait pour le choc face à l'Allemagne (Foot Mercato)",
    "t": 1794668344
+  },
+  {
+   "genre": "actu",
+   "resume": "La presse catalane affirme que le Real Madrid est favorise par l arbitrage (RMC Sport)",
+   "t": 1794670780
+  },
+  {
+   "genre": "actu",
+   "resume": "Raphinha fustige l arbitrage apres son expulsion avec le Bresil (Foot Mercato)",
+   "t": 1794670785
   }
  ],
  "matchs": {},
