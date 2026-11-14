@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "14719bea41fa0720",
-  "6400dab9690db290",
-  "a0b1001d4771cbe8",
-  "87f5a29fc1a05337",
-  "892fbfc11e57ae6a",
-  "52c8b39dd2737737",
-  "15b3abb998564cfa",
-  "2db7380aab6e90a1",
-  "ea985b025da526f6",
-  "c83ac9d62d7e6e51",
-  "3aedea14bc78550d",
-  "435c47b5bfe3f84f",
-  "8c2cacdac5d7a02e",
-  "26af3a93d692b8d8",
-  "697aef73cb8e3bd0",
-  "dfe87aea038a4d75",
-  "722dfc50acbc6e18",
-  "ebbe1c13031e3697",
-  "bcfe1c531f70d220",
-  "4b886b0c2505e5a8",
-  "40b49f30d644d857",
-  "851197bd875c4af6",
-  "1dc173f3dfd79097",
-  "bfd83d93af3df336",
-  "00601d051c162eda",
-  "a68298d10e3d30f2",
-  "67ee1c5a11048640",
   "1260c116a2a3d0f5",
   "e70d09d6eaa4de06",
   "051f5af7a786d562",
@@ -800,32 +773,49 @@
   "d00e8347c50a97cb",
   "4f9e55295f0239b9",
   "fb6aa89eafbefe69",
-  "9871295fc24b57c4"
+  "9871295fc24b57c4",
+  "feda6cf84db0fa5c",
+  "d9b9e3cab0a9a7ae",
+  "de30dbad92049d59",
+  "59e93cc7077b2e89",
+  "b0d0912dc749a492",
+  "a79b9ad1263843cd",
+  "2970dab1fafa2467",
+  "9cb8c40465cc52f1",
+  "3833bb30689d79db",
+  "b90a945b6c24d2b8",
+  "e0c8b0fa73cdc271",
+  "7253d6b6dd23e6a3",
+  "bd8417a771e06675",
+  "d894a1dc8d42e1d8",
+  "e9a61ddb90030236",
+  "93f69425f876bedf",
+  "4ebc0e2040f15a8d",
+  "9925c1a631e30192",
+  "aae981861edbbaf2",
+  "c3c4538dd2ea818d",
+  "38f65aba3c5f5bbc",
+  "85ac363a3fe1f2a4",
+  "1f083e0cc896072b",
+  "3e964522a4e7a2b3",
+  "643a382153c4e6e7",
+  "3fcb579ea7ae058b",
+  "8bdaee99235ad2f1"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 22
+   "n": 24
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 23
+   "n": 24
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794683606.9685056,
+ "dernier_passage_actus": 1794686247.7104638,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Yaya Fofana la nouvelle sensation de la Côte d'Ivoire (Foot Mercato)",
-   "t": 1794493833
-  },
-  {
-   "genre": "actu",
-   "resume": "Emiliano Martinez de retour à l'entraînement avec une protection (L'Équipe)",
-   "t": 1794497384
-  },
   {
    "genre": "actu",
    "resume": "Pierre Sage négocie déjà son retour sur le banc de Lens (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Alejandro Balde dans le viseur de l'AC Milan (Tribuna.com)",
    "t": 1794683655
+  },
+  {
+   "genre": "actu",
+   "resume": "Désiré Doué de retour à l'entraînement avec un protège-dents (L'Équipe)",
+   "t": 1794686364
+  },
+  {
+   "genre": "actu",
+   "resume": "Zinédine Zidane monte au créneau pour défendre son équipe (Foot Mercato)",
+   "t": 1794686369
   }
  ],
  "matchs": {},
