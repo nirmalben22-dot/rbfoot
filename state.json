@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c233fe42eb0d1359",
-  "e1b19517d4a7a6c5",
-  "9c7ce462a3101f7d",
-  "995ed9ab35f1ac6a",
-  "6fa6e73b530e5b2a",
-  "a60195c2e40538f5",
-  "7a660e2550409c29",
-  "55b3f66ccbbd55d3",
-  "f8fb417718402625",
-  "f5fa3541795cb84a",
-  "84924ccb6c2d7723",
-  "3292ce58c247829b",
-  "1ab68102d4e04535",
-  "605b1655b6437b87",
-  "9d67637050e2c972",
-  "d678813eddb262b9",
-  "70a84add4982067c",
-  "a31f3e0884c9711e",
-  "35db9cb394c8e478",
-  "abf78c197e7e3cb1",
-  "cffb454279279535",
-  "8390ae6c93e7a4d2",
-  "0487dbdc2e844d23",
-  "02d45bf85d1d5808",
-  "0a7842e282a810ce",
-  "5f616c0eee33f451",
-  "d9a3709d0117e8c9",
-  "9eb7e1b7f3210485",
-  "2e0044e738598976",
-  "f358776720e602a4",
-  "f658b04184f26a47",
-  "2d6f7b324f3370e0",
-  "61bb6ff279f1fad4",
-  "8ee801674778ae3f",
-  "f031c7f89e128931",
-  "0f003466eee46b79",
   "4c5c68556c465dc4",
   "31c4166af500874c",
   "ec2231e7b113a428",
@@ -800,32 +764,58 @@
   "b94873063dc59f7b",
   "bf953b481e31ef26",
   "0694926ff8b5886a",
-  "ff5702964a104bb4"
+  "ff5702964a104bb4",
+  "5925e3553737ce5b",
+  "be1af3fbba78f6c2",
+  "c2baa40e39119f6a",
+  "c5e20c9a21d528e5",
+  "d6cc2d42862d91e8",
+  "fd460e524b477d4d",
+  "b2091afa4be91abc",
+  "a710f6f1f5d71034",
+  "a93294dd89f1494e",
+  "f8e1e515db90c790",
+  "71722f40c7277800",
+  "7f4ab64c79f0dc7a",
+  "b107bfa446b0c86c",
+  "2445ed7aaa178154",
+  "b720344c330e2691",
+  "1666262d1c7be93e",
+  "4fd33652fc59289e",
+  "071949deac40dc8c",
+  "03675a3104b2c9e7",
+  "2a3cfac2d4c933e6",
+  "1c0e0152d583d156",
+  "8cc5afaf0b46c641",
+  "9e7f3c8ba8a86d86",
+  "998d71a6cf5eea4d",
+  "316c25069b16be00",
+  "6c726dbcb40e762d",
+  "3c99ad8cadcdb9d2",
+  "9dfeef15e29bf6ae",
+  "9935fc63e4b048d5",
+  "e4d5be17e5c3c4d2",
+  "12b0e00047822d39",
+  "423654c25a2c789d",
+  "1e89d4f7a538811e",
+  "d5be459ee310b76d",
+  "e8994a9b417883ac",
+  "b2ca507709f4afd9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794673204.8475907,
+ "dernier_passage_actus": 1794675849.6464005,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United vise un nouveau buteur venu d'Arabie saoudite (Sport.fr)",
-   "t": 1794457633
-  },
-  {
-   "genre": "actu",
-   "resume": "Michael Olise impressionne avec 24 buts impliqués cette saison (L'Équipe)",
-   "t": 1794461535
-  },
   {
    "genre": "actu",
    "resume": "L'AS Monaco lorgne sur un indésirable du FC Barcelone (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Carlo Ancelotti tacle l arbitre après la défaite du Brésil (L'Équipe)",
    "t": 1794673506
+  },
+  {
+   "genre": "actu",
+   "resume": "Folarin Balogun s'exprime enfin sur son vrai faux départ (Foot Mercato)",
+   "t": 1794676016
+  },
+  {
+   "genre": "actu",
+   "resume": "Pas de retour de Seko Fofana au RC Lens (Homme Du Match)",
+   "t": 1794676021
   }
  ],
  "matchs": {},
