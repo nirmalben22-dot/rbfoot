@@ -1,24 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "3999cb59a17c734a",
-  "1eba18d2821db699",
-  "3cce64ff7a1ddd4f",
-  "492719781d9264c9",
-  "0ba215c9b011346a",
-  "1871a231417b2b35",
-  "375aa909c5c01383",
-  "b6cb8630c0d304aa",
-  "addeaaf41d9d4ba2",
-  "612847278efe2572",
-  "233b01efbaffc1ff",
-  "c8015d941f4d4078",
-  "b5d0df023c72df49",
-  "1e74b673ed5d24dd",
-  "3eb2f3b212984026",
-  "3b7ebbf84e46b004",
-  "f01e5998325dc669",
-  "9386012f66c72c44",
   "5d0af965f5c90990",
   "077dff88d7ff48af",
   "429d98ddf2dcf087",
@@ -800,32 +782,40 @@
   "20ced007c5345d35",
   "df1a2ff3565e4dc3",
   "543cdae9edd20ff1",
-  "314bc716619f7338"
+  "314bc716619f7338",
+  "9ee604e99a46609f",
+  "192c94154832225e",
+  "94acf659710893a6",
+  "3127bf37bf4575b8",
+  "f94114b2402559f7",
+  "1c3abe8169655733",
+  "0c6e4defc0e6b563",
+  "9718c28a17f84f11",
+  "e2cf2568c1158c4f",
+  "19edce21326db010",
+  "7625714a3b1e5281",
+  "e047776a8b4aa5fa",
+  "fd61d46720618009",
+  "b2f61eea21bc6a94",
+  "d67c6e8bf81e5f07",
+  "ac5e1ecef7fcc7ac",
+  "7de0c51e1f8a489b",
+  "b4f12f9516acd0cc"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794678116.9482586,
+ "dernier_passage_actus": 1794680384.0474925,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pierre Sage démis de ses fonctions à Crystal Palace (L'Équipe)",
-   "t": 1794489396
-  },
-  {
-   "genre": "actu",
-   "resume": "Gianni Infantino visé par une plainte aux États-Unis (RMC Sport)",
-   "t": 1794489404
-  },
   {
    "genre": "actu",
    "resume": "Michael Carrick officiellement limogé par Manchester United (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pas de discussions de prolongation entre Arsenal et Martin Odegaard (The False 9)",
    "t": 1794678187
+  },
+  {
+   "genre": "actu",
+   "resume": "Zinédine Zidane fait le point sur sa relation avec Kylian Mbappé (RMC Sport)",
+   "t": 1794680542
+  },
+  {
+   "genre": "actu",
+   "resume": "La France et l'Espagne à la lutte pour le Final 4 2027 (L'Équipe)",
+   "t": 1794680548
   }
  ],
  "matchs": {},
