@@ -1,24 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4c5c68556c465dc4",
-  "31c4166af500874c",
-  "ec2231e7b113a428",
-  "29cb1ac5f4d7eb5b",
-  "798a6aadbc3f34fd",
-  "c119ef4fa9666438",
-  "611a72e644918526",
-  "7d985b71b24077b0",
-  "97a8cdee370c5a9f",
-  "5c0d67537b537a9b",
-  "0a3997decaef5730",
-  "fa02ca5334480a2e",
-  "6a3e24d4db10f747",
-  "a87b42a92ac73ddd",
-  "da73c8327a585478",
-  "3e8a258a1bfffeb5",
-  "0690aaa0c55c107d",
-  "1b9ae0b764e7f425",
   "3999cb59a17c734a",
   "1eba18d2821db699",
   "3cce64ff7a1ddd4f",
@@ -800,27 +782,40 @@
   "1e89d4f7a538811e",
   "d5be459ee310b76d",
   "e8994a9b417883ac",
-  "b2ca507709f4afd9"
+  "b2ca507709f4afd9",
+  "8d4164865301d713",
+  "c469a727929db9e8",
+  "e1ccae2b55fbe4f0",
+  "9f43cbda7145a5b7",
+  "1eaad6fbac24230b",
+  "65b22ff9f075755b",
+  "ceff99084d073b2a",
+  "b7dd01aa26318956",
+  "393089010cfac508",
+  "c95afb9613ab0a43",
+  "79a206139ed5c1cc",
+  "51c4e7569479566f",
+  "245f6dfbf3ee211e",
+  "c35f63f1dfe757c9",
+  "20ced007c5345d35",
+  "df1a2ff3565e4dc3",
+  "543cdae9edd20ff1",
+  "314bc716619f7338"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 18
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794675849.6464005,
+ "dernier_passage_actus": 1794678116.9482586,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L'AS Monaco lorgne sur un indésirable du FC Barcelone (Foot Mercato)",
-   "t": 1794484945
-  },
   {
    "genre": "actu",
    "resume": "Pierre Sage démis de ses fonctions à Crystal Palace (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Pas de retour de Seko Fofana au RC Lens (Homme Du Match)",
    "t": 1794676021
+  },
+  {
+   "genre": "actu",
+   "resume": "Pas de discussions de prolongation entre Arsenal et Martin Odegaard (The False 9)",
+   "t": 1794678187
   }
  ],
  "matchs": {},
