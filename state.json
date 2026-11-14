@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e17cb358a5aa36af",
-  "d19e8fc513137c3b",
-  "d8829089556f5946",
-  "957cc3b4068d1123",
-  "d9907772c71744c2",
-  "0c4814b8264ab322",
-  "958d93cf8b172fd2",
-  "90bafa25f1b7b509",
-  "80703e68c6f56167",
-  "4d419a08c1693289",
-  "e708472d3fee25ea",
-  "822a36312405e38d",
-  "1233542cdae6948e",
   "c233fe42eb0d1359",
   "e1b19517d4a7a6c5",
   "9c7ce462a3101f7d",
@@ -800,32 +787,35 @@
   "640311bf6dda8854",
   "71e2ab617001ace2",
   "87778b7d2b259ac5",
-  "a6775fc098ec9893"
+  "a6775fc098ec9893",
+  "51e15a69b0db0167",
+  "2aed6270a6a04317",
+  "2b34bafe848c22e2",
+  "175aabd01ddf2cfc",
+  "49b8f64e527bea9b",
+  "adf27cd3eee892db",
+  "6df1f616bf0233e6",
+  "a5cfc9e60c639580",
+  "58bc7cfc7991f60d",
+  "b94873063dc59f7b",
+  "bf953b481e31ef26",
+  "0694926ff8b5886a",
+  "ff5702964a104bb4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794670705.005357,
+ "dernier_passage_actus": 1794673204.8475907,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United s'intéresse à une pépite du Stade Rennais (Sport.fr)",
-   "t": 1794450392
-  },
-  {
-   "genre": "actu",
-   "resume": "Chelsea cible plusieurs pépites de Premier League (Sport.fr)",
-   "t": 1794453728
-  },
   {
    "genre": "actu",
    "resume": "Manchester United vise un nouveau buteur venu d'Arabie saoudite (Sport.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Raphinha fustige l arbitrage apres son expulsion avec le Bresil (Foot Mercato)",
    "t": 1794670785
+  },
+  {
+   "genre": "actu",
+   "resume": "Didier Drogba monte au créneau pour Kylian Mbappé (RMC Sport)",
+   "t": 1794673500
+  },
+  {
+   "genre": "actu",
+   "resume": "Carlo Ancelotti tacle l arbitre après la défaite du Brésil (L'Équipe)",
+   "t": 1794673506
   }
  ],
  "matchs": {},
