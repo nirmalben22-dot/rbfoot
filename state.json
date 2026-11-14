@@ -1,22 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1260c116a2a3d0f5",
-  "e70d09d6eaa4de06",
-  "051f5af7a786d562",
-  "8aac0b9a9b26e6a9",
-  "6131d7f7b210a10d",
-  "e4f658e4d9b9d560",
-  "c948bacdeccc7199",
-  "d04921c23caf6480",
-  "5c0e6695edd41677",
-  "fa5107f90e824381",
-  "60f77450e1b2c061",
-  "2fc4d288cb96c918",
-  "515010ebb33fdaee",
-  "36f4404a600f775a",
-  "d471bb1a86912d9c",
-  "3dc2ce10a92a2424",
   "1eb3d49149e81715",
   "c3a35d9fc00fc0da",
   "448b66ead7e84c7e",
@@ -800,27 +784,38 @@
   "3e964522a4e7a2b3",
   "643a382153c4e6e7",
   "3fcb579ea7ae058b",
-  "8bdaee99235ad2f1"
+  "8bdaee99235ad2f1",
+  "c6cb94a64df5f233",
+  "a5e9b0c6b1546aa7",
+  "4267bf35adcda940",
+  "83f61590ff0fee14",
+  "a2b9232e7194549c",
+  "e747114f6f4f6df8",
+  "86172e620f3d6b47",
+  "93085e00aeea1c51",
+  "aa50916394afa7ef",
+  "5c484898279a36f8",
+  "b51d1f25f426d65f",
+  "db3f3339a8282a7e",
+  "58d3fa041386c78a",
+  "27cbabcd06efa461",
+  "e8cd46b07cfcfa86",
+  "8e0e9cbd63d37ee3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 24
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 24
+   "n": 25
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794686247.7104638,
+ "dernier_passage_actus": 1794688655.0851269,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pierre Sage négocie déjà son retour sur le banc de Lens (RMC Sport)",
-   "t": 1794497391
-  },
   {
    "genre": "actu",
    "resume": "Thierry Henry dévoile sa méthode folle pour analyser les matchs (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Zinédine Zidane monte au créneau pour défendre son équipe (Foot Mercato)",
    "t": 1794686369
+  },
+  {
+   "genre": "actu",
+   "resume": "Un hommage vibrant rendu à Cristiano Ronaldo au Portugal (L'Équipe)",
+   "t": 1794688799
   }
  ],
  "matchs": {},
