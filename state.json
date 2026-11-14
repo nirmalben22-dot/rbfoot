@@ -1,20 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "06d5a89f90cd871d",
-  "ef5d05d7b7f3b448",
-  "0c9c8fed04f7899c",
-  "c9cac2ac685d2304",
-  "b27fb33e81e0325d",
-  "54b050a782052a70",
-  "290d1f3c380ab12f",
-  "79c9453f668496a7",
-  "6b83486eb8984b13",
-  "8d82c2d6fa9bb891",
-  "07da541f65de7abf",
-  "128211cac1c99ba8",
-  "cd20bf2d21562051",
-  "8a084c7b8e94a212",
   "9c4e4eeec51a2be5",
   "8c61d99e113538e7",
   "1d82ebf68d8259ab",
@@ -800,27 +786,36 @@
   "fe8b5ae8743ed11b",
   "0ad58ef301d107a2",
   "76ab9f73c12e537f",
-  "af58f01a6a4245e0"
+  "af58f01a6a4245e0",
+  "27b7a1d8c66e4641",
+  "39fb4ec339226afe",
+  "ff053773cb5fe9b9",
+  "4feaee5c718c9ee0",
+  "fd1f999e80de8260",
+  "32f99c805d8b6b52",
+  "954decc0ac15feb6",
+  "bfda245826816b3b",
+  "3323501e17d80567",
+  "1e22eef8c1461c1c",
+  "003df3a8052bd3bf",
+  "6c1f1cc233c1bce6",
+  "a3735a109e7fb330",
+  "a291dabfb955f90a"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-13",
-   "n": 25
+   "jour": "2026-11-14",
+   "n": 1
   },
   "appels_api_football": {
-   "jour": "2026-11-13",
-   "n": 25
+   "jour": "2026-11-14",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794613823.5587146,
+ "dernier_passage_actus": 1794616541.3807416,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Accord verbal entre Manchester United et Mauricio Pochettino (Foot Mercato)",
-   "t": 1794416306
-  },
   {
    "genre": "actu",
    "resume": "Cédric Bakambu quitte son club et dépose plainte (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Un ancien directeur sportif du Milan s'en prend à Rafael Leão (Record)",
    "t": 1794613987
+  },
+  {
+   "genre": "actu",
+   "resume": "Un ancien attaquant d Arsenal veut rejoindre Manchester United (Lente Desportiva)",
+   "t": 1794616685
   }
  ],
  "matchs": {},
