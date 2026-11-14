@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9c4e4eeec51a2be5",
-  "8c61d99e113538e7",
-  "1d82ebf68d8259ab",
-  "8455e5481d73c014",
-  "761b313270cefe12",
-  "6882d8d1af9d3e08",
-  "116db57a3252d3f0",
-  "cfcdc92200823f6d",
-  "53a4899e06a010d6",
-  "c4068e49d48b709a",
-  "8ae7e673faea0d12",
-  "95c9c1d44b180789",
-  "47c7e0f92ba3f137",
   "a91f41adfffff6e7",
   "00071a06281a246b",
   "9588eda4e0e60631",
@@ -800,32 +787,35 @@
   "003df3a8052bd3bf",
   "6c1f1cc233c1bce6",
   "a3735a109e7fb330",
-  "a291dabfb955f90a"
+  "a291dabfb955f90a",
+  "50dac13ce29c8495",
+  "256462f7e73853c2",
+  "c8634cb04e7802ec",
+  "22b53e5d51e3ee29",
+  "b2c07dad70f39260",
+  "c2baa0b073f509cd",
+  "91348d81e6b7c4a7",
+  "9b86661b46e2c50a",
+  "7c11d08066997888",
+  "709a140de8b0398d",
+  "9452fa58fe5a7484",
+  "3fca450da6e8b449",
+  "9af398c704cbf9e3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 1
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794616541.3807416,
+ "dernier_passage_actus": 1794620760.445436,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Cédric Bakambu quitte son club et dépose plainte (RMC Sport)",
-   "t": 1794419650
-  },
-  {
-   "genre": "actu",
-   "resume": "Robert Sanchez indemne après un crash en Ferrari (L'Équipe)",
-   "t": 1794419654
-  },
   {
    "genre": "actu",
    "resume": "Sepp Blatter qualifie Gianni Infantino de dictateur (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Un ancien attaquant d Arsenal veut rejoindre Manchester United (Lente Desportiva)",
    "t": 1794616685
+  },
+  {
+   "genre": "actu",
+   "resume": "Roberto De Zerbi sacré entraîneur du mois d octobre en Premier League (Premier League)",
+   "t": 1794620900
+  },
+  {
+   "genre": "actu",
+   "resume": "Roberto Martínez émerge comme candidat pour entraîner l Arabie Saoudite (Tribuna.com)",
+   "t": 1794620904
   }
  ],
  "matchs": {},
