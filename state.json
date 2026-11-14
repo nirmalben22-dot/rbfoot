@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0ee6a9f9c443febb",
-  "96a2a91d2cea6934",
-  "e6a2493471a07485",
-  "31c0b450c15422fd",
-  "f1b58c33c7473cf5",
-  "1ce760db5357eb28",
-  "79a7d59af106739a",
-  "451c3144376023d1",
-  "c408a52ff2983df2",
-  "2126d64688efe83e",
-  "5bbda434aa0f91ea",
-  "cfe959bff606cc1a",
-  "9ba2b9ee0834a6af",
-  "6dfce20dd1552d46",
-  "1ac2334c2b9fa7ce",
-  "b1c6b876c7eefc20",
-  "b02b1bba79541222",
-  "2057f0134b78c69b",
-  "ae817f455b85cd30",
-  "47da67df951e414a",
-  "7036c6ddb784bf88",
-  "6e3a1028f5d6417e",
-  "92f195f69e83d21e",
-  "91381d184f717147",
-  "7de6be1ef0bf71a3",
-  "9d84181b6003ee02",
-  "ebb06a53a30caa4e",
-  "084e063f9b61a3fd",
-  "711ffe1bef37dd93",
-  "34d2011ea167f0b2",
-  "059cb131cba96e39",
-  "37354579189f701e",
   "6421212cff20a1db",
   "b08958f6e4becb41",
   "0a1bdac48f90e073",
@@ -800,32 +768,54 @@
   "fc4566055d9e4318",
   "2174803d86752161",
   "f2595ccdf953fe55",
-  "811b1bab349f78b1"
+  "811b1bab349f78b1",
+  "651e431dad943750",
+  "aebc666acd1f7303",
+  "f6f0aeb2fe53adc4",
+  "7de9524059245d56",
+  "a358e840990e53b4",
+  "e495994af6f9cbeb",
+  "bf7dde774ac4362d",
+  "a5a16a001fa17112",
+  "25b3d8e721592856",
+  "104a031bcd6d31ad",
+  "78357c5c69bfda71",
+  "4e0b0bf668bb151d",
+  "dc728f83214a7cda",
+  "624aa90f859af2bc",
+  "957f93ff6ef90cc9",
+  "c9a513a2f3e28ab9",
+  "ff17e63375b34195",
+  "eb2edf3221fc56e4",
+  "98bb9149abe436e4",
+  "cae2f65a4566c5b8",
+  "31d0c25bfe4e7a0d",
+  "a080d44cc0082052",
+  "b8e23052363e4d38",
+  "5c04c138f0e780bb",
+  "3442ab36d4648b7e",
+  "faaa46b8dd5bb6d6",
+  "b5308d13fadb5661",
+  "80afc6b17f76d0f7",
+  "a4772bd7f13acc98",
+  "fc75faa127303524",
+  "40ea6c11ff489000",
+  "37ffc04c42667d9e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 7
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794658715.7821486,
+ "dernier_passage_actus": 1794662422.3370826,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Paul Scholes annonce le prochain club d'Erling Haaland (Foot Mercato)",
-   "t": 1794431821
-  },
-  {
-   "genre": "actu",
-   "resume": "Pep Guardiola ciblé par la sélection des États-Unis (L'Équipe)",
-   "t": 1794439194
-  },
   {
    "genre": "actu",
    "resume": "Les États-Unis renoncent à la Coupe du monde U17 (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Ibrahim Maza tout proche de prolonger au Bayer Leverkusen (Foot-Africa.com)",
    "t": 1794658856
+  },
+  {
+   "genre": "actu",
+   "resume": "De la D2 congolaise à la Premier League, l improbable ascension de Jules Ahoka (Foot Mercato)",
+   "t": 1794662498
+  },
+  {
+   "genre": "actu",
+   "resume": "Thomas Tuchel rappelle le protocole antiraciste avant le choc face à l Espagne (RMC Sport)",
+   "t": 1794662503
   }
  ],
  "matchs": {},
