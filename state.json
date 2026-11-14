@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "574e22b141f46045",
-  "623fd74ecca1fee2",
-  "4a822188745834b8",
-  "d4ba2199c29f38d2",
-  "44b7ce4fbaf139c4",
-  "8307fff12f65e8d3",
   "447e261f56c6b3dc",
   "7da7316280b160b2",
   "654be2028dcd1069",
@@ -800,27 +794,28 @@
   "97297539fe6e1b1b",
   "d9a5104ce77a8c1c",
   "e4faeb4fe02b23e8",
-  "4660e6bd9f0c71c5"
+  "4660e6bd9f0c71c5",
+  "4ac9e6d57308743d",
+  "dae858b512eae453",
+  "bbbf6a6e72e731f4",
+  "e957998fc8481ec4",
+  "e33ad1eb1207b35c",
+  "fa851658ce2443df"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794626884.8119318,
+ "dernier_passage_actus": 1794630512.433116,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Valérien Ismaël en passe de devenir entraîneur du Havre (L'Équipe)",
-   "t": 1794422976
-  },
   {
    "genre": "actu",
    "resume": "Kylian Mbappé forfait pour le choc face à l'Italie (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Endrick prépare son départ du Real Madrid dès janvier (superlider.mx)",
    "t": 1794623670
+  },
+  {
+   "genre": "actu",
+   "resume": "Barça et Real Madrid à la lutte pour Niko Ilicevic (Sport.fr)",
+   "t": 1794630655
   }
  ],
  "matchs": {},
