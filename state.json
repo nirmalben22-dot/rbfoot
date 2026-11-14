@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4ea03798599ca58c",
-  "9f5cbcace394098a",
-  "fcde02aea6b4ad9c",
-  "9f3497544c5d6523",
-  "f7b188a155cb8edb",
-  "aa2443f7d0f2ed53",
-  "d28409b5a04d0597",
-  "1eef26c80c9663cb",
-  "72a8a00ec9751d5d",
-  "38833adfaf64cd74",
-  "648c88d9abc3a7ec",
-  "faf6936791f491fc",
-  "8015f10e6fe7a9c8",
-  "0e425b46c8bfd072",
-  "d45b503d21b25ed0",
   "ef642fa7e3ebbb3c",
   "0860ab1715f143a2",
   "41e079490674222a",
@@ -800,27 +785,37 @@
   "752f79c82e20e508",
   "780e7cfc4b59cc44",
   "d0ed23f7a371e9a6",
-  "49eade1730164e12"
+  "49eade1730164e12",
+  "1680721ac1c9cc52",
+  "d0819fa8f8e63b93",
+  "687968943eaaa1ae",
+  "ba90cf966c16f2d3",
+  "423d267a0a17d231",
+  "79000e8b25515f69",
+  "a0af8882d2eed1c5",
+  "590deb5e1111bc42",
+  "faaf0dbae5890e2d",
+  "fa2682d27d6c61cf",
+  "5962f1b7454ef18f",
+  "6da666bfab8f3510",
+  "47f3d3e9756a7e59",
+  "c3e53b5db81e1b4e",
+  "64cd391cbfbdad69"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 11
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794665568.5948126,
+ "dernier_passage_actus": 1794668286.2426584,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Michael Olise appelait Thierry Henry tous les jours pour faire les JO (L'Équipe)",
-   "t": 1794446430
-  },
   {
    "genre": "actu",
    "resume": "Le Real Madrid en approche pour une pépite de 16 ans (Sport.fr)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Medhi Benatia s'exprime sur la finale de la CAN 2025 (RMC Sport)",
    "t": 1794665734
+  },
+  {
+   "genre": "actu",
+   "resume": "Frenkie de Jong forfait pour le choc face à l'Allemagne (Foot Mercato)",
+   "t": 1794668344
   }
  ],
  "matchs": {},
