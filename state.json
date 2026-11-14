@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a91f41adfffff6e7",
-  "00071a06281a246b",
-  "9588eda4e0e60631",
-  "e3985aee831fbe57",
-  "a7142791593de32a",
-  "51b5e836c36b5b86",
   "71b32c18257da8d0",
   "75c9d85404d86fab",
   "4c3dc51e304860b1",
@@ -800,27 +794,28 @@
   "709a140de8b0398d",
   "9452fa58fe5a7484",
   "3fca450da6e8b449",
-  "9af398c704cbf9e3"
+  "9af398c704cbf9e3",
+  "b91c2fc0d263bcd5",
+  "cfcdc92200823f6d",
+  "0a63bb0756decfb6",
+  "64b15554ee034fe9",
+  "8c61d99e113538e7",
+  "03b228c9715417f9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-14",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-14",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794620760.445436,
+ "dernier_passage_actus": 1794623616.698793,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Sepp Blatter qualifie Gianni Infantino de dictateur (L'Équipe)",
-   "t": 1794422971
-  },
   {
    "genre": "actu",
    "resume": "Valérien Ismaël en passe de devenir entraîneur du Havre (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Roberto Martínez émerge comme candidat pour entraîner l Arabie Saoudite (Tribuna.com)",
    "t": 1794620904
+  },
+  {
+   "genre": "actu",
+   "resume": "Endrick prépare son départ du Real Madrid dès janvier (superlider.mx)",
+   "t": 1794623670
   }
  ],
  "matchs": {},
