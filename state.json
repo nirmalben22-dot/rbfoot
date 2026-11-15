@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "31a3a36ab6229978",
-  "24568601f121cab7",
-  "24ebb94b86b3303d",
-  "781546d6e91bdc13",
-  "bf417e7a0816e9f4",
-  "48ef4ea90b3f57eb",
   "a82d528b11aa46fe",
   "be4125e2e408b9b3",
   "e4929d243147de9b",
@@ -800,27 +794,28 @@
   "d8acec2d61f5dec8",
   "c8790c3610364568",
   "084e063f9b61a3fd",
-  "7ca102443b6ba0e8"
+  "7ca102443b6ba0e8",
+  "b56af29662f6f6a4",
+  "5e206f0225fb3e5a",
+  "0946670d36890387",
+  "a7dea947c9fe0f27",
+  "56590c5aa61dc1ee",
+  "9a38886152ae5326"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794704276.2288032,
+ "dernier_passage_actus": 1794708243.6853886,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pierre Sage proche d'un retour sur le banc du RC Lens (Tribuna.com)",
-   "t": 1794504820
-  },
   {
    "genre": "actu",
    "resume": "La descente aux enfers de l'ancien buteur Mario Jardel (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "La sortie ironique de Jorge Jesus sur Cristiano Ronaldo (L'Équipe)",
    "t": 1794704426
+  },
+  {
+   "genre": "actu",
+   "resume": "Bernardo Silva quitte la sélection portugaise sur blessure (Record)",
+   "t": 1794708388
   }
  ],
  "matchs": {},
