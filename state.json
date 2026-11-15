@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c23e7bc093974a45",
-  "09bb65577d501d78",
-  "c157315a9b7d5d41",
-  "5cf1e3d98b0e6f21",
-  "08f134c8b7d4a13d",
-  "2e0af4344da8f627",
-  "90a7d72ad98746ab",
   "fc4566055d9e4318",
   "2174803d86752161",
   "f2595ccdf953fe55",
@@ -800,27 +793,29 @@
   "eb9d209e426e61b2",
   "f55a143d354ce06b",
   "78d7c52f60dc0273",
-  "6b9b4b67c7ec2755"
+  "6b9b4b67c7ec2755",
+  "d7b4fdd6dc2f2eb3",
+  "d28409b5a04d0597",
+  "934330d1859ae2a6",
+  "eb73af2d8f63fe32",
+  "8f9088cd6ed0d535",
+  "4dd6a6d5374115f0",
+  "29edd6d856258802"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 24
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 24
+   "n": 25
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794773709.1577225,
+ "dernier_passage_actus": 1794776298.775161,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "L appel de Manchester City examiné mi décembre (L'Équipe)",
-   "t": 1794598797
-  },
   {
    "genre": "actu",
    "resume": "Ronaldinho de retour sur les terrains à 46 ans (BBC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Joseph Oughourlian dément les tensions internes au RC Lens (Foot Mercato)",
    "t": 1794773775
+  },
+  {
+   "genre": "actu",
+   "resume": "Mike Maignan sort sur blessure avec l'équipe de France (Foot Mercato)",
+   "t": 1794776564
   }
  ],
  "matchs": {},
