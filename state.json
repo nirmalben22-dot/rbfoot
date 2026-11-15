@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "88333639b5639e18",
-  "bc8e2ec3c513686c",
-  "057eabcfab10bb45",
-  "574a5c8ccf19a7f3",
-  "eaa4ce14ff288b2c",
-  "b3d1bf9c7c789693",
-  "1761dc52d0338b9e",
-  "69a2f62d0d7db607",
-  "9e8c39e81d6d4393",
-  "ba0cd5034a7388b2",
-  "fd0547f35e08c6b5",
-  "6c27454fa1712a1c",
-  "7a8e675f947406f3",
-  "a8f7a8c0c84caa27",
-  "316252f3b3d836e4",
-  "40c28a8a5021db56",
-  "fe292ef1729d2431",
-  "7fc478f045378607",
-  "5eaa103357e5963c",
-  "411890c2059a1020",
-  "c11f92eb3b3fee15",
-  "5074c9ba5dc59656",
-  "41c70af262598422",
-  "a8dd850ee3bf99ba",
-  "b6b8ab76f3d515aa",
-  "44a25745d3b8c1fe",
-  "85d88da00a8df8f9",
-  "999148f81824ad6a",
-  "bc80563d10e6afde",
-  "3a87deda40589175",
   "78bdda27dfd4a370",
   "e029069217185b9b",
   "faa8c907ef224c8a",
@@ -800,32 +770,52 @@
   "486ef8a14984ae0d",
   "ea2cfecb4b51e00c",
   "f8338bd465ade3ed",
-  "7d289d8d5f36ec29"
+  "7d289d8d5f36ec29",
+  "a35b2bba92084652",
+  "b74ff299fce50827",
+  "e08808a9dc29a3fa",
+  "cc6b0f3db9c8cd45",
+  "77145fe1d517117e",
+  "8e92dbdc2aa41e16",
+  "ac7b090c63e99dc3",
+  "c863639fd83efe36",
+  "60ac63c4f9c221f7",
+  "8c72ee16f3940c34",
+  "63887365776354e0",
+  "a0d9534a90ae6d33",
+  "573bd9f6e11fea00",
+  "5a93acabba7510f3",
+  "2fe4695787ff7c37",
+  "e736c561a5bf2761",
+  "9734861f91a85050",
+  "491c1a4fabc49a82",
+  "d5f890fa30508651",
+  "882832625a1ede4c",
+  "4bfdfbd224837d97",
+  "2159c9559ca1cba1",
+  "7798223c75f1ffff",
+  "6bdbd85478d184e2",
+  "5ccf667a11151825",
+  "8310de85005eba3a",
+  "224b36851eb6eaf9",
+  "28c7f735ce4b9ab9",
+  "f227dec8155d5392",
+  "5d379158617b0884"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 6
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794746244.3581927,
+ "dernier_passage_actus": 1794749817.2220478,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Lionel Scaloni prolonge son aventure avec l'Argentine (Foot Mercato)",
-   "t": 1794511976
-  },
-  {
-   "genre": "actu",
-   "resume": "Le PSG perturbe les plans de Benfica pour Gianluca Prestianni (Foot Mercato)",
-   "t": 1794511981
-  },
   {
    "genre": "actu",
    "resume": "Manchester United et Manchester City s'affrontent pour Malo Gusto (BBC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Jean Christophe Bahebeck se confie sur son épuisement mental (RMC Sport)",
    "t": 1794746300
+  },
+  {
+   "genre": "actu",
+   "resume": "Le maire de Marseille s en prend a Frank McCourt (RMC Sport)",
+   "t": 1794749957
+  },
+  {
+   "genre": "actu",
+   "resume": "Deux forfaits confirmés dans les rangs de l Algerie (Foot Mercato)",
+   "t": 1794749963
   }
  ],
  "matchs": {},
