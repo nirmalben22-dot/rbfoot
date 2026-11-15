@@ -1,24 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2a2401aa2d8bd3ec",
-  "530a71f7707f5db5",
-  "ec747280febae423",
-  "6393fdfa4b0d358a",
-  "03c33139613bff81",
-  "cc049dfa3fb533da",
-  "7c1226d29617c2a9",
-  "b7a7aad45c75f80c",
-  "79d743df4d8c7ea4",
-  "c3d270f6c59a5880",
-  "4f1ee5294a055cc7",
-  "f45c7450e5e7c550",
-  "b34caa6f9c6fc6f6",
-  "7d917df62e27af1a",
-  "e46767ab21d10603",
-  "6a3f92f4809204da",
-  "922a394773a36899",
-  "fd5a20cc2ffce47a",
   "7e99d5d68d43a710",
   "3a29b82f46908176",
   "66d370b158ee054e",
@@ -800,27 +782,40 @@
   "176e6db35896e585",
   "0eec0298e1852b82",
   "f0beb8d9430ab56b",
-  "c49e12de1b8e5d79"
+  "c49e12de1b8e5d79",
+  "1d725a89b6ea1b26",
+  "f22911e573a2a0bb",
+  "aaf07f95627aa83e",
+  "b18a1f6df5d1c9bc",
+  "40f356fd659d1ff7",
+  "4669dca7fe976330",
+  "59e6a1c6e9e221ba",
+  "0a0d4b1a194ed4db",
+  "5471de8bfcf4cabb",
+  "7086189093953e78",
+  "006cd6862c5118bd",
+  "ee8158a8c81eb67c",
+  "9fa6631921f5fe2b",
+  "1bbb11b13836e6ac",
+  "098be5d55e669c84",
+  "d9605efbcef9a6a1",
+  "2d334b016402b317",
+  "4dcb8fbaabf023d9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 10
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794752803.338942,
+ "dernier_passage_actus": 1794755725.0718057,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Mauricio Pochettino nouvel entraîneur de Manchester United (Sky Sports)",
-   "t": 1794530092
-  },
   {
    "genre": "actu",
    "resume": "Grosse frayeur pour Désiré Doué avec les Bleus (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Polemique sur les recettes en Coupe de France (RMC Sport)",
    "t": 1794752952
+  },
+  {
+   "genre": "actu",
+   "resume": "Medhi Benatia dézingue les cadres et le centre de formation de l'OM (RMC Sport)",
+   "t": 1794755776
   }
  ],
  "matchs": {},
