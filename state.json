@@ -1,30 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "64b15554ee034fe9",
-  "8c61d99e113538e7",
-  "03b228c9715417f9",
-  "a349aeafdcd683f5",
-  "be7a1bc230435258",
-  "97297539fe6e1b1b",
-  "d9a5104ce77a8c1c",
-  "e4faeb4fe02b23e8",
-  "4660e6bd9f0c71c5",
-  "4ac9e6d57308743d",
-  "dae858b512eae453",
-  "bbbf6a6e72e731f4",
-  "e957998fc8481ec4",
-  "e33ad1eb1207b35c",
-  "fa851658ce2443df",
-  "b34288c957d50da9",
-  "bf02846fb64a214a",
-  "f3973df4955490e4",
-  "7ecf4b52e2eb63b3",
-  "00ce6ff92f8f38e8",
-  "f63e626714620075",
-  "f67c7d7046cda5b6",
-  "0fd7eccedfbfe4a8",
-  "78d35676a2f195f8",
   "3f6b3d400876cf57",
   "970f12901201c2ee",
   "72c881ed1b02d320",
@@ -800,27 +776,46 @@
   "4d4f8e2491f597ec",
   "4ed72e6b9a53ffaa",
   "4186786eace8ca80",
-  "d1698129cec509a1"
+  "d1698129cec509a1",
+  "6fab1aa1291d48eb",
+  "aa997e5b0bf8b13f",
+  "7f193afd7f0de2a6",
+  "88e2b7d8e9528e0a",
+  "a9433be874cb0572",
+  "8909c48ac9901b5b",
+  "bd642ed5e7a27180",
+  "803cea47710e3b75",
+  "c591a095a6c08a5d",
+  "d4d0f5b295cb36e0",
+  "88a9730c67cd6ed9",
+  "ee4780eecf4313eb",
+  "07361fbd3d96d4dd",
+  "a7e4e7769a307f1d",
+  "2568fb10782387a2",
+  "26afa0b310d1911f",
+  "eb26ce718734fb5a",
+  "f1cffd259d997b17",
+  "9f9b414168e774ab",
+  "6914082c2ee2b184",
+  "4717ce80ff409c06",
+  "c890715c86e1f960",
+  "97b7e53472ed9c88",
+  "923accb06122362e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 15
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794760971.2040074,
+ "dernier_passage_actus": 1794763350.6659467,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le FC Barcelone obtient 300 millions d euros pour le Camp Nou (Foot Mercato)",
-   "t": 1794574881
-  },
   {
    "genre": "actu",
    "resume": "Le sélectionneur de l Égypte viré après une folle histoire (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Latif Issman débarque au Real Madrid (Real France)",
    "t": 1794761032
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea prépare une offre XXL pour Jules Koundé (Blaugranas.fr)",
+   "t": 1794763405
   }
  ],
  "matchs": {},
