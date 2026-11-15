@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bae15900ec317ddf",
-  "7c9c258d8e76e4d9",
-  "bc80aeaf8db30adb",
-  "473cce28375fb9b6",
-  "c5b53baf36177e28",
-  "17379429da0324fe",
-  "9cc0b0d8cc7abad9",
-  "568d085242b90550",
-  "457bb81fad6c2c93",
-  "e5029a860a3237ca",
-  "4566995b7789a01e",
-  "eeec935f75ab8dff",
-  "48ac259575667927",
-  "b5fb2b2e4f31f26e",
-  "db89a5624134bf24",
-  "15aafb24a5f2d1f3",
-  "1b23c4334acf12fe",
-  "b130c04259bdfd29",
-  "65687977ee4f488e",
-  "bdc517e17e7786af",
-  "bfc8f74bfa006ebf",
-  "fb5bd2e5f1f63aee",
-  "a3b2b289f0d2b347",
-  "38c98c826efe6231",
-  "3757b41d9aede979",
-  "2224c9d971c68fff",
-  "db6f86396d0dd4cc",
-  "60c4645c007bc60b",
-  "7a2dc68f3a34fc91",
-  "2ba2b26e87d11b8a",
   "edda3d0893957a8b",
   "8dd1fc1817efdefe",
   "21f8098ae12416ad",
@@ -800,32 +770,52 @@
   "af3b5b83144043be",
   "80b61d717cd74e87",
   "8c61d99e113538e7",
-  "cb01745234ead9a3"
+  "cb01745234ead9a3",
+  "0195434682cb1d78",
+  "0755c66fabb4b5c2",
+  "5aeeb2894bfbdabf",
+  "3f6de4103a8690f4",
+  "5cfb98626c31546e",
+  "01a62fd1730e9a8c",
+  "f975af37d0312da8",
+  "bd3a9ec246caf0c6",
+  "7bbfa40e4f0aecc6",
+  "be0f99e7d80e2881",
+  "88a50dcc7cf18e23",
+  "3e3d6f046f23e4ca",
+  "60d63e950913f8a7",
+  "6949e782dbc134b9",
+  "a41fa94318ec33fa",
+  "a460b12a50cabc7f",
+  "bcee3f8fcf43a3a0",
+  "306a0a0a3ba5e813",
+  "8a04cee67703f28f",
+  "fdb5ea219af5dc87",
+  "97ec77d2b0b0e322",
+  "6f8f6f18c33773a8",
+  "5cc7069b29f7089b",
+  "3be1e7b32a4aaa5b",
+  "2b62e8f92e1c63b1",
+  "e4bbb2881c6cb462",
+  "726f2bddeacdd0c1",
+  "19c726dca48fa972",
+  "9287c04ae371bf80",
+  "27c6933797fc7308"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794765720.0264883,
+ "dernier_passage_actus": 1794768482.9152753,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Tensions en Guinée avec Ilaix Moriba accusé de chantage (RMC Sport)",
-   "t": 1794582841
-  },
-  {
-   "genre": "actu",
-   "resume": "Le rachat des Girondins de Bordeaux officiellement validé par la justice (RMC Sport)",
-   "t": 1794582846
-  },
   {
    "genre": "actu",
    "resume": "Medhi Benatia règle ses comptes avec Pablo Longoria (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Ronaldinho de retour pour un match professionnel officiel (Walfoot.be)",
    "t": 1794765781
+  },
+  {
+   "genre": "actu",
+   "resume": "Haaland réagit avec ironie au scandale financier de Manchester City (RMC Sport)",
+   "t": 1794768623
+  },
+  {
+   "genre": "actu",
+   "resume": "Le maire de Madrid refuse de voir la finale de la Coupe du monde 2030 au Maroc (RMC Sport)",
+   "t": 1794768629
   }
  ],
  "matchs": {},
