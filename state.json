@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "edda3d0893957a8b",
-  "8dd1fc1817efdefe",
-  "21f8098ae12416ad",
-  "1886038b164ca4a5",
-  "9cde474f2a924c54",
-  "6e17480591c6f740",
-  "57d1ce15d57b3f88",
-  "5ad01cd0e3e81bbb",
-  "1945e2c8910d1da3",
-  "51d023fb3c725a50",
-  "1eef5a9aee01c9bd",
-  "c709fbfb4d651470",
-  "f19cc26892c473a1",
-  "f6aade5ffd78c70e",
-  "ff5931dc80560477",
-  "dd069198d9e7bd0b",
-  "9253f870588be136",
-  "c2e82c1d38a5443c",
-  "a53a57e40ba77171",
-  "67a6f8493d1e7e07",
-  "064ba26fbacd1248",
-  "de5a2a5463c0838f",
-  "fa2537726d6099a2",
-  "d15424daa5de0967",
-  "37881efda1e164fb",
-  "a7d02d9b7fb84d84",
-  "6b3455d2977eedc9",
-  "fd1353976e3aa203",
-  "4bdfee6a8b84795c",
   "eddaa7b9471f3c2d",
   "76ac06e70e9653d0",
   "7edbeb81b1151b44",
@@ -800,32 +771,51 @@
   "726f2bddeacdd0c1",
   "19c726dca48fa972",
   "9287c04ae371bf80",
-  "27c6933797fc7308"
+  "27c6933797fc7308",
+  "0576d50e2699801c",
+  "65a00c239bb1ac66",
+  "bc2c38e1d59328e8",
+  "78d3fa778ce44e7c",
+  "94698760a5a62708",
+  "bb3212fb438138a0",
+  "ec1ed7e44d445c1f",
+  "5bc3ac8735b977e0",
+  "8a48e326d6e0515a",
+  "07c73b84e944c538",
+  "8319b246970b680f",
+  "c9023184bef02766",
+  "037797e9f2b4afe8",
+  "48aa8ecf49d193a0",
+  "22192b928f9d5e50",
+  "7662a6e55810683f",
+  "37d2f41f8827d8f2",
+  "1cc4864eefc85cbc",
+  "5661561d1ffd5923",
+  "94d536d852f6d6a3",
+  "5aa6d8ec693504ca",
+  "295a4a323c5912d0",
+  "eab54c48d79a5abb",
+  "1de2870ae8615b2e",
+  "1a8e2e7d6b957532",
+  "840d6b750658dd3c",
+  "7619bc3cf17a240b",
+  "ed6db331dcc1151d",
+  "caee13406ac9145f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 20
+   "n": 22
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794768482.9152753,
+ "dernier_passage_actus": 1794771099.8055544,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Medhi Benatia règle ses comptes avec Pablo Longoria (RMC Sport)",
-   "t": 1794589399
-  },
-  {
-   "genre": "actu",
-   "resume": "Le RC Lens s intéresse à Walid Regragui (Foot Mercato)",
-   "t": 1794589404
-  },
   {
    "genre": "actu",
    "resume": "La statistique accablante sur Gianluigi Donnarumma (Dailysports)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le maire de Madrid refuse de voir la finale de la Coupe du monde 2030 au Maroc (RMC Sport)",
    "t": 1794768629
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid boucle la signature d'un talent ghanéen (Foot-Africa.com)",
+   "t": 1794771241
+  },
+  {
+   "genre": "actu",
+   "resume": "Désiré Doué contraint au forfait avec les Bleus (L'Équipe)",
+   "t": 1794771246
   }
  ],
  "matchs": {},
