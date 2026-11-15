@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9a3709166ada49aa",
-  "b5eb478dc5e1060f",
-  "0fbbfb0ac284f688",
-  "baa797ce10463865",
-  "dfaafce0648e2b1c",
-  "6b12d0e542453aba",
   "041d37f59b433d1a",
   "eb9f929ebad25b74",
   "ee71f221cc1a8b7d",
@@ -800,27 +794,28 @@
   "543c6161b5e024fe",
   "b634191741a24b28",
   "6b48130168dd29e8",
-  "1d2b5230c5c0285c"
+  "1d2b5230c5c0285c",
+  "fb92a4fb17c3bb5d",
+  "7f1f73239850b9bb",
+  "41962d20fdf4805d",
+  "96e684b72acac466",
+  "1987892a8f76946d",
+  "651f7838c7c76893"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794714479.607657,
+ "dernier_passage_actus": 1794717637.5838945,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La descente aux enfers de l'ancien buteur Mario Jardel (RMC Sport)",
-   "t": 1794504826
-  },
   {
    "genre": "actu",
    "resume": "Le RC Lens se sépare de Yannick Cahuzac (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Bernardo Silva quitte la sélection portugaise sur blessure (Record)",
    "t": 1794708388
+  },
+  {
+   "genre": "actu",
+   "resume": "Mauricio Pochettino tout proche de signer à Manchester United (The New York Times)",
+   "t": 1794717780
   }
  ],
  "matchs": {},
