@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "eddaa7b9471f3c2d",
-  "76ac06e70e9653d0",
-  "7edbeb81b1151b44",
-  "62059a7a7f343ed6",
-  "d137148b0b5ff291",
-  "5d5eb6637b757d88",
-  "ec263b08004b3ab9",
-  "9fbcd7ddaa93381e",
-  "f71eaec79c7ff05c",
-  "9ae68a9afde5d5f0",
-  "84e621bd0656b8f6",
-  "3aa311e99855ce87",
-  "69b46ae97279d1f9",
-  "3a8c4c4afaa5ac86",
-  "6aa4bd347acc7b29",
-  "55a6ee3ded392d63",
-  "4d2751748466a3a4",
-  "f1151b89237dee15",
-  "37a3fbf0dd2e9aeb",
-  "53d9749ef420c78b",
-  "2db550c1b7ba8423",
-  "b669226c31a847a3",
-  "410274ef6a302124",
-  "c936f1527c0aa0b4",
-  "725acec483b0c961",
-  "3efdb3c3e5713ea5",
   "c23e7bc093974a45",
   "09bb65577d501d78",
   "c157315a9b7d5d41",
@@ -800,32 +774,48 @@
   "840d6b750658dd3c",
   "7619bc3cf17a240b",
   "ed6db331dcc1151d",
-  "caee13406ac9145f"
+  "caee13406ac9145f",
+  "c0c942443b7c760c",
+  "a5a11341a838e254",
+  "b3f0b487406e2031",
+  "d2263c9246e05ea0",
+  "babb767838aa0026",
+  "3031b650b25ffca4",
+  "e0d20b5af266d9f6",
+  "eefcc57ec15a1240",
+  "a288895b8ed24d3d",
+  "2a11582b29c63ada",
+  "467164cb0d0ba894",
+  "34185473b045f3aa",
+  "e96c8243d4618845",
+  "7a7d4dccbf677df0",
+  "1004966691fa3eb1",
+  "7b31f95da477afb1",
+  "6e499fcf48568171",
+  "a6790b3dfd9cae9d",
+  "8e43481a1bdac6f6",
+  "1565e8c15530b8eb",
+  "689d8540069f40fa",
+  "766c300f9a9fade0",
+  "eb9d209e426e61b2",
+  "f55a143d354ce06b",
+  "78d7c52f60dc0273",
+  "6b9b4b67c7ec2755"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 22
+   "n": 24
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 23
+   "n": 24
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794771099.8055544,
+ "dernier_passage_actus": 1794773709.1577225,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La statistique accablante sur Gianluigi Donnarumma (Dailysports)",
-   "t": 1794592573
-  },
-  {
-   "genre": "actu",
-   "resume": "Viktor Gyökeres refuse de quitter Arsenal (Foot Mercato)",
-   "t": 1794592578
-  },
   {
    "genre": "actu",
    "resume": "L appel de Manchester City examiné mi décembre (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Désiré Doué contraint au forfait avec les Bleus (L'Équipe)",
    "t": 1794771246
+  },
+  {
+   "genre": "actu",
+   "resume": "Un doublé historique pour la sélection de Saint Marin (L'Équipe)",
+   "t": 1794773769
+  },
+  {
+   "genre": "actu",
+   "resume": "Joseph Oughourlian dément les tensions internes au RC Lens (Foot Mercato)",
+   "t": 1794773775
   }
  ],
  "matchs": {},
