@@ -1,24 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7e99d5d68d43a710",
-  "3a29b82f46908176",
-  "66d370b158ee054e",
-  "8e7d77ff7e73e216",
-  "a6338d2a4ef3f572",
-  "be6d1684acefe563",
-  "c78570650ccd82d5",
-  "a14172a21ff64193",
-  "567bdb92cff764b9",
-  "796bd2bc91c3eaf4",
-  "5ac28de31983a55b",
-  "a51dfa3bae8fcaaa",
-  "fe8b5ae8743ed11b",
-  "0ad58ef301d107a2",
-  "76ab9f73c12e537f",
-  "af58f01a6a4245e0",
-  "27b7a1d8c66e4641",
-  "39fb4ec339226afe",
   "ff053773cb5fe9b9",
   "4feaee5c718c9ee0",
   "fd1f999e80de8260",
@@ -800,32 +782,40 @@
   "098be5d55e669c84",
   "d9605efbcef9a6a1",
   "2d334b016402b317",
-  "4dcb8fbaabf023d9"
+  "4dcb8fbaabf023d9",
+  "973cb6058a5d1e3d",
+  "7d68d276b08c2acc",
+  "cda9a3b2955c15ed",
+  "fa8e74c402469466",
+  "c4ef4d11b3ba84a9",
+  "1999ba5bce2e324b",
+  "eccd3901f1975be0",
+  "ce5ad0e34dec6a4c",
+  "1840872dd20cd0f9",
+  "24e5db062f97e927",
+  "106361d1fe51e4a7",
+  "a164a981bd6b839b",
+  "451f646fad64edee",
+  "721a035f134fa044",
+  "d8bf936de85d3ba6",
+  "8d122d5ac8d184ff",
+  "af941c44e27a8df3",
+  "83b22cafaf7b7978"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794755725.0718057,
+ "dernier_passage_actus": 1794758350.4441252,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Grosse frayeur pour Désiré Doué avec les Bleus (RMC Sport)",
-   "t": 1794530097
-  },
-  {
-   "genre": "actu",
-   "resume": "Jude Bellingham bat le record anglais de passes décisives (Tribuna.com)",
-   "t": 1794534560
-  },
   {
    "genre": "actu",
    "resume": "Pierre Sage en route pour un retour au RC Lens (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Medhi Benatia dézingue les cadres et le centre de formation de l'OM (RMC Sport)",
    "t": 1794755776
+  },
+  {
+   "genre": "actu",
+   "resume": "Luis Enrique renonce a remplacer Kvaratskhelia au PSG (Foot Sur 7)",
+   "t": 1794758495
+  },
+  {
+   "genre": "actu",
+   "resume": "Liverpool vise un transfert a 70 millions d'euros (CaughtOffside)",
+   "t": 1794758501
   }
  ],
  "matchs": {},
