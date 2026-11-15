@@ -1,30 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "3f6b3d400876cf57",
-  "970f12901201c2ee",
-  "72c881ed1b02d320",
-  "661b625c10438a29",
-  "e686989c7327c68b",
-  "31853a6c72a60da6",
-  "5d291b6a72408f9e",
-  "1a1f01610f376cfd",
-  "ec7d3bb7fdbae5bc",
-  "4db2296450eff11f",
-  "84f7897112eb60ab",
-  "dcd3a089e6988fb2",
-  "81755f66aeb541b4",
-  "937a7b02ef470314",
-  "ff487d4e7fa52d7b",
-  "f53c4d6516434059",
-  "eac3a6f17152204d",
-  "07ae63475cc4fad7",
-  "3f6de4103a8690f4",
-  "5d3a96d68bc317e0",
-  "92c52c818ec71de0",
-  "89fa2979f1c496f0",
-  "00d6150a69bb271c",
-  "f382049a06886af0",
   "bae15900ec317ddf",
   "7c9c258d8e76e4d9",
   "bc80aeaf8db30adb",
@@ -800,32 +776,46 @@
   "4717ce80ff409c06",
   "c890715c86e1f960",
   "97b7e53472ed9c88",
-  "923accb06122362e"
+  "923accb06122362e",
+  "86373c1a5a5e98a8",
+  "c89536fdcfdc9231",
+  "5e5bdb92b7691d06",
+  "6f148c5375db3209",
+  "984e073a4170144e",
+  "b69e8ce73adfd4ce",
+  "6f4b47f94819f8ac",
+  "d48d7997d3c847a8",
+  "0b4c9ae8749b6cd7",
+  "4aee458f53748c45",
+  "6927f9dc3110c833",
+  "3bdc69160b13e0e1",
+  "81187e52e11928e6",
+  "e5b57a41f3c5fad5",
+  "1631bae131dec515",
+  "90573fab67c34b10",
+  "43e1f8eebf66ad9b",
+  "a3273e6116b46a28",
+  "19cd8996f312f9c0",
+  "d4d3b4fd53b3143f",
+  "af3b5b83144043be",
+  "80b61d717cd74e87",
+  "8c61d99e113538e7",
+  "cb01745234ead9a3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794763350.6659467,
+ "dernier_passage_actus": 1794765720.0264883,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le sélectionneur de l Égypte viré après une folle histoire (RMC Sport)",
-   "t": 1794579552
-  },
-  {
-   "genre": "actu",
-   "resume": "Hommage vibrant du Portugal pour Cristiano Ronaldo (RMC Sport)",
-   "t": 1794579557
-  },
   {
    "genre": "actu",
    "resume": "Tensions en Guinée avec Ilaix Moriba accusé de chantage (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Chelsea prépare une offre XXL pour Jules Koundé (Blaugranas.fr)",
    "t": 1794763405
+  },
+  {
+   "genre": "actu",
+   "resume": "L'AS FAR conserve son titre en Ligue des champions féminine (BBC Sport)",
+   "t": 1794765775
+  },
+  {
+   "genre": "actu",
+   "resume": "Ronaldinho de retour pour un match professionnel officiel (Walfoot.be)",
+   "t": 1794765781
   }
  ],
  "matchs": {},
