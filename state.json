@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "78bdda27dfd4a370",
-  "e029069217185b9b",
-  "faa8c907ef224c8a",
-  "f34f966ead6582b0",
-  "75e775522f3cf46f",
-  "378f486b359d2ee2",
-  "435f92177aa5563c",
-  "1c783a240c4788aa",
-  "e2a44631b3479e18",
-  "b1901404dcdd61da",
-  "05d62fe5705999ae",
-  "e0bd43cef2b36327",
-  "8f440e1816747174",
-  "54e5ee6978c5753b",
-  "463c7e72458a87ad",
-  "a9cec693a77cfb80",
-  "d731ee4e2f3b0547",
-  "ba927159cb9d920c",
-  "0d4ed63f9f38f5ff",
-  "b82e8fee43e32bf2",
-  "c513da304d0707bf",
-  "43637f3fffdf0861",
-  "27cef969afa892be",
-  "667ef2d7c76adbd6",
-  "e0ae4ae6266af364",
-  "a5517cab5422bb88",
-  "1b93d8fc9a96c299",
-  "1929877f41e59975",
-  "084cbfbc44e22637",
-  "fd5d32cf1df32fcd",
-  "982f386001be88b1",
   "2a2401aa2d8bd3ec",
   "530a71f7707f5db5",
   "ec747280febae423",
@@ -800,32 +769,53 @@
   "224b36851eb6eaf9",
   "28c7f735ce4b9ab9",
   "f227dec8155d5392",
-  "5d379158617b0884"
+  "5d379158617b0884",
+  "25261f74ed8fa04f",
+  "68f0abf1214ddf71",
+  "6948ec4a529ff27e",
+  "d4f51213c01c1668",
+  "e9921b05dacc0b96",
+  "804aa9a1db3ec6a0",
+  "db6a354afdb71478",
+  "546b7a4dcfbc8a27",
+  "9f562a793f019fad",
+  "d0db563f9b8c1a81",
+  "22550a1805abe0af",
+  "da06430d8d16341f",
+  "5203d9f1c0bc9a2a",
+  "009ad8998980afde",
+  "381e26df5ba84320",
+  "19f2607eff6ab51f",
+  "24bf0a96b3782813",
+  "fe556ca4fd759271",
+  "5be1b51eb436dcca",
+  "7e2d51cb7ddc495a",
+  "60bc42ad5b1988ee",
+  "ffc6e0bd732f1fa7",
+  "1b169c7e4e3514f2",
+  "e02554b4ef449cac",
+  "0f591e09697218cb",
+  "4ce138efc9f37565",
+  "2b05e0bd1ee683ea",
+  "176e6db35896e585",
+  "0eec0298e1852b82",
+  "f0beb8d9430ab56b",
+  "c49e12de1b8e5d79"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794749817.2220478,
+ "dernier_passage_actus": 1794752803.338942,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United et Manchester City s'affrontent pour Malo Gusto (BBC Sport)",
-   "t": 1794518651
-  },
-  {
-   "genre": "actu",
-   "resume": "Victor Boniface souhaite quitter le Bayer Leverkusen (AfricaFoot)",
-   "t": 1794518656
-  },
   {
    "genre": "actu",
    "resume": "Mauricio Pochettino nouvel entraîneur de Manchester United (Sky Sports)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Deux forfaits confirmés dans les rangs de l Algerie (Foot Mercato)",
    "t": 1794749963
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Stade Rennais vise trois recrues en janvier (But! Football Club)",
+   "t": 1794752947
+  },
+  {
+   "genre": "actu",
+   "resume": "Polemique sur les recettes en Coupe de France (RMC Sport)",
+   "t": 1794752952
   }
  ],
  "matchs": {},
