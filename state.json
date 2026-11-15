@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ff053773cb5fe9b9",
-  "4feaee5c718c9ee0",
-  "fd1f999e80de8260",
-  "32f99c805d8b6b52",
-  "954decc0ac15feb6",
-  "bfda245826816b3b",
-  "3323501e17d80567",
-  "1e22eef8c1461c1c",
-  "003df3a8052bd3bf",
-  "6c1f1cc233c1bce6",
-  "a3735a109e7fb330",
-  "a291dabfb955f90a",
-  "50dac13ce29c8495",
-  "256462f7e73853c2",
-  "c8634cb04e7802ec",
-  "22b53e5d51e3ee29",
-  "b2c07dad70f39260",
-  "c2baa0b073f509cd",
-  "91348d81e6b7c4a7",
-  "9b86661b46e2c50a",
-  "7c11d08066997888",
-  "709a140de8b0398d",
-  "9452fa58fe5a7484",
-  "3fca450da6e8b449",
-  "9af398c704cbf9e3",
-  "b91c2fc0d263bcd5",
-  "cfcdc92200823f6d",
-  "0a63bb0756decfb6",
   "64b15554ee034fe9",
   "8c61d99e113538e7",
   "03b228c9715417f9",
@@ -800,32 +772,50 @@
   "d8bf936de85d3ba6",
   "8d122d5ac8d184ff",
   "af941c44e27a8df3",
-  "83b22cafaf7b7978"
+  "83b22cafaf7b7978",
+  "9828690a4d39ec5d",
+  "fac81ac49815c256",
+  "c884cab68904a69c",
+  "ae111382abdcbbe2",
+  "002aa8832cd921be",
+  "0edfd0fff1a1e1e1",
+  "77bf50493b1743af",
+  "8101cf8559bdaa33",
+  "d02ce8322b4a1ea8",
+  "ad356c0869cf62dd",
+  "bc762809bd4a0189",
+  "9830a8919c72a944",
+  "b129f9e46862f83d",
+  "0d8a65c9dbb9b816",
+  "bfbcddfd62191cd0",
+  "131cd47908c4090e",
+  "aeacfaf8d09e9695",
+  "5087b26716e34e3b",
+  "f209256f5b31f457",
+  "e8cc841680a87919",
+  "f3cc21017a0b763e",
+  "392eebc0122322b5",
+  "3a29b82f46908176",
+  "1199f23dd45c96b5",
+  "4d4f8e2491f597ec",
+  "4ed72e6b9a53ffaa",
+  "4186786eace8ca80",
+  "d1698129cec509a1"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-15",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-15",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794758350.4441252,
+ "dernier_passage_actus": 1794760971.2040074,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pierre Sage en route pour un retour au RC Lens (L'Équipe)",
-   "t": 1794548466
-  },
-  {
-   "genre": "actu",
-   "resume": "Nicolas Jackson élu joueur du mois d octobre en Premier League (Foot Mercato)",
-   "t": 1794574875
-  },
   {
    "genre": "actu",
    "resume": "Le FC Barcelone obtient 300 millions d euros pour le Camp Nou (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Liverpool vise un transfert a 70 millions d'euros (CaughtOffside)",
    "t": 1794758501
+  },
+  {
+   "genre": "actu",
+   "resume": "Didier Digard déjà vers la sortie au RC Lens (But! Football Club)",
+   "t": 1794761028
+  },
+  {
+   "genre": "actu",
+   "resume": "Latif Issman débarque au Real Madrid (Real France)",
+   "t": 1794761032
   }
  ],
  "matchs": {},
