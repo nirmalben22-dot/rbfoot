@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4ce138efc9f37565",
-  "2b05e0bd1ee683ea",
-  "176e6db35896e585",
-  "0eec0298e1852b82",
-  "f0beb8d9430ab56b",
-  "c49e12de1b8e5d79",
-  "1d725a89b6ea1b26",
-  "f22911e573a2a0bb",
-  "aaf07f95627aa83e",
-  "b18a1f6df5d1c9bc",
-  "40f356fd659d1ff7",
-  "4669dca7fe976330",
-  "59e6a1c6e9e221ba",
-  "0a0d4b1a194ed4db",
-  "5471de8bfcf4cabb",
-  "7086189093953e78",
-  "006cd6862c5118bd",
-  "ee8158a8c81eb67c",
-  "9fa6631921f5fe2b",
-  "1bbb11b13836e6ac",
-  "098be5d55e669c84",
-  "d9605efbcef9a6a1",
-  "2d334b016402b317",
-  "4dcb8fbaabf023d9",
-  "973cb6058a5d1e3d",
-  "7d68d276b08c2acc",
-  "cda9a3b2955c15ed",
-  "fa8e74c402469466",
-  "c4ef4d11b3ba84a9",
-  "1999ba5bce2e324b",
   "eccd3901f1975be0",
   "ce5ad0e34dec6a4c",
   "1840872dd20cd0f9",
@@ -800,27 +770,52 @@
   "c83ac9d62d7e6e51",
   "c4fddde732e2d182",
   "008b088e1fb6fb6b",
-  "5e130aff173179c2"
+  "5e130aff173179c2",
+  "b854b58bfaede01e",
+  "a9128e76b6e885ca",
+  "5b3387ca9aa90548",
+  "c0d459f4ca0d7c4a",
+  "a22ce72e05719651",
+  "2c6d873ef05ffbee",
+  "89f293e9fc7ad643",
+  "a824fe035824d99d",
+  "7af4e410deab6569",
+  "f218b731630436d8",
+  "8c54fd5bc7d7dddb",
+  "d1a24588500e0091",
+  "3eb4e6581ae579c3",
+  "4c3899bfa143f496",
+  "699d8c1b7ee3a449",
+  "b5ec9643d8204a3b",
+  "8db8e1e05611d22f",
+  "30c0c673cd4eb760",
+  "43446c40db410a65",
+  "464116f5a1904170",
+  "7c4178cd0fb9e4c9",
+  "decc0c03a2855a1c",
+  "b537ca8f09b0900a",
+  "d30370c70e2a8360",
+  "eec93c1d03b51b6f",
+  "3efdb3c3e5713ea5",
+  "171d154a59453214",
+  "e5150d5fab8d5c3a",
+  "fc2c92a2409cf951",
+  "0c99367640356273"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-16",
-   "n": 15
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-16",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794861063.4447715,
+ "dernier_passage_actus": 1794864396.778547,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Georges Mikautadze déclare sa flamme au FC Barcelone (RMC Sport)",
-   "t": 1794658851
-  },
   {
    "genre": "actu",
    "resume": "Ibrahim Maza tout proche de prolonger au Bayer Leverkusen (Foot-Africa.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le Real Madrid refroidi par le comportement de Michael Olise (Foot Mercato)",
    "t": 1794861165
+  },
+  {
+   "genre": "actu",
+   "resume": "Declan Rice prolonge son contrat avec Arsenal (Foot Mercato)",
+   "t": 1794864481
   }
  ],
  "matchs": {},
