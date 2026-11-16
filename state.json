@@ -1,22 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d5be459ee310b76d",
-  "e8994a9b417883ac",
-  "b2ca507709f4afd9",
-  "8d4164865301d713",
-  "c469a727929db9e8",
-  "e1ccae2b55fbe4f0",
-  "9f43cbda7145a5b7",
-  "1eaad6fbac24230b",
-  "65b22ff9f075755b",
-  "ceff99084d073b2a",
-  "b7dd01aa26318956",
-  "393089010cfac508",
-  "c95afb9613ab0a43",
-  "79a206139ed5c1cc",
-  "51c4e7569479566f",
-  "245f6dfbf3ee211e",
   "c35f63f1dfe757c9",
   "20ced007c5345d35",
   "df1a2ff3565e4dc3",
@@ -800,32 +784,38 @@
   "be32e7ca1c1b10ed",
   "5dc17a59a62aa66e",
   "9b3f70b5c6e9ee90",
-  "80c1d27eab6f8363"
+  "80c1d27eab6f8363",
+  "175aabd01ddf2cfc",
+  "71f28bfc08309e90",
+  "65c92b6a8b8c956f",
+  "f487cebba90eee63",
+  "badc16a242f97ce2",
+  "e84bfa952f841b69",
+  "393739ba7d5a764b",
+  "33b8a34538ab8cc7",
+  "a9849d42799d937b",
+  "50df09d2e1d7b92f",
+  "9aaa02fbd9f9977b",
+  "b5e8f5d94e9300d5",
+  "8a4d515dac54dedb",
+  "02658aee593d4fe5",
+  "492f3393ca54c468",
+  "d0802e88654fe681"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-16",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-16",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794789620.3764894,
+ "dernier_passage_actus": 1794795055.3402872,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Didier Digard devient le nouvel entraîneur du RC Lens (Foot Mercato)",
-   "t": 1794605461
-  },
-  {
-   "genre": "actu",
-   "resume": "Pape Gueye met sa carrière internationale entre parenthèses (Foot Mercato)",
-   "t": 1794605465
-  },
   {
    "genre": "actu",
    "resume": "Jesus Owono lourdement suspendu après le drame (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pio Esposito dépasse le record de précocité de Mario Balotelli (L'Équipe)",
    "t": 1794789686
+  },
+  {
+   "genre": "actu",
+   "resume": "Quatre cadors de Ligue 1 à la lutte pour une pépite (Sport.fr)",
+   "t": 1794795216
+  },
+  {
+   "genre": "actu",
+   "resume": "Joseph Oughourlian s'exprime sur le choix de Didier Digard (Tribuna.com)",
+   "t": 1794795223
   }
  ],
  "matchs": {},
