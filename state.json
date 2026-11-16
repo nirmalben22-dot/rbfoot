@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "41cca9adf2a7d9ea",
-  "691e5140b4beb07c",
-  "42a56a59ba74c32d",
-  "6b76484d2d43753f",
-  "08529f6349c09cf2",
-  "36eb34f084dd8256",
-  "117d68fa08e3e87b",
-  "317839ec72b53954",
-  "96e94bc6691ae6ac",
-  "299c0653c7d7b37a",
-  "c83ac9d62d7e6e51",
-  "447e261f56c6b3dc",
-  "3ec041ad0da47992",
-  "75e874dee9de7dfe",
-  "10fa6fe8648bff71",
-  "486ef8a14984ae0d",
-  "ea2cfecb4b51e00c",
-  "f8338bd465ade3ed",
-  "7d289d8d5f36ec29",
-  "a35b2bba92084652",
-  "b74ff299fce50827",
-  "e08808a9dc29a3fa",
-  "cc6b0f3db9c8cd45",
-  "77145fe1d517117e",
-  "8e92dbdc2aa41e16",
   "ac7b090c63e99dc3",
   "c863639fd83efe36",
   "60ac63c4f9c221f7",
@@ -800,32 +775,47 @@
   "16deb8f96c698726",
   "7501f92fd926121a",
   "1359d58f16d4d512",
-  "a9497623ef721621"
+  "a9497623ef721621",
+  "ef9ebc3feace94d2",
+  "2d80b09bb5b44731",
+  "773618d0aaa9ca9b",
+  "de64355e39ddcf87",
+  "bc8ece24a19ae7e5",
+  "525c8d934ec74937",
+  "d7da6a9c0b79d89a",
+  "303e1c4a9e384cb5",
+  "60f40139e39c0b5c",
+  "ef362c815734a0f4",
+  "d44e7c23e0558473",
+  "5e08d90685dd05cc",
+  "4afe8349736685d8",
+  "10bfb20b0607ba08",
+  "0383e2d9e81cf547",
+  "c92c3ecfe5577d8b",
+  "3b5d8e89d20f9e6b",
+  "9ee2542c16767228",
+  "d7b9740ecc59c11e",
+  "5d7d9694a21b0fe5",
+  "c8693b2d2aef4f6d",
+  "be0571156ea42965",
+  "c50ba7e48a5b46c5",
+  "a837a5900b3237b4",
+  "9d3e85aaa69b57d2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-16",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-16",
-   "n": 11
+   "n": 12
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794850782.1681793,
+ "dernier_passage_actus": 1794854094.890403,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Un ancien attaquant d Arsenal veut rejoindre Manchester United (Lente Desportiva)",
-   "t": 1794616685
-  },
-  {
-   "genre": "actu",
-   "resume": "Roberto De Zerbi sacré entraîneur du mois d octobre en Premier League (Premier League)",
-   "t": 1794620900
-  },
   {
    "genre": "actu",
    "resume": "Roberto Martínez émerge comme candidat pour entraîner l Arabie Saoudite (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Tensions électriques entre Romario et Carlo Ancelotti (L'Équipe)",
    "t": 1794850876
+  },
+  {
+   "genre": "actu",
+   "resume": "Jorge Jesus répond à la mère de Cristiano Ronaldo (L'Équipe)",
+   "t": 1794854188
+  },
+  {
+   "genre": "actu",
+   "resume": "La Juventus tire un trait sur la piste Alisson (Tribuna.com)",
+   "t": 1794854193
   }
  ],
  "matchs": {},
