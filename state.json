@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ac7b090c63e99dc3",
-  "c863639fd83efe36",
-  "60ac63c4f9c221f7",
-  "8c72ee16f3940c34",
-  "63887365776354e0",
-  "a0d9534a90ae6d33",
-  "573bd9f6e11fea00",
-  "5a93acabba7510f3",
-  "2fe4695787ff7c37",
-  "e736c561a5bf2761",
-  "9734861f91a85050",
-  "491c1a4fabc49a82",
-  "d5f890fa30508651",
-  "882832625a1ede4c",
-  "4bfdfbd224837d97",
-  "2159c9559ca1cba1",
-  "7798223c75f1ffff",
-  "6bdbd85478d184e2",
-  "5ccf667a11151825",
-  "8310de85005eba3a",
-  "224b36851eb6eaf9",
-  "28c7f735ce4b9ab9",
-  "f227dec8155d5392",
-  "5d379158617b0884",
-  "25261f74ed8fa04f",
-  "68f0abf1214ddf71",
-  "6948ec4a529ff27e",
-  "d4f51213c01c1668",
-  "e9921b05dacc0b96",
   "804aa9a1db3ec6a0",
   "db6a354afdb71478",
   "546b7a4dcfbc8a27",
@@ -800,27 +771,51 @@
   "be0571156ea42965",
   "c50ba7e48a5b46c5",
   "a837a5900b3237b4",
-  "9d3e85aaa69b57d2"
+  "9d3e85aaa69b57d2",
+  "136039ee9b34ba64",
+  "4a733ef9828831ab",
+  "3ec099180566a04d",
+  "fac0f594b6f92b06",
+  "0fbb9daa9622f356",
+  "364b85b578b12fee",
+  "72835955423ab2b6",
+  "eb9f929ebad25b74",
+  "d92caac9aa953c7c",
+  "37d9e228d8684b7f",
+  "8a1b8a63aceaa3c9",
+  "c115722cde562800",
+  "7849bafb9bfb6846",
+  "0d07b19e7f9ef2e3",
+  "ba5588d76254b0f0",
+  "dcafc5d50eb1207a",
+  "bfa68935b7f99b8d",
+  "9f8f3b9e2cfa4496",
+  "1e1cbfe0299b1761",
+  "4befc8f5d20c41db",
+  "c28a2fd65843c6ba",
+  "cc323d3d57265c29",
+  "a5e6338be9b0012e",
+  "0f10cb5d2acd60c7",
+  "71a592dffbd22d9a",
+  "da827acfa3b5ad00",
+  "edac1ea1ede0f191",
+  "cf2d4c209beea0ea",
+  "e8122bd08b91156d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-16",
-   "n": 12
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-16",
-   "n": 12
+   "n": 13
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794854094.890403,
+ "dernier_passage_actus": 1794857922.6897142,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Roberto Martínez émerge comme candidat pour entraîner l Arabie Saoudite (Tribuna.com)",
-   "t": 1794620904
-  },
   {
    "genre": "actu",
    "resume": "Endrick prépare son départ du Real Madrid dès janvier (superlider.mx)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "La Juventus tire un trait sur la piste Alisson (Tribuna.com)",
    "t": 1794854193
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour le Bayern avec la blessure d Alphonso Davies (L'Équipe)",
+   "t": 1794857995
   }
  ],
  "matchs": {},
