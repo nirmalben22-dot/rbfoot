@@ -1,26 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "804aa9a1db3ec6a0",
-  "db6a354afdb71478",
-  "546b7a4dcfbc8a27",
-  "9f562a793f019fad",
-  "d0db563f9b8c1a81",
-  "22550a1805abe0af",
-  "da06430d8d16341f",
-  "5203d9f1c0bc9a2a",
-  "009ad8998980afde",
-  "381e26df5ba84320",
-  "19f2607eff6ab51f",
-  "24bf0a96b3782813",
-  "fe556ca4fd759271",
-  "5be1b51eb436dcca",
-  "7e2d51cb7ddc495a",
-  "60bc42ad5b1988ee",
-  "ffc6e0bd732f1fa7",
-  "1b169c7e4e3514f2",
-  "e02554b4ef449cac",
-  "0f591e09697218cb",
   "4ce138efc9f37565",
   "2b05e0bd1ee683ea",
   "176e6db35896e585",
@@ -800,32 +780,42 @@
   "da827acfa3b5ad00",
   "edac1ea1ede0f191",
   "cf2d4c209beea0ea",
-  "e8122bd08b91156d"
+  "e8122bd08b91156d",
+  "b862816a48f42a20",
+  "fcfcacf4288201f0",
+  "bf325b31ec30a1d8",
+  "0dadda8a03774a75",
+  "05d80080e2a646b9",
+  "cc8485e124e7a3ce",
+  "6cd510c4e13df907",
+  "1d2e62ea98fa9c0d",
+  "ff0ef63889aaa5cd",
+  "63bb98cc1b93dda5",
+  "c47d5b8e4b2e033f",
+  "d1d0d119febb186c",
+  "8d33ba253d9a3baa",
+  "a6921afcdd72d0a9",
+  "769035788275d26e",
+  "447e261f56c6b3dc",
+  "c83ac9d62d7e6e51",
+  "c4fddde732e2d182",
+  "008b088e1fb6fb6b",
+  "5e130aff173179c2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-16",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-16",
-   "n": 13
+   "n": 14
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794857922.6897142,
+ "dernier_passage_actus": 1794861063.4447715,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Endrick prépare son départ du Real Madrid dès janvier (superlider.mx)",
-   "t": 1794623670
-  },
-  {
-   "genre": "actu",
-   "resume": "Barça et Real Madrid à la lutte pour Niko Ilicevic (Sport.fr)",
-   "t": 1794630655
-  },
   {
    "genre": "actu",
    "resume": "Georges Mikautadze déclare sa flamme au FC Barcelone (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Coup dur pour le Bayern avec la blessure d Alphonso Davies (L'Équipe)",
    "t": 1794857995
+  },
+  {
+   "genre": "actu",
+   "resume": "Folarin Balogun proposé à deux cadors européens (Foot Mercato)",
+   "t": 1794861160
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid refroidi par le comportement de Michael Olise (Foot Mercato)",
+   "t": 1794861165
   }
  ],
  "matchs": {},
