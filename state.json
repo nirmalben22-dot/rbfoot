@@ -1,34 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "158392ef44665222",
-  "b686ba7db597622e",
-  "5b0dc798733c5c7d",
-  "256e85acebd06dfa",
-  "9afd1bfd31c4d88b",
-  "8beae6c73e2ae142",
-  "54335bb933e9fd55",
-  "1323b5a5a3ebfc7e",
-  "973545ddcc9643a1",
-  "e9873e07d8b08a9d",
-  "d094305b19ca01a7",
-  "1e6fba77d51deb5b",
-  "9d48d2bf409552d8",
-  "5adcaf8ce429a48f",
-  "36a7cb0919f2ea71",
-  "5c1d70558fdfe391",
-  "76af1109ed229a69",
-  "c87cf189e09d36e0",
-  "fb98cf26be02fea9",
-  "03783e9a35554459",
-  "940017eb348d2f85",
-  "35391fcd033a1a1d",
-  "e1047d245198f3d7",
-  "2f8d6b84938a279f",
-  "152e435e3743908c",
-  "52e8205a76d05302",
-  "7cc903eac581eebf",
-  "79fa5aa90f2f8077",
   "5e10839c07ec4b02",
   "e1ee3d1e62d4d889",
   "326bbd74b42cfa7d",
@@ -800,32 +772,50 @@
   "818afc7bf3083661",
   "e90896c36de9335c",
   "bee7e2a00b16f269",
-  "24276f6cab19f973"
+  "24276f6cab19f973",
+  "2aea68fcf0112a90",
+  "b25bf285dec63410",
+  "f901d35ef9e1e43f",
+  "f1ec3903d31af2e7",
+  "298141bb2e08b480",
+  "04ada2a52ab56ce2",
+  "afcfa825a77ae0b2",
+  "5b4eb44b6653a892",
+  "099e1fb72629a2e2",
+  "764eb73d8ea2b188",
+  "dd7d573e7c879cda",
+  "69889895f34d8b92",
+  "2446f2886da5f1f3",
+  "02f4a61cb81c47b6",
+  "2f8b9fb431533f40",
+  "4d49e63fbc1dc371",
+  "8fdf545db8b588cf",
+  "714cbd9ee58f6bb9",
+  "a9da8b71e65c44e6",
+  "9501fe8deb150803",
+  "7db2c5a26adb6bc9",
+  "e0215946fa811eca",
+  "4de9336e6d58a603",
+  "1fe5a14df11a2782",
+  "d50e827c3bbd6a99",
+  "d2abb243f7c74a23",
+  "d0848b72bb30a42e",
+  "6cd17f44e191f8c2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 5
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 13
+   "n": 14
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794924545.615655,
+ "dernier_passage_actus": 1794927927.3786244,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Raphinha fustige l arbitrage apres son expulsion avec le Bresil (Foot Mercato)",
-   "t": 1794670785
-  },
-  {
-   "genre": "actu",
-   "resume": "Didier Drogba monte au créneau pour Kylian Mbappé (RMC Sport)",
-   "t": 1794673500
-  },
   {
    "genre": "actu",
    "resume": "Carlo Ancelotti tacle l arbitre après la défaite du Brésil (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Layvin Kurzawa annonce la fin de sa carrière de joueur (L'Équipe)",
    "t": 1794924624
+  },
+  {
+   "genre": "actu",
+   "resume": "Les confidences poignantes de Wayne Rooney sur sa carrière (L'Équipe)",
+   "t": 1794927986
+  },
+  {
+   "genre": "actu",
+   "resume": "Wissam Ben Yedder signe dans un club de Ligue 3 (Foot Mercato)",
+   "t": 1794927991
   }
  ],
  "matchs": {},
