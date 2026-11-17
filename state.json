@@ -1,25 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d4d3b4fd53b3143f",
-  "af3b5b83144043be",
-  "80b61d717cd74e87",
-  "8c61d99e113538e7",
-  "cb01745234ead9a3",
-  "0195434682cb1d78",
-  "0755c66fabb4b5c2",
-  "5aeeb2894bfbdabf",
-  "3f6de4103a8690f4",
-  "5cfb98626c31546e",
-  "01a62fd1730e9a8c",
-  "f975af37d0312da8",
-  "bd3a9ec246caf0c6",
-  "7bbfa40e4f0aecc6",
-  "be0f99e7d80e2881",
-  "88a50dcc7cf18e23",
-  "3e3d6f046f23e4ca",
-  "60d63e950913f8a7",
-  "6949e782dbc134b9",
   "a41fa94318ec33fa",
   "a460b12a50cabc7f",
   "bcee3f8fcf43a3a0",
@@ -800,27 +781,41 @@
   "435c47b5bfe3f84f",
   "40265c6f8d6d2f75",
   "f505c7622497d595",
-  "73803b3906d7b7ff"
+  "73803b3906d7b7ff",
+  "3f7e2e9242545585",
+  "b7bb39bce8bb5d1a",
+  "8a3737977ec4aead",
+  "8f6832cc383ca883",
+  "1a866305a10ffd6d",
+  "314e125c16c4f2cb",
+  "8cca21d29f31145b",
+  "65528f980b8d1790",
+  "77da0fde3a008ee5",
+  "410f872198904121",
+  "a061315ab2fa42df",
+  "ac10a9e81a7c9fb8",
+  "0cb52126d4ec00b2",
+  "2e533a87fba436ba",
+  "d4aeae9f2f647094",
+  "ae57dba2f58b7542",
+  "1261a7fe5c322319",
+  "0ce570afbdfddeda",
+  "84e60eff9b4ea565"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-16",
-   "n": 18
+   "jour": "2026-11-17",
+   "n": 1
   },
   "appels_api_football": {
    "jour": "2026-11-16",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794870801.8351598,
+ "dernier_passage_actus": 1794873528.8649495,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Thomas Tuchel rappelle le protocole antiraciste avant le choc face à l Espagne (RMC Sport)",
-   "t": 1794662503
-  },
   {
    "genre": "actu",
    "resume": "Arsène Wenger renoncerait à la présidence de la FIFA (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Strasbourg pense à Vitor Matos en cas de départ de Hugo Oliveira (L'Équipe)",
    "t": 1794870880
+  },
+  {
+   "genre": "actu",
+   "resume": "Deux ans de prison dont un avec sursis requis contre Pierre Ménès (L'Équipe)",
+   "t": 1794873669
   }
  ],
  "matchs": {},
