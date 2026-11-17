@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "beb1073a1816b5ec",
-  "9024286aacdcfe94",
-  "963bc6894688bdf1",
-  "d7e339e8ccba1208",
-  "ad683b76dfaf2e02",
-  "050a5f3da590d5c5",
-  "b4490f239fe13543",
-  "08e28bef3fd8b806",
-  "d5c4e3c8feb04f64",
-  "f88c9b539d3e942a",
-  "5902b5457d4aa591",
-  "09f6e726f3b387c5",
-  "68f5b58935959dc3",
-  "9c5fac1759042512",
-  "e58288d7cc28e290",
-  "9dd7c36d258ce596",
-  "8633221b5a5e06b9",
-  "02492577479bfbb5",
-  "072856c3cdcf6f8f",
-  "c9fd6985e7bb06a7",
-  "c8453967f801bd2c",
-  "906fdcd2e8413bf5",
-  "5385e97b7d04deb6",
-  "0d16f2368eead699",
-  "c12ecdb8109cbdc9",
-  "f44bfea0463d90fb",
-  "a5595bbed0cd7f0a",
-  "eb916921a4e7aafd",
-  "700fc090760e2afc",
-  "bde4b621e5369e59",
-  "b06c1a10a6aa8e1e",
   "7a6c9ef5008178c1",
   "b44a8ea04c7fb141",
   "1582b2d600c68f2e",
@@ -800,27 +769,53 @@
   "07e16cc6330444e3",
   "c8ac7472d271a575",
   "3055cf1d29088fbd",
-  "a5d22d8a815bfc9e"
+  "a5d22d8a815bfc9e",
+  "e2eff5f7d97124f2",
+  "d92d3f11e97724ff",
+  "6ed7f9c4b98fbcd1",
+  "34e34732d93acc0e",
+  "c0b243da620869f2",
+  "ea6479696f11ddd1",
+  "94aa110b41981363",
+  "2084af4c03e331d4",
+  "9ec7cec397816375",
+  "1b5cf106475735ce",
+  "247a94b90a9d4591",
+  "6a873faf79f9b28b",
+  "8e138da40f17e483",
+  "3950669cf076d08f",
+  "66dfe0540ace8233",
+  "0e0661c23effc430",
+  "c1d711220b1081bc",
+  "6b16fd2d1b351d69",
+  "6113369fcbfdfc3f",
+  "2ac502b955644daf",
+  "453634df3266b32a",
+  "ea6513dc0ba6452f",
+  "772f4b8d73af4c1d",
+  "e95b7ace1ac4e1ce",
+  "bef38c1e013ce7d5",
+  "be6a02968530a9f5",
+  "89a8878c9ec73ad9",
+  "66b9c4c300af98d3",
+  "c6f8af9125a182b6",
+  "a95250e584a0c3e2",
+  "9ef75014cd914c9a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 7
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794935251.9535215,
+ "dernier_passage_actus": 1794938979.5024443,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Carlo Ancelotti tacle l arbitre après la défaite du Brésil (L'Équipe)",
-   "t": 1794673506
-  },
   {
    "genre": "actu",
    "resume": "Folarin Balogun s'exprime enfin sur son vrai faux départ (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Wissam Ben Yedder signe dans un club de Ligue 3 (Foot Mercato)",
    "t": 1794927991
+  },
+  {
+   "genre": "actu",
+   "resume": "Vitor Matos attendu pour s'installer sur le banc de Strasbourg (Foot Mercato)",
+   "t": 1794939051
   }
  ],
  "matchs": {},
