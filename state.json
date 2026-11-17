@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d2d92ae9ab0bec74",
-  "28ee3407f9c0d49a",
-  "a52d58b6befa3a0a",
-  "10d2d20ad1325bbc",
-  "7caf7de409901ee3",
-  "b84ac990cb9c8045",
-  "648a6d720ac03c65",
-  "2abe870f628ee04f",
-  "9b36db3f8500128d",
-  "f70294c0b29a196f",
-  "49a4a4acd319a5ab",
-  "df1a2ff3565e4dc3",
-  "d332ea5cfead15dc",
-  "641aec2bed1d42cc",
-  "a45da59604bd7e03",
-  "4b4c153a87a4f51c",
-  "b5eb478dc5e1060f",
-  "dc0236c2a2bed6ba",
-  "0c21f7f7edc9957b",
-  "922b799ac9c3c46a",
-  "4999f29a6e8ba39e",
-  "d0ed23f7a371e9a6",
-  "980af2c046bc6e99",
-  "e7278ff5f57fec2e",
-  "173725918f3f61de",
-  "428bf4ed5aa7045d",
-  "45d2b85385e81dd0",
-  "ae693840c5014433",
-  "ed87eaef729e1f42",
-  "5a321d42d4b09076",
-  "fa29d4284c2b15aa",
-  "7347ef713e176cdb",
-  "c98b9beba6ad60f2",
-  "0c20a62ec829053e",
-  "a87756bb3a343a46",
-  "8e18479d812011ab",
-  "fc11b39dce5f96be",
   "ed63fcc16d779342",
   "973ef7acf069ac95",
   "86cbc89e8f500c53",
@@ -800,32 +763,59 @@
   "303f05ac44383669",
   "ef38702ea30c69b0",
   "513979467c99b350",
-  "2cd81cb5c59b31e0"
+  "2cd81cb5c59b31e0",
+  "5bbfa2bd3e304888",
+  "43f146dca3faf0b6",
+  "590c1c3164674266",
+  "647b668199fa0453",
+  "396f4b61cd6a447b",
+  "3e5e7fbef70f0747",
+  "b4321e0fe020bd09",
+  "348b0900878149ea",
+  "e9037bc5ecddc66a",
+  "298b6bcedb43e7fd",
+  "ef429e19a91bd803",
+  "1113c077c15f1973",
+  "d09cdf9a2db03582",
+  "759ab0ffe01604d7",
+  "7f1847dfee281c15",
+  "e227a6312dde7eb4",
+  "d07200ac4ca7f026",
+  "34805f3e86bd9bc5",
+  "5a61dac06c258b4a",
+  "73a43a150d9055f3",
+  "c497d40ca7d94cc6",
+  "b955960a375f9844",
+  "80755979a4da60f1",
+  "aa30b706d1144549",
+  "0db70439a2518cfc",
+  "1a1563b00e2b2ddd",
+  "186f84956c40300c",
+  "75f8768b26e4d7a2",
+  "0cad196331e276be",
+  "340a6fcc52779564",
+  "20a7515d457fd6e4",
+  "362ce641fccf5960",
+  "6bc66c6ea7b63a9b",
+  "26cd864b30b88891",
+  "e0f9514fe89b251c",
+  "0ce2531cd8786276",
+  "ccdf82aa2b70b045"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794943012.2327003,
+ "dernier_passage_actus": 1794946830.188649,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pas de discussions de prolongation entre Arsenal et Martin Odegaard (The False 9)",
-   "t": 1794678187
-  },
-  {
-   "genre": "actu",
-   "resume": "Zinédine Zidane fait le point sur sa relation avec Kylian Mbappé (RMC Sport)",
-   "t": 1794680542
-  },
   {
    "genre": "actu",
    "resume": "La France et l'Espagne à la lutte pour le Final 4 2027 (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Nasser al-Khelaïfi entendu sur l'armée numérique du PSG (L'Équipe)",
    "t": 1794943131
+  },
+  {
+   "genre": "actu",
+   "resume": "La jeune pépite de Manchester United se rapproche du Real Madrid (RMC Sport)",
+   "t": 1794946888
+  },
+  {
+   "genre": "actu",
+   "resume": "Le calvaire sans fin de Ferland Mendy au Real Madrid (RMC Sport)",
+   "t": 1794946893
   }
  ],
  "matchs": {},
