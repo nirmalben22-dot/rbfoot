@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "48aa8ecf49d193a0",
-  "22192b928f9d5e50",
-  "7662a6e55810683f",
-  "37d2f41f8827d8f2",
-  "1cc4864eefc85cbc",
-  "5661561d1ffd5923",
-  "94d536d852f6d6a3",
-  "5aa6d8ec693504ca",
-  "295a4a323c5912d0",
-  "eab54c48d79a5abb",
-  "1de2870ae8615b2e",
-  "1a8e2e7d6b957532",
-  "840d6b750658dd3c",
-  "7619bc3cf17a240b",
-  "ed6db331dcc1151d",
   "caee13406ac9145f",
   "c0c942443b7c760c",
   "a5a11341a838e254",
@@ -800,32 +785,37 @@
   "85a926b6f4bb3a2c",
   "5205f098afd3b904",
   "b634191741a24b28",
-  "25e98d77ab599b4b"
+  "25e98d77ab599b4b",
+  "0b4dbdf2a998b7db",
+  "383c9395abb62e92",
+  "7c2d1fc1649f746f",
+  "597012879c47a1eb",
+  "87906fcf105f11c6",
+  "9f233b540b325347",
+  "8bfdd9a99988dbf5",
+  "a1aa00883855da0b",
+  "4bf08bffb25a32ab",
+  "d0f3215a46b9cbf3",
+  "366686947febc6bd",
+  "b4615450bb4c1a12",
+  "58ec6739e1d53169",
+  "a3b31c6757b2ab8c",
+  "728c437a8f91cb80"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794889062.2314847,
+ "dernier_passage_actus": 1794892979.8224244,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Medhi Benatia s'exprime sur la finale de la CAN 2025 (RMC Sport)",
-   "t": 1794665734
-  },
-  {
-   "genre": "actu",
-   "resume": "Frenkie de Jong forfait pour le choc face à l'Allemagne (Foot Mercato)",
-   "t": 1794668344
-  },
   {
    "genre": "actu",
    "resume": "La presse catalane affirme que le Real Madrid est favorise par l arbitrage (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Daniel Bragança tout proche de rejoindre le Torino (Record)",
    "t": 1794877599
+  },
+  {
+   "genre": "actu",
+   "resume": "Thomas Frank officiellement nommé entraîneur de Crystal Palace (Premier League)",
+   "t": 1794893047
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour le Sporting avec deux joueurs blessés en sélection (Record)",
+   "t": 1794893052
   }
  ],
  "matchs": {},
