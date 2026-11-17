@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1ed63963866f789d",
-  "c24fc8b5d1486527",
-  "f9b294b173f032e4",
-  "cb5a3a662a88430b",
-  "466bd485895b6b54",
-  "9f2fda985c18bad3",
-  "d61eec4ef872f169",
-  "8dc6f62e0111fcd6",
-  "ed1a7938e415df14",
-  "ea50461b66cfb39f",
-  "84f12ba069e081d4",
-  "c6044a7283618ad4",
-  "633f7a862ce961eb",
-  "58db337915bae9b2",
-  "961b75f3653b9c15",
-  "240aa50c8ea8e2b2",
-  "bfd10b013850cb00",
-  "91ab207c386dd0f3",
-  "2da4ab28046b70ac",
-  "fcc1254a81464088",
-  "ccf45af816f25fe7",
-  "ff7e6f4a813b819f",
-  "522f09301e59a655",
-  "fba4785358e226a0",
-  "0c410c73d65047b9",
-  "d7482cf8de0e90f7",
-  "9eaa0d66b5208edf",
-  "f154e60cb16439df",
-  "6849a7d785bf048f",
-  "6e6504792d53034b",
-  "d7d893c03f3dd5c6",
-  "69b2c93f433b0ae6",
-  "e7c825eeb0d9c936",
-  "7889476a9b3d9e03",
-  "d35d3f4e3e42cf9a",
-  "222e30b25f611211",
-  "3fc9a2012d5a2f7d",
-  "0a3f56ba054bcf37",
   "365057b328d1ae8e",
   "49c91eff74710999",
   "005b9aa7226669d6",
@@ -800,32 +762,60 @@
   "2f252f2d01a54ad3",
   "d9a5104ce77a8c1c",
   "04a5ec9f9ba95a07",
-  "e8d0f08716a89eb0"
+  "e8d0f08716a89eb0",
+  "c9b9a398518a57db",
+  "a3720192fc13c0f8",
+  "c4f04aeee6e8790c",
+  "132ff1539bcc5604",
+  "ed1c893f37a15d43",
+  "7aca7594d5ad98f5",
+  "abd46e71dd736c28",
+  "db46a83f4e9d9c5a",
+  "0c277cb89fe365ca",
+  "0f14b8398292ebe3",
+  "f4154709d42e449a",
+  "b4b90aa7589c8bcb",
+  "27cddd902280e02e",
+  "67c7ba313ca73336",
+  "ec4503b224aa5fbe",
+  "1c5d5c0f1bf4a9a1",
+  "2272f4f95946640f",
+  "1d9242cc03f620a4",
+  "36313a9b0a162b20",
+  "2037ec1a841fc121",
+  "2794369c148d00f5",
+  "b972d8e36b85a010",
+  "82061bf136518de4",
+  "b8755910fd80b3a6",
+  "f06604488cbcb5eb",
+  "09943b7ff5034826",
+  "d25a39372c13b3c5",
+  "122dc8024d70d70b",
+  "0b8d4703e9b9dc5c",
+  "b15d4dde4ac9cbcf",
+  "c6c41716cd65209a",
+  "beaece6056b82486",
+  "ec6adbc9fcd63504",
+  "19566f043973f2de",
+  "5bca440a5cc9e26e",
+  "27738502c45f6e90",
+  "47f1d21de8c44982",
+  "cdf2d79275072272"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794950287.9879708,
+ "dernier_passage_actus": 1794953821.730348,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Alejandro Balde dans le viseur de l'AC Milan (Tribuna.com)",
-   "t": 1794683655
-  },
-  {
-   "genre": "actu",
-   "resume": "Désiré Doué de retour à l'entraînement avec un protège-dents (L'Équipe)",
-   "t": 1794686364
-  },
   {
    "genre": "actu",
    "resume": "Zinédine Zidane monte au créneau pour défendre son équipe (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Endrick met la pression sur le Real Madrid pour son avenir (Foot Mercato)",
    "t": 1794950456
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsenal s'intéresse à Vinicius Junior pour un transfert en janvier (TEAMtalk)",
+   "t": 1794953871
+  },
+  {
+   "genre": "actu",
+   "resume": "Arnaud Pouille écarté, tension maximale à Rennes (Foot01)",
+   "t": 1794953876
   }
  ],
  "matchs": {},
