@@ -1,10 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "94698760a5a62708",
-  "bb3212fb438138a0",
-  "ec1ed7e44d445c1f",
-  "5bc3ac8735b977e0",
   "8a48e326d6e0515a",
   "07c73b84e944c538",
   "8319b246970b680f",
@@ -800,7 +796,11 @@
   "ebf70019977ab5c6",
   "e23e89d7ebe2fa50",
   "b875c8158d6d1296",
-  "044ab07c98875c05"
+  "044ab07c98875c05",
+  "fe10ded9d7489ecf",
+  "caee7c14942c2603",
+  "c8ef3e034f41b1c2",
+  "f58c8bded52f50ef"
  ],
  "compteurs": {
   "actus_publiees": {
@@ -809,11 +809,11 @@
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794882008.2278442,
+ "dernier_passage_actus": 1794885278.0273182,
  "evenements_vus": {},
  "historique": [
   {
