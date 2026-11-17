@@ -1,25 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ed63fcc16d779342",
-  "973ef7acf069ac95",
-  "86cbc89e8f500c53",
-  "d5cf4d5410fb49a9",
-  "0b0eb02a1e691ab9",
-  "42eaae990eed6b5c",
-  "a241c97594e4f1b6",
-  "0649dc12ed4e9c5b",
-  "3ee876379b0ca08d",
-  "d074e2a06d71f6c2",
-  "1b962100f175a615",
-  "bf5e2e3090fbce5a",
-  "630d410cdeaf9f05",
-  "3096549f64f434d1",
-  "03834a464a76712a",
-  "e2e240584fe33459",
-  "aceb33ff4fc26337",
-  "de82e7d516ca32df",
-  "cea3d0787b029e5a",
   "1ed63963866f789d",
   "c24fc8b5d1486527",
   "f9b294b173f032e4",
@@ -800,27 +781,41 @@
   "26cd864b30b88891",
   "e0f9514fe89b251c",
   "0ce2531cd8786276",
-  "ccdf82aa2b70b045"
+  "ccdf82aa2b70b045",
+  "9b7d61e541db99f6",
+  "0d198183e21be122",
+  "32191ac340a4f47d",
+  "565abbdfcdb3fe28",
+  "046b7a05c8623d14",
+  "e4c47db78ce5e506",
+  "24ab45f048848e97",
+  "ee3de66f4a484cc4",
+  "926276553f7e4d0c",
+  "d8850d9ba7592128",
+  "9782ef32ac5d9b92",
+  "48588e2afa12b16f",
+  "cf43c391b8f5ee10",
+  "5b64928dfc0afbc6",
+  "02464f1f1c5b7ae6",
+  "2f252f2d01a54ad3",
+  "d9a5104ce77a8c1c",
+  "04a5ec9f9ba95a07",
+  "e8d0f08716a89eb0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 12
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-17",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794946830.188649,
+ "dernier_passage_actus": 1794950287.9879708,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La France et l'Espagne à la lutte pour le Final 4 2027 (L'Équipe)",
-   "t": 1794680548
-  },
   {
    "genre": "actu",
    "resume": "Alejandro Balde dans le viseur de l'AC Milan (Tribuna.com)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le calvaire sans fin de Ferland Mendy au Real Madrid (RMC Sport)",
    "t": 1794946893
+  },
+  {
+   "genre": "actu",
+   "resume": "Endrick met la pression sur le Real Madrid pour son avenir (Foot Mercato)",
+   "t": 1794950456
   }
  ],
  "matchs": {},
