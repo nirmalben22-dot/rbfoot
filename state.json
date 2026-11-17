@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a41fa94318ec33fa",
-  "a460b12a50cabc7f",
-  "bcee3f8fcf43a3a0",
-  "306a0a0a3ba5e813",
-  "8a04cee67703f28f",
-  "fdb5ea219af5dc87",
-  "97ec77d2b0b0e322",
-  "6f8f6f18c33773a8",
-  "5cc7069b29f7089b",
-  "3be1e7b32a4aaa5b",
   "2b62e8f92e1c63b1",
   "e4bbb2881c6cb462",
   "726f2bddeacdd0c1",
@@ -800,27 +790,32 @@
   "ae57dba2f58b7542",
   "1261a7fe5c322319",
   "0ce570afbdfddeda",
-  "84e60eff9b4ea565"
+  "84e60eff9b4ea565",
+  "ebf771d43b653459",
+  "337901b4d74219ff",
+  "6802819a4778772c",
+  "c4ef1d7e30123ba1",
+  "8c61d99e113538e7",
+  "51d398e10ca5ddbc",
+  "80afc6b17f76d0f7",
+  "690b870292b806b4",
+  "1d3de65884615bb7",
+  "9871295fc24b57c4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-17",
-   "n": 1
+   "n": 2
   },
   "appels_api_football": {
-   "jour": "2026-11-16",
-   "n": 18
+   "jour": "2026-11-17",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794873528.8649495,
+ "dernier_passage_actus": 1794877494.0214322,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arsène Wenger renoncerait à la présidence de la FIFA (L'Équipe)",
-   "t": 1794665729
-  },
   {
    "genre": "actu",
    "resume": "Medhi Benatia s'exprime sur la finale de la CAN 2025 (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Deux ans de prison dont un avec sursis requis contre Pierre Ménès (L'Équipe)",
    "t": 1794873669
+  },
+  {
+   "genre": "actu",
+   "resume": "Daniel Bragança tout proche de rejoindre le Torino (Record)",
+   "t": 1794877599
   }
  ],
  "matchs": {},
