@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e0ca6836daa6c68c",
-  "4d196c6a666c9fe4",
-  "5298865c6793d034",
-  "111a2db52a91b42c",
-  "78ffdb7981fbf3c0",
-  "8b7e5f2a1caabf42",
-  "8d0208ab91ba70ab",
-  "4766aa8c65a8774d",
-  "b08e841a9969285c",
-  "03fec342f3f4ff21",
-  "6c625b414abb1e39",
-  "d8ddc2a380b18bf8",
-  "a5401d3dfd8614be",
-  "d5bcb7fd933fcd7e",
-  "83f3e2b72b943138",
-  "818afc7bf3083661",
-  "e90896c36de9335c",
-  "bee7e2a00b16f269",
-  "24276f6cab19f973",
-  "2aea68fcf0112a90",
-  "b25bf285dec63410",
-  "f901d35ef9e1e43f",
-  "f1ec3903d31af2e7",
-  "298141bb2e08b480",
-  "04ada2a52ab56ce2",
-  "afcfa825a77ae0b2",
-  "5b4eb44b6653a892",
-  "099e1fb72629a2e2",
-  "764eb73d8ea2b188",
-  "dd7d573e7c879cda",
-  "69889895f34d8b92",
   "2446f2886da5f1f3",
   "02f4a61cb81c47b6",
   "2f8b9fb431533f40",
@@ -800,32 +769,53 @@
   "8327d0a961bf58d5",
   "8c2e3b5bb987d2ab",
   "edf2ca035351046f",
-  "128715726211181a"
+  "128715726211181a",
+  "c42e4c9e68592228",
+  "3a794eb7f0a4f85d",
+  "0deafb8d259e956f",
+  "ecf31be99104c2e4",
+  "59c0ad40eca895ac",
+  "7f83791eaeb6d4d2",
+  "ade192979751b2ef",
+  "c363f5b9ada60905",
+  "d385f2992107d0dd",
+  "679ca388c331ad95",
+  "8194c399cae608d5",
+  "ef1d039dc958c413",
+  "919c7323aa888bf0",
+  "4423f1fc66be61e5",
+  "5dfca89178d931f8",
+  "f614c0ed836314d1",
+  "3f8ede2ec6d294d3",
+  "3e35cfb86d86352b",
+  "9bbb05c90b4ba610",
+  "7aaa58dc4af818f9",
+  "d676ccf443599a9a",
+  "49bb32fc49f4d60e",
+  "64a0301aa4db9021",
+  "6601f6c38fb09370",
+  "66ce3b77c7b711ff",
+  "c519a10dc13ca569",
+  "c2b583b05942f5f7",
+  "314f468321e3f8db",
+  "f6234764924613b2",
+  "7d249fbfde70ec2c",
+  "64964ba8ab58a796"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795023804.6235588,
+ "dernier_passage_actus": 1795026930.97107,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Didier Digard déjà vers la sortie au RC Lens (But! Football Club)",
-   "t": 1794761028
-  },
-  {
-   "genre": "actu",
-   "resume": "Latif Issman débarque au Real Madrid (Real France)",
-   "t": 1794761032
-  },
   {
    "genre": "actu",
    "resume": "Chelsea prépare une offre XXL pour Jules Koundé (Blaugranas.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Claude Le Roy démissionne de son poste de sélectionneur (L'Équipe)",
    "t": 1795023862
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United envisage de porter plainte contre le Real Madrid (Foot Mercato)",
+   "t": 1795027072
+  },
+  {
+   "genre": "actu",
+   "resume": "L'AC Milan surveille de près la situation de Bruno Fernandes (Tribuna.com)",
+   "t": 1795027079
   }
  ],
  "matchs": {},
