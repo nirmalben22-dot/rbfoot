@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "19fffdcf796cd605",
-  "6085073df9a6f947",
-  "916529fbcf3bfad2",
-  "2e0c6bbf29980a5e",
-  "88f1bd6cb7bd8110",
-  "4c6931ffc37359d9",
-  "d9035ea50555a0ab",
-  "ece0951a2e25fa20",
-  "c956c9a0bfdde04d",
-  "84c2c4f4bdc80110",
-  "69a8bb7bfe9c52a5",
-  "49fbf5b4605cb954",
-  "c71e54410e09e611",
-  "aefebc198e0ddcc1",
-  "d5c325eebbbc25be",
-  "07b7555494e017cb",
-  "3535639fd6a309f8",
-  "3c8c34cbdb9ec14e",
-  "de8b5ef64cff9883",
-  "19ccd7594dab73ff",
-  "9ddfb3cd9697b255",
-  "00e4f33eb24e7da6",
-  "07e16cc6330444e3",
-  "c8ac7472d271a575",
-  "3055cf1d29088fbd",
-  "a5d22d8a815bfc9e",
   "e2eff5f7d97124f2",
   "d92d3f11e97724ff",
   "6ed7f9c4b98fbcd1",
@@ -800,32 +774,48 @@
   "720674afbeb3178c",
   "04824e78761431db",
   "6be26e0c5c6ccce8",
-  "8b9957bfcb9fd8b3"
+  "8b9957bfcb9fd8b3",
+  "52ea0b5a07b3aeb8",
+  "4ca3be33e7ff842e",
+  "127132f3ac142db2",
+  "1b2f7c7d4b8fc7b0",
+  "138d56f6f0db46b0",
+  "7529b14307abf64c",
+  "bac82a9f70e13e54",
+  "f851e37f47d3e6b4",
+  "b4d7346e40235132",
+  "6a692ec1aabff2cb",
+  "f275da7534ac1697",
+  "47e8b9f48e4f590d",
+  "f391f506903b600e",
+  "f961182ddced8bc0",
+  "62884c5718e5dbbe",
+  "58b3f4b973327dc4",
+  "0cfe10c901c2a745",
+  "c6fd6f1164b7f2c1",
+  "2587adf04b07d8bd",
+  "0749c19c64e30b46",
+  "d0a6edc61ddeb114",
+  "4eb3cc9421086db5",
+  "9309fd112ad2d494",
+  "7309d2c2848f2ed5",
+  "3e3e048d1b681c2d",
+  "9885603fddec44f6"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795034267.395232,
+ "dernier_passage_actus": 1795037812.610236,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le maire de Madrid refuse de voir la finale de la Coupe du monde 2030 au Maroc (RMC Sport)",
-   "t": 1794768629
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Real Madrid boucle la signature d'un talent ghanéen (Foot-Africa.com)",
-   "t": 1794771241
-  },
   {
    "genre": "actu",
    "resume": "Désiré Doué contraint au forfait avec les Bleus (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le prodige marocain Abdellah Ouazane brille à l'Ajax (Foot Mercato)",
    "t": 1795034333
+  },
+  {
+   "genre": "actu",
+   "resume": "Deco et Bojan affichent les ambitions du Barça pour le mercato (Foot Mercato)",
+   "t": 1795038036
+  },
+  {
+   "genre": "actu",
+   "resume": "Antonio Rüdiger défend fermement Kylian Mbappé face aux critiques (RMC Sport)",
+   "t": 1795038041
   }
  ],
  "matchs": {},
