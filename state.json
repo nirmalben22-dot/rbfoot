@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2446f2886da5f1f3",
-  "02f4a61cb81c47b6",
-  "2f8b9fb431533f40",
-  "4d49e63fbc1dc371",
-  "8fdf545db8b588cf",
-  "714cbd9ee58f6bb9",
-  "a9da8b71e65c44e6",
-  "9501fe8deb150803",
-  "7db2c5a26adb6bc9",
-  "e0215946fa811eca",
-  "4de9336e6d58a603",
-  "1fe5a14df11a2782",
-  "d50e827c3bbd6a99",
-  "d2abb243f7c74a23",
-  "d0848b72bb30a42e",
-  "6cd17f44e191f8c2",
-  "041c78e521b51891",
-  "26c6334a621260c6",
-  "6f2177631557d841",
-  "a7d9c92d11070672",
-  "175aabd01ddf2cfc",
-  "6054db5e1f4c1764",
-  "5adcaf8ce429a48f",
-  "d094305b19ca01a7",
-  "f5ef3aceb3eedcb0",
-  "e8965d2898df991b",
-  "4b26537207994bc2",
-  "1627d2fff74b29e4",
-  "3db05f5de44e5a76",
-  "eaff71a9dce716c9",
-  "414df303acc5cf9b",
-  "e47df767fa4ab480",
-  "287e502d90d6def8",
-  "56a1abe5ce0e695f",
   "ee12187ae993198f",
   "184513dbf55f96ef",
   "f370f23acfa79fb5",
@@ -800,32 +766,56 @@
   "314f468321e3f8db",
   "f6234764924613b2",
   "7d249fbfde70ec2c",
-  "64964ba8ab58a796"
+  "64964ba8ab58a796",
+  "c8f404203183e5ea",
+  "6e6df9e466160e63",
+  "b16b012def29ccc9",
+  "de7bee5853cc905d",
+  "ee1fe917c30577b8",
+  "a83630455afeabea",
+  "1fb2dedb05960931",
+  "630584a009c007be",
+  "5547d8d46864da65",
+  "0e98008238f88bdd",
+  "60d361bd9bdc6bdc",
+  "1d7eaded957bde69",
+  "226873e1b5e13077",
+  "61010a6b68660f7c",
+  "55a8a2249b1ff9e2",
+  "ca2d4589284ffd0d",
+  "f717e47b5ca50654",
+  "72d4c6cbba97c089",
+  "55d3476d7751fb34",
+  "4de1623716f2bb35",
+  "ce63d2d1c69cfc8b",
+  "1ed87a916f6368b5",
+  "0f2571450e8b6eb3",
+  "03f89d83997f216e",
+  "2713e3dfc4c98c7f",
+  "c34bac06eda4b25f",
+  "4407d671d5da2445",
+  "03391bea4e2a4826",
+  "db0d14023570886f",
+  "ee072dd18ab50d50",
+  "9fb3eb7e7a97e78c",
+  "b25629f1af05d79c",
+  "573f661abb625b85",
+  "a90f473403b9d66f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795026930.97107,
+ "dernier_passage_actus": 1795030869.8860312,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Chelsea prépare une offre XXL pour Jules Koundé (Blaugranas.fr)",
-   "t": 1794763405
-  },
-  {
-   "genre": "actu",
-   "resume": "L'AS FAR conserve son titre en Ligue des champions féminine (BBC Sport)",
-   "t": 1794765775
-  },
   {
    "genre": "actu",
    "resume": "Ronaldinho de retour pour un match professionnel officiel (Walfoot.be)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "L'AC Milan surveille de près la situation de Bruno Fernandes (Tribuna.com)",
    "t": 1795027079
+  },
+  {
+   "genre": "actu",
+   "resume": "La fameuse loi Wenger sur le hors-jeu bientôt abandonnée par la FIFA (L'Équipe)",
+   "t": 1795030988
+  },
+  {
+   "genre": "actu",
+   "resume": "Une ancienne joueuse du championnat portugais arrêtée pour blanchiment et trafic (Record)",
+   "t": 1795030994
   }
  ],
  "matchs": {},
