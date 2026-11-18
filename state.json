@@ -1,31 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e2eff5f7d97124f2",
-  "d92d3f11e97724ff",
-  "6ed7f9c4b98fbcd1",
-  "34e34732d93acc0e",
-  "c0b243da620869f2",
-  "ea6479696f11ddd1",
-  "94aa110b41981363",
-  "2084af4c03e331d4",
-  "9ec7cec397816375",
-  "1b5cf106475735ce",
-  "247a94b90a9d4591",
-  "6a873faf79f9b28b",
-  "8e138da40f17e483",
-  "3950669cf076d08f",
-  "66dfe0540ace8233",
-  "0e0661c23effc430",
-  "c1d711220b1081bc",
-  "6b16fd2d1b351d69",
-  "6113369fcbfdfc3f",
-  "2ac502b955644daf",
-  "453634df3266b32a",
-  "ea6513dc0ba6452f",
-  "772f4b8d73af4c1d",
-  "e95b7ace1ac4e1ce",
-  "bef38c1e013ce7d5",
   "be6a02968530a9f5",
   "89a8878c9ec73ad9",
   "66b9c4c300af98d3",
@@ -800,32 +775,47 @@
   "9309fd112ad2d494",
   "7309d2c2848f2ed5",
   "3e3e048d1b681c2d",
-  "9885603fddec44f6"
+  "9885603fddec44f6",
+  "ff7220263f77b785",
+  "aea76c7c8d419114",
+  "5f555228e8274bd1",
+  "210976f1d5062720",
+  "046b83d316e297e3",
+  "54f4f89355a525cf",
+  "2bdeb4dcf548b163",
+  "366e3c7f67482033",
+  "f27b1ef7373fdaca",
+  "9a9d64b96a80ae97",
+  "8aa67c61ca6b234c",
+  "8301a357f78a985a",
+  "c59908759203e199",
+  "cc0ce395de267dce",
+  "07bccfa1ca0de9bc",
+  "92e145329a96eec1",
+  "7c20ddabd0f88b98",
+  "a275ca23f4f29922",
+  "dbe5257e107e980c",
+  "c24d4768636e2eb6",
+  "42c7ee9ecb8feecd",
+  "859dce3efdc18b5c",
+  "702c55cd53d974f9",
+  "2d135330d3104d6d",
+  "159fd703d71d6643"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 23
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 21
+   "n": 22
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795037812.610236,
+ "dernier_passage_actus": 1795041262.2611682,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Désiré Doué contraint au forfait avec les Bleus (L'Équipe)",
-   "t": 1794771246
-  },
-  {
-   "genre": "actu",
-   "resume": "Un doublé historique pour la sélection de Saint Marin (L'Équipe)",
-   "t": 1794773769
-  },
   {
    "genre": "actu",
    "resume": "Joseph Oughourlian dément les tensions internes au RC Lens (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Antonio Rüdiger défend fermement Kylian Mbappé face aux critiques (RMC Sport)",
    "t": 1795038041
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Barça et le Bayern ciblent Aleksey Batrakov (Foot Mercato)",
+   "t": 1795041310
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup de gueule contre le départ de Pierre Sage (RMC Sport)",
+   "t": 1795041316
   }
  ],
  "matchs": {},
