@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "fae45d9dbac34555",
-  "610b7710696e668c",
-  "7a211e5f2fcbe9ca",
-  "8f88779a9a830513",
-  "9d4255ec6918835e",
-  "0b769a457b6812e8",
-  "176a6556ce11a7ef",
-  "3ca2979a3ad2ee15",
-  "b41728c393f33467",
-  "e238db9592ef8833",
-  "3bce3dd8ec9e5884",
-  "fd301f2f98a82293",
-  "9df33a5f73b863f6",
-  "7460d4226913fa64",
-  "19707b57fd841c42",
-  "9c39ff112abae831",
-  "ca9314a82ab10475",
-  "7c9672d58adfd91e",
-  "79a76d421eaa7696",
-  "4b49db779425c353",
-  "b9aa552f11cd8786",
-  "ee6e285da6e2eb86",
-  "b7818ea5a1cdaf87",
-  "9b0ffe406e08d85b",
-  "bb0552fed230ddff",
-  "70cecdecd67201d2",
-  "d6604f9dc3063d6d",
-  "57c100c110f6e2ae",
-  "6993d1e82df5fa81",
-  "43d386c169801084",
-  "43b48390c8cbbdf8",
-  "ed6a7cdb4f688d9a",
-  "a8e31e588707e5ca",
-  "c932ed128b246ce7",
-  "31bca2877d48a9ce",
-  "ea9333d833f116a3",
-  "df65cd6e1b179ceb",
-  "ced482197f2e16f6",
-  "ac2dff931dd272db",
   "87da1094203b8984",
   "ff47071e57fafe58",
   "20dd060828897d86",
@@ -800,32 +761,61 @@
   "d9604e04a11d49e3",
   "81446e8af467ee98",
   "0a2b20743986082b",
-  "a2d90fd626b5312f"
+  "a2d90fd626b5312f",
+  "8077db2f6c8eb976",
+  "3f991da9684352c8",
+  "ae159532339c4273",
+  "34356c30d102765b",
+  "7f3b2c4367d45903",
+  "c87cf189e09d36e0",
+  "3c40d68485447d7b",
+  "da825383d3253987",
+  "fd585944de554866",
+  "ba72894c272f6147",
+  "0f693a43aa768ce8",
+  "8d7440ce2fc44a1e",
+  "ffe8f0d9c5b22404",
+  "e3350bd3082edac3",
+  "1962c25034289d51",
+  "4d2b51536eee3ea0",
+  "13f26d304e4e01b9",
+  "e87ec53fda0e65e5",
+  "ebd7323d1987d474",
+  "736ee6797100b3f4",
+  "b42aca5bc2a2699d",
+  "bfd1ef34a04a9b80",
+  "d7e94f248dfa3d27",
+  "a83ebb62eafbda2b",
+  "ba1f10de6a76a729",
+  "6c755d293640387a",
+  "4bdffe7b7675f6f7",
+  "3467ab983f42f29a",
+  "a1170558163d8bd7",
+  "b044125b0d4f334e",
+  "96b8dfb039cdf0e8",
+  "2e7d75bb0a7c7540",
+  "eace48cda4830efa",
+  "64fde5fef1abc075",
+  "2fb40aba6b24b8b6",
+  "d0331b4fb54a5d11",
+  "1f6f82fe971eaa07",
+  "dc87168ccabc4f06",
+  "35fa4ef4bb2ce65b"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795016382.012213,
+ "dernier_passage_actus": 1795020314.9859679,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Polemique sur les recettes en Coupe de France (RMC Sport)",
-   "t": 1794752952
-  },
-  {
-   "genre": "actu",
-   "resume": "Medhi Benatia dézingue les cadres et le centre de formation de l'OM (RMC Sport)",
-   "t": 1794755776
-  },
   {
    "genre": "actu",
    "resume": "Luis Enrique renonce a remplacer Kvaratskhelia au PSG (Foot Sur 7)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Valérien Ismaël nommé nouvel entraîneur du Havre (L'Équipe)",
    "t": 1795016523
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG propose une prolongation de contrat à Marquinhos (RMC Sport)",
+   "t": 1795020397
+  },
+  {
+   "genre": "actu",
+   "resume": "Lionel Messi en guerre ouverte avec sa fédération (Foot Mercato)",
+   "t": 1795020403
   }
  ],
  "matchs": {},
