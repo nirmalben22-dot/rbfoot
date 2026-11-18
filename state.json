@@ -1,30 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "be0453c10fdbf611",
-  "6850ab5672ddc7cc",
-  "e637361726bed87b",
-  "0581bb7e57739b7d",
-  "c35482286bbecf75",
-  "16deb8f96c698726",
-  "7501f92fd926121a",
-  "1359d58f16d4d512",
-  "a9497623ef721621",
-  "ef9ebc3feace94d2",
-  "2d80b09bb5b44731",
-  "773618d0aaa9ca9b",
-  "de64355e39ddcf87",
-  "bc8ece24a19ae7e5",
-  "525c8d934ec74937",
-  "d7da6a9c0b79d89a",
-  "303e1c4a9e384cb5",
-  "60f40139e39c0b5c",
-  "ef362c815734a0f4",
-  "d44e7c23e0558473",
-  "5e08d90685dd05cc",
-  "4afe8349736685d8",
-  "10bfb20b0607ba08",
-  "0383e2d9e81cf547",
   "c92c3ecfe5577d8b",
   "3b5d8e89d20f9e6b",
   "9ee2542c16767228",
@@ -800,27 +776,46 @@
   "6d71477420910025",
   "cedfd8930d804458",
   "e9add272ab1e619a",
-  "86db5b2bb7e31742"
+  "86db5b2bb7e31742",
+  "33467fc3cbdfafe8",
+  "a8101f52f18e25c1",
+  "25965d8c2ad16fee",
+  "0774f5b47ee0ffb9",
+  "c66cdf2983f3da47",
+  "6652bdbc73b4aab3",
+  "59f5cbcde9822886",
+  "14ce5e32aab2e64d",
+  "ea52d3a58d98efbf",
+  "0e01611e32f1324c",
+  "43db4ec9f242e4b5",
+  "f6c60bdf1176dce5",
+  "0d5d3b47290bdf20",
+  "3e691de72b331103",
+  "f77cc49e491eec01",
+  "1723f4c87096b55e",
+  "a10bd6e378b0c59f",
+  "77ccb91eeef48c96",
+  "40b49f30d644d857",
+  "228e849390387318",
+  "f7e4e3f8c6dbecf8",
+  "a1a9849a6b96d073",
+  "b8cad43440d381f8",
+  "cedfbdbf6ab707d8"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-17",
-   "n": 15
+   "jour": "2026-11-18",
+   "n": 1
   },
   "appels_api_football": {
-   "jour": "2026-11-17",
-   "n": 22
+   "jour": "2026-11-18",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794957296.6856136,
+ "dernier_passage_actus": 1794960433.9960701,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Zinédine Zidane monte au créneau pour défendre son équipe (Foot Mercato)",
-   "t": 1794686369
-  },
   {
    "genre": "actu",
    "resume": "Un hommage vibrant rendu à Cristiano Ronaldo au Portugal (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Arnaud Pouille écarté, tension maximale à Rennes (Foot01)",
    "t": 1794953876
+  },
+  {
+   "genre": "actu",
+   "resume": "David Ornstein écarte un retour de Vinicius Jr à Arsenal (Yahoo Sports)",
+   "t": 1794960482
   }
  ],
  "matchs": {},
