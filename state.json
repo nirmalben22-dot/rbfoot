@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6cd510c4e13df907",
-  "1d2e62ea98fa9c0d",
-  "ff0ef63889aaa5cd",
-  "63bb98cc1b93dda5",
-  "c47d5b8e4b2e033f",
-  "d1d0d119febb186c",
-  "8d33ba253d9a3baa",
-  "a6921afcdd72d0a9",
-  "769035788275d26e",
-  "447e261f56c6b3dc",
   "c83ac9d62d7e6e51",
   "c4fddde732e2d182",
   "008b088e1fb6fb6b",
@@ -800,27 +790,32 @@
   "81db7a7c9a19469a",
   "fbd9011ffaa31543",
   "ebdc1002f6f2e179",
-  "a291dabfb955f90a"
+  "a291dabfb955f90a",
+  "d9ede700ea09b919",
+  "db96d639a58ea872",
+  "697419457a54dfcc",
+  "ac2c5ab5ebcb3aa0",
+  "f0e2304fab926d8d",
+  "e3276c3287d82c82",
+  "8b37617787ce24b4",
+  "26d0ce77ec961f9d",
+  "fb985955fc1ea156",
+  "2b61eab1d62cb31f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794976632.096875,
+ "dernier_passage_actus": 1794980572.9517906,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Mauricio Pochettino tout proche de signer à Manchester United (The New York Times)",
-   "t": 1794717780
-  },
   {
    "genre": "actu",
    "resume": "Pierre Sage s'exprime après son limogeage de Crystal Palace (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Bernardo Silva attristé par son faible temps de jeu (Record)",
    "t": 1794976778
+  },
+  {
+   "genre": "actu",
+   "resume": "Mauricio Pochettino quitte les Etats-Unis pour rejoindre Manchester United (RMC Sport)",
+   "t": 1794980622
   }
  ],
  "matchs": {},
