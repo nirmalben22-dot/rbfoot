@@ -1,25 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c92c3ecfe5577d8b",
-  "3b5d8e89d20f9e6b",
-  "9ee2542c16767228",
-  "d7b9740ecc59c11e",
-  "5d7d9694a21b0fe5",
-  "c8693b2d2aef4f6d",
-  "be0571156ea42965",
-  "c50ba7e48a5b46c5",
-  "a837a5900b3237b4",
-  "9d3e85aaa69b57d2",
-  "136039ee9b34ba64",
-  "4a733ef9828831ab",
-  "3ec099180566a04d",
-  "fac0f594b6f92b06",
-  "0fbb9daa9622f356",
-  "364b85b578b12fee",
-  "72835955423ab2b6",
-  "eb9f929ebad25b74",
-  "d92caac9aa953c7c",
   "37d9e228d8684b7f",
   "8a1b8a63aceaa3c9",
   "c115722cde562800",
@@ -800,32 +781,41 @@
   "f7e4e3f8c6dbecf8",
   "a1a9849a6b96d073",
   "b8cad43440d381f8",
-  "cedfbdbf6ab707d8"
+  "cedfbdbf6ab707d8",
+  "732f318902f7faf9",
+  "0d592e55fe9dc342",
+  "e84125f47581382d",
+  "7426d1e5d1296eca",
+  "61aaed1596fff3cd",
+  "738fbc2c7cbef116",
+  "486c8110ca682bfd",
+  "a94eedbba8c918fd",
+  "3d29d2f1ee234d6f",
+  "cfcd3fc19f5df3cf",
+  "ffbe96c415f64ff9",
+  "3843cd4446f39476",
+  "f1bfaf5e387ad25e",
+  "edf9c15636c7de0f",
+  "379ae3dc25466871",
+  "a0ad65d37e74faa3",
+  "a45924671309f184",
+  "10c48b62956746c8",
+  "7f3c09854d7a5f86"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 1
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794960433.9960701,
+ "dernier_passage_actus": 1794965232.440514,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Un hommage vibrant rendu à Cristiano Ronaldo au Portugal (L'Équipe)",
-   "t": 1794688799
-  },
-  {
-   "genre": "actu",
-   "resume": "Luis de la Fuente répond fermement à Thomas Tuchel (L'Équipe)",
-   "t": 1794704422
-  },
   {
    "genre": "actu",
    "resume": "La sortie ironique de Jorge Jesus sur Cristiano Ronaldo (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "David Ornstein écarte un retour de Vinicius Jr à Arsenal (Yahoo Sports)",
    "t": 1794960482
+  },
+  {
+   "genre": "actu",
+   "resume": "Piero Hincapie en route pour prolonger avec Arsenal (Yahoo Sports)",
+   "t": 1794965454
+  },
+  {
+   "genre": "actu",
+   "resume": "Gary Neville critique Matthijs de Ligt et réclame son départ (Voetbal International)",
+   "t": 1794965459
   }
  ],
  "matchs": {},
