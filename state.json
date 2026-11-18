@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0425c9cf3390392c",
-  "8bd35de504a99db3",
-  "ab4b0e6831c271cf",
-  "07cf894c00486c3e",
-  "991408d224d1ac98",
-  "0fec08cf7115174d",
-  "27bc2f09a6bbe408",
-  "c18df298e78e0df2",
-  "ccbb536e2a16f184",
-  "60a926b8a89761c3",
-  "e1a1f3d93b4067de",
-  "352fcfa7e0f887cc",
-  "93817a5cde62954a",
-  "4d9cc47bbbd7264f",
-  "8f504a23f0001527",
-  "faa11907fe02f1ed",
-  "a550d93af8c6dd9e",
-  "346c740f2cbd2e26",
-  "7bc983c786f56562",
-  "9ba4a9dbd50aa607",
-  "f79bc122392d704a",
-  "669466b90f2966af",
-  "9fe1b23d265b9646",
-  "22c53321acfb3bb9",
-  "6b5bda8c414e3974",
-  "68ae1a1c37edde48",
-  "1ca15beb45a0f4a6",
-  "8078d7ec9de5ba5f",
-  "f68fe6a02f50c710",
   "82338150df3ecaa8",
   "bbd5371660db60fa",
   "cec7aa072115d6a6",
@@ -800,32 +771,51 @@
   "d54af46d3f2fbb5a",
   "884fec3f33331d3c",
   "f57bc7c00a3fc1c1",
-  "58c3ed4017c5056a"
+  "58c3ed4017c5056a",
+  "a55f183fcd5c3400",
+  "b1d0c85874d20a98",
+  "14608130f616540f",
+  "223b7271304f6cb8",
+  "fd528ac0caeeb4a6",
+  "b3e9b083f55e1846",
+  "5c1d70558fdfe391",
+  "68faa89cffccf173",
+  "d775a9e92265a7cc",
+  "a368d472e1681ce0",
+  "b39ff8356cfbe76a",
+  "adee8a76c3e47371",
+  "88736d4ae7948862",
+  "0d86e4bf33beda78",
+  "13f9347fb5efaa88",
+  "a75de8fbb8460acc",
+  "a303299028c9ad51",
+  "7c4e266463468c68",
+  "cbfea7405f9821b7",
+  "691318f7a37c98c6",
+  "091a96bd492580c9",
+  "3174d0ed56476315",
+  "9337b8e54a203cbb",
+  "54c8027b76a71880",
+  "db88265dc1181ddf",
+  "57c16fdb46d982f8",
+  "81fc30797dbd1dad",
+  "2ce5a0e880a772c4",
+  "42ffba09edc9f4e0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 13
+   "n": 14
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795009522.8658495,
+ "dernier_passage_actus": 1795012775.6953857,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le maire de Marseille s en prend a Frank McCourt (RMC Sport)",
-   "t": 1794749957
-  },
-  {
-   "genre": "actu",
-   "resume": "Deux forfaits confirmés dans les rangs de l Algerie (Foot Mercato)",
-   "t": 1794749963
-  },
   {
    "genre": "actu",
    "resume": "Le Stade Rennais vise trois recrues en janvier (But! Football Club)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Juan Mata annonce officiellement la fin de sa carrière (L'Équipe)",
    "t": 1795004631
+  },
+  {
+   "genre": "actu",
+   "resume": "Romelu Lukaku prend sa retraite internationale (RMC Sport)",
+   "t": 1795012854
+  },
+  {
+   "genre": "actu",
+   "resume": "Jude Bellingham fixe ses conditions au Real Madrid (Foot Mercato)",
+   "t": 1795012859
   }
  ],
  "matchs": {},
