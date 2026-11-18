@@ -1,15 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "edac1ea1ede0f191",
-  "cf2d4c209beea0ea",
-  "e8122bd08b91156d",
-  "b862816a48f42a20",
-  "fcfcacf4288201f0",
-  "bf325b31ec30a1d8",
-  "0dadda8a03774a75",
-  "05d80080e2a646b9",
-  "cc8485e124e7a3ce",
   "6cd510c4e13df907",
   "1d2e62ea98fa9c0d",
   "ff0ef63889aaa5cd",
@@ -800,27 +791,31 @@
   "aa8c2cf8a196ece0",
   "eae3055db06a35bb",
   "6c06d61f28155808",
-  "268713e044afef1b"
+  "268713e044afef1b",
+  "d38ad32fba59228f",
+  "5518ee58ee431aa8",
+  "460a162afafacee8",
+  "bee2afa9f7524d18",
+  "983b8bb6e402acef",
+  "81db7a7c9a19469a",
+  "fbd9011ffaa31543",
+  "ebdc1002f6f2e179",
+  "a291dabfb955f90a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794972673.1545606,
+ "dernier_passage_actus": 1794976632.096875,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Bernardo Silva quitte la sélection portugaise sur blessure (Record)",
-   "t": 1794708388
-  },
   {
    "genre": "actu",
    "resume": "Mauricio Pochettino tout proche de signer à Manchester United (The New York Times)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le jeune JJ Gabriel confirme son départ de Manchester United (FotMob)",
    "t": 1794972894
+  },
+  {
+   "genre": "actu",
+   "resume": "Bernardo Silva attristé par son faible temps de jeu (Record)",
+   "t": 1794976778
   }
  ],
  "matchs": {},
