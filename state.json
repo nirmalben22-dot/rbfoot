@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "82338150df3ecaa8",
-  "bbd5371660db60fa",
-  "cec7aa072115d6a6",
-  "82d35d17fb4de3df",
-  "ffa75c36a3e04059",
-  "7b9f385fcb1d9fa2",
-  "390d4f2e5a1b0a0d",
-  "e7f0db7cfc82b441",
-  "c39b40ffbfe847c4",
-  "431f9e7790c03307",
-  "352a7dc7b8311ad9",
-  "4c11f1c00ed4f08f",
-  "85ed6cabd690f1f1",
-  "0d31a3a27cf4f0bb",
-  "73bd9b0c1acda268",
-  "65b978dba4d3638f",
-  "600d92a855cb3595",
-  "1fb970f0a48d8fdc",
-  "8ccd60cf5fb00f65",
-  "67d607b63b99e7cb",
-  "213eae90aae8ad5c",
-  "396e6eca14d4e1c7",
-  "f05338d8d2961e23",
-  "36eab59f62caf381",
-  "973c79978da6cb6f",
-  "8f11377ab5b00d54",
-  "8d791ab761e837eb",
-  "d6f31ca43d989bc7",
-  "70a123ebdbda9cc7",
-  "68d2137aa1b2a8dd",
-  "c390be82154aad37",
-  "b03315a5ca1619cb",
   "fae45d9dbac34555",
   "610b7710696e668c",
   "7a211e5f2fcbe9ca",
@@ -800,27 +768,54 @@
   "57c16fdb46d982f8",
   "81fc30797dbd1dad",
   "2ce5a0e880a772c4",
-  "42ffba09edc9f4e0"
+  "42ffba09edc9f4e0",
+  "39b95fc3c784a9c7",
+  "4c82651c67492493",
+  "a9ae58ae12f6b6ae",
+  "8a6e79a5eea2822d",
+  "a76d4faf5d2b0072",
+  "10c31e6dae599226",
+  "4fa6db2da97f7912",
+  "0bfc1a74951249fd",
+  "305fe25e441ef492",
+  "5392b0e8e9a2960d",
+  "6a66b4d70e9ebd4b",
+  "99519adcb992074d",
+  "2c2e2ec3feaee5b4",
+  "94258c192598a73d",
+  "e075458ca5c68a77",
+  "5022bc6da093f635",
+  "45f4176c05852953",
+  "3b32c555647e0cd4",
+  "225ada4376eb795b",
+  "fa2ad6a63443b1db",
+  "a476856b01af7c52",
+  "0be3220cc015e918",
+  "94e594b940d0b8eb",
+  "503bcd99cd18f178",
+  "566cff46f26ff79f",
+  "3e224b1f53abaa9d",
+  "dfa2926ff6ab9926",
+  "049b2fed3ce15fc7",
+  "d9604e04a11d49e3",
+  "81446e8af467ee98",
+  "0a2b20743986082b",
+  "a2d90fd626b5312f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 10
+   "n": 11
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795012775.6953857,
+ "dernier_passage_actus": 1795016382.012213,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Stade Rennais vise trois recrues en janvier (But! Football Club)",
-   "t": 1794752947
-  },
   {
    "genre": "actu",
    "resume": "Polemique sur les recettes en Coupe de France (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Jude Bellingham fixe ses conditions au Real Madrid (Foot Mercato)",
    "t": 1795012859
+  },
+  {
+   "genre": "actu",
+   "resume": "Valérien Ismaël nommé nouvel entraîneur du Havre (L'Équipe)",
+   "t": 1795016523
   }
  ],
  "matchs": {},
