@@ -1,41 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "87da1094203b8984",
-  "ff47071e57fafe58",
-  "20dd060828897d86",
-  "51c8edcb34501e24",
-  "6ff96f55f090e015",
-  "ef8b040d16efc25a",
-  "c439d218fad807f1",
-  "62f370ce558234c1",
-  "ef9c7af8b210d742",
-  "cea4a5d749b094f1",
-  "3ff0bffbabfbfbf4",
-  "d8d41af8155d7095",
-  "a20a98076085466b",
-  "8ca5470e503adfe5",
-  "743c77252f5d4b93",
-  "568262c962dd5904",
-  "8e396e6c4c2a1995",
-  "19254ba717f65118",
-  "9357b4fdc82ca317",
-  "c3334273824676dd",
-  "994561cc04a54a07",
-  "bc6e38069222d8d5",
-  "fd9da1629f0caddc",
-  "3d93ae4b65d86e1b",
-  "81eefd464ddb42b1",
-  "a36b066abc3d70a5",
-  "cd46f229bf09e39e",
-  "75dfac0f646ff77d",
-  "a352f2fee570d2f4",
-  "31a3f0a9b5b87c02",
-  "dc9e5ece8c858454",
-  "e387068874eb2a78",
-  "9ac81b834ace061e",
-  "c85cb0ca9513d67a",
-  "9153ba00ebf912eb",
   "e0ca6836daa6c68c",
   "4d196c6a666c9fe4",
   "5298865c6793d034",
@@ -800,32 +765,57 @@
   "d0331b4fb54a5d11",
   "1f6f82fe971eaa07",
   "dc87168ccabc4f06",
-  "35fa4ef4bb2ce65b"
+  "35fa4ef4bb2ce65b",
+  "3839fe2d547b5d2c",
+  "478659a20179a5ca",
+  "9dc92d7ed89c9246",
+  "59e12e69c1ebd6dc",
+  "61b86c23a7844a5c",
+  "0086214d5e28b62d",
+  "619422dd45a780df",
+  "b9f554c8218a94bf",
+  "7a9a20d2fbe07ab2",
+  "c34ec3e609fe372c",
+  "1ca31e133b01ef0b",
+  "ddcdbbb3f6b7829f",
+  "fc2b12df5afc3a9b",
+  "4c8f7f4b40d63dcc",
+  "3c3f5fb3cd47a60e",
+  "3c42a63bd10b6403",
+  "727184d4e72206bd",
+  "cde5a01cfa4b2981",
+  "e03a8f93295f10d4",
+  "9e5577062541c1c3",
+  "128afe886aa45593",
+  "4191b8e7121490c1",
+  "ca124abdbc73ce7c",
+  "8c17bc4a37f76157",
+  "e8bf9c03bf465375",
+  "4070af9132fbf881",
+  "d434a895d6b8e72a",
+  "19d63e77d8fc544f",
+  "031faeb272bc1019",
+  "80174068f1bf543d",
+  "5a11bebe54ee6685",
+  "8327d0a961bf58d5",
+  "8c2e3b5bb987d2ab",
+  "edf2ca035351046f",
+  "128715726211181a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795020314.9859679,
+ "dernier_passage_actus": 1795023804.6235588,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Luis Enrique renonce a remplacer Kvaratskhelia au PSG (Foot Sur 7)",
-   "t": 1794758495
-  },
-  {
-   "genre": "actu",
-   "resume": "Liverpool vise un transfert a 70 millions d'euros (CaughtOffside)",
-   "t": 1794758501
-  },
   {
    "genre": "actu",
    "resume": "Didier Digard déjà vers la sortie au RC Lens (But! Football Club)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Lionel Messi en guerre ouverte avec sa fédération (Foot Mercato)",
    "t": 1795020403
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Maroc intègre le top 5 du classement FIFA (L'Équipe)",
+   "t": 1795023856
+  },
+  {
+   "genre": "actu",
+   "resume": "Claude Le Roy démissionne de son poste de sélectionneur (L'Équipe)",
+   "t": 1795023862
   }
  ],
  "matchs": {},
