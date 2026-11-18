@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ee12187ae993198f",
-  "184513dbf55f96ef",
-  "f370f23acfa79fb5",
-  "391ac943a65f6189",
-  "2fc073190059eedf",
-  "d8f2c5096c1c974e",
-  "c073a1461ea8a4e3",
-  "0b1bf062c2d2079b",
-  "13a2427923829980",
-  "dfd43b703fc0372b",
-  "bae1a341e55f1689",
-  "f3ecd195900a46aa",
-  "d4ad538e3199fc24",
-  "5efcb8eb0402fbd8",
-  "1a4d42f90f7af2ae",
-  "f161953fffddc8fd",
-  "37f3985442a3692c",
-  "6fd80d979e66bde4",
-  "7438daa1fbe06d10",
-  "d72d83ce31575ca4",
-  "3725ddb9a0ed1dbf",
-  "84eb48c0d9b90090",
-  "254a54adaa6b1a83",
-  "018de08daff2f897",
-  "81111e8e153a82ca",
-  "93af0ade8586edb0",
-  "df58094915af7885",
-  "5554c9b98adc1f17",
-  "53b1b32f48cfc1b7",
-  "62bb24861f7388b0",
-  "609364fa2dd1abcf",
-  "acf66b86c1dd592b",
-  "d0ac84555d0470b1",
-  "63292cb3fb07150b",
   "19fffdcf796cd605",
   "6085073df9a6f947",
   "916529fbcf3bfad2",
@@ -800,32 +766,56 @@
   "9fb3eb7e7a97e78c",
   "b25629f1af05d79c",
   "573f661abb625b85",
-  "a90f473403b9d66f"
+  "a90f473403b9d66f",
+  "5adcaf8ce429a48f",
+  "fa0c6b9c36f1d040",
+  "922286d6ba900f00",
+  "175aabd01ddf2cfc",
+  "d094305b19ca01a7",
+  "c850fcedf6b9d22e",
+  "a19ab586d10a870b",
+  "b063e08a1fb18e30",
+  "7da88ff5b9f0b564",
+  "a9871096547362c2",
+  "6295ba7e322d68e3",
+  "7bad15294baf5f9a",
+  "5855a8eec2a9448a",
+  "5f7444c291a1fce2",
+  "19f44680ebc74040",
+  "957fac91aca42877",
+  "54e2666384171285",
+  "932ceac082516021",
+  "b28f7b3d1d6ccf80",
+  "f0e4d2a34625167d",
+  "9ea51e621acf5a08",
+  "c91977c5898ffb88",
+  "c3fbc9283c7b34bd",
+  "5ff62ac0e8617005",
+  "5ad2b0dd8f3215c0",
+  "a8da31d8e01a5819",
+  "f7849acc9b3f7ba9",
+  "b7750618e63fc418",
+  "3e1b7a7733eed1c9",
+  "d50e827c3bbd6a99",
+  "720674afbeb3178c",
+  "04824e78761431db",
+  "6be26e0c5c6ccce8",
+  "8b9957bfcb9fd8b3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795030869.8860312,
+ "dernier_passage_actus": 1795034267.395232,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Ronaldinho de retour pour un match professionnel officiel (Walfoot.be)",
-   "t": 1794765781
-  },
-  {
-   "genre": "actu",
-   "resume": "Haaland réagit avec ironie au scandale financier de Manchester City (RMC Sport)",
-   "t": 1794768623
-  },
   {
    "genre": "actu",
    "resume": "Le maire de Madrid refuse de voir la finale de la Coupe du monde 2030 au Maroc (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Une ancienne joueuse du championnat portugais arrêtée pour blanchiment et trafic (Record)",
    "t": 1795030994
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsenal s'apprête à prolonger trois cadres importants (Foot Mercato)",
+   "t": 1795034328
+  },
+  {
+   "genre": "actu",
+   "resume": "Le prodige marocain Abdellah Ouazane brille à l'Ajax (Foot Mercato)",
+   "t": 1795034333
   }
  ],
  "matchs": {},
