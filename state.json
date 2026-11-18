@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4befc8f5d20c41db",
-  "c28a2fd65843c6ba",
-  "cc323d3d57265c29",
-  "a5e6338be9b0012e",
-  "0f10cb5d2acd60c7",
-  "71a592dffbd22d9a",
-  "da827acfa3b5ad00",
   "edac1ea1ede0f191",
   "cf2d4c209beea0ea",
   "e8122bd08b91156d",
@@ -800,27 +793,29 @@
   "6ffa2b5fa25af95e",
   "cc3df683318a8de0",
   "084e063f9b61a3fd",
-  "056b8a1149a08ee5"
+  "056b8a1149a08ee5",
+  "b4bf64f0eee4b70a",
+  "d69d9a43dc4aabbb",
+  "3223fa60f1fc514a",
+  "aa8c2cf8a196ece0",
+  "eae3055db06a35bb",
+  "6c06d61f28155808",
+  "268713e044afef1b"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-18",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-18",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1794969191.826905,
+ "dernier_passage_actus": 1794972673.1545606,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La sortie ironique de Jorge Jesus sur Cristiano Ronaldo (L'Équipe)",
-   "t": 1794704426
-  },
   {
    "genre": "actu",
    "resume": "Bernardo Silva quitte la sélection portugaise sur blessure (Record)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Gary Neville critique Matthijs de Ligt et réclame son départ (Voetbal International)",
    "t": 1794965459
+  },
+  {
+   "genre": "actu",
+   "resume": "Le jeune JJ Gabriel confirme son départ de Manchester United (FotMob)",
+   "t": 1794972894
   }
  ],
  "matchs": {},
