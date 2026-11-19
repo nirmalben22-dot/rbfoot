@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9a4a229feff93430",
-  "173a6c4ffa99408c",
-  "48b59a2556857e3c",
-  "ddab683c1d334c3a",
-  "e9a006407df4eea3",
-  "93f14f6fff26a7af",
-  "21ee5d36920c32e1",
-  "76712a0468a23a74",
-  "3cb3278f6c9a81e8",
-  "72f232f8213eee81",
-  "dbd01cf78b7f90a1",
-  "a37ab1a730ebf8ae",
-  "010b544fe53aafa3",
-  "236af2766f46105b",
-  "f362c0a452f56a8e",
-  "de6c581114d72844",
-  "b2b081d47e61acc4",
-  "b1442a8640cf12e9",
-  "03fe0be7e5e55016",
-  "d9605efbcef9a6a1",
-  "cf3498c859a59e08",
-  "a1d09e88c388d0f0",
-  "49d0121f031298df",
-  "25e98d77ab599b4b",
-  "ad84959f0cc23456",
-  "ae0538752465e251",
-  "63150c58aa5c825e",
-  "52b32d6f68ba4122",
-  "7d21dc375fec0146",
-  "f0bdf704e8bddb3a",
-  "1638c35cb0fe2dca",
-  "a59e47d1f14ed0b5",
-  "826e0ed0a2f17018",
-  "d54af46d3f2fbb5a",
-  "884fec3f33331d3c",
-  "f57bc7c00a3fc1c1",
-  "58c3ed4017c5056a",
   "a55f183fcd5c3400",
   "b1d0c85874d20a98",
   "14608130f616540f",
@@ -800,32 +763,59 @@
   "19a18f6dfe32e4f1",
   "fd5acbfda7b664ae",
   "aeccffad88d2d08b",
-  "a0b49e304ba20483"
+  "a0b49e304ba20483",
+  "533b0533c889c07b",
+  "76bfb6a5f0977afc",
+  "fd57d925d5a506d6",
+  "bd6bce6a86a89c9a",
+  "aac2e6ca32cca91e",
+  "ae699938b0571a22",
+  "3b1020267c74636f",
+  "f1892fdc742a5e8e",
+  "70c1b06750e21ec2",
+  "a40986f959501dca",
+  "b4f368fd5503eb5c",
+  "61138f505bdfdefb",
+  "b6fb1bfd186ac59d",
+  "4a1469ae9b85c1d5",
+  "6bdb4268107c472c",
+  "300d1d5719b0f095",
+  "e56651034c9b9a96",
+  "4649f826a857cd9c",
+  "bf72d23254d61af9",
+  "dbfa4041e15c12a7",
+  "c5a7a7c4cbcb7af0",
+  "a3cfbd78eeed9242",
+  "47a26b5e3c35bc5e",
+  "266033aa819377aa",
+  "38986da4f22ab056",
+  "22be422a3dad89ee",
+  "f00067853322a8fd",
+  "a92dc4069af08136",
+  "f285669b9a46adde",
+  "80be2bc9ff43e83a",
+  "103e1d26c08a060d",
+  "058d618d5a467271",
+  "1f557f30cfc8377f",
+  "78587d924a17ed9c",
+  "762de522e265df26",
+  "cbaab144f2421031",
+  "c2062e85ecf1bd2d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-19",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-19",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795110709.813837,
+ "dernier_passage_actus": 1795114192.7313766,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Tensions électriques entre Romario et Carlo Ancelotti (L'Équipe)",
-   "t": 1794850876
-  },
-  {
-   "genre": "actu",
-   "resume": "Jorge Jesus répond à la mère de Cristiano Ronaldo (L'Équipe)",
-   "t": 1794854188
-  },
   {
    "genre": "actu",
    "resume": "La Juventus tire un trait sur la piste Alisson (Tribuna.com)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Lee Kang-in sacré joueur asiatique de l'année (L'Équipe)",
    "t": 1795110815
+  },
+  {
+   "genre": "actu",
+   "resume": "L'AC Milan prépare une offre de 60 millions pour un attaquant (Foot Mercato)",
+   "t": 1795114245
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour Naples avec la blessure d'Alex Meret (Sky Sport)",
+   "t": 1795114250
   }
  ],
  "matchs": {},
