@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c2a8cf2c58a1ef20",
-  "acf2ed4b4b3a7618",
-  "29fcf329754ad572",
-  "a749975193423c6e",
-  "510a332edbb87890",
-  "d15983e9b69b65b2",
-  "b2f730bb63fc3a84",
-  "148417c22375fae2",
-  "b9e9043faca690db",
-  "79b9f8db2fbb4c85",
   "dbd30f3e5a1c7782",
   "5f5126540b050a62",
   "c00f334887446a13",
@@ -800,32 +790,32 @@
   "cf64b0779e369d80",
   "ad4b4eee40ddbec6",
   "f507b36bc0943c02",
-  "c8519172bbd48c81"
+  "c8519172bbd48c81",
+  "00019e86b2e6bd3c",
+  "84fb7b464cd46754",
+  "660711c43638c987",
+  "39a0835968038b24",
+  "80c2ae420e5dbd1c",
+  "25f72e250da34279",
+  "8299ca05ee938b31",
+  "907d5040d0286c5b",
+  "b050d43a773a5aa9",
+  "17b6265efaf8f9d6"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-19",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-19",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795047982.8984284,
+ "dernier_passage_actus": 1795053024.8679152,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Endrick accusé d'avoir agressé un arbitre avec le Brésil (Foot Mercato)",
-   "t": 1794789682
-  },
-  {
-   "genre": "actu",
-   "resume": "Pio Esposito dépasse le record de précocité de Mario Balotelli (L'Équipe)",
-   "t": 1794789686
-  },
   {
    "genre": "actu",
    "resume": "Quatre cadors de Ligue 1 à la lutte pour une pépite (Sport.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Amadou Onana prolonge son contrat à Aston Villa (Premier League)",
    "t": 1795048053
+  },
+  {
+   "genre": "actu",
+   "resume": "Didier Deschamps vers un retour sensationnel à la Juventus (Sport.fr)",
+   "t": 1795053105
+  },
+  {
+   "genre": "actu",
+   "resume": "Deux nouveaux prétendants s invitent dans le dossier Zambo Anguissa (Sport.fr)",
+   "t": 1795053111
   }
  ],
  "matchs": {},
