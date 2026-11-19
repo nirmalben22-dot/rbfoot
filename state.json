@@ -1,32 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ae159532339c4273",
-  "34356c30d102765b",
-  "7f3b2c4367d45903",
-  "c87cf189e09d36e0",
-  "3c40d68485447d7b",
-  "da825383d3253987",
-  "fd585944de554866",
-  "ba72894c272f6147",
-  "0f693a43aa768ce8",
-  "8d7440ce2fc44a1e",
-  "ffe8f0d9c5b22404",
-  "e3350bd3082edac3",
-  "1962c25034289d51",
-  "4d2b51536eee3ea0",
-  "13f26d304e4e01b9",
-  "e87ec53fda0e65e5",
-  "ebd7323d1987d474",
-  "736ee6797100b3f4",
-  "b42aca5bc2a2699d",
-  "bfd1ef34a04a9b80",
-  "d7e94f248dfa3d27",
-  "a83ebb62eafbda2b",
-  "ba1f10de6a76a729",
-  "6c755d293640387a",
-  "4bdffe7b7675f6f7",
-  "3467ab983f42f29a",
   "a1170558163d8bd7",
   "b044125b0d4f334e",
   "96b8dfb039cdf0e8",
@@ -800,32 +774,48 @@
   "d1cf821b9993156a",
   "e09fee2b89eb4c5d",
   "6c580e44f4dedda6",
-  "b528c7495a08e227"
+  "b528c7495a08e227",
+  "6c25ce2ebea36330",
+  "3cce1deeee9bec08",
+  "c2389d2f14ae4703",
+  "3f991da9684352c8",
+  "3f6366ccc7786be9",
+  "00d7f2ce0e6f949d",
+  "7bc1e49d604ada9f",
+  "db19373b3600e5b4",
+  "ecdddcaaaddd0f9c",
+  "0f78c8d844bbec63",
+  "0937d642de7d2987",
+  "506f38e81d797875",
+  "61657eab92f29e80",
+  "10489af74b610fc2",
+  "73d9e5dd3fdebafb",
+  "ac3b5f9622570176",
+  "28b2fbcdb0fb056f",
+  "0b0cdf8512f37b55",
+  "75eabb8b71ae85a1",
+  "737667bcd45bf930",
+  "9225061293fddd3c",
+  "61cefc2fa1871b70",
+  "e3d519b3134f8088",
+  "fc30264f972c3b72",
+  "b33f1f3fc2da2ab5",
+  "812300599b49209e"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-19",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-19",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795121314.0800524,
+ "dernier_passage_actus": 1795124301.419738,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Declan Rice prolonge son contrat avec Arsenal (Foot Mercato)",
-   "t": 1794864481
-  },
-  {
-   "genre": "actu",
-   "resume": "Strasbourg à la recherche d un nouvel entraîneur (Foot Mercato)",
-   "t": 1794867852
-  },
   {
    "genre": "actu",
    "resume": "Strasbourg pense à Vitor Matos en cas de départ de Hugo Oliveira (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Nouvelle offensive des clubs anglais contre Manchester City (Foot Mercato)",
    "t": 1795121388
+  },
+  {
+   "genre": "actu",
+   "resume": "Real Madrid prêt à rapatrier Nico Paz (Foot Mercato)",
+   "t": 1795124482
+  },
+  {
+   "genre": "actu",
+   "resume": "Andy Delort s engage en 7e division corse (L'Équipe)",
+   "t": 1795124488
   }
  ],
  "matchs": {},
