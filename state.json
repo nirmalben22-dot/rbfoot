@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a55f183fcd5c3400",
-  "b1d0c85874d20a98",
-  "14608130f616540f",
-  "223b7271304f6cb8",
-  "fd528ac0caeeb4a6",
-  "b3e9b083f55e1846",
-  "5c1d70558fdfe391",
-  "68faa89cffccf173",
-  "d775a9e92265a7cc",
-  "a368d472e1681ce0",
-  "b39ff8356cfbe76a",
-  "adee8a76c3e47371",
-  "88736d4ae7948862",
-  "0d86e4bf33beda78",
-  "13f9347fb5efaa88",
-  "a75de8fbb8460acc",
-  "a303299028c9ad51",
-  "7c4e266463468c68",
-  "cbfea7405f9821b7",
-  "691318f7a37c98c6",
-  "091a96bd492580c9",
-  "3174d0ed56476315",
-  "9337b8e54a203cbb",
-  "54c8027b76a71880",
-  "db88265dc1181ddf",
-  "57c16fdb46d982f8",
-  "81fc30797dbd1dad",
-  "2ce5a0e880a772c4",
-  "42ffba09edc9f4e0",
-  "39b95fc3c784a9c7",
-  "4c82651c67492493",
-  "a9ae58ae12f6b6ae",
-  "8a6e79a5eea2822d",
-  "a76d4faf5d2b0072",
-  "10c31e6dae599226",
-  "4fa6db2da97f7912",
   "0bfc1a74951249fd",
   "305fe25e441ef492",
   "5392b0e8e9a2960d",
@@ -800,32 +764,58 @@
   "78587d924a17ed9c",
   "762de522e265df26",
   "cbaab144f2421031",
-  "c2062e85ecf1bd2d"
+  "c2062e85ecf1bd2d",
+  "0448e19d101dea79",
+  "ba77c9346da99d6a",
+  "3186b52906110537",
+  "7aeb1114c9319f85",
+  "515010ebb33fdaee",
+  "c6ee59029827ebfb",
+  "ccd5e46a042de243",
+  "3d43d0825ae18760",
+  "1e5b152db9a1f100",
+  "f08325046c1c7e1c",
+  "ac44fa4fbcbecba9",
+  "26edecc4da77d25a",
+  "398384699ff236f6",
+  "6373c5166d84adbf",
+  "1348b062ba1f300a",
+  "258a618135fbfc0a",
+  "8beddb709ba85bfe",
+  "0eba453f90e0ced1",
+  "e0c115adf4a40010",
+  "615365cceec40896",
+  "6a3f3646ab8ea6f6",
+  "7efd39c0d72ab527",
+  "7786cd73aa3b09be",
+  "b74029cec14d24ce",
+  "7733632aca28e700",
+  "cbb87cb49cf83719",
+  "d54d7de1638a270d",
+  "36bdbea719f17b49",
+  "794a2eb96489420b",
+  "a6affe3148a17002",
+  "ed738ab66d520527",
+  "d7453f1914db2b2e",
+  "c9153b4f31185ddd",
+  "f50fd13fd3d6cc49",
+  "85afbf0748bdc954",
+  "d0ed23f7a371e9a6"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-19",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-19",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795114192.7313766,
+ "dernier_passage_actus": 1795118039.7137754,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La Juventus tire un trait sur la piste Alisson (Tribuna.com)",
-   "t": 1794854193
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour le Bayern avec la blessure d Alphonso Davies (L'Équipe)",
-   "t": 1794857995
-  },
   {
    "genre": "actu",
    "resume": "Folarin Balogun proposé à deux cadors européens (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Coup dur pour Naples avec la blessure d'Alex Meret (Sky Sport)",
    "t": 1795114250
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour Monaco et Aleksandr Golovin (Foot Mercato)",
+   "t": 1795118172
+  },
+  {
+   "genre": "actu",
+   "resume": "Paris Brunner vers une prolongation à Monaco (L'Équipe)",
+   "t": 1795118177
   }
  ],
  "matchs": {},
