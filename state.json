@@ -1,33 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0bfc1a74951249fd",
-  "305fe25e441ef492",
-  "5392b0e8e9a2960d",
-  "6a66b4d70e9ebd4b",
-  "99519adcb992074d",
-  "2c2e2ec3feaee5b4",
-  "94258c192598a73d",
-  "e075458ca5c68a77",
-  "5022bc6da093f635",
-  "45f4176c05852953",
-  "3b32c555647e0cd4",
-  "225ada4376eb795b",
-  "fa2ad6a63443b1db",
-  "a476856b01af7c52",
-  "0be3220cc015e918",
-  "94e594b940d0b8eb",
-  "503bcd99cd18f178",
-  "566cff46f26ff79f",
-  "3e224b1f53abaa9d",
-  "dfa2926ff6ab9926",
-  "049b2fed3ce15fc7",
-  "d9604e04a11d49e3",
-  "81446e8af467ee98",
-  "0a2b20743986082b",
-  "a2d90fd626b5312f",
-  "8077db2f6c8eb976",
-  "3f991da9684352c8",
   "ae159532339c4273",
   "34356c30d102765b",
   "7f3b2c4367d45903",
@@ -800,32 +773,49 @@
   "c9153b4f31185ddd",
   "f50fd13fd3d6cc49",
   "85afbf0748bdc954",
-  "d0ed23f7a371e9a6"
+  "d0ed23f7a371e9a6",
+  "aa3972759c7410f5",
+  "1a7ada472ee33938",
+  "5e10839c07ec4b02",
+  "8b8d2f74fc0214d4",
+  "823b9a0b9953952b",
+  "e8968f91f23f2af7",
+  "decf2a9cda772862",
+  "fa1e8ec39765bd5a",
+  "304da30fea9f1e46",
+  "1616e3819492d331",
+  "efa621bdc2ac2d97",
+  "40bf4006ea345195",
+  "5b0daec149a69942",
+  "2de8a3c3b5effb74",
+  "a32a5cee7d8cfc48",
+  "0013ca477bfe6708",
+  "47a98dd73936db66",
+  "dbb9d7770d2e32e4",
+  "6b7ef29f06d76447",
+  "1938462d172bb78f",
+  "59d31331964b4806",
+  "21670f618f688821",
+  "0d842395036c23e4",
+  "d1cf821b9993156a",
+  "e09fee2b89eb4c5d",
+  "6c580e44f4dedda6",
+  "b528c7495a08e227"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-19",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-19",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795118039.7137754,
+ "dernier_passage_actus": 1795121314.0800524,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Folarin Balogun proposé à deux cadors européens (Foot Mercato)",
-   "t": 1794861160
-  },
-  {
-   "genre": "actu",
-   "resume": "Le Real Madrid refroidi par le comportement de Michael Olise (Foot Mercato)",
-   "t": 1794861165
-  },
   {
    "genre": "actu",
    "resume": "Declan Rice prolonge son contrat avec Arsenal (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Paris Brunner vers une prolongation à Monaco (L'Équipe)",
    "t": 1795118177
+  },
+  {
+   "genre": "actu",
+   "resume": "Corentin Tolisso tacle sévèrement Paulo Fonseca (Foot Mercato)",
+   "t": 1795121382
+  },
+  {
+   "genre": "actu",
+   "resume": "Nouvelle offensive des clubs anglais contre Manchester City (Foot Mercato)",
+   "t": 1795121388
   }
  ],
  "matchs": {},
