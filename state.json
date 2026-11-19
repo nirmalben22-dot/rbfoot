@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "80174068f1bf543d",
-  "5a11bebe54ee6685",
-  "8327d0a961bf58d5",
-  "8c2e3b5bb987d2ab",
-  "edf2ca035351046f",
-  "128715726211181a",
-  "c42e4c9e68592228",
-  "3a794eb7f0a4f85d",
-  "0deafb8d259e956f",
-  "ecf31be99104c2e4",
-  "59c0ad40eca895ac",
-  "7f83791eaeb6d4d2",
-  "ade192979751b2ef",
-  "c363f5b9ada60905",
-  "d385f2992107d0dd",
-  "679ca388c331ad95",
-  "8194c399cae608d5",
-  "ef1d039dc958c413",
-  "919c7323aa888bf0",
-  "4423f1fc66be61e5",
-  "5dfca89178d931f8",
-  "f614c0ed836314d1",
-  "3f8ede2ec6d294d3",
-  "3e35cfb86d86352b",
-  "9bbb05c90b4ba610",
-  "7aaa58dc4af818f9",
-  "d676ccf443599a9a",
-  "49bb32fc49f4d60e",
-  "64a0301aa4db9021",
-  "6601f6c38fb09370",
-  "66ce3b77c7b711ff",
-  "c519a10dc13ca569",
-  "c2b583b05942f5f7",
   "314f468321e3f8db",
   "f6234764924613b2",
   "7d249fbfde70ec2c",
@@ -800,32 +767,55 @@
   "a823d8c3676f1680",
   "b7999cd608f0616b",
   "d4917d258623b033",
-  "608cc86809cc0498"
+  "608cc86809cc0498",
+  "fb4fad6a6a799106",
+  "237a8e4858848607",
+  "44646829323d1b70",
+  "44e7e923512d0a54",
+  "f432fc6bc973ab81",
+  "d6bdcdd54d6942dd",
+  "b50557f1c7b8155f",
+  "bfb32849d8d1327d",
+  "56d0a4aa9d34cf48",
+  "efcd8a5d65cdd3a1",
+  "fecdcbc1043b3315",
+  "951c09f031af1c96",
+  "f16d55fdea322a69",
+  "fc65fcc4f36f90e5",
+  "29f7ce914dc7d5fe",
+  "cf84560e88b934e0",
+  "176a6556ce11a7ef",
+  "cfbd479fd1ae2f81",
+  "170fd5f6726173fa",
+  "8ad76b175a510243",
+  "9068874cc9ecf9b4",
+  "b9dfe9e6f1d68f16",
+  "9b6095b7b28a28a6",
+  "75165c07e91dcc43",
+  "7f49034d27bdc9f8",
+  "5caa4ad7a4652fd5",
+  "042dfc012b0c30d3",
+  "c1999868ffe4a864",
+  "1f6f82fe971eaa07",
+  "29a50a1eb40a80cf",
+  "394fb61df3c24542",
+  "c92efb4811f3fa45",
+  "d733a164ea2da296"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-19",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-19",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795127556.3587973,
+ "dernier_passage_actus": 1795130609.4554915,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Daniel Bragança tout proche de rejoindre le Torino (Record)",
-   "t": 1794877599
-  },
-  {
-   "genre": "actu",
-   "resume": "Thomas Frank officiellement nommé entraîneur de Crystal Palace (Premier League)",
-   "t": 1794893047
-  },
   {
    "genre": "actu",
    "resume": "Coup dur pour le Sporting avec deux joueurs blessés en sélection (Record)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le FC Barcelone cible Lisandro Martinez (BBC Sport)",
    "t": 1795127629
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG prépare une grande vague de prolongations pour ses cadres (Foot Mercato)",
+   "t": 1795130682
+  },
+  {
+   "genre": "actu",
+   "resume": "Lucas Chevalier n'a pas demandé à quitter le PSG cet hiver (Foot Mercato)",
+   "t": 1795130687
   }
  ],
  "matchs": {},
