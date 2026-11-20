@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a40986f959501dca",
-  "b4f368fd5503eb5c",
-  "61138f505bdfdefb",
-  "b6fb1bfd186ac59d",
-  "4a1469ae9b85c1d5",
-  "6bdb4268107c472c",
-  "300d1d5719b0f095",
-  "e56651034c9b9a96",
-  "4649f826a857cd9c",
-  "bf72d23254d61af9",
-  "dbfa4041e15c12a7",
-  "c5a7a7c4cbcb7af0",
-  "a3cfbd78eeed9242",
-  "47a26b5e3c35bc5e",
-  "266033aa819377aa",
-  "38986da4f22ab056",
-  "22be422a3dad89ee",
-  "f00067853322a8fd",
-  "a92dc4069af08136",
-  "f285669b9a46adde",
-  "80be2bc9ff43e83a",
-  "103e1d26c08a060d",
-  "058d618d5a467271",
-  "1f557f30cfc8377f",
-  "78587d924a17ed9c",
-  "762de522e265df26",
-  "cbaab144f2421031",
-  "c2062e85ecf1bd2d",
-  "0448e19d101dea79",
-  "ba77c9346da99d6a",
   "3186b52906110537",
   "7aeb1114c9319f85",
   "515010ebb33fdaee",
@@ -800,32 +770,52 @@
   "29625a31cdaae86b",
   "fc100544243f1c9d",
   "efee5fafac88b913",
-  "c229f087c1d062bd"
+  "c229f087c1d062bd",
+  "26c9e181338a3198",
+  "0a3fd4c4b1d83efa",
+  "31aa63575a9ebfdc",
+  "533b0533c889c07b",
+  "4f3ed0206ddf45d8",
+  "522695f394d6c128",
+  "4784361ce60991f6",
+  "670785a37e57c80c",
+  "e501eee4250ce7b3",
+  "2cd416d72c094571",
+  "5e5b16a369b357a8",
+  "dcafc5d50eb1207a",
+  "c5e12c1d4238e1cd",
+  "8af1f6eb465e0f05",
+  "cd4643a1623fceef",
+  "e59b94ec75b4846c",
+  "f83b890dddd4f5b1",
+  "2ab1a86037a1431e",
+  "c5910effebe46175",
+  "28a6ff8f59cc703c",
+  "0fad17f23d9a82a1",
+  "d01934cd4fbac468",
+  "3d90a82483b5f7c8",
+  "6568243487813136",
+  "0e93b97867783d97",
+  "1efbe645c79c1282",
+  "b4c3f666954744e4",
+  "7cffe193ec8aed1d",
+  "19a18f6dfe32e4f1",
+  "ab141841b87b359d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795206859.2228203,
+ "dernier_passage_actus": 1795210081.453306,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arda Güler prolonge au Real Madrid jusqu en 2032 (L'Équipe)",
-   "t": 1795004626
-  },
-  {
-   "genre": "actu",
-   "resume": "Juan Mata annonce officiellement la fin de sa carrière (L'Équipe)",
-   "t": 1795004631
-  },
   {
    "genre": "actu",
    "resume": "Romelu Lukaku prend sa retraite internationale (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Alejandro Balde pousse vers la sortie au FC Barcelone (Foot Mercato)",
    "t": 1795206935
+  },
+  {
+   "genre": "actu",
+   "resume": "Virgil van Dijk laisse planer le doute sur son avenir à Liverpool (Sky Sports)",
+   "t": 1795210149
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur pour le Bayern Munich avec la blessure de Michael Olise (Foot Mercato)",
+   "t": 1795210154
   }
  ],
  "matchs": {},
