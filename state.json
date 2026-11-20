@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d094305b19ca01a7",
-  "c850fcedf6b9d22e",
-  "a19ab586d10a870b",
-  "b063e08a1fb18e30",
-  "7da88ff5b9f0b564",
-  "a9871096547362c2",
-  "6295ba7e322d68e3",
   "7bad15294baf5f9a",
   "5855a8eec2a9448a",
   "5f7444c291a1fce2",
@@ -800,27 +793,29 @@
   "2fb40aba6b24b8b6",
   "677d940ff8047ce3",
   "906487067fec108a",
-  "03f7ddde613d91a9"
+  "03f7ddde613d91a9",
+  "9c4291ed676e46ec",
+  "aa34e1e007918c83",
+  "1c75edf3d6645458",
+  "ba7765b6de1b8d81",
+  "8e0335c7baf42e6c",
+  "c69e0a86d7709e3e",
+  "94c2e9143653c3d0"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795145276.352634,
+ "dernier_passage_actus": 1795149171.8358612,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Wissam Ben Yedder signe dans un club de Ligue 3 (Foot Mercato)",
-   "t": 1794927991
-  },
   {
    "genre": "actu",
    "resume": "Vitor Matos attendu pour s'installer sur le banc de Strasbourg (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Arsenal cible Carlos Forbs pour le mercato (roundtable.io)",
    "t": 1795142102
+  },
+  {
+   "genre": "actu",
+   "resume": "Grand ménage sur les bancs de Ligue 1 cette saison (L'Équipe)",
+   "t": 1795149308
   }
  ],
  "matchs": {},
