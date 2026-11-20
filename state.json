@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "efa621bdc2ac2d97",
-  "40bf4006ea345195",
-  "5b0daec149a69942",
-  "2de8a3c3b5effb74",
-  "a32a5cee7d8cfc48",
-  "0013ca477bfe6708",
-  "47a98dd73936db66",
-  "dbb9d7770d2e32e4",
-  "6b7ef29f06d76447",
-  "1938462d172bb78f",
-  "59d31331964b4806",
-  "21670f618f688821",
-  "0d842395036c23e4",
-  "d1cf821b9993156a",
-  "e09fee2b89eb4c5d",
-  "6c580e44f4dedda6",
-  "b528c7495a08e227",
-  "6c25ce2ebea36330",
-  "3cce1deeee9bec08",
-  "c2389d2f14ae4703",
-  "3f991da9684352c8",
-  "3f6366ccc7786be9",
-  "00d7f2ce0e6f949d",
-  "7bc1e49d604ada9f",
-  "db19373b3600e5b4",
-  "ecdddcaaaddd0f9c",
-  "0f78c8d844bbec63",
-  "0937d642de7d2987",
-  "506f38e81d797875",
-  "61657eab92f29e80",
-  "10489af74b610fc2",
-  "73d9e5dd3fdebafb",
-  "ac3b5f9622570176",
-  "28b2fbcdb0fb056f",
   "0b0cdf8512f37b55",
   "75eabb8b71ae85a1",
   "737667bcd45bf930",
@@ -800,27 +766,56 @@
   "3f07657fcc8b566c",
   "43a415f9e8a6b9d9",
   "ef4226aa940ff66f",
-  "b5dbb2eec732ff36"
+  "b5dbb2eec732ff36",
+  "dd9132e72c1ed0d9",
+  "2663990a0851a621",
+  "764c47979850c180",
+  "3e6857e2548ba32d",
+  "dfd3634694a31bdb",
+  "908f989815d26661",
+  "aa3972759c7410f5",
+  "d166625b81235d73",
+  "8cf303bc64d79ed0",
+  "d7e33994a2c41d89",
+  "753e43858d1432ab",
+  "a5debd3d0856b441",
+  "730ab9ba85b21a98",
+  "d8917d6cb60a19ca",
+  "de62ae889605b57b",
+  "61ee9bb7be46fa0d",
+  "fa2bd4737b73d1f5",
+  "fb2188262d8bd0b2",
+  "159c8e7c0e354807",
+  "b43bc13eb95aac4a",
+  "7482ec34374bf3b6",
+  "942a863167f3f814",
+  "81cf6adfe64a18c2",
+  "ebeed437bdaa237a",
+  "8e8329c171aa7b31",
+  "ab97e349e3bf1015",
+  "171ac22032b2ba86",
+  "e48259dc7fa16260",
+  "525e5cb78032292a",
+  "3d70094eb0ced784",
+  "b1489814b07655af",
+  "d0ed23f7a371e9a6",
+  "fafc4c591316c35c",
+  "477155141e7f43e4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 22
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795213360.6704361,
+ "dernier_passage_actus": 1795216503.8367395,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Valérien Ismaël nommé nouvel entraîneur du Havre (L'Équipe)",
-   "t": 1795016523
-  },
   {
    "genre": "actu",
    "resume": "Le PSG propose une prolongation de contrat à Marquinhos (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Mykhailo Mudryk accuse Andriy Shevchenko de mentir (BBC Sport)",
    "t": 1795213506
+  },
+  {
+   "genre": "actu",
+   "resume": "Coup dur au Bayern : Harry Kane absent plusieurs mois (RMC Sport)",
+   "t": 1795216605
   }
  ],
  "matchs": {},
