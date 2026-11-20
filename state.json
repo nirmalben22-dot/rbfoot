@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ebe40cc7ec898d70",
-  "44aa269dbaa9c6bc",
-  "c09da8ae438fa3ed",
-  "7fbedcebf3a7acfd",
-  "64126926d32fcd1c",
-  "2e46e14d9a328d95",
-  "de9edfefc7ef2254",
-  "6d1c0071650ed055",
-  "081b42195fca6c59",
-  "ff806fc7a970de56",
-  "ba840208155fdebd",
-  "8b025efdeb24daf2",
-  "e22ca3debce071a1",
-  "acb9dfe0a1664d24",
-  "697aef73cb8e3bd0",
-  "901c41d86c027d27",
-  "a16d9e6987808f89",
-  "d9b24f0bd155c779",
-  "57b55ed3f72299f3",
-  "06d479b9f5776429",
-  "19a18f6dfe32e4f1",
-  "fd5acbfda7b664ae",
-  "aeccffad88d2d08b",
-  "a0b49e304ba20483",
-  "533b0533c889c07b",
-  "76bfb6a5f0977afc",
-  "fd57d925d5a506d6",
-  "bd6bce6a86a89c9a",
-  "aac2e6ca32cca91e",
-  "ae699938b0571a22",
-  "3b1020267c74636f",
-  "f1892fdc742a5e8e",
-  "70c1b06750e21ec2",
   "a40986f959501dca",
   "b4f368fd5503eb5c",
   "61138f505bdfdefb",
@@ -800,32 +767,55 @@
   "90d6149f5d4c113a",
   "90244b6c87bf79b9",
   "0e72242368e0437f",
-  "fb6ca057f901193a"
+  "fb6ca057f901193a",
+  "4b1d4820fa29a7f9",
+  "7f18a67431614c8b",
+  "88f4af0d848fba3b",
+  "06a41aeb98b0a61e",
+  "99f66197a59a9b32",
+  "3173e0d508faadb5",
+  "c86c4f7ee8718de9",
+  "8a6cea8e82d2896c",
+  "911901f6115dbf43",
+  "9361c82e45bb39a0",
+  "f4c819fc006f4cf6",
+  "9e457eae6be03491",
+  "2060ef7ad1c06ae3",
+  "fc64a7bece537308",
+  "e4c2494312e1021d",
+  "047b33c99c8110ca",
+  "4023f3a4d6f94355",
+  "5ff542d72c5470f5",
+  "62c3dffee82b17fd",
+  "b450dde5fd6bbaa1",
+  "1c80aed05f6ebaa1",
+  "a1a71b6594a2184e",
+  "b51d836ccef01563",
+  "8970bf90a12bf832",
+  "5b3788c2f9cad7f0",
+  "6aad5eebf928698f",
+  "0a614c9f6644d7d8",
+  "bfe80bbee1518cf6",
+  "315688ae5910bd51",
+  "29625a31cdaae86b",
+  "fc100544243f1c9d",
+  "efee5fafac88b913",
+  "c229f087c1d062bd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795203905.3083956,
+ "dernier_passage_actus": 1795206859.2228203,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Bernardo Silva attristé par son faible temps de jeu (Record)",
-   "t": 1794976778
-  },
-  {
-   "genre": "actu",
-   "resume": "Mauricio Pochettino quitte les Etats-Unis pour rejoindre Manchester United (RMC Sport)",
-   "t": 1794980622
-  },
   {
    "genre": "actu",
    "resume": "Arda Güler prolonge au Real Madrid jusqu en 2032 (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Ismaïla Sarr tourne la page de l intérêt de Liverpool (BBC Sport)",
    "t": 1795204022
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane blesse a la cheville avant d affronter Lille (RMC Sport)",
+   "t": 1795206931
+  },
+  {
+   "genre": "actu",
+   "resume": "Alejandro Balde pousse vers la sortie au FC Barcelone (Foot Mercato)",
+   "t": 1795206935
   }
  ],
  "matchs": {},
