@@ -1,23 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "61010a6b68660f7c",
-  "55a8a2249b1ff9e2",
-  "ca2d4589284ffd0d",
-  "f717e47b5ca50654",
-  "72d4c6cbba97c089",
-  "55d3476d7751fb34",
-  "4de1623716f2bb35",
-  "ce63d2d1c69cfc8b",
-  "1ed87a916f6368b5",
-  "0f2571450e8b6eb3",
-  "03f89d83997f216e",
-  "2713e3dfc4c98c7f",
-  "c34bac06eda4b25f",
-  "4407d671d5da2445",
-  "03391bea4e2a4826",
-  "db0d14023570886f",
-  "ee072dd18ab50d50",
   "9fb3eb7e7a97e78c",
   "b25629f1af05d79c",
   "573f661abb625b85",
@@ -800,27 +783,39 @@
   "40265c6f8d6d2f75",
   "3a7e640dc006e034",
   "2ee8bd4e40b809e5",
-  "0b65e3a004549a2d"
+  "0b65e3a004549a2d",
+  "ef4b199c140be9e6",
+  "a5751edea4f04ff3",
+  "09bada05d9e887fb",
+  "08c6aa2eb76bea46",
+  "05d236ea08564d2a",
+  "3d8f9fb8749d722a",
+  "b02b64b9bfff5e41",
+  "4f623d7db49fad95",
+  "c01af2fadded8719",
+  "ad359e85f4a73e80",
+  "38b2475eb0e58b93",
+  "f6234764924613b2",
+  "75cc6b60fbfec9d2",
+  "198c588ef8ec5a64",
+  "6ea4897457bf0aea",
+  "0c8bd92874ff4bbf",
+  "24d9dcc3a84aaf6c"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-19",
-   "n": 23
+   "jour": "2026-11-20",
+   "n": 1
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795133589.0529563,
+ "dernier_passage_actus": 1795138320.2003837,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour le Sporting avec deux joueurs blessés en sélection (Record)",
-   "t": 1794893052
-  },
   {
    "genre": "actu",
    "resume": "Layvin Kurzawa annonce la fin de sa carrière de joueur (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Lucas Chevalier n'a pas demandé à quitter le PSG cet hiver (Foot Mercato)",
    "t": 1795130687
+  },
+  {
+   "genre": "actu",
+   "resume": "LE PRODIGE JJ GABRIEL EN ROUTE POUR LE REAL MADRID (Sport.fr)",
+   "t": 1795138460
   }
  ],
  "matchs": {},
