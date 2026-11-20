@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "9fb3eb7e7a97e78c",
-  "b25629f1af05d79c",
-  "573f661abb625b85",
-  "a90f473403b9d66f",
-  "5adcaf8ce429a48f",
-  "fa0c6b9c36f1d040",
-  "922286d6ba900f00",
-  "175aabd01ddf2cfc",
   "d094305b19ca01a7",
   "c850fcedf6b9d22e",
   "a19ab586d10a870b",
@@ -800,32 +792,30 @@
   "198c588ef8ec5a64",
   "6ea4897457bf0aea",
   "0c8bd92874ff4bbf",
-  "24d9dcc3a84aaf6c"
+  "24d9dcc3a84aaf6c",
+  "4580188859c203d4",
+  "0f27b15972a73b63",
+  "a38edded604efa55",
+  "071fa988f7d7b9c7",
+  "2fb40aba6b24b8b6",
+  "677d940ff8047ce3",
+  "906487067fec108a",
+  "03f7ddde613d91a9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 1
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795138320.2003837,
+ "dernier_passage_actus": 1795141956.5690017,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Layvin Kurzawa annonce la fin de sa carrière de joueur (L'Équipe)",
-   "t": 1794924624
-  },
-  {
-   "genre": "actu",
-   "resume": "Les confidences poignantes de Wayne Rooney sur sa carrière (L'Équipe)",
-   "t": 1794927986
-  },
   {
    "genre": "actu",
    "resume": "Wissam Ben Yedder signe dans un club de Ligue 3 (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "LE PRODIGE JJ GABRIEL EN ROUTE POUR LE REAL MADRID (Sport.fr)",
    "t": 1795138460
+  },
+  {
+   "genre": "actu",
+   "resume": "Un absent longue durée et un départ à Manchester United (Sport.fr)",
+   "t": 1795142097
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsenal cible Carlos Forbs pour le mercato (roundtable.io)",
+   "t": 1795142102
   }
  ],
  "matchs": {},
