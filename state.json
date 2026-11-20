@@ -1,22 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7bad15294baf5f9a",
-  "5855a8eec2a9448a",
-  "5f7444c291a1fce2",
-  "19f44680ebc74040",
-  "957fac91aca42877",
-  "54e2666384171285",
-  "932ceac082516021",
-  "b28f7b3d1d6ccf80",
-  "f0e4d2a34625167d",
-  "9ea51e621acf5a08",
-  "c91977c5898ffb88",
-  "c3fbc9283c7b34bd",
-  "5ff62ac0e8617005",
-  "5ad2b0dd8f3215c0",
-  "a8da31d8e01a5819",
-  "f7849acc9b3f7ba9",
   "b7750618e63fc418",
   "3e1b7a7733eed1c9",
   "d50e827c3bbd6a99",
@@ -800,27 +784,38 @@
   "ba7765b6de1b8d81",
   "8e0335c7baf42e6c",
   "c69e0a86d7709e3e",
-  "94c2e9143653c3d0"
+  "94c2e9143653c3d0",
+  "5d0daaaa29b74180",
+  "00c79eb44d231f3b",
+  "7c9c258d8e76e4d9",
+  "d8cc24be350a42a6",
+  "e3c7a01151248846",
+  "1690df5da2d02872",
+  "c4b42eb5b7d851a2",
+  "33dd66bb136cc8b1",
+  "6fda58630bd274c0",
+  "aa0f540f590616df",
+  "b077807ceb46d9a9",
+  "56f961d0dc427c62",
+  "1edd1d5a8753f586",
+  "bf11d853091554ac",
+  "24c7cc4e6763486d",
+  "b9e24eafee00a8d6"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795149171.8358612,
+ "dernier_passage_actus": 1795153176.1850402,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Vitor Matos attendu pour s'installer sur le banc de Strasbourg (Foot Mercato)",
-   "t": 1794939051
-  },
   {
    "genre": "actu",
    "resume": "Rothen tacle sévèrement l'attitude de Kylian Mbappé (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Grand ménage sur les bancs de Ligue 1 cette saison (L'Équipe)",
    "t": 1795149308
+  },
+  {
+   "genre": "actu",
+   "resume": "Eli Junior Kroupi dans le viseur du PSG pour l'été prochain (RMC Sport)",
+   "t": 1795153308
   }
  ],
  "matchs": {},
