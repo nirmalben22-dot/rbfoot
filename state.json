@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f1967b7ffe3c9ee1",
-  "49d437365b85fb72",
-  "c5b53baf36177e28",
-  "24a8642663a7b44c",
-  "938bdf1193470139",
-  "418736ca649e551c",
-  "86a42cceaee17801",
-  "75aacf3caf3f768e",
-  "c6d8e9b11131e19d",
-  "702b83daa8f1a4d9",
-  "7b8d15d1ae6b5a2f",
-  "a5e20684cd73988f",
-  "211a4629149649d4",
-  "7404f92d29514bcc",
-  "a9fb2302270fc1ad",
-  "f88266a2a5069981",
-  "bee234491b5d39b7",
-  "9dfeead5e1f40786",
-  "3de985825bb35433",
-  "e79ff8ce765d79a3",
-  "bdea81050f0b7511",
-  "d5e2fc43108f3435",
-  "7ae00c2611feaa80",
-  "248a2065227ee3f6",
-  "7f3d638170cff2f6",
-  "641bcfa1c31b9b6a",
-  "7b9313c32740caf7",
-  "b113267f1f89fc09",
-  "d9fac03ded655144",
-  "130395562142ab2a",
-  "c796593ea2203359",
-  "e25bc4ac6bcb4a32",
-  "944777cd78a261a6",
-  "3d079c6be0bb5e19",
-  "0aa9b45cd875cbe6",
-  "3a940251767ffd7d",
-  "a82c92ef9a4bf389",
-  "930668bb6b74aed4",
-  "601d6579250415cd",
   "0b92103d45464b04",
   "b476499941e3c545",
   "0b669654898f17e0",
@@ -800,32 +761,61 @@
   "ce7fc8688befdccc",
   "a8a3b88421c503f4",
   "e23787e51331f563",
-  "5a1339dc787b11ee"
+  "5a1339dc787b11ee",
+  "d2c02444e8865ba5",
+  "3b24402c28a7f368",
+  "0419f7754575fb66",
+  "da092473e6fde791",
+  "4f802a353b435a4e",
+  "c4996ccf94a2b532",
+  "d087f57e58a43970",
+  "d07adf411c818589",
+  "73e0c382b103ef34",
+  "5c5a0ffa314f5f99",
+  "8430d60ee84e93d5",
+  "f1dfe0727084cf11",
+  "3fc8cb671ea19264",
+  "6c418702c164faf7",
+  "fdffcaac14aa8bb9",
+  "648b500b8d8408c8",
+  "d03573803d5f4ae6",
+  "ca0690d7aceb1d38",
+  "17b9ca8ffdf61aa2",
+  "a8d966f0824c3590",
+  "4d9ebaca9efcfe1f",
+  "32d6041bf4554910",
+  "bfdf16ebeafd95a6",
+  "01404e8190cefb42",
+  "19ab6f09b041f691",
+  "700c77019594ef88",
+  "2a9f7242a7e2ad8b",
+  "71554dd3c928d971",
+  "72c306eb71d63ec8",
+  "5bdafb27e77e8a3a",
+  "9b343edf36c38d67",
+  "6e06e6cb3f06ba06",
+  "40d9354144ceeaae",
+  "9714da672be0c54f",
+  "084e063f9b61a3fd",
+  "1227b4907b68656b",
+  "0a62ea8cf321ed05",
+  "90f05ff5f8bab131",
+  "8fdab18ba5e927e3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795196526.3621166,
+ "dernier_passage_actus": 1795200060.438578,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "David Ornstein écarte un retour de Vinicius Jr à Arsenal (Yahoo Sports)",
-   "t": 1794960482
-  },
-  {
-   "genre": "actu",
-   "resume": "Piero Hincapie en route pour prolonger avec Arsenal (Yahoo Sports)",
-   "t": 1794965454
-  },
   {
    "genre": "actu",
    "resume": "Gary Neville critique Matthijs de Ligt et réclame son départ (Voetbal International)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Tom Brady en discussion pour devenir actionnaire de Chelsea (L'Équipe)",
    "t": 1795196670
+  },
+  {
+   "genre": "actu",
+   "resume": "Rupture du tendon d'Achille pour Benjamin Lecomte à Fulham (Foot Mercato)",
+   "t": 1795200161
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea sanctionné d'une lourde amende pour des chants discriminatoires (BBC Sport)",
+   "t": 1795200167
   }
  ],
  "matchs": {},
