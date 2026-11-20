@@ -1,39 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0b92103d45464b04",
-  "b476499941e3c545",
-  "0b669654898f17e0",
-  "15a846fa3e392b72",
-  "a085a3ad021a4495",
-  "4f8b509fe22cfb07",
-  "3b8e88958ea67ad9",
-  "a76781d9aaf8b55d",
-  "a6610c3554df75db",
-  "a1a7c9cce78fd8d7",
-  "772c211ceafdb090",
-  "3dc4b7fd8706ca16",
-  "201a0a31cf278065",
-  "afdfc9987d6335fd",
-  "304b9945b658ad08",
-  "f29b235f3a666085",
-  "0547f46008dadaec",
-  "c83d758688c4bfa2",
-  "d5ce2ffad9c06dcf",
-  "0abe93473cc442da",
-  "880c93e1532cf82a",
-  "408ed04a9c55c311",
-  "f8d182b636c12f4e",
-  "439703ec2fb0ff94",
-  "b42baca84bab762e",
-  "78041e0e8aa50652",
-  "9e457eae6be03491",
-  "0c49915f0a6215ae",
-  "095daa510e310452",
-  "f274b3e6855e994f",
-  "56d329ee945edd5c",
-  "e5248a7f60bfc88f",
-  "0c50efed7fcd6a28",
   "ebe40cc7ec898d70",
   "44aa269dbaa9c6bc",
   "c09da8ae438fa3ed",
@@ -800,32 +767,55 @@
   "1227b4907b68656b",
   "0a62ea8cf321ed05",
   "90f05ff5f8bab131",
-  "8fdab18ba5e927e3"
+  "8fdab18ba5e927e3",
+  "720b40255a593eef",
+  "e7f557dc2240805c",
+  "5141c17bab26c300",
+  "aa4697b132577fb6",
+  "e710124b87dc3472",
+  "60efd98fb86ed7a4",
+  "49816de970c4be05",
+  "53ab40387a4352a7",
+  "4fa0e0ef8b41e2d4",
+  "fcb2778db6990e0c",
+  "fa08d8fe7ad5ee6b",
+  "8131f7d69abef48b",
+  "bfa762bb3df75e0f",
+  "248f77d552c531d4",
+  "1fa565928cf1d358",
+  "668248c2ad0d831b",
+  "7f083d319d3687df",
+  "60b141d19c5867e4",
+  "b79d223b9d700abd",
+  "6a83ac2865e9278a",
+  "512f590f242dc894",
+  "cb9bc6fe873d251e",
+  "b1df2cbccdb50d6c",
+  "677dee2606796a05",
+  "9190b435ed879e8a",
+  "4e5d2117c717e306",
+  "c2cd7a83f2f81e3f",
+  "8a80d0d692be97ea",
+  "8f7cd5a7858579cd",
+  "90d6149f5d4c113a",
+  "90244b6c87bf79b9",
+  "0e72242368e0437f",
+  "fb6ca057f901193a"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-20",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-20",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795200060.438578,
+ "dernier_passage_actus": 1795203905.3083956,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Gary Neville critique Matthijs de Ligt et réclame son départ (Voetbal International)",
-   "t": 1794965459
-  },
-  {
-   "genre": "actu",
-   "resume": "Le jeune JJ Gabriel confirme son départ de Manchester United (FotMob)",
-   "t": 1794972894
-  },
   {
    "genre": "actu",
    "resume": "Bernardo Silva attristé par son faible temps de jeu (Record)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Chelsea sanctionné d'une lourde amende pour des chants discriminatoires (BBC Sport)",
    "t": 1795200167
+  },
+  {
+   "genre": "actu",
+   "resume": "Harry Kane avoue son admiration pour Karim Benzema (Foot Mercato)",
+   "t": 1795204017
+  },
+  {
+   "genre": "actu",
+   "resume": "Ismaïla Sarr tourne la page de l intérêt de Liverpool (BBC Sport)",
+   "t": 1795204022
   }
  ],
  "matchs": {},
