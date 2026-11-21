@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "8ca36894aa27249f",
-  "aedd7a33fb36831d",
-  "3d5020debf092ef5",
-  "48693b95879bad9f",
-  "6b282ccf77df19cd",
-  "c1fe5633c568d76e",
-  "6be6d4d6fd09170f",
-  "b37ddcbfdbca8926",
-  "c3c45ae8ed386681",
-  "cf84fcef4ca32289",
-  "95b17c36899715aa",
-  "2c36dd217765cbdb",
-  "82e3373af76deefc",
-  "478a5065ed91cf00",
-  "a2e50ff6edb09348",
-  "2a977bd9c67471cc",
-  "a84c70c743033c50",
-  "0aea29bc4561af4e",
-  "eaf42bb75df2e3c8",
-  "81602e60e2994667",
-  "31be72993c708cdb",
-  "c75a26868d69f585",
-  "a8c6ae720a6146e1",
-  "410c57b0e9bd91f6",
-  "7db870d21ff5e285",
-  "e231aa946ba0eee6",
-  "366a709f27430f82",
-  "215c3de467c18671",
-  "63b0973af1552273",
-  "eca049ca7d741b60",
   "a829f5b48d860538",
   "d6777561dcb103d9",
   "8f682940d08b201f",
@@ -800,32 +770,52 @@
   "dc80f1772a5483e9",
   "1a08703baa39dbc5",
   "2759033ecad5ab80",
-  "41e1e27ae5590cf2"
+  "41e1e27ae5590cf2",
+  "2f01db0362babeb9",
+  "7186b3e61e9d38b9",
+  "f382049a06886af0",
+  "77145fe1d517117e",
+  "3a42611f07d6e287",
+  "d094305b19ca01a7",
+  "ef92b3702fd11600",
+  "5ed4c64e50f1ffe4",
+  "947d54cda6082d77",
+  "4cf917db0ae8264a",
+  "21aa93d578d97679",
+  "017fd576b25c0705",
+  "d63157d2c5084ada",
+  "ee491d413b7df8af",
+  "051841cd58845549",
+  "c9f55075bd010435",
+  "c399209b86d9cdea",
+  "edf0cdd1b7bf9936",
+  "a2371c81fc4dc355",
+  "57c153cfc33eaa1d",
+  "81a70d4abc5ab02a",
+  "39f34e34d270cbb4",
+  "ba840208155fdebd",
+  "6cbadf461421c5b9",
+  "b1e8bf2e9c84c526",
+  "a0fa57242e99ca42",
+  "3fe2639418fccf8f",
+  "ac0efeb25231d039",
+  "da6d314815a021f1",
+  "f1eafa4f72dc0df7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795265966.8658693,
+ "dernier_passage_actus": 1795269592.3481977,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Rothen demande à Mbappé de faire grève contre la FIFA (RMC Sport)",
-   "t": 1795048047
-  },
-  {
-   "genre": "actu",
-   "resume": "Amadou Onana prolonge son contrat à Aston Villa (Premier League)",
-   "t": 1795048053
-  },
   {
    "genre": "actu",
    "resume": "Didier Deschamps vers un retour sensationnel à la Juventus (Sport.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La CAF apporte son soutien officiel a Gianni Infantino (L'Équipe)",
    "t": 1795266088
+  },
+  {
+   "genre": "actu",
+   "resume": "Jules Koundé fait son retour avec le FC Barcelone (Foot Mercato)",
+   "t": 1795269659
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea négocie un transfert à 100 millions d'euros (LiveScore)",
+   "t": 1795269664
   }
  ],
  "matchs": {},
