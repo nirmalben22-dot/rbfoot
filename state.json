@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6477dbb83457e606",
-  "28a6db3fcbf03277",
-  "c8f57fef203b859a",
-  "f2c21d930980ef74",
-  "c3bb203c9985d3f1",
-  "c6c770f69f5e533f",
-  "196164d580a58bbb",
-  "f87b742538628db4",
-  "cbeca3490263d538",
-  "35fae8a9338abf63",
-  "9871295fc24b57c4",
-  "d55671d857bdf27e",
-  "017f8d560303736a",
-  "bd75fe217a4f6b5d",
-  "829d16336f3c91fe",
-  "bf706d4fce5d525f",
-  "4b481b84a6093885",
-  "a7f58de3c245375f",
-  "13969560c6104f99",
-  "cadf7ac0e96927bb",
-  "59cc73d1e6d4ac0c",
-  "d30accbd99c9c51b",
-  "613d3228f493199a",
-  "eda2e2a7e4aa66b0",
-  "0bf6d893c9f64f7d",
-  "23ba2b2719fbd7ed",
-  "33606765ab5d3547",
-  "1f9dfe1080251256",
-  "57b78afea298631a",
-  "bd253d31e365fc35",
-  "a27613a3f6e90a23",
-  "6b0816a6a7e57bfc",
-  "27d20bf56b4553b4",
-  "57968b79eb83bd80",
-  "3d71e8ae32075717",
-  "d7d7a35ac3a714f1",
   "a25c47e4f9603af6",
   "db9278715120108c",
   "9d4770595b2e4b4a",
@@ -800,32 +764,58 @@
   "4f96116e1e7fc41d",
   "e53e1cd877164654",
   "6dfb650e7236f1d9",
-  "2ad9649c8d77e7e6"
+  "2ad9649c8d77e7e6",
+  "26dac99573fb71f8",
+  "3c7ca64c489df0b0",
+  "c9d8937374221724",
+  "31db3018cf5087cd",
+  "2696cc95a2b781f8",
+  "91d09ab4c4d25118",
+  "65398c165d161742",
+  "c87cf189e09d36e0",
+  "58bb36dfa4f3cecc",
+  "82c9d11e57c7418a",
+  "6397689c26d90558",
+  "66b809c11092a0b5",
+  "12e41a091709abc5",
+  "efa4d97d332a095d",
+  "3b8c5a5d02625bc4",
+  "a8ef1c5b025749f0",
+  "4e2853839c8c2e20",
+  "5239133b6226456f",
+  "bb6fd1acb1ecf159",
+  "75377544e245d2d9",
+  "1406f2d7ccb594a2",
+  "6be28416502566e0",
+  "9cc4fde96e2f9906",
+  "1dbcb9c0ee028ef0",
+  "39bc5025464fdc24",
+  "e4c47b386ab449b6",
+  "fab8779a50442d79",
+  "5c6556884a2a3576",
+  "07379b78d7c5983c",
+  "2fc1713e039d83e4",
+  "39505fb8b781cd43",
+  "a45d17d9ca28e332",
+  "11bd06f21d04ad84",
+  "c793eacc427006e3",
+  "dfc997abde3e970b",
+  "e2f942294f18a178"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 20
+   "n": 22
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795275567.5455184,
+ "dernier_passage_actus": 1795278406.1068947,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Gros coup dur pour l'entraîneur de Valenciennes David Le Frapper (L'Équipe)",
-   "t": 1795100096
-  },
-  {
-   "genre": "actu",
-   "resume": "Mikhaïlo Moudrik accuse sa fédération après sa suspension pour dopage (L'Équipe)",
-   "t": 1795107454
-  },
   {
    "genre": "actu",
    "resume": "Pablo Longoria déjà sur le départ de River Plate (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le PSG et la Juventus en duel pour s offrir Ibrahim Rabbaj (TheHardTackle.com)",
    "t": 1795275655
+  },
+  {
+   "genre": "actu",
+   "resume": "LE MILAN AC SUR LA PISTE ENDRICK EN JANVIER (Sky Sport)",
+   "t": 1795278498
+  },
+  {
+   "genre": "actu",
+   "resume": "HUGO EKITIKE DE RETOUR SUR LES TERRAINS EN JANVIER (L'Équipe)",
+   "t": 1795278503
   }
  ],
  "matchs": {},
