@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2fb5ec7f07fda0f8",
-  "ee33e04d853a1420",
-  "09d059caedf366a8",
-  "1a305af6249dbf2d",
-  "5022bc6da093f635",
-  "a8ed98ad1345f074",
-  "9dd245fc5cbc25b7",
-  "e87e2b16a27b1dcc",
-  "162700b73b0ad42f",
-  "624f700a65b9cad0",
-  "e52d4ad08df543ef",
-  "01937b630d0331f5",
-  "3d0005dfc4bae72e",
-  "ac313f82cc6135d8",
-  "cc620dc5a366f697",
-  "6d3eb33447aa3ac4",
-  "91da9c7670c0c91d",
-  "5d218f052ee944bc",
-  "80fc975aca72aff7",
-  "d05dc2f312881955",
-  "2390e817094c710b",
-  "82139547d374e1eb",
-  "330871d451e61572",
-  "0f40de3a52f8adc6",
-  "ef25f7b78c64ac28",
-  "df0d0013dc06fcac",
-  "6de1bb4bcffac0cb",
-  "8155e39be6fe72e8",
-  "81c127de69824f1a",
-  "77b3525447a6d7bc",
-  "8233ff595d2385b4",
-  "62cbd0b94f512b6f",
-  "423200b48ccdde29",
-  "b63097f0fa0c10c3",
-  "d0331b4fb54a5d11",
-  "420f9a1916fd3cbe",
-  "66c550fd605467de",
   "6477dbb83457e606",
   "28a6db3fcbf03277",
   "c8f57fef203b859a",
@@ -800,32 +763,59 @@
   "68e8b66a07ff1065",
   "9bd05bc054c15ff9",
   "a3f04c30eb58c999",
-  "be545c0d963db406"
+  "be545c0d963db406",
+  "79fa036a6c067540",
+  "c1cb54279ea31246",
+  "bb1df399feb5386b",
+  "3ca750326a9153cb",
+  "d80fab373c51d7d9",
+  "baa746e2296e0d01",
+  "6272da8d0a75281d",
+  "5629e328f29b8a91",
+  "3f80130566b00794",
+  "553d89b241ee6d3c",
+  "89eedbb83255a2d3",
+  "826b35717689650b",
+  "63c4a8ddae80faf6",
+  "73c83f6577ba3eea",
+  "7a6d44a8f41c96ae",
+  "cd5fdd15c6aef3d4",
+  "04ccdb3c255fc713",
+  "2148ad48e6365601",
+  "0864b2bffccf36f9",
+  "9aa3fd71463ec6df",
+  "9322c89f035c152c",
+  "045d62c287003ab2",
+  "7a76402da6d58a7e",
+  "e1c078e886d10f12",
+  "458c6aa7afb38d83",
+  "5c413f52708d85a9",
+  "36347d1f2d74aec8",
+  "049b845e59038adb",
+  "434fca38431ccc9c",
+  "e920289d9d7cedfb",
+  "bbbf4d5c434e7c91",
+  "859b79ab4967d9df",
+  "83210afef42a050f",
+  "4f96116e1e7fc41d",
+  "e53e1cd877164654",
+  "6dfb650e7236f1d9",
+  "2ad9649c8d77e7e6"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 18
+   "n": 20
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795272802.871279,
+ "dernier_passage_actus": 1795275567.5455184,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Aurélien Tchouameni prolonge son contrat au Real Madrid (Get French Football News)",
-   "t": 1795091824
-  },
-  {
-   "genre": "actu",
-   "resume": "Lourdement sanctionné pour avoir blessé un arbitre (L'Équipe)",
-   "t": 1795091830
-  },
   {
    "genre": "actu",
    "resume": "Gros coup dur pour l'entraîneur de Valenciennes David Le Frapper (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Les supporters stéphanois se déplaceront à Reims malgré l interdiction (L'Équipe)",
    "t": 1795272956
+  },
+  {
+   "genre": "actu",
+   "resume": "Romain Alessandrini très cash sur son aventure avec Marcelo Bielsa (L'Équipe)",
+   "t": 1795275650
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG et la Juventus en duel pour s offrir Ibrahim Rabbaj (TheHardTackle.com)",
+   "t": 1795275655
   }
  ],
  "matchs": {},
