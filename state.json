@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b50557f1c7b8155f",
-  "bfb32849d8d1327d",
-  "56d0a4aa9d34cf48",
-  "efcd8a5d65cdd3a1",
-  "fecdcbc1043b3315",
-  "951c09f031af1c96",
-  "f16d55fdea322a69",
-  "fc65fcc4f36f90e5",
-  "29f7ce914dc7d5fe",
-  "cf84560e88b934e0",
   "176a6556ce11a7ef",
   "cfbd479fd1ae2f81",
   "170fd5f6726173fa",
@@ -800,32 +790,32 @@
   "7771332f54f1a836",
   "81433943401c0ec4",
   "fa3b9c4489afb316",
-  "6cc9a70a8d9a91b4"
+  "6cc9a70a8d9a91b4",
+  "962d38bedefe44de",
+  "ecd8f0ce2ce0238d",
+  "5ca97ba8e404e98c",
+  "f8a1f13ffb16a927",
+  "ffd324b9361221c2",
+  "d073e26e514eb4d5",
+  "3a2da087d6056e90",
+  "92b16f5182b626da",
+  "37cf49679217d8eb",
+  "1cee50f97e7f89f2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795234797.5746799,
+ "dernier_passage_actus": 1795238550.1114614,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arsenal s'apprête à prolonger trois cadres importants (Foot Mercato)",
-   "t": 1795034328
-  },
-  {
-   "genre": "actu",
-   "resume": "Le prodige marocain Abdellah Ouazane brille à l'Ajax (Foot Mercato)",
-   "t": 1795034333
-  },
   {
    "genre": "actu",
    "resume": "Deco et Bojan affichent les ambitions du Barça pour le mercato (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Manchester United banni quatre supporters après une protestation (Digg)",
    "t": 1795234877
+  },
+  {
+   "genre": "actu",
+   "resume": "Le retour attendu d'Ayase Ueda avec Lille (L'Équipe)",
+   "t": 1795238689
+  },
+  {
+   "genre": "actu",
+   "resume": "La place de Vinicius menacée au Real Madrid (L'Équipe)",
+   "t": 1795238694
   }
  ],
  "matchs": {},
