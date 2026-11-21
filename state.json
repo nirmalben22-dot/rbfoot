@@ -1,35 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "aecad0d3c91583c4",
-  "45d026e52ee15ffb",
-  "b8d368982d745a6b",
-  "901e8adf84f7cbcf",
-  "862a612b5e5d18ed",
-  "94d07f1335f21fe7",
-  "26d5b1c38949c320",
-  "b5df274c3095ff04",
-  "86717d9740a35922",
-  "352f67e3e8bc1de2",
-  "f0fb8832b4bbdefb",
-  "6f0033ad43ae3c15",
-  "6f7d858a06900c2e",
-  "11878a9318f71d75",
-  "15b097cb0869dd3b",
-  "3c103e3dea1fe30f",
-  "3d830aca68ca7632",
-  "384cc3f69038eb9c",
-  "1726457ed4511689",
-  "8a17f6d7daafb6be",
-  "71b17ff501e594c9",
-  "1cad9d6b584522d9",
-  "c62d4b69accf5acc",
-  "644c77b21d1922b5",
-  "53b51588812695a4",
-  "0b4798fb0ac59c97",
-  "0e1dfb831d3fdaff",
-  "4117c61ad2d54d2d",
-  "68e2573b258fbf34",
   "8ca36894aa27249f",
   "aedd7a33fb36831d",
   "3d5020debf092ef5",
@@ -800,32 +771,51 @@
   "cf475d0271ff13de",
   "56e1ea95da98127d",
   "dc2623daca0e7a6b",
-  "cb36428938a8d868"
+  "cb36428938a8d868",
+  "19675f89293ea11a",
+  "9fe66c3358b46c94",
+  "8a495abbc898b938",
+  "b1e370f87fe8f0c6",
+  "7092e3cf9b6af50b",
+  "3aabd62842d06c17",
+  "175aabd01ddf2cfc",
+  "9bd54a76e050d2e4",
+  "c3f913fddcf6e45f",
+  "cfadd16877b3cb5c",
+  "341f55ba7184938e",
+  "1d10095e300faf6a",
+  "bf5061363bfb459c",
+  "41c28f18e1ffe7ea",
+  "9021f670e2cd3029",
+  "479dcc904edd3104",
+  "8e17486c88100eb0",
+  "2c6a3fc3c0eb00c8",
+  "eb30026dab0ddf0b",
+  "0a0525d7d80cf4d6",
+  "b88a749ba13c54d4",
+  "75237d3555fe3582",
+  "c1999868ffe4a864",
+  "72fe394be8a333bb",
+  "48d8db51db6851fc",
+  "dc80f1772a5483e9",
+  "1a08703baa39dbc5",
+  "2759033ecad5ab80",
+  "41e1e27ae5590cf2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 13
+   "n": 14
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795262654.9354348,
+ "dernier_passage_actus": 1795265966.8658693,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Barça et le Bayern ciblent Aleksey Batrakov (Foot Mercato)",
-   "t": 1795041310
-  },
-  {
-   "genre": "actu",
-   "resume": "Coup de gueule contre le départ de Pierre Sage (RMC Sport)",
-   "t": 1795041316
-  },
   {
    "genre": "actu",
    "resume": "Rothen demande à Mbappé de faire grève contre la FIFA (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Roberto De Zerbi règle ses comptes avec Longoria et Benatia (Foot Mercato)",
    "t": 1795262730
+  },
+  {
+   "genre": "actu",
+   "resume": "Rafael Nadal rejoint le conseil d administration du Real Madrid (Foot Mercato)",
+   "t": 1795266082
+  },
+  {
+   "genre": "actu",
+   "resume": "La CAF apporte son soutien officiel a Gianni Infantino (L'Équipe)",
+   "t": 1795266088
   }
  ],
  "matchs": {},
