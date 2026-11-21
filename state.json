@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b1292a6b8a968274",
-  "7577f504ee4848ac",
-  "423d7c643414bc82",
-  "63ef9c5b5a0c9cf6",
-  "7c94f67c55251189",
-  "2eb5e3c65d661a79",
-  "47632d3d34334667",
-  "1e50195a4499ff34",
-  "1200dc67d2dc918e",
-  "84b1a4c3f3c55098",
   "3132b462ae43af54",
   "5eb25c836c99ab16",
   "f777168b9b894f6b",
@@ -800,32 +790,32 @@
   "c49bbbb3e8507787",
   "42c7ee9ecb8feecd",
   "b33f1f3fc2da2ab5",
-  "72ab9fcf4704f515"
+  "72ab9fcf4704f515",
+  "fd45b0c5fe70338a",
+  "d169297b482095ca",
+  "5c323797a4580079",
+  "7867586d953143d7",
+  "3e2c6c910df30044",
+  "6b2e004d52014bf5",
+  "752774bb1f432abb",
+  "747272a0eabfa98e",
+  "007c3950998cbe48",
+  "f09fcff0eb88d3e8"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 2
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795224076.1211624,
+ "dernier_passage_actus": 1795227895.7727356,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le Maroc intègre le top 5 du classement FIFA (L'Équipe)",
-   "t": 1795023856
-  },
-  {
-   "genre": "actu",
-   "resume": "Claude Le Roy démissionne de son poste de sélectionneur (L'Équipe)",
-   "t": 1795023862
-  },
   {
    "genre": "actu",
    "resume": "Manchester United envisage de porter plainte contre le Real Madrid (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Karl Heinz Rummenigge évoque une baisse de salaire pour Jamal Musiala (L'Équipe)",
    "t": 1795219739
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United envisagerait de se séparer de Michael Carrick (Digg)",
+   "t": 1795228047
+  },
+  {
+   "genre": "actu",
+   "resume": "Antonio Conte lâche une déclaration très cash sur son impact (Sky Sport)",
+   "t": 1795228052
   }
  ],
  "matchs": {},
