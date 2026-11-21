@@ -1,27 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "0b0cdf8512f37b55",
-  "75eabb8b71ae85a1",
-  "737667bcd45bf930",
-  "9225061293fddd3c",
-  "61cefc2fa1871b70",
-  "e3d519b3134f8088",
-  "fc30264f972c3b72",
-  "b33f1f3fc2da2ab5",
-  "812300599b49209e",
-  "f08a3d37741a83ed",
-  "1c98ff0797aa2483",
-  "33af0d163d015f72",
-  "9cb6a25b3b97ebb8",
-  "777215d550c048fc",
-  "7e2a87f70e930314",
-  "a7f02c4a5f207f4d",
-  "44d6831fc4461a45",
-  "cf30b255398559dc",
-  "f76b7d02914221f9",
-  "d34d18fbf07bd015",
-  "de3b0e7244f85067",
   "d2b95ec12fa6a279",
   "ca41b250c0214734",
   "06f1f5c8055f3550",
@@ -800,32 +779,43 @@
   "b1489814b07655af",
   "d0ed23f7a371e9a6",
   "fafc4c591316c35c",
-  "477155141e7f43e4"
+  "477155141e7f43e4",
+  "adb6096ae21539b0",
+  "709d710dd5d7d47b",
+  "7814effc13af774e",
+  "f20dc827f4ae41d9",
+  "0c46cce146a9a329",
+  "dc04d33cac620737",
+  "97ac315bd40cf3b7",
+  "020780867fea2f90",
+  "cf527d356931b0f4",
+  "663c42889b0abe2e",
+  "2c9ed78ce367dca2",
+  "b88dcc5ff6447d3a",
+  "bd10cb2f0acc6c25",
+  "6b60fb3365d01763",
+  "0b474341b0303a4c",
+  "136e0f5037606b85",
+  "43e5e0a176b2e82a",
+  "1056230ec45bc190",
+  "1003195595fe00f8",
+  "21b4064f338e3524",
+  "44ba4db5b597da43"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-20",
-   "n": 23
+   "jour": "2026-11-21",
+   "n": 2
   },
   "appels_api_football": {
-   "jour": "2026-11-20",
-   "n": 23
+   "jour": "2026-11-21",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795216503.8367395,
+ "dernier_passage_actus": 1795219589.8148918,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le PSG propose une prolongation de contrat à Marquinhos (RMC Sport)",
-   "t": 1795020397
-  },
-  {
-   "genre": "actu",
-   "resume": "Lionel Messi en guerre ouverte avec sa fédération (Foot Mercato)",
-   "t": 1795020403
-  },
   {
    "genre": "actu",
    "resume": "Le Maroc intègre le top 5 du classement FIFA (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Coup dur au Bayern : Harry Kane absent plusieurs mois (RMC Sport)",
    "t": 1795216605
+  },
+  {
+   "genre": "actu",
+   "resume": "Victor Osimhen ouvert à une arrivée à Manchester United (Sky Sports)",
+   "t": 1795219733
+  },
+  {
+   "genre": "actu",
+   "resume": "Karl Heinz Rummenigge évoque une baisse de salaire pour Jamal Musiala (L'Équipe)",
+   "t": 1795219739
   }
  ],
  "matchs": {},
