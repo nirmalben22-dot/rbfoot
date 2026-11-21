@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "608cc86809cc0498",
-  "fb4fad6a6a799106",
-  "237a8e4858848607",
-  "44646829323d1b70",
-  "44e7e923512d0a54",
-  "f432fc6bc973ab81",
-  "d6bdcdd54d6942dd",
   "b50557f1c7b8155f",
   "bfb32849d8d1327d",
   "56d0a4aa9d34cf48",
@@ -800,32 +793,29 @@
   "9e2d47ee4803bcd3",
   "2cd5a585ac8aa59e",
   "eb5c8276d8c1a6e1",
-  "72f8728ecfb03756"
+  "72f8728ecfb03756",
+  "2d5454cb0d09be78",
+  "0e0d96d70d148662",
+  "6d047ac85736caa8",
+  "7771332f54f1a836",
+  "81433943401c0ec4",
+  "fa3b9c4489afb316",
+  "6cc9a70a8d9a91b4"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 6
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795231183.5890982,
+ "dernier_passage_actus": 1795234797.5746799,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La fameuse loi Wenger sur le hors-jeu bientôt abandonnée par la FIFA (L'Équipe)",
-   "t": 1795030988
-  },
-  {
-   "genre": "actu",
-   "resume": "Une ancienne joueuse du championnat portugais arrêtée pour blanchiment et trafic (Record)",
-   "t": 1795030994
-  },
   {
    "genre": "actu",
    "resume": "Arsenal s'apprête à prolonger trois cadres importants (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Alessandro Nesta encense Ronaldo après un souvenir marquant en finale (AllFootball)",
    "t": 1795231241
+  },
+  {
+   "genre": "actu",
+   "resume": "Endrick pourrait quitter le Real Madrid pour 60 millions (superlider.mx)",
+   "t": 1795234872
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United banni quatre supporters après une protestation (Digg)",
+   "t": 1795234877
   }
  ],
  "matchs": {},
