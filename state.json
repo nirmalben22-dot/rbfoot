@@ -1,28 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a829f5b48d860538",
-  "d6777561dcb103d9",
-  "8f682940d08b201f",
-  "dd9d06d6da339097",
-  "c8ea924b78feecbd",
-  "67a779ca439e87d3",
-  "60134d66b9942295",
-  "2d60a89a125fff66",
-  "fe6b0254a93b0285",
-  "7d002771e5143da7",
-  "baa33fa72dc981e7",
-  "11a299007aa74ec2",
-  "7abcf2fd66eb95a4",
-  "cc54add564f7e238",
-  "04ccdb3c255fc713",
-  "76173f026d48172b",
-  "ef0befd690b624d3",
-  "2148ad48e6365601",
-  "920ac60b9d8edb05",
-  "16865b0f2ea97d30",
-  "b7e0e4002b67bf84",
-  "3e181154dfe1093a",
   "2fb5ec7f07fda0f8",
   "ee33e04d853a1420",
   "09d059caedf366a8",
@@ -800,32 +778,44 @@
   "3fe2639418fccf8f",
   "ac0efeb25231d039",
   "da6d314815a021f1",
-  "f1eafa4f72dc0df7"
+  "f1eafa4f72dc0df7",
+  "ecb8aac65f405056",
+  "4acdaff40af29ede",
+  "195489e1a0ab2581",
+  "b6df4c52bed9ecc2",
+  "1363942804d33211",
+  "b7c4725644573f96",
+  "4472ddb50637eec3",
+  "32129570ccdfd5ab",
+  "00fb1e8856fceb0b",
+  "4ac3abd007f858b0",
+  "5899ae2af3938150",
+  "9b8a5933c9405af2",
+  "11f0f420bee31f23",
+  "ec0d9fbb0dfb904d",
+  "2c7adb071cae78f7",
+  "a525a835786ce2b2",
+  "20e7fdabe9aef68f",
+  "052e02d7ff6e7cb0",
+  "68e8b66a07ff1065",
+  "9bd05bc054c15ff9",
+  "a3f04c30eb58c999",
+  "be545c0d963db406"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 16
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795269592.3481977,
+ "dernier_passage_actus": 1795272802.871279,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Didier Deschamps vers un retour sensationnel à la Juventus (Sport.fr)",
-   "t": 1795053105
-  },
-  {
-   "genre": "actu",
-   "resume": "Deux nouveaux prétendants s invitent dans le dossier Zambo Anguissa (Sport.fr)",
-   "t": 1795053111
-  },
   {
    "genre": "actu",
    "resume": "Aurélien Tchouameni prolonge son contrat au Real Madrid (Get French Football News)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Chelsea négocie un transfert à 100 millions d'euros (LiveScore)",
    "t": 1795269664
+  },
+  {
+   "genre": "actu",
+   "resume": "Le PSG enregistre le retour de plusieurs cadres face à Nice (L'Équipe)",
+   "t": 1795272949
+  },
+  {
+   "genre": "actu",
+   "resume": "Les supporters stéphanois se déplaceront à Reims malgré l interdiction (L'Équipe)",
+   "t": 1795272956
   }
  ],
  "matchs": {},
