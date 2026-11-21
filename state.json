@@ -1,14 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "3132b462ae43af54",
-  "5eb25c836c99ab16",
-  "f777168b9b894f6b",
-  "a4ad1e72c73b4b83",
-  "6d8cf0f23e14dbdc",
-  "a823d8c3676f1680",
-  "b7999cd608f0616b",
-  "d4917d258623b033",
   "608cc86809cc0498",
   "fb4fad6a6a799106",
   "237a8e4858848607",
@@ -800,32 +792,30 @@
   "752774bb1f432abb",
   "747272a0eabfa98e",
   "007c3950998cbe48",
-  "f09fcff0eb88d3e8"
+  "f09fcff0eb88d3e8",
+  "95df271357888546",
+  "f488e491ebabcfb3",
+  "23a4a9963b8220b1",
+  "65298f0dad033c5b",
+  "9e2d47ee4803bcd3",
+  "2cd5a585ac8aa59e",
+  "eb5c8276d8c1a6e1",
+  "72f8728ecfb03756"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-21",
-   "n": 4
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-21",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795227895.7727356,
+ "dernier_passage_actus": 1795231183.5890982,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United envisage de porter plainte contre le Real Madrid (Foot Mercato)",
-   "t": 1795027072
-  },
-  {
-   "genre": "actu",
-   "resume": "L'AC Milan surveille de près la situation de Bruno Fernandes (Tribuna.com)",
-   "t": 1795027079
-  },
   {
    "genre": "actu",
    "resume": "La fameuse loi Wenger sur le hors-jeu bientôt abandonnée par la FIFA (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Antonio Conte lâche une déclaration très cash sur son impact (Sky Sport)",
    "t": 1795228052
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United fixe une shortlist de trois cibles pour son mercato (ManUNews.com)",
+   "t": 1795231236
+  },
+  {
+   "genre": "actu",
+   "resume": "Alessandro Nesta encense Ronaldo après un souvenir marquant en finale (AllFootball)",
+   "t": 1795231241
   }
  ],
  "matchs": {},
