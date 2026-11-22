@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f1eafa4f72dc0df7",
-  "ecb8aac65f405056",
-  "4acdaff40af29ede",
-  "195489e1a0ab2581",
-  "b6df4c52bed9ecc2",
-  "1363942804d33211",
-  "b7c4725644573f96",
-  "4472ddb50637eec3",
-  "32129570ccdfd5ab",
-  "00fb1e8856fceb0b",
-  "4ac3abd007f858b0",
-  "5899ae2af3938150",
-  "9b8a5933c9405af2",
-  "11f0f420bee31f23",
-  "ec0d9fbb0dfb904d",
-  "2c7adb071cae78f7",
-  "a525a835786ce2b2",
-  "20e7fdabe9aef68f",
-  "052e02d7ff6e7cb0",
-  "68e8b66a07ff1065",
-  "9bd05bc054c15ff9",
-  "a3f04c30eb58c999",
-  "be545c0d963db406",
-  "79fa036a6c067540",
-  "c1cb54279ea31246",
-  "bb1df399feb5386b",
-  "3ca750326a9153cb",
-  "d80fab373c51d7d9",
-  "baa746e2296e0d01",
-  "6272da8d0a75281d",
-  "5629e328f29b8a91",
-  "3f80130566b00794",
-  "553d89b241ee6d3c",
-  "89eedbb83255a2d3",
-  "826b35717689650b",
-  "63c4a8ddae80faf6",
-  "73c83f6577ba3eea",
-  "7a6d44a8f41c96ae",
   "cd5fdd15c6aef3d4",
   "04ccdb3c255fc713",
   "2148ad48e6365601",
@@ -800,32 +762,60 @@
   "2dcfcb567d75a39e",
   "9fd7f210e94f2c61",
   "c7e4e5103f9ffb9e",
-  "98416e85457373b3"
+  "98416e85457373b3",
+  "1edc7ec17ff41119",
+  "50998731944f25a7",
+  "a0eff6caffce19c4",
+  "9ca53398fe97c89a",
+  "61e2287e407cb490",
+  "d094305b19ca01a7",
+  "f382049a06886af0",
+  "a63c656aea814154",
+  "7f380d5cb399cf0a",
+  "e259c11a42a781e9",
+  "00a95e853c961a73",
+  "a6f21c99cafeb83e",
+  "d22b9ee00080b761",
+  "e1659542a9152cbb",
+  "73d7c14c42fca4fb",
+  "890d3dbdf21387c2",
+  "7891373be1e98c84",
+  "bb1cd742fdd16d13",
+  "87ebb9646429adb0",
+  "c5fed332823fd70d",
+  "77b645d4a4ae1b3a",
+  "46898dc86f1170e5",
+  "c19c1f8d70bcd24e",
+  "25efbe2bb7714d10",
+  "a9fbe243713b3f00",
+  "ce3a6b48eb73043b",
+  "50b3ef305fcf9941",
+  "1f8a5d9a4bf9445f",
+  "c686464896fad678",
+  "36825ff987da0f24",
+  "1db28b27ecc27318",
+  "be555abf9c68717d",
+  "3776c05cfb128bf0",
+  "8aec54a9fb9d20cc",
+  "3fe2639418fccf8f",
+  "dce466dbd77c44b7",
+  "82810ccda4c3dd9c",
+  "2f14e311f68419df"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795370421.7067962,
+ "dernier_passage_actus": 1795373409.2657845,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Arsenal entre en concurrence avec le Real Madrid pour Michael Olise (Get French Football News)",
-   "t": 1795177362
-  },
-  {
-   "genre": "actu",
-   "resume": "Luis Enrique lâche une déclaration fracassante sur ses joueurs au PSG (RMC Sport)",
-   "t": 1795182273
-  },
   {
    "genre": "actu",
    "resume": "L UEFA sanctionne l Angleterre suite à des chants discriminatoires (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Désiré Doué victime d une tentative de cambriolage (Foot Mercato)",
    "t": 1795370491
+  },
+  {
+   "genre": "actu",
+   "resume": "Michael Olise surprend avec un like contre sa direction (Foot Mercato)",
+   "t": 1795373504
+  },
+  {
+   "genre": "actu",
+   "resume": "Pablo Pagis pousse un coup de gueule contre les arbitres (RMC Sport)",
+   "t": 1795373509
   }
  ],
  "matchs": {},
