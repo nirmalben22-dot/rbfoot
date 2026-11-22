@@ -1,23 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6568243487813136",
-  "0e93b97867783d97",
-  "1efbe645c79c1282",
-  "b4c3f666954744e4",
-  "7cffe193ec8aed1d",
-  "19a18f6dfe32e4f1",
-  "ab141841b87b359d",
-  "2efbc6923fe53ba5",
-  "ea44dae6bae534b3",
-  "386851e95c8a6773",
-  "44c8bda8e9b0895c",
-  "f2c4f83e8d2f271a",
-  "0448e19d101dea79",
-  "9b811b60bf68eeae",
-  "095ebd39cc5292b8",
-  "cab89040e1949580",
-  "a79370cdc07fc9fa",
   "4197bb9cd487d03c",
   "2d2650391d16ecb3",
   "7c2bd28757c68be7",
@@ -800,27 +783,39 @@
   "3ab785007d3c55e7",
   "84632c8c1d7fd28f",
   "024919711fb017e8",
-  "9b40c6f7bba37229"
+  "9b40c6f7bba37229",
+  "6b95cada4185729c",
+  "6639632421acfeb9",
+  "6ce15ba47e559ade",
+  "66b1a9410890979a",
+  "99b8f0b170f271fc",
+  "8abae7dd9b03454f",
+  "b94d5dcad56be571",
+  "bcedc57011ae2d38",
+  "96b68146ff8497e1",
+  "481c22ba70c2d8cf",
+  "32e5c96ec83c7164",
+  "fa056666087baaf9",
+  "e64a29c729cad69f",
+  "bc55257a1db031b4",
+  "8f7cd5a7858579cd",
+  "22760612502663a0",
+  "3fce2d9d741f92b9"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 5
+   "n": 6
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795321339.8952353,
+ "dernier_passage_actus": 1795325157.680248,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Paris Brunner vers une prolongation à Monaco (L'Équipe)",
-   "t": 1795118177
-  },
   {
    "genre": "actu",
    "resume": "Corentin Tolisso tacle sévèrement Paulo Fonseca (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Inquiétude pour David Raya touché à l épaule (roundtable.io)",
    "t": 1795321402
+  },
+  {
+   "genre": "actu",
+   "resume": "Mauricio Pochettino veut imposer sa méthode à Manchester United (L'Équipe)",
+   "t": 1795325212
   }
  ],
  "matchs": {},
