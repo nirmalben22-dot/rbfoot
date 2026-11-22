@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "761984c05ce6071b",
-  "016b84fad6298565",
-  "d920919c259340cd",
-  "623169127ce225fd",
-  "9be2363e31f90391",
-  "bdc95941b07dd1ef",
-  "288e2c520bbe619b",
-  "8aa0b71ec8482e71",
-  "e2efe753e3db592b",
-  "da6db9dca9871fde",
-  "5022bc6da093f635",
-  "035fc415944ca95d",
-  "fa9d018c6dafeb95",
-  "29b847677854e547",
-  "7b7eae54321827d1",
-  "a86da258118d9e5e",
-  "c6677b2a8d76ef3f",
-  "4c6a253cf5785e25",
-  "d99f026576c5f5d4",
-  "e612d29c0e1ee5f0",
-  "3d321fb44f14231b",
-  "765d2966aeab8e5f",
-  "764738cd137a5cd3",
-  "4799c917915c613f",
-  "c98c9c7f9c897264",
-  "ead5b93926d3bd2e",
-  "b03bd702d1c232f9",
-  "71089d6022c27662",
-  "84545f28caaaab53",
-  "593efa12726dd0d3",
-  "bb11ae9beb5bcadd",
-  "7d8e954477caf6fd",
-  "e5235453b9f90012",
-  "1ab0453052834f3d",
   "8f46d03829347770",
   "04165331f15a7132",
   "da30ff68ecd498ff",
@@ -800,27 +766,56 @@
   "90e6cb6b674f4965",
   "a56b0a710b659ebc",
   "e01c29f1ff815585",
-  "b0d025e04ac319df"
+  "b0d025e04ac319df",
+  "10b2db62c5bdf9b4",
+  "70d920c827de7b8c",
+  "7c02fb5bb4e112e9",
+  "67b7070edcdab3d1",
+  "f56a39c6731dffa1",
+  "b799cf9b3454193d",
+  "e90d69bf8bc4dda9",
+  "4267bf35adcda940",
+  "1df5ba39e2851815",
+  "a6dd01275d08a006",
+  "327bf4117d9fa2b5",
+  "f1c782a9221285e9",
+  "bac04cc3a6dd0512",
+  "559873bd4ced547e",
+  "203fbc51458b2841",
+  "f0bb5c13497f0ad2",
+  "e6b80472eb3c6539",
+  "88cc8ba6e8157ebc",
+  "4e7207c85297c7c4",
+  "127b531e61b9caa4",
+  "557b9f84b804a869",
+  "eee098d84d3fa286",
+  "9c18c1c4d77c2585",
+  "f59558c848e44bf6",
+  "f3263aa3bc997510",
+  "9160c6d6085f41af",
+  "1d4f9e40095ca607",
+  "ac271240ab39d969",
+  "118427651d38c12d",
+  "233bfea4884cc0ae",
+  "80c1d27eab6f8363",
+  "e5526cfa28a415f0",
+  "5af748a960a2295d",
+  "85a6f42e14182647"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 24
+   "n": 25
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 24
+   "n": 25
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795382554.3525777,
+ "dernier_passage_actus": 1795385663.85124,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Rupture du tendon d'Achille pour Benjamin Lecomte à Fulham (Foot Mercato)",
-   "t": 1795200161
-  },
   {
    "genre": "actu",
    "resume": "Chelsea sanctionné d'une lourde amende pour des chants discriminatoires (BBC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "De Zerbi règle ses comptes sur son passage à l OM (RMC Sport)",
    "t": 1795382698
+  },
+  {
+   "genre": "actu",
+   "resume": "Nicolas Pépé opéré des yeux Villarreal dément la folle rumeur (RMC Sport)",
+   "t": 1795385824
   }
  ],
  "matchs": {},
