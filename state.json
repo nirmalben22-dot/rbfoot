@@ -1,29 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "25b33ca7a147ac3f",
-  "a38b269a8f71250a",
-  "6b63835cda283610",
-  "5d1c61a4421f87aa",
-  "4031276945696fe7",
-  "9c2302a65dc079a9",
-  "9cd69c0c047f4d02",
-  "951f4be83fa6cd92",
-  "67b23894d4c6b383",
-  "8f710699a381826f",
-  "e7eadddae9415225",
-  "4ab5f539bedd8fd0",
-  "01bf9f976613f20e",
-  "a8f3817f434263fc",
-  "2caaa670a38174f7",
-  "614ae3c0f4c6fcb9",
-  "2f9908aefdf7b418",
-  "24ab3cf0fdaa597e",
-  "3cae266a843edc81",
-  "6de1d7923e0facc5",
-  "cad2324f45640ee6",
-  "7c3aecfc4615df91",
-  "f98ba3487425f80e",
   "ca3e65bfbd9efeb3",
   "6ecdcaf2bc04666b",
   "ed06ec5c6a76657d",
@@ -800,32 +777,45 @@
   "956f95b5553fc963",
   "8233221e06a89c6b",
   "ce898d459a323c0a",
-  "6492d0c4e35e80a7"
+  "6492d0c4e35e80a7",
+  "eb2dcc40b24afd73",
+  "a497780e2313f5cc",
+  "086e6018b1314ae1",
+  "0818b4ab3e4a7f9f",
+  "9cad47380c7f2377",
+  "d7e33994a2c41d89",
+  "e9a146af802357bf",
+  "64ec274886dee054",
+  "5817d90afd44d2f2",
+  "72e3198a9cbe86ca",
+  "381ede3a546f8ed9",
+  "32fb62f781409bac",
+  "ad7f7c195eafae2c",
+  "60779a0445ae5fa8",
+  "6029d19342dcff64",
+  "33ecae55c139d873",
+  "37402c6db0e8d505",
+  "106cbaf7cab65178",
+  "a31de8f2780e5bb8",
+  "faa54149f1faa5bc",
+  "b3b9f3acfdfcb3c5",
+  "21435728a501db36",
+  "fa91ce578bfdf078"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 6
+   "n": 8
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795352135.3219326,
+ "dernier_passage_actus": 1795355771.170749,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Real Madrid prêt à rapatrier Nico Paz (Foot Mercato)",
-   "t": 1795124482
-  },
-  {
-   "genre": "actu",
-   "resume": "Andy Delort s engage en 7e division corse (L'Équipe)",
-   "t": 1795124488
-  },
   {
    "genre": "actu",
    "resume": "Thibaut Courtois prolonge son contrat au Real Madrid (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Adrien Rabiot s'exprime sur son départ mouvementé de l'OM (RMC Sport)",
    "t": 1795348990
+  },
+  {
+   "genre": "actu",
+   "resume": "Inquiétude pour Jamal Musiala victime d'une rechute (RMC Sport)",
+   "t": 1795355907
+  },
+  {
+   "genre": "actu",
+   "resume": "Yassir Zabiri affole les compteurs en Liga (RMC Sport)",
+   "t": 1795355913
   }
  ],
  "matchs": {},
