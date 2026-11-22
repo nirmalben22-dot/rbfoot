@@ -1,22 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "b4119a5e49964600",
-  "ff183c9d51e1f685",
-  "d278738f1be02417",
-  "7b090a6da42945ec",
-  "15baa3b5d4efc2f7",
-  "b54c4efaedfa0ab8",
-  "23354016ef2b2a63",
-  "3e03ee21c33055db",
-  "1d8ce45423913d82",
-  "4557735d7855eb68",
-  "cc92c8f257e8f157",
-  "b1b74d314582ccd7",
-  "67c344a343cd1111",
-  "6947596bc377f4f5",
-  "08255150f35bc7d7",
-  "94f05c432acdd45c",
   "7fd00854d20197eb",
   "73e4a1b6fcedf985",
   "7bdb3908c5da4cea",
@@ -800,32 +784,38 @@
   "d39066cfa2fa39e5",
   "8cd8465a33d51f9e",
   "e92f8be83bc366bf",
-  "317cf3fba3fbf562"
+  "317cf3fba3fbf562",
+  "fcc31077dbb3db13",
+  "d30accbd99c9c51b",
+  "787afd9e4142319d",
+  "4e8854ce3509afb3",
+  "5333ea2f1f43c893",
+  "32453dbb87e7e984",
+  "3b3cefd520f40793",
+  "c1a506cc311d7a29",
+  "81d34c2774e053a7",
+  "1670d20038ff791c",
+  "ca873d30748a4cb5",
+  "011b7c9570659740",
+  "3d8862058e29dabf",
+  "5ae26dd60d26e13a",
+  "db93d50e699fd84c",
+  "912f1ee389cf8908"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 10
+   "n": 12
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795358932.3769546,
+ "dernier_passage_actus": 1795361609.0809803,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le PSG prépare une grande vague de prolongations pour ses cadres (Foot Mercato)",
-   "t": 1795130682
-  },
-  {
-   "genre": "actu",
-   "resume": "Lucas Chevalier n'a pas demandé à quitter le PSG cet hiver (Foot Mercato)",
-   "t": 1795130687
-  },
   {
    "genre": "actu",
    "resume": "LE PRODIGE JJ GABRIEL EN ROUTE POUR LE REAL MADRID (Sport.fr)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Michael Olise dirigé vers un forfait contre Lille (L'Équipe)",
    "t": 1795358998
+  },
+  {
+   "genre": "actu",
+   "resume": "Neymar envoie un message de soutien à Désiré Doué (Foot Mercato)",
+   "t": 1795361706
+  },
+  {
+   "genre": "actu",
+   "resume": "Luis Enrique a des solutions internes pour pallier les absences au PSG (RMC Sport)",
+   "t": 1795361711
   }
  ],
  "matchs": {},
