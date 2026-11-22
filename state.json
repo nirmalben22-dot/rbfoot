@@ -1,13 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f83b890dddd4f5b1",
-  "2ab1a86037a1431e",
-  "c5910effebe46175",
-  "28a6ff8f59cc703c",
-  "0fad17f23d9a82a1",
-  "d01934cd4fbac468",
-  "3d90a82483b5f7c8",
   "6568243487813136",
   "0e93b97867783d97",
   "1efbe645c79c1282",
@@ -800,27 +793,29 @@
   "36486a52a193fdfd",
   "176b08a817b26e27",
   "49affc413617456d",
-  "b221aa17a4a297fa"
+  "b221aa17a4a297fa",
+  "69dc7699d548844b",
+  "7798695994187024",
+  "beace46b40312d51",
+  "3ab785007d3c55e7",
+  "84632c8c1d7fd28f",
+  "024919711fb017e8",
+  "9b40c6f7bba37229"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795317535.6983123,
+ "dernier_passage_actus": 1795321339.8952353,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Coup dur pour Monaco et Aleksandr Golovin (Foot Mercato)",
-   "t": 1795118172
-  },
   {
    "genre": "actu",
    "resume": "Paris Brunner vers une prolongation à Monaco (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Naples vise une recrue du Paris FC à 25 millions (Sport.fr)",
    "t": 1795317590
+  },
+  {
+   "genre": "actu",
+   "resume": "Inquiétude pour David Raya touché à l épaule (roundtable.io)",
+   "t": 1795321402
   }
  ],
  "matchs": {},
