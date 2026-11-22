@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "75237d3555fe3582",
-  "c1999868ffe4a864",
-  "72fe394be8a333bb",
-  "48d8db51db6851fc",
-  "dc80f1772a5483e9",
-  "1a08703baa39dbc5",
-  "2759033ecad5ab80",
-  "41e1e27ae5590cf2",
-  "2f01db0362babeb9",
-  "7186b3e61e9d38b9",
-  "f382049a06886af0",
-  "77145fe1d517117e",
-  "3a42611f07d6e287",
-  "d094305b19ca01a7",
-  "ef92b3702fd11600",
-  "5ed4c64e50f1ffe4",
-  "947d54cda6082d77",
-  "4cf917db0ae8264a",
-  "21aa93d578d97679",
-  "017fd576b25c0705",
-  "d63157d2c5084ada",
-  "ee491d413b7df8af",
-  "051841cd58845549",
-  "c9f55075bd010435",
-  "c399209b86d9cdea",
-  "edf0cdd1b7bf9936",
-  "a2371c81fc4dc355",
-  "57c153cfc33eaa1d",
-  "81a70d4abc5ab02a",
-  "39f34e34d270cbb4",
-  "ba840208155fdebd",
-  "6cbadf461421c5b9",
-  "b1e8bf2e9c84c526",
-  "a0fa57242e99ca42",
-  "3fe2639418fccf8f",
-  "ac0efeb25231d039",
-  "da6d314815a021f1",
   "f1eafa4f72dc0df7",
   "ecb8aac65f405056",
   "4acdaff40af29ede",
@@ -800,32 +763,59 @@
   "97587e887528a482",
   "084e063f9b61a3fd",
   "99930b690f53883d",
-  "a0703ef11ad12a81"
+  "a0703ef11ad12a81",
+  "267aa3d237f787f0",
+  "794ad15e694174fe",
+  "50862a1e6499cae8",
+  "e598bf24a71d29de",
+  "71758f6405fc09ac",
+  "ac2c5ab5ebcb3aa0",
+  "f0e2304fab926d8d",
+  "ea2cb2e39b51c3a0",
+  "3be2ef9803018433",
+  "65cced726eb9ccff",
+  "238b7f2aeb63ba06",
+  "e33922758a8265b1",
+  "e54c44cfccf6d471",
+  "7521e6bfc127f40d",
+  "316b18d1a2830c54",
+  "8dbbbf29c38f4af0",
+  "bf1dfa834b40bf50",
+  "d744ebad9dc707a1",
+  "5e8d3488fe71cfc7",
+  "7a65ab3f327e2ff9",
+  "2cbcb6e812107dd1",
+  "4dad928984b601db",
+  "d23801098d4c01c6",
+  "2231c3e4acf91e54",
+  "c7bba6ec99c4052b",
+  "83d7b6aaa8272c05",
+  "632ef97c138b3bf1",
+  "7f58f6be5942581f",
+  "97c672caa5ed0898",
+  "18a05d47b4c773f8",
+  "f2c085d79de49244",
+  "b1c6733bf863b31c",
+  "04cc1240006a7afc",
+  "2dcfcb567d75a39e",
+  "9fd7f210e94f2c61",
+  "c7e4e5103f9ffb9e",
+  "98416e85457373b3"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795367846.666863,
+ "dernier_passage_actus": 1795370421.7067962,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Grand ménage sur les bancs de Ligue 1 cette saison (L'Équipe)",
-   "t": 1795149308
-  },
-  {
-   "genre": "actu",
-   "resume": "Eli Junior Kroupi dans le viseur du PSG pour l'été prochain (RMC Sport)",
-   "t": 1795153308
-  },
   {
    "genre": "actu",
    "resume": "Arsenal entre en concurrence avec le Real Madrid pour Michael Olise (Get French Football News)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Himad Abdelli s'exprime sur les ambitions de l'Olympique de Marseille (Foot Mercato)",
    "t": 1795368051
+  },
+  {
+   "genre": "actu",
+   "resume": "Valentin Rongier sort sur blessure avec le Stade Rennais (L'Équipe)",
+   "t": 1795370486
+  },
+  {
+   "genre": "actu",
+   "resume": "Désiré Doué victime d une tentative de cambriolage (Foot Mercato)",
+   "t": 1795370491
   }
  ],
  "matchs": {},
