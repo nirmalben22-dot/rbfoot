@@ -1,44 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6be28416502566e0",
-  "9cc4fde96e2f9906",
-  "1dbcb9c0ee028ef0",
-  "39bc5025464fdc24",
-  "e4c47b386ab449b6",
-  "fab8779a50442d79",
-  "5c6556884a2a3576",
-  "07379b78d7c5983c",
-  "2fc1713e039d83e4",
-  "39505fb8b781cd43",
-  "a45d17d9ca28e332",
-  "11bd06f21d04ad84",
-  "c793eacc427006e3",
-  "dfc997abde3e970b",
-  "e2f942294f18a178",
-  "39635a48514443f7",
-  "2404e2a0bfa23226",
-  "55d19433a02759fa",
-  "66f6573387783771",
-  "9123f171b12e8213",
-  "b12addd6db389f02",
-  "ceccf787c8d04da2",
-  "3a270ba99d2c6047",
-  "ed3926d0a5dc34fa",
-  "d1f0dba22e96bd9f",
-  "125c9ac3ac153ce6",
-  "303fdc4f4a659172",
-  "428e8ef0fd0625d7",
-  "85d44d135eafc6e2",
-  "8087037eab8ec87b",
-  "c412269cf2db5357",
-  "2ae05b568bf28c30",
-  "5c6e1b940927545e",
-  "031bcb078213ec04",
-  "1b3ef171c55b9741",
-  "473edd30be7cb56b",
-  "657ebde9152fbee3",
-  "70d3751d0b2c4649",
   "916c4574d66a1b61",
   "5f28f0e1809b339f",
   "09b9711f3633ed51",
@@ -800,32 +762,60 @@
   "7135739cd6ccfe45",
   "52b76f255fa97f83",
   "8308b4b92400026c",
-  "4851e015e524f0e0"
+  "4851e015e524f0e0",
+  "271061cba8d68ce2",
+  "8674fb44ed7aa1a3",
+  "14145a52b1eec7ae",
+  "60a8e5a5848b0f90",
+  "e2f73bc06af26801",
+  "6a84552e11f1e4ea",
+  "8854819bcedcc028",
+  "61b54672103b7970",
+  "81c9b80687119f4e",
+  "fc08cdb3f7241b29",
+  "8a12f4ae784b2f37",
+  "5d9c15a6c94c3bdc",
+  "09f58b77656244df",
+  "18a9352e2215b6ca",
+  "649879efb2ef303f",
+  "5236194a97a2810e",
+  "dc2000b80ebdffc6",
+  "e1d2c6e02d9613cb",
+  "eda7681a3f428ce7",
+  "4c40477be7cc240b",
+  "e2bc4c689bc4873b",
+  "308422a165a00a9d",
+  "504ad66b21e82d11",
+  "f56b8f79da3576de",
+  "d62eeafb58580622",
+  "91e475eb550cbcac",
+  "19ac6b42decb78bf",
+  "9ae6e2c58b06a770",
+  "cc616905cbba5e6b",
+  "22b77f44a34140dd",
+  "e8301339f215dec3",
+  "9ac39a85840c88b5",
+  "c201a5bce6f5256f",
+  "7bc754dae1854930",
+  "d01d27ebb54cb2f6",
+  "28c5ffb6cafce5c5",
+  "19a18f6dfe32e4f1",
+  "cfee7eebf6da774d"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 22
+   "n": 23
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795376488.0613797,
+ "dernier_passage_actus": 1795379385.8340242,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Strahinja Pavlovic scandalise avec des propos choc sur Sergio Conceicao (RMC Sport)",
-   "t": 1795192965
-  },
-  {
-   "genre": "actu",
-   "resume": "Roberto De Zerbi met en garde ses joueurs contre la sortie de GTA VI (RMC Sport)",
-   "t": 1795192971
-  },
   {
    "genre": "actu",
    "resume": "Tom Brady en discussion pour devenir actionnaire de Chelsea (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pochettino et Mainoo s en prennent à l arbitrage après le rouge de Yoro (Sky Sports)",
    "t": 1795376565
+  },
+  {
+   "genre": "actu",
+   "resume": "Cauchemar absolu pour les débuts de Mauricio Pochettino à Manchester United (Foot Mercato)",
+   "t": 1795379429
+  },
+  {
+   "genre": "actu",
+   "resume": "Héctor Herrera aurait été arrêté aux États-Unis pour conduite en état d'ivresse (Record)",
+   "t": 1795379434
   }
  ],
  "matchs": {},
