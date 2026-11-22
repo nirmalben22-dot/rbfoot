@@ -1,24 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ca3e65bfbd9efeb3",
-  "6ecdcaf2bc04666b",
-  "ed06ec5c6a76657d",
-  "c160ee883f8b29df",
-  "61727b6d73c91205",
-  "e99cca567ade4a99",
-  "c68b067980871149",
-  "c10186d462cb907e",
-  "8771a824470fab72",
-  "39d35a427cf6afbc",
-  "fcc3c5651f2c1e63",
-  "6110d6def2eb9218",
-  "1503459996475ec1",
-  "eee4cb15e42cc872",
-  "83e9a9388307a1d9",
-  "741c8bd8d3dfc475",
-  "6608c05848b36c80",
-  "3bd3bac950ac1c6e",
   "b4119a5e49964600",
   "ff183c9d51e1f685",
   "d278738f1be02417",
@@ -800,32 +782,40 @@
   "faa54149f1faa5bc",
   "b3b9f3acfdfcb3c5",
   "21435728a501db36",
-  "fa91ce578bfdf078"
+  "fa91ce578bfdf078",
+  "0af7762ab644c61e",
+  "dddb69a4e2293767",
+  "127018e37c2e7bcc",
+  "d70255fd5676f6b2",
+  "a2095267b7991da3",
+  "4d050051be2ba463",
+  "ec6cc28f477f3a8b",
+  "93f4d53249bbfad5",
+  "cf8bbd80b88e8a32",
+  "65d33a251364a648",
+  "b1fc2a504b17cf9b",
+  "43815ec44c321da3",
+  "3573efd45bd3f3da",
+  "3875963baf3d717c",
+  "d39066cfa2fa39e5",
+  "8cd8465a33d51f9e",
+  "e92f8be83bc366bf",
+  "317cf3fba3fbf562"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-22",
-   "n": 8
+   "n": 10
   },
   "appels_api_football": {
    "jour": "2026-11-22",
-   "n": 15
+   "n": 16
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795355771.170749,
+ "dernier_passage_actus": 1795358932.3769546,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Thibaut Courtois prolonge son contrat au Real Madrid (Foot Mercato)",
-   "t": 1795127624
-  },
-  {
-   "genre": "actu",
-   "resume": "Le FC Barcelone cible Lisandro Martinez (BBC Sport)",
-   "t": 1795127629
-  },
   {
    "genre": "actu",
    "resume": "Le PSG prépare une grande vague de prolongations pour ses cadres (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Yassir Zabiri affole les compteurs en Liga (RMC Sport)",
    "t": 1795355913
+  },
+  {
+   "genre": "actu",
+   "resume": "Bruno Fernandes fait une mise au point sur son avenir (Foot Mercato)",
+   "t": 1795358992
+  },
+  {
+   "genre": "actu",
+   "resume": "Michael Olise dirigé vers un forfait contre Lille (L'Équipe)",
+   "t": 1795358998
   }
  ],
  "matchs": {},
