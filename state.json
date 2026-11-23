@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "5d70c9b84d4d9fe3",
-  "9997e1f4ced2fb82",
-  "ef2bc3ca6431989e",
-  "06081dab1e0a9762",
-  "939cd8a7a223834c",
-  "4f68aebd3211409a",
-  "c27c5ac658db6565",
-  "1430dfdb4516250f",
-  "efc7cc5f1d1630fa",
-  "87b01162eca7d452",
-  "1bb77a47c1ca4590",
-  "deb2912b94c077f3",
-  "3538c399472a87e5",
-  "48f494d0835bf878",
-  "5386ce4cf3368190",
-  "c5153c07a69ff09b",
-  "493811e3d6077307",
-  "e1e3918da0364b3a",
-  "efb238b503f27349",
-  "7945a63980df25d8",
-  "a6df5576e81dda53",
-  "3b2b884b1b116d49",
-  "67a876212dec4385",
-  "2a16c2590c16e847",
-  "cff36be1735f863b",
-  "bd48b3deac2f0873",
-  "fc7e3b2a178b4683",
-  "7b480d8fa657380d",
-  "ec386075b8837a09",
-  "5516e2a0229c2ab6",
-  "ec6e3307f69e0c43",
   "97587e887528a482",
   "084e063f9b61a3fd",
   "99930b690f53883d",
@@ -800,32 +769,53 @@
   "d0ed23f7a371e9a6",
   "80fa96af0f36e634",
   "6c15fadae8307c77",
-  "dcb9e669296ca055"
+  "dcb9e669296ca055",
+  "d970fc54652134f4",
+  "621ee44f3811a4a0",
+  "1c2d6701a9b9cbad",
+  "13b3781f74209fcd",
+  "c4f0e095d46bcb1f",
+  "2352f3d5ecbca969",
+  "bdbf0901ebd0bb06",
+  "7cd224b544e39b26",
+  "2555951f1467969a",
+  "dd7dd14733f8e63b",
+  "a81c7065f0716b74",
+  "fabff29148fc322c",
+  "f206db87d35ac959",
+  "3b157ba2fa5bdb3f",
+  "d77fa7329eab497e",
+  "f6a711788d270577",
+  "85f0630c3367ccb0",
+  "819091153dea855e",
+  "30d828b9858e610a",
+  "d59466d51fff808c",
+  "9fb084c8d544e4b1",
+  "c17578d6fe9dc06d",
+  "f5ff000afc320329",
+  "55acd441c7ce42d1",
+  "0397d6b7910c9a66",
+  "53c8dc72b0e716cb",
+  "7dfc6d49f2561e7a",
+  "dc524cfb7fa3b588",
+  "4d4e1f0c96c266ab",
+  "62f23bc55cf0b37a",
+  "763cb13cfffdb3fd"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 13
+   "n": 15
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795465803.192396,
+ "dernier_passage_actus": 1795469215.3442547,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Antonio Conte lâche une déclaration très cash sur son impact (Sky Sport)",
-   "t": 1795228052
-  },
-  {
-   "genre": "actu",
-   "resume": "Manchester United fixe une shortlist de trois cibles pour son mercato (ManUNews.com)",
-   "t": 1795231236
-  },
   {
    "genre": "actu",
    "resume": "Alessandro Nesta encense Ronaldo après un souvenir marquant en finale (AllFootball)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Noah Atubolu impressionne avec des statistiques folles sur penalty (L'Équipe)",
    "t": 1795465863
+  },
+  {
+   "genre": "actu",
+   "resume": "AC Milan prêt à poser 70 millions d'euros sur Endrick (Bernabéu Digital)",
+   "t": 1795469278
+  },
+  {
+   "genre": "actu",
+   "resume": "La FIFA confirme les hôtes des Coupes du monde 2031 et 2035 (Record)",
+   "t": 1795469283
   }
  ],
  "matchs": {},
