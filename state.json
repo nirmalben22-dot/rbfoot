@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "62238a017cee298e",
-  "e506dd39baaad122",
-  "8b3d47888d81f7a6",
-  "0306d75686c1b070",
-  "76ead4935cefe8c9",
-  "54834ba23ecbdcd7",
   "f5d2f7517a8a3a58",
   "789e58bee8633d7d",
   "02492e671890fb55",
@@ -800,27 +794,28 @@
   "1570b756e807ce7a",
   "e4581f2c0b583de9",
   "2eb46a2f4b7dca41",
-  "ae0538752465e251"
+  "ae0538752465e251",
+  "9ee6ea9f101db104",
+  "d1f462491234a42d",
+  "8e8ea53f285415d1",
+  "85af1ecf0d57da2f",
+  "e3281e947e1a443b",
+  "335c7df27a34bfec"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795402561.7779355,
+ "dernier_passage_actus": 1795406505.34485,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Harry Kane blesse a la cheville avant d affronter Lille (RMC Sport)",
-   "t": 1795206931
-  },
   {
    "genre": "actu",
    "resume": "Alejandro Balde pousse vers la sortie au FC Barcelone (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le patron du Bayern s interroge sur l avenir de Jamal Musiala (Lente Desportiva)",
    "t": 1795399117
+  },
+  {
+   "genre": "actu",
+   "resume": "L Atlético de Madrid et la Juventus ciblent Maxi Araújo (Record)",
+   "t": 1795406558
   }
  ],
  "matchs": {},
