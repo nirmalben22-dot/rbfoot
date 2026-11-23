@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "2dcfcb567d75a39e",
-  "9fd7f210e94f2c61",
-  "c7e4e5103f9ffb9e",
-  "98416e85457373b3",
-  "1edc7ec17ff41119",
-  "50998731944f25a7",
-  "a0eff6caffce19c4",
-  "9ca53398fe97c89a",
-  "61e2287e407cb490",
-  "d094305b19ca01a7",
-  "f382049a06886af0",
-  "a63c656aea814154",
-  "7f380d5cb399cf0a",
-  "e259c11a42a781e9",
-  "00a95e853c961a73",
-  "a6f21c99cafeb83e",
-  "d22b9ee00080b761",
-  "e1659542a9152cbb",
-  "73d7c14c42fca4fb",
-  "890d3dbdf21387c2",
-  "7891373be1e98c84",
-  "bb1cd742fdd16d13",
-  "87ebb9646429adb0",
-  "c5fed332823fd70d",
-  "77b645d4a4ae1b3a",
-  "46898dc86f1170e5",
-  "c19c1f8d70bcd24e",
-  "25efbe2bb7714d10",
-  "a9fbe243713b3f00",
-  "ce3a6b48eb73043b",
-  "50b3ef305fcf9941",
-  "1f8a5d9a4bf9445f",
   "c686464896fad678",
   "36825ff987da0f24",
   "1db28b27ecc27318",
@@ -800,27 +768,54 @@
   "d623e8e4e75ed924",
   "f5be012bdca7822e",
   "cc476a00444ed1fc",
-  "d459e4baea2fd19f"
+  "d459e4baea2fd19f",
+  "d62f49570ec1a582",
+  "1e4646e7733b9fda",
+  "21298b9cc8fc570a",
+  "190019322dfac14f",
+  "d30accbd99c9c51b",
+  "a2c3624071c4c356",
+  "20c393a4e2758fde",
+  "96bbb98994c0ba4b",
+  "4bf50b0a2b99e2ac",
+  "1810c4c1f49cce64",
+  "17d82d108957a45a",
+  "e6d7ec75f62e280b",
+  "fb50299e33cd402c",
+  "6f1ab8bdabaa21f5",
+  "a83903f82b188226",
+  "6e0c472223c94eae",
+  "498e80b2b1d9ea90",
+  "60aead816c862fea",
+  "c858b63caec8aa41",
+  "1a3fdec1104fd430",
+  "14d987c58e32e99d",
+  "c846627cbcc0ba6c",
+  "85a802b0fde009f4",
+  "189c6840eaa6de22",
+  "fa66c4c115fbab12",
+  "b64bfa3ffac7e7e7",
+  "d4f7f90e0254dcf7",
+  "f6d1fdfd43b8f870",
+  "ac4813223eaba6ce",
+  "9960f46ba164173a",
+  "58bfe46bb35e9fe2",
+  "a2997590f40e7814"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 17
+   "n": 18
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 20
+   "n": 21
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795472697.839035,
+ "dernier_passage_actus": 1795476237.6176794,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Manchester United banni quatre supporters après une protestation (Digg)",
-   "t": 1795234877
-  },
   {
    "genre": "actu",
    "resume": "Le retour attendu d'Ayase Ueda avec Lille (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "La sortie surprenante de Lennart Karl au Bayern (Foot Mercato)",
    "t": 1795472760
+  },
+  {
+   "genre": "actu",
+   "resume": "Luis de la Fuente lance le choc entre la France et l'Espagne (RMC Sport)",
+   "t": 1795476372
   }
  ],
  "matchs": {},
