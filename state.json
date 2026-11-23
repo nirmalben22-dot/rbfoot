@@ -1,36 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4f4d57601dd4cd6c",
-  "14120502c22f81e3",
-  "41c8cb9ea1c04e54",
-  "e55c526333089119",
-  "dffbb8e2e0a9c950",
-  "f7985d84aa73cff2",
-  "ca0f45f943d86560",
-  "65aca71e8b6b7a4a",
-  "9ba58eef21b9038a",
-  "f12b2bbbe46b9423",
-  "4731ade3f0760555",
-  "c4583bb91100dbe5",
-  "822b7d8a4a52ecba",
-  "2e593b5dbcaa81e9",
-  "e7221cd1412c76ff",
-  "d0ed23f7a371e9a6",
-  "bc9d81b7d392aa1b",
-  "97d260b50ef475c3",
-  "fb80b10b18786a31",
-  "6d47f52e86fe4f5d",
-  "fe42108e1bb83501",
-  "fb47b1a70ba63a92",
-  "20c190028660ffba",
-  "89f7d095ce36d98d",
-  "bd53d061d00ff071",
-  "9fda8512a8079702",
-  "f6e58566adfc4b28",
-  "62f23bc55cf0b37a",
-  "956f95b5553fc963",
-  "8233221e06a89c6b",
   "ce898d459a323c0a",
   "6492d0c4e35e80a7",
   "eb2dcc40b24afd73",
@@ -800,32 +770,52 @@
   "6548e5ab9e9a3894",
   "0d9feca6deb76caa",
   "988c89090447e23d",
-  "21ce95628cb7db88"
+  "21ce95628cb7db88",
+  "3900f8d1526b2d1d",
+  "346cc9946eb59620",
+  "d0030391f53d5d25",
+  "ce7db1968e45aed1",
+  "f5b7f7a43cb1fc0f",
+  "b93b6f6d88af0eff",
+  "492ff1859198c6c8",
+  "f1eede386156a599",
+  "75c1f1abca6d0f2a",
+  "32ae34d080d606e9",
+  "384b799db6e10265",
+  "234e7acb40e56950",
+  "134a23590d016dba",
+  "226d6a2f675c8121",
+  "7eb0688f45693c1e",
+  "90a80ba361349cea",
+  "9fa08c308c36420f",
+  "bd13e68c1a3e7516",
+  "b71ccc9690b8cc0b",
+  "de98d9c85cd29980",
+  "d40cda64620acc29",
+  "fe2ac86af2dfc686",
+  "b46b68f3a3e18a10",
+  "5e849c502903c2d3",
+  "c78639047a1c2592",
+  "3fd43816eebf8077",
+  "84b80ad821080bcd",
+  "d3a4c31b13d9761c",
+  "5eb25c836c99ab16",
+  "2c57940be1ee6ef8"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 7
+   "n": 9
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795451392.250811,
+ "dernier_passage_actus": 1795455073.957755,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Lassine Sinayoko sacré joueur du mois d'octobre en Ligue 1 (L'Équipe)",
-   "t": 1795213502
-  },
-  {
-   "genre": "actu",
-   "resume": "Mykhailo Mudryk accuse Andriy Shevchenko de mentir (BBC Sport)",
-   "t": 1795213506
-  },
   {
    "genre": "actu",
    "resume": "Coup dur au Bayern : Harry Kane absent plusieurs mois (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Lamine Yamal forfait avec le Barça en Ligue des champions (Sky Sport)",
    "t": 1795451437
+  },
+  {
+   "genre": "actu",
+   "resume": "Paulo Fonseca répond sèchement aux attaques de Corentin Tolisso (RMC Sport)",
+   "t": 1795455133
+  },
+  {
+   "genre": "actu",
+   "resume": "Steven Gerrard s inquiète sérieusement pour Manchester United (Foot Mercato)",
+   "t": 1795455138
   }
  ],
  "matchs": {},
