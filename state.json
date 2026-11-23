@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "97587e887528a482",
-  "084e063f9b61a3fd",
-  "99930b690f53883d",
-  "a0703ef11ad12a81",
-  "267aa3d237f787f0",
-  "794ad15e694174fe",
-  "50862a1e6499cae8",
-  "e598bf24a71d29de",
-  "71758f6405fc09ac",
-  "ac2c5ab5ebcb3aa0",
-  "f0e2304fab926d8d",
-  "ea2cb2e39b51c3a0",
-  "3be2ef9803018433",
-  "65cced726eb9ccff",
-  "238b7f2aeb63ba06",
-  "e33922758a8265b1",
-  "e54c44cfccf6d471",
-  "7521e6bfc127f40d",
-  "316b18d1a2830c54",
-  "8dbbbf29c38f4af0",
-  "bf1dfa834b40bf50",
-  "d744ebad9dc707a1",
-  "5e8d3488fe71cfc7",
-  "7a65ab3f327e2ff9",
-  "2cbcb6e812107dd1",
-  "4dad928984b601db",
-  "d23801098d4c01c6",
-  "2231c3e4acf91e54",
-  "c7bba6ec99c4052b",
-  "83d7b6aaa8272c05",
-  "632ef97c138b3bf1",
-  "7f58f6be5942581f",
-  "97c672caa5ed0898",
-  "18a05d47b4c773f8",
-  "f2c085d79de49244",
-  "b1c6733bf863b31c",
-  "04cc1240006a7afc",
   "2dcfcb567d75a39e",
   "9fd7f210e94f2c61",
   "c7e4e5103f9ffb9e",
@@ -800,32 +763,59 @@
   "dc524cfb7fa3b588",
   "4d4e1f0c96c266ab",
   "62f23bc55cf0b37a",
-  "763cb13cfffdb3fd"
+  "763cb13cfffdb3fd",
+  "2879e303fa8c9398",
+  "1822925173ebd49c",
+  "d6e81398fb4a58f3",
+  "88634db64acc385c",
+  "3543acb228871518",
+  "9068f592ea4062f9",
+  "54442d99cb57c5a0",
+  "6ca6d4b6a86ee404",
+  "a087bc22f3640e37",
+  "262ac0703568c8d1",
+  "66ab1bea4c22c6a9",
+  "77324c987bcfc8ed",
+  "0f40bb099a463a1f",
+  "836e5bdf33a8d073",
+  "ac6be30b43597427",
+  "b119c677b028156b",
+  "abe8866f9baaa05a",
+  "ac07c44b2573e203",
+  "2c4e2e886f557a5d",
+  "68164c95a6b1f86d",
+  "596364c23626bae4",
+  "ea41cc1594f86faf",
+  "2fffbbc9142f5c87",
+  "6474e65cb9bc219f",
+  "f53d8ec1c181953c",
+  "15d110c69d265fdd",
+  "9656c728a8c4bf5c",
+  "8f2b8ed7b0e76993",
+  "53f6c250871f7032",
+  "55a30f3680b0a33c",
+  "77ec375e234755af",
+  "349e42197e3780ce",
+  "95229fea15e989a0",
+  "d623e8e4e75ed924",
+  "f5be012bdca7822e",
+  "cc476a00444ed1fc",
+  "d459e4baea2fd19f"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795469215.3442547,
+ "dernier_passage_actus": 1795472697.839035,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Alessandro Nesta encense Ronaldo après un souvenir marquant en finale (AllFootball)",
-   "t": 1795231241
-  },
-  {
-   "genre": "actu",
-   "resume": "Endrick pourrait quitter le Real Madrid pour 60 millions (superlider.mx)",
-   "t": 1795234872
-  },
   {
    "genre": "actu",
    "resume": "Manchester United banni quatre supporters après une protestation (Digg)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "La FIFA confirme les hôtes des Coupes du monde 2031 et 2035 (Record)",
    "t": 1795469283
+  },
+  {
+   "genre": "actu",
+   "resume": "Arsenal et le PSG pistent Antonio Nusa (BBC Sport)",
+   "t": 1795472754
+  },
+  {
+   "genre": "actu",
+   "resume": "La sortie surprenante de Lennart Karl au Bayern (Foot Mercato)",
+   "t": 1795472760
   }
  ],
  "matchs": {},
