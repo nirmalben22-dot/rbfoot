@@ -1,12 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e9333bde7d562bfd",
-  "cca5f1b77f259064",
-  "9931f17576c7c5da",
-  "5a1e65c6953956a0",
-  "1d88ebc4042831dd",
-  "0c5ba0292f4420c5",
   "d8ec63741be4639d",
   "16e1f2c479a29e0b",
   "d022d5cb261cacd1",
@@ -800,27 +794,28 @@
   "c78a7037f63104c7",
   "dc0b31711c3c9e87",
   "0287544189135707",
-  "49a965c6391d70ee"
+  "49a965c6391d70ee",
+  "a1722835c2927888",
+  "eaa835ccaf77a313",
+  "8155e39be6fe72e8",
+  "422a0c07481d3552",
+  "2c0f3318363f347f",
+  "a2054e75e8005b98"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795393925.856747,
+ "dernier_passage_actus": 1795399039.5670838,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Ismaïla Sarr tourne la page de l intérêt de Liverpool (BBC Sport)",
-   "t": 1795204022
-  },
   {
    "genre": "actu",
    "resume": "Harry Kane blesse a la cheville avant d affronter Lille (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Bruno Genesio sous le choc après le terrible effondrement de l OM (RMC Sport)",
    "t": 1795393987
+  },
+  {
+   "genre": "actu",
+   "resume": "Le patron du Bayern s interroge sur l avenir de Jamal Musiala (Lente Desportiva)",
+   "t": 1795399117
   }
  ],
  "matchs": {},
