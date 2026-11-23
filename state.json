@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "f0c961e3e3dab1d9",
-  "8634161a4fa41c28",
-  "7bcfe79eda31af78",
-  "dca1fd431bf16663",
-  "afb47439ac25a35f",
-  "d4b51a3fd76f360a",
-  "f62689e201f914be",
-  "01e6d4e9a35d881c",
-  "450c2023d21239af",
-  "85b28e57210a636a",
-  "80839487568254f2",
-  "a666a6ff334b3836",
-  "4f7f531523b005e9",
-  "6954a592c7c1426e",
-  "9d127486c0bf0978",
-  "dc33fd32fc2a2553",
-  "30542df9028f735f",
-  "9d129692e47ab461",
-  "943a4365fbc37edb",
-  "20e5c2e31559835e",
-  "55a30f3680b0a33c",
-  "46fccf8448618014",
-  "5f698ac9b879de40",
-  "c8df888b94c9ea92",
-  "0c5cc59751242576",
-  "97e44d2c676089c7",
-  "35413a42b724ffd4",
-  "8720ec438287a27c",
-  "7724106b49690122",
-  "126f10d7bb765fc1",
-  "97660967918f943c",
   "5d70c9b84d4d9fe3",
   "9997e1f4ced2fb82",
   "ef2bc3ca6431989e",
@@ -800,32 +769,53 @@
   "4446015147190420",
   "b98d6c81d44a17ee",
   "ad3d2b8c3aa5c41f",
-  "b30eb2e0eaa318a7"
+  "b30eb2e0eaa318a7",
+  "853106486c87cd22",
+  "5a1f46789c4edd9d",
+  "8608e3e007378be4",
+  "fcb5ee85c15102a2",
+  "c87cf189e09d36e0",
+  "401b89683cd096e9",
+  "aaab26051a88ad21",
+  "9cb642bb2808024e",
+  "4b78b3042e4fdb80",
+  "dc86ae0fdf62c34a",
+  "1d6490c236285972",
+  "b1821e9dac2d661d",
+  "7c5e8a64c643d814",
+  "59902165d3c37085",
+  "d8444f971260f7c3",
+  "eab8f01edd6b8176",
+  "940b54fe11ce95c8",
+  "962bd4f05934e696",
+  "47519a87a27e0cfa",
+  "9763b244d11e469f",
+  "ef87bac03908cf5e",
+  "849cfd40b510e6e8",
+  "d353defbebaf7054",
+  "8b3f048756f296c5",
+  "c5f561657d4ddd96",
+  "a76781d9aaf8b55d",
+  "97ea9107ca926f7b",
+  "d0ed23f7a371e9a6",
+  "80fa96af0f36e634",
+  "6c15fadae8307c77",
+  "dcb9e669296ca055"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-23",
-   "n": 11
+   "n": 13
   },
   "appels_api_football": {
    "jour": "2026-11-23",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795462690.3139844,
+ "dernier_passage_actus": 1795465803.192396,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Karl Heinz Rummenigge évoque une baisse de salaire pour Jamal Musiala (L'Équipe)",
-   "t": 1795219739
-  },
-  {
-   "genre": "actu",
-   "resume": "Manchester United envisagerait de se séparer de Michael Carrick (Digg)",
-   "t": 1795228047
-  },
   {
    "genre": "actu",
    "resume": "Antonio Conte lâche une déclaration très cash sur son impact (Sky Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Jude Bellingham tout proche d une prolongation au Real Madrid (Tribuna.com)",
    "t": 1795462768
+  },
+  {
+   "genre": "actu",
+   "resume": "Révélations explosives sur Gianni Infantino et la Coupe du monde (L'Équipe)",
+   "t": 1795465859
+  },
+  {
+   "genre": "actu",
+   "resume": "Noah Atubolu impressionne avec des statistiques folles sur penalty (L'Équipe)",
+   "t": 1795465863
   }
  ],
  "matchs": {},
