@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c829c0a10f5a1f32",
-  "e47f8c14f55ee21c",
-  "bb7c72e2e8fd0b39",
-  "0349b14c54c03b74",
-  "ac131d9651d86a40",
-  "69c23dcd2cf63ac3",
-  "486c02665cdb1ce7",
-  "9dc2dc7dd54e4704",
-  "910ac638a3edc0dd",
-  "3485c4255dc79653",
-  "ffd47e6e88fa5ab5",
-  "7135739cd6ccfe45",
-  "52b76f255fa97f83",
   "8308b4b92400026c",
   "4851e015e524f0e0",
   "271061cba8d68ce2",
@@ -800,27 +787,35 @@
   "42d03e4bc7d71974",
   "2876426a5836d8ff",
   "2eca4f6560b56bb6",
-  "e4203cdaf44e8cca"
+  "e4203cdaf44e8cca",
+  "d76da33eb0f780a8",
+  "14f69e289aecb1ad",
+  "27f8e0aef8e5bea4",
+  "943fd113350c1be8",
+  "f5e6038afa321ee3",
+  "18036667642186d8",
+  "d90c988ee32a8d77",
+  "e19621e9d13eb152",
+  "084e063f9b61a3fd",
+  "1a22ec9d4e6354bf",
+  "5e06fb976991a77e",
+  "54d8f91c209fa76a",
+  "0cfdc21789ba9dd2"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 6
+   "n": 7
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795491766.5004537,
+ "dernier_passage_actus": 1795495819.4990497,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Jules Koundé fait son retour avec le FC Barcelone (Foot Mercato)",
-   "t": 1795269659
-  },
   {
    "genre": "actu",
    "resume": "Chelsea négocie un transfert à 100 millions d'euros (LiveScore)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Aymeric Laporte répond aux rumeurs d un transfert au Barça (Tribuna.com)",
    "t": 1795491845
+  },
+  {
+   "genre": "actu",
+   "resume": "De supporter à titulaire face au Bayern Munich (L'Équipe)",
+   "t": 1795495890
   }
  ],
  "matchs": {},
