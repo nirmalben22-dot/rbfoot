@@ -1,43 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "988c89090447e23d",
-  "21ce95628cb7db88",
-  "3900f8d1526b2d1d",
-  "346cc9946eb59620",
-  "d0030391f53d5d25",
-  "ce7db1968e45aed1",
-  "f5b7f7a43cb1fc0f",
-  "b93b6f6d88af0eff",
-  "492ff1859198c6c8",
-  "f1eede386156a599",
-  "75c1f1abca6d0f2a",
-  "32ae34d080d606e9",
-  "384b799db6e10265",
-  "234e7acb40e56950",
-  "134a23590d016dba",
-  "226d6a2f675c8121",
-  "7eb0688f45693c1e",
-  "90a80ba361349cea",
-  "9fa08c308c36420f",
-  "bd13e68c1a3e7516",
-  "b71ccc9690b8cc0b",
-  "de98d9c85cd29980",
-  "d40cda64620acc29",
-  "fe2ac86af2dfc686",
-  "b46b68f3a3e18a10",
-  "5e849c502903c2d3",
-  "c78639047a1c2592",
-  "3fd43816eebf8077",
-  "84b80ad821080bcd",
-  "d3a4c31b13d9761c",
-  "5eb25c836c99ab16",
-  "2c57940be1ee6ef8",
-  "9e23b380f52ef7df",
-  "8827edfe656a8abc",
-  "d10d09f441d5b1f4",
-  "175aabd01ddf2cfc",
-  "d4f6973786067a1f",
   "bbcf95d62699cada",
   "502d7f6fa4504d04",
   "1f038800b07c9871",
@@ -800,32 +763,59 @@
   "66b73962af03068e",
   "aa9c1c1a090dcba7",
   "da3523ae575a88d1",
-  "21c752a9fdb485ee"
+  "21c752a9fdb485ee",
+  "ebd92906cfdf645e",
+  "3db859e77f3fa80b",
+  "0ef3bc7106d86b50",
+  "ca3dadd97b49ddc3",
+  "4eee57cfa8936655",
+  "f6b91c8185b6a7d7",
+  "f502bc0541735f59",
+  "66e85c4e919509ad",
+  "5c712c5488cf4307",
+  "ac7596afb35e930c",
+  "b227aca9ee4edaac",
+  "48ac7d4db222a1c4",
+  "4ce48649fa232abe",
+  "d2a6301a9e4c6d7b",
+  "59fab2c695141103",
+  "792a36ba8fe58934",
+  "ee0a533dfcf32f8d",
+  "f968d362c427a5e0",
+  "2cb80cbf43bde508",
+  "0f51f144672a9ef9",
+  "22890cd71395b1f5",
+  "07f642633ca2471d",
+  "27ccad503f0f6ff1",
+  "1ac583ac146fbf96",
+  "00af534c9b91255c",
+  "9f9c3990393e0fab",
+  "8d5e618bdee72a57",
+  "a81c6493e81a4046",
+  "595e96abb50a5b31",
+  "485bbb9bbb910f26",
+  "85b10c03e1bdbd15",
+  "ab0bc0e11e61da70",
+  "e8126c7779bd08da",
+  "1220fe1bb3a950ca",
+  "52a64076396ac9da",
+  "ed3a0867988babb1",
+  "e16de644c1dec8ae"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795548653.4323494,
+ "dernier_passage_actus": 1795552044.8755224,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Inquiétude pour David Raya touché à l épaule (roundtable.io)",
-   "t": 1795321402
-  },
-  {
-   "genre": "actu",
-   "resume": "Mauricio Pochettino veut imposer sa méthode à Manchester United (L'Équipe)",
-   "t": 1795325212
-  },
   {
    "genre": "actu",
    "resume": "Rupture des ligaments croisés confirmée pour Désiré Doué (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Jamal Musiala au cœur d une polémique au Bayern Munich (L'Équipe)",
    "t": 1795548742
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Maroc veut contester la décision du TAS devant la justice suisse (L'Équipe)",
+   "t": 1795552148
+  },
+  {
+   "genre": "actu",
+   "resume": "Plainte officielle déposée auprès de l'UEFA contre Galatasaray (Foot Mercato)",
+   "t": 1795552153
   }
  ],
  "matchs": {},
