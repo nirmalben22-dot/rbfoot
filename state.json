@@ -1,40 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "4594f835458aa92e",
-  "aa22123664d9a8f3",
-  "bb9ba3e25881b4ba",
-  "323a5391353e0f09",
-  "10ccd7bc23381761",
-  "9357b0c959ccc4dd",
-  "dbe771ce1e8b22df",
-  "71e0c2ef714d6794",
-  "0542af7cd6bf03d6",
-  "1957e3db98a5c388",
-  "0145a518d8cfed40",
-  "499583978ee2cd03",
-  "d6049dd7d95d206a",
-  "315f188456aca6b6",
-  "267f181612d8c259",
-  "ae7cb4e28ad578d7",
-  "2853ca82e2cc3b88",
-  "9508fd2dd2798a1b",
-  "19571eca9e69566c",
-  "af6b64947719fa0e",
-  "9c540fd97e42fa55",
-  "e0c403b827deeeaf",
-  "f6a265dcfc48f782",
-  "c9e11f2fcd05af1d",
-  "3cd97415cf7c9ef6",
-  "1f829e2eb2ca45d6",
-  "514b2235274ba30b",
-  "f2bcd31fe4f27290",
-  "def75ddf0ddf2f08",
-  "18dd19cc6c3a06e3",
-  "62ac7270525e1edb",
-  "64dd2efd7f08fb7f",
-  "6548e5ab9e9a3894",
-  "0d9feca6deb76caa",
   "988c89090447e23d",
   "21ce95628cb7db88",
   "3900f8d1526b2d1d",
@@ -800,32 +766,56 @@
   "1decde267ac1e791",
   "58d56890bc07f3e1",
   "405ff1199c3b5a25",
-  "3750fc213566f558"
+  "3750fc213566f558",
+  "44bfb579a458bd7c",
+  "a4acf32e4eef795c",
+  "52ccf9a759e162df",
+  "edd631da98e6f971",
+  "0b7af67612860497",
+  "1cb54708f3ea3b31",
+  "029e66c02b31aef9",
+  "a80d3f9c80fad7c2",
+  "70a6655ddb81f8bc",
+  "fb6b37117559a04a",
+  "6f3f6db1c52af618",
+  "bda7218a4395494e",
+  "ada3c9a589b9b829",
+  "ef13530ec36c4cc9",
+  "59cfd1d502c8a95b",
+  "d6f0a0645b730014",
+  "cf80f4c117b400cb",
+  "5bf1eac8a122dd29",
+  "0b0903fa0d15b962",
+  "e128e4dc3be824b3",
+  "2ff12d9a05928906",
+  "26d1240b9eccc2e0",
+  "380bab58c7806e1b",
+  "6171b3355f75c516",
+  "ba6b3336cc746cb5",
+  "0d7896621dfc7236",
+  "1a1b298aa398187d",
+  "ccf41ff638858d3f",
+  "93846ea3232500d4",
+  "c0d1e23d1ce02452",
+  "66b73962af03068e",
+  "aa9c1c1a090dcba7",
+  "da3523ae575a88d1",
+  "21c752a9fdb485ee"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795544674.7008882,
+ "dernier_passage_actus": 1795548653.4323494,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Mourinho tranche pour la titularisation de Vinicius Junior (Foot Mercato)",
-   "t": 1795306163
-  },
-  {
-   "genre": "actu",
-   "resume": "Naples vise une recrue du Paris FC à 25 millions (Sport.fr)",
-   "t": 1795317590
-  },
   {
    "genre": "actu",
    "resume": "Inquiétude pour David Raya touché à l épaule (roundtable.io)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Frenkie de Jong hilare après une question sur Lamine Yamal (Foot Mercato)",
    "t": 1795544749
+  },
+  {
+   "genre": "actu",
+   "resume": "Terrible nouvelle pour Désiré Doué et le PSG (Foot Mercato)",
+   "t": 1795548737
+  },
+  {
+   "genre": "actu",
+   "resume": "Jamal Musiala au cœur d une polémique au Bayern Munich (L'Équipe)",
+   "t": 1795548742
   }
  ],
  "matchs": {},
