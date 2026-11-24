@@ -1,8 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "c686464896fad678",
-  "36825ff987da0f24",
   "1db28b27ecc27318",
   "be555abf9c68717d",
   "3776c05cfb128bf0",
@@ -800,27 +798,24 @@
   "ac4813223eaba6ce",
   "9960f46ba164173a",
   "58bfe46bb35e9fe2",
-  "a2997590f40e7814"
+  "a2997590f40e7814",
+  "a5eb11fe5402ca21",
+  "5ed9727066a6be0a"
  ],
  "compteurs": {
   "actus_publiees": {
-   "jour": "2026-11-23",
-   "n": 18
+   "jour": "2026-11-24",
+   "n": 1
   },
   "appels_api_football": {
-   "jour": "2026-11-23",
-   "n": 21
+   "jour": "2026-11-24",
+   "n": 1
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795476237.6176794,
+ "dernier_passage_actus": 1795479546.7764645,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le retour attendu d'Ayase Ueda avec Lille (L'Équipe)",
-   "t": 1795238689
-  },
   {
    "genre": "actu",
    "resume": "La place de Vinicius menacée au Real Madrid (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Luis de la Fuente lance le choc entre la France et l'Espagne (RMC Sport)",
    "t": 1795476372
+  },
+  {
+   "genre": "actu",
+   "resume": "Premier match de Ligue des champions pour Didier Digard avec Lens (RMC Sport)",
+   "t": 1795479857
   }
  ],
  "matchs": {},
