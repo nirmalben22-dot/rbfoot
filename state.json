@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "7fefb60e423adbf8",
-  "2362c18608bfc87f",
-  "70506bb868716218",
-  "e906f51d73ebf9ae",
-  "db33a7e716af42f7",
-  "a38da0bf4619cb5f",
-  "82c8acf988368175",
-  "47666aea322890a9",
-  "4c7728c32d6513e2",
-  "ae556e02c27f8dd0",
-  "c56cb6005c104bd2",
-  "e1d401ff3f16587d",
-  "b7f3fc84692a99a8",
-  "00af534c9b91255c",
-  "85799fdf80d0f701",
-  "1300f218b3c10e68",
-  "cea16d4ef0146104",
-  "5509d44ab9e530fd",
-  "dc9bb0f2b29abd55",
-  "074ae54c1f95c828",
-  "cedb2b2a4de004ff",
-  "a4a51921a2f29fa6",
-  "ae4accc9aab0defc",
-  "1f81e6380366d887",
-  "382d7baf036606fd",
-  "a47b9bdae8b45bc5",
-  "e8f17f65cc25adf3",
-  "a4ad1e72c73b4b83",
-  "0cbde865bdcc2feb",
-  "3e84cf3afb125262",
-  "c250be9fb8d7f3cd",
-  "6b023a084303f53d",
-  "e3b58ff6e398932b",
-  "e6a3a0042da2aa46",
-  "2116bc743c42967f",
-  "10ea4e5dce978f2c",
-  "255a5bf0bf7c36e3",
-  "c51952051e5101a2",
-  "9580b09a79b3a1dc",
   "4594f835458aa92e",
   "aa22123664d9a8f3",
   "bb9ba3e25881b4ba",
@@ -800,32 +761,61 @@
   "a8017a5b182a7883",
   "d9349315915b8401",
   "e0686ffc9fd1600b",
-  "30181646f779d0a3"
+  "30181646f779d0a3",
+  "f88eece9ff045fa5",
+  "5e8e0e96ff573679",
+  "9b947707b931f233",
+  "a46fa653ffa52935",
+  "8e373a8315d0747b",
+  "19098228e4fd364b",
+  "cbbb00085c145fb0",
+  "1ca9ef29d35d978d",
+  "91eb8db7548e3710",
+  "f0326083243c915c",
+  "14b54da1732cfbff",
+  "11d1a2d8ce5222a5",
+  "47162db8a767d144",
+  "7e35f48cf51f2084",
+  "62685d3acc9c490e",
+  "dec8979db9d4787d",
+  "e9dbd782934a55f9",
+  "e089d012105808b8",
+  "82e53993c5b3a915",
+  "b425855cf4495f99",
+  "d6c9046189781a90",
+  "e07ea2fc73f3a74d",
+  "57c1e311a70ba5eb",
+  "e8ccbc9f97157937",
+  "81d1f58ad98ce32f",
+  "fac3673b1512a335",
+  "5212653adb3ffebf",
+  "c2299704c9fffdc9",
+  "147a8d25b68bed56",
+  "6b0277e964fb5293",
+  "6a9d4657174f7e51",
+  "68e99b22718577a9",
+  "22710559241e369c",
+  "b12d416a75a0c80c",
+  "e12a7b2c02f3ed4c",
+  "1decde267ac1e791",
+  "58d56890bc07f3e1",
+  "405ff1199c3b5a25",
+  "3750fc213566f558"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 15
+   "n": 17
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795541312.6471527,
+ "dernier_passage_actus": 1795544674.7008882,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Didier Deschamps retrouve du travail après son départ des Bleus (Foot Mercato)",
-   "t": 1795281562
-  },
-  {
-   "genre": "actu",
-   "resume": "Roman Abramovitch réclame des comptes aux nouveaux patrons de Chelsea (Foot Mercato)",
-   "t": 1795284208
-  },
   {
    "genre": "actu",
    "resume": "Mourinho tranche pour la titularisation de Vinicius Junior (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le budget mercato de Manchester United fortement réduit (Sky Sports)",
    "t": 1795541417
+  },
+  {
+   "genre": "actu",
+   "resume": "Fabrizio Romano ferme la porte pour Vinicius au PSG (PlanetePSG.com)",
+   "t": 1795544745
+  },
+  {
+   "genre": "actu",
+   "resume": "Frenkie de Jong hilare après une question sur Lamine Yamal (Foot Mercato)",
+   "t": 1795544749
   }
  ],
  "matchs": {},
