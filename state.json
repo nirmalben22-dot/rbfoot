@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "af4640871c0bbaf7",
-  "12874fd7b91f21ff",
-  "445a2a6a9ce193a0",
-  "30c18be791de1391",
-  "8bcb0e1e4ef0754b",
-  "9352736271e60872",
-  "125b20389cc5013b",
-  "2284911fddf6bc7e",
-  "7c5d585425c6a13f",
-  "8bd208035c80a1e8",
   "13d303ebfc6d7360",
   "4857a9a645bcf597",
   "84d9e072e52da1e3",
@@ -800,27 +790,32 @@
   "0dfa470f3bf6a650",
   "848dee83261231f8",
   "c42af99b521dd85c",
-  "b653464654189664"
+  "b653464654189664",
+  "f240eb154e09cf4d",
+  "920bf23aa5ee04a3",
+  "84506aab62e36068",
+  "a2861f0b41288998",
+  "c308d1aa6779fb5f",
+  "3a616122e1583224",
+  "d5ef6741ba103233",
+  "dbb11fc940bfcc5c",
+  "2b236902cdf74b86",
+  "5579c0357e7a1591"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795484683.903556,
+ "dernier_passage_actus": 1795488193.4496357,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Roberto De Zerbi règle ses comptes avec Longoria et Benatia (Foot Mercato)",
-   "t": 1795262730
-  },
   {
    "genre": "actu",
    "resume": "Rafael Nadal rejoint le conseil d administration du Real Madrid (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Le Real Madrid prend son temps pour le dossier Michael Olise (Tribuna.com)",
    "t": 1795484830
+  },
+  {
+   "genre": "actu",
+   "resume": "Chelsea maintient sa totale confiance en Xabi Alonso (Business Upturn)",
+   "t": 1795488262
   }
  ],
  "matchs": {},
