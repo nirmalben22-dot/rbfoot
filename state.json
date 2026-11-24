@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "bbcf95d62699cada",
-  "502d7f6fa4504d04",
-  "1f038800b07c9871",
-  "d895cbe8f9010d84",
-  "b318d8c6406456e3",
-  "7bc983c786f56562",
-  "6e8d58d462316c81",
-  "327643c3248fe296",
-  "376c34fcd773c544",
-  "7686a40ba893f53c",
-  "32e2e67b845f5b26",
-  "d5d57cdfd09530d8",
-  "3f8c8589e743f3eb",
-  "44231ddc1d49ecd5",
-  "15793e0195b60deb",
-  "a633f9b76626f168",
-  "31069ba672c4c561",
-  "a82b51409bba3f1f",
-  "4972a64742b68903",
-  "622b6a180c62134b",
-  "9f842bcca1c72480",
-  "41f246a6405459f1",
-  "5a3141b5f20a61ce",
-  "2010feb97306f5b3",
-  "1336a5e85f4a5c04",
-  "8137dfdcc74c9c26",
-  "61a470f732da345e",
-  "2812587650257fd3",
-  "cd55179973bd9b2c",
-  "7480a3693eb37748",
-  "c343ddb347f7d2ab",
-  "74ba023361f4df09",
-  "91fc767a63d06b6d",
-  "836b86c6c89c3a33",
-  "2a9e8033c7598e7d",
-  "30d482d2f9f7eaf2",
-  "08b5096d2827a8da",
-  "88b41a830aef1944",
-  "22c8e2fef882d9be",
   "981167db146c1d40",
   "4fac21944c471407",
   "27e09eef8b37dfc1",
@@ -800,32 +761,61 @@
   "1220fe1bb3a950ca",
   "52a64076396ac9da",
   "ed3a0867988babb1",
-  "e16de644c1dec8ae"
+  "e16de644c1dec8ae",
+  "43f9f6522ef1544b",
+  "7e73412ccd51d96b",
+  "6150096f3e0b76f7",
+  "0558404020b01fdb",
+  "f90955e92fe511ed",
+  "f7e29c5865e0dfa3",
+  "ac03235c204d1318",
+  "6b77c6505f49e87b",
+  "13eeefc491d19bdb",
+  "175aabd01ddf2cfc",
+  "9cd21cf40496cb8a",
+  "0a74df788165795f",
+  "a2786f435ffa6f16",
+  "b18900c874e519c6",
+  "343a788f1382c5f2",
+  "72002e6dcaa0f974",
+  "b3c60c9c2e3301b9",
+  "db5ca2ebf4528fa4",
+  "4785e41f04fbd369",
+  "2c5328e97e74ab60",
+  "65eb10d44aa2793a",
+  "4550073841ecbb2e",
+  "29f7ce914dc7d5fe",
+  "2f13639f31cf7b8c",
+  "d2bf056cf219ebb6",
+  "9c4ae48cdd372ea7",
+  "6f68b5af87f8760e",
+  "f97a717c6dda8ab4",
+  "ef76997a9ba38728",
+  "36022d4469c286d8",
+  "41b03e38c609210b",
+  "846f92f78406de6d",
+  "385f8727dc196f35",
+  "6942832b8581eccf",
+  "09c81329cb550837",
+  "d72c279e99724621",
+  "8cfa3e72185222ba",
+  "10c06ac8f2321003",
+  "a7e9e03fb9f59265"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 19
+   "n": 20
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795552044.8755224,
+ "dernier_passage_actus": 1795555730.0018392,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Rupture des ligaments croisés confirmée pour Désiré Doué (Foot Mercato)",
-   "t": 1795348984
-  },
-  {
-   "genre": "actu",
-   "resume": "Adrien Rabiot s'exprime sur son départ mouvementé de l'OM (RMC Sport)",
-   "t": 1795348990
-  },
   {
    "genre": "actu",
    "resume": "Inquiétude pour Jamal Musiala victime d'une rechute (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Plainte officielle déposée auprès de l'UEFA contre Galatasaray (Foot Mercato)",
    "t": 1795552153
+  },
+  {
+   "genre": "actu",
+   "resume": "L'OM s'apprête à quitter la Commanderie pour un projet à 70 millions (Foot Mercato)",
+   "t": 1795555885
+  },
+  {
+   "genre": "actu",
+   "resume": "Le triste record défensif du RC Lens en Ligue des champions (RMC Sport)",
+   "t": 1795555892
   }
  ],
  "matchs": {},
