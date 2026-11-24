@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "13d303ebfc6d7360",
-  "4857a9a645bcf597",
-  "84d9e072e52da1e3",
-  "90b3b7c847ac1500",
-  "581c647a0e545d24",
-  "3c04c75ccd0677d4",
-  "7638420842d9a00a",
-  "47a791bc8b93de0c",
-  "358d8a8cb8bb5da3",
-  "dafcd57ab1e2465c",
   "c829c0a10f5a1f32",
   "e47f8c14f55ee21c",
   "bb7c72e2e8fd0b39",
@@ -800,32 +790,32 @@
   "d5ef6741ba103233",
   "dbb11fc940bfcc5c",
   "2b236902cdf74b86",
-  "5579c0357e7a1591"
+  "5579c0357e7a1591",
+  "61dc8f98590ba343",
+  "ef3a0bf591abedb0",
+  "a49a3c174b27ae6f",
+  "1f4f7d7f3434d668",
+  "754edd4318d65c66",
+  "753505bdfbe1633e",
+  "42d03e4bc7d71974",
+  "2876426a5836d8ff",
+  "2eca4f6560b56bb6",
+  "e4203cdaf44e8cca"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 4
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795488193.4496357,
+ "dernier_passage_actus": 1795491766.5004537,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Rafael Nadal rejoint le conseil d administration du Real Madrid (Foot Mercato)",
-   "t": 1795266082
-  },
-  {
-   "genre": "actu",
-   "resume": "La CAF apporte son soutien officiel a Gianni Infantino (L'Équipe)",
-   "t": 1795266088
-  },
   {
    "genre": "actu",
    "resume": "Jules Koundé fait son retour avec le FC Barcelone (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Chelsea maintient sa totale confiance en Xabi Alonso (Business Upturn)",
    "t": 1795488262
+  },
+  {
+   "genre": "actu",
+   "resume": "Joshua Zirkzee ciblé en Serie A pour le mercato de janvier (Tribuna.com)",
+   "t": 1795491840
+  },
+  {
+   "genre": "actu",
+   "resume": "Aymeric Laporte répond aux rumeurs d un transfert au Barça (Tribuna.com)",
+   "t": 1795491845
   }
  ],
  "matchs": {},
