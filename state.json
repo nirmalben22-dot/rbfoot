@@ -1,22 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "1db28b27ecc27318",
-  "be555abf9c68717d",
-  "3776c05cfb128bf0",
-  "8aec54a9fb9d20cc",
-  "3fe2639418fccf8f",
-  "dce466dbd77c44b7",
-  "82810ccda4c3dd9c",
-  "2f14e311f68419df",
-  "36b8f35509b87c2e",
-  "734d22d4763ef99d",
-  "f7fdc0117e4085d0",
-  "a66560a35d9585ad",
-  "c2b5d1c4b7e61ed3",
-  "126c765cb244d43e",
-  "09055385a12d6e9a",
-  "bddc66140d162e3a",
   "af4640871c0bbaf7",
   "12874fd7b91f21ff",
   "445a2a6a9ce193a0",
@@ -800,32 +784,38 @@
   "58bfe46bb35e9fe2",
   "a2997590f40e7814",
   "a5eb11fe5402ca21",
-  "5ed9727066a6be0a"
+  "5ed9727066a6be0a",
+  "24c04fc2bedeb097",
+  "9d052a37a0e1e06d",
+  "42104122eb24cc81",
+  "552e483ec3c3fa7f",
+  "de5a3e0e71ff586e",
+  "4e1d475b22af649f",
+  "372fd82a6bafdf0a",
+  "58725d8fef7716e9",
+  "1c6233737e908208",
+  "6e3a1028f5d6417e",
+  "94e2f7ee73b60113",
+  "ab1f05bf3d627399",
+  "0dfa470f3bf6a650",
+  "848dee83261231f8",
+  "c42af99b521dd85c",
+  "b653464654189664"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-24",
-   "n": 1
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-24",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795479546.7764645,
+ "dernier_passage_actus": 1795484683.903556,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "La place de Vinicius menacée au Real Madrid (L'Équipe)",
-   "t": 1795238694
-  },
-  {
-   "genre": "actu",
-   "resume": "Florentino Pérez attaque violemment le Barça et Javier Tebas (Foot Mercato)",
-   "t": 1795262725
-  },
   {
    "genre": "actu",
    "resume": "Roberto De Zerbi règle ses comptes avec Longoria et Benatia (Foot Mercato)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Premier match de Ligue des champions pour Didier Digard avec Lens (RMC Sport)",
    "t": 1795479857
+  },
+  {
+   "genre": "actu",
+   "resume": "James Tarkowski suspendu pour le derby de la Mersey (The False 9)",
+   "t": 1795484824
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Real Madrid prend son temps pour le dossier Michael Olise (Tribuna.com)",
+   "t": 1795484830
   }
  ],
  "matchs": {},
