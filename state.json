@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "6f1ab8bdabaa21f5",
-  "a83903f82b188226",
-  "6e0c472223c94eae",
-  "498e80b2b1d9ea90",
-  "60aead816c862fea",
-  "c858b63caec8aa41",
-  "1a3fdec1104fd430",
-  "14d987c58e32e99d",
-  "c846627cbcc0ba6c",
-  "85a802b0fde009f4",
   "189c6840eaa6de22",
   "fa66c4c115fbab12",
   "b64bfa3ffac7e7e7",
@@ -800,27 +790,32 @@
   "dbcac39665ec0cd9",
   "eaaf67584fb8a5ce",
   "20c56f829174dd39",
-  "56bb775aa138ed04"
+  "56bb775aa138ed04",
+  "2bd6cb0762977204",
+  "c1b75912ad835a2d",
+  "5c10586ac11a34b9",
+  "987b06237a5ac50e",
+  "102b3dd3db5743e8",
+  "1c076739e736e9ed",
+  "53558cd996520992",
+  "c818834400bcbe2c",
+  "2209b45d50e1c080",
+  "dae670df41420ea1"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 3
+   "n": 4
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795571486.4173374,
+ "dernier_passage_actus": 1795574983.206868,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Luis Enrique a des solutions internes pour pallier les absences au PSG (RMC Sport)",
-   "t": 1795361711
-  },
   {
    "genre": "actu",
    "resume": "Villarreal lâche ses coups contre l arbitrage et le FC Barcelone (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Manchester United vise deux à trois recrues en janvier (Tribuna.com)",
    "t": 1795571633
+  },
+  {
+   "genre": "actu",
+   "resume": "Scott McTominay privilégierait Manchester United à Chelsea (Sport.fr)",
+   "t": 1795575047
   }
  ],
  "matchs": {},
