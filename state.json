@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "189c6840eaa6de22",
-  "fa66c4c115fbab12",
-  "b64bfa3ffac7e7e7",
-  "d4f7f90e0254dcf7",
-  "f6d1fdfd43b8f870",
-  "ac4813223eaba6ce",
-  "9960f46ba164173a",
-  "58bfe46bb35e9fe2",
-  "a2997590f40e7814",
-  "a5eb11fe5402ca21",
-  "5ed9727066a6be0a",
-  "24c04fc2bedeb097",
-  "9d052a37a0e1e06d",
   "42104122eb24cc81",
   "552e483ec3c3fa7f",
   "de5a3e0e71ff586e",
@@ -800,27 +787,35 @@
   "53558cd996520992",
   "c818834400bcbe2c",
   "2209b45d50e1c080",
-  "dae670df41420ea1"
+  "dae670df41420ea1",
+  "04f05514db5f0909",
+  "eb531d048adf899c",
+  "c7facb199ee332ae",
+  "6043102ddfd32b99",
+  "bdd480ca6d591a43",
+  "cb48d0b2a0f4088a",
+  "33c17899bc56cd01",
+  "225addf488166d11",
+  "73064d0d559aec0b",
+  "4ec9af6882eb44ef",
+  "69dcdc2fae666799",
+  "26545ec764a4f719",
+  "8a1b9668919241f7"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 4
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 3
+   "n": 4
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795574983.206868,
+ "dernier_passage_actus": 1795578665.513938,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Villarreal lâche ses coups contre l arbitrage et le FC Barcelone (Foot Mercato)",
-   "t": 1795364817
-  },
   {
    "genre": "actu",
    "resume": "Adrien Rabiot savoure son capitanat et sa longévité chez les Bleus (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Scott McTominay privilégierait Manchester United à Chelsea (Sport.fr)",
    "t": 1795575047
+  },
+  {
+   "genre": "actu",
+   "resume": "Un coup d'accélérateur pour Liverpool sur le dossier Lamine Camara (Liverpool.com)",
+   "t": 1795578737
   }
  ],
  "matchs": {},
