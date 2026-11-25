@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "64e66ebcf9073fc4",
-  "e07147fffdb5e3fa",
-  "8691578161d9a01b",
-  "40500558f8a7793a",
-  "388c66836ba11f98",
-  "8386be25895d356b",
-  "b4ec07af4d395f2d",
-  "7476bb052667d616",
-  "c1c689841bb9796d",
-  "983e9aae0cc92f26",
-  "abc3a77b41798082",
-  "8199f423c684ce13",
-  "8ac357fd8ab30a3b",
-  "e302745ad722c0a5",
-  "b1f5848eab2d8b29",
-  "b7c5cd8d4cfcf651",
-  "391dca2e2f711d11",
-  "462854fd6aedf0f3",
-  "b451b555f535f432",
-  "23db33f5d325f785",
-  "b46c7091815e6c24",
-  "b41bbf6f3e007be4",
-  "4e1895fdb7dba5ca",
-  "f90d2b14487d117c",
-  "f92a71f575a27df3",
-  "4c36ad9531509b83",
-  "04ba6a79b2d46f78",
-  "601e5ad04092b882",
-  "9c3354f579651d19",
-  "d3fda7ff8392ef72",
-  "1d73413c673a547d",
-  "b81fbe09b6ae9b71",
-  "05daf079fa45a735",
-  "77684800fc2adf10",
-  "acffddf4910912aa",
-  "f2880f9caa1310fe",
-  "f27342ff1741df73",
-  "2d17524fe58e38cc",
-  "39aab0507e36d9bc",
   "37caf5429cfb37b9",
   "dd8066291d6079f9",
   "bb142629c201ae4a",
@@ -800,32 +761,61 @@
   "a23cef55489d4fc7",
   "c5c312fdd3fdefc7",
   "f7b9864e0db73499",
-  "f36c69dab8fb0825"
+  "f36c69dab8fb0825",
+  "31096f461327334f",
+  "88e4e42bbbf02e5e",
+  "1797df2ad71dbc4c",
+  "54e210ac726a894e",
+  "a42aaba48ac3ec0b",
+  "562be4c6f0e11209",
+  "38eff333910c2f4f",
+  "f15b1f388f4489a0",
+  "bae2f23c1558d559",
+  "0dfae555adfd282c",
+  "acdc40ccb799e563",
+  "5e8ed4527da4ef91",
+  "98a6cc0011f4616d",
+  "713e43cccdd43593",
+  "44f0d04fe8c49bcf",
+  "29d576fd077fbd01",
+  "3d5bb47eed371456",
+  "95fc7055e651df33",
+  "77a28f298af0c1f7",
+  "01fddc875c7f24f2",
+  "3d7d45f8add36d43",
+  "12e92a5e6fd6c431",
+  "b329421b2f3c1836",
+  "8e9a5d65cb3ea3e1",
+  "d2323b1c9bf35b14",
+  "d1446fe7c33780b6",
+  "d8b12b8d4cb36140",
+  "c1c45f8866629c63",
+  "febc3a0b0696c370",
+  "26dbc67b3d79d773",
+  "5ece5ec279c48493",
+  "8efc36f754eaffc7",
+  "cc01e00d065ef7cd",
+  "5c0be9fec82f465c",
+  "753db95f794f8e9f",
+  "665e21dcdd6c9e60",
+  "3fa5403b7dad9e59",
+  "5c790a6fb191e850",
+  "bce89b58d63191fa"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 14
+   "n": 16
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 14
+   "n": 15
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795621413.0522547,
+ "dernier_passage_actus": 1795625439.1513472,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Héctor Herrera aurait été arrêté aux États-Unis pour conduite en état d'ivresse (Record)",
-   "t": 1795379434
-  },
-  {
-   "genre": "actu",
-   "resume": "De Zerbi règle ses comptes sur son passage à l OM (RMC Sport)",
-   "t": 1795382698
-  },
   {
    "genre": "actu",
    "resume": "Nicolas Pépé opéré des yeux Villarreal dément la folle rumeur (RMC Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Pierre-Emile Hojbjerg s'explique sur son été mouvementé à l'OM (RMC Sport)",
    "t": 1795621472
+  },
+  {
+   "genre": "actu",
+   "resume": "Fermín López suspendu deux matchs et privé du choc face à l'Atlético (L'Équipe)",
+   "t": 1795625496
+  },
+  {
+   "genre": "actu",
+   "resume": "Le Burkina Faso menace d'élimination pour la CAN 2027 (Afrik-Foot)",
+   "t": 1795625501
   }
  ],
  "matchs": {},
