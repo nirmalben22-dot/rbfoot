@@ -1,21 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "cc476a00444ed1fc",
-  "d459e4baea2fd19f",
-  "d62f49570ec1a582",
-  "1e4646e7733b9fda",
-  "21298b9cc8fc570a",
-  "190019322dfac14f",
-  "d30accbd99c9c51b",
-  "a2c3624071c4c356",
-  "20c393a4e2758fde",
-  "96bbb98994c0ba4b",
-  "4bf50b0a2b99e2ac",
-  "1810c4c1f49cce64",
-  "17d82d108957a45a",
-  "e6d7ec75f62e280b",
-  "fb50299e33cd402c",
   "6f1ab8bdabaa21f5",
   "a83903f82b188226",
   "6e0c472223c94eae",
@@ -800,27 +785,37 @@
   "40906b9d93877de1",
   "6f511cc5cd62bb15",
   "c7f843b4d39ecf53",
-  "3241d6bbe9600bd6"
+  "3241d6bbe9600bd6",
+  "1c345a547a41869a",
+  "15c6b12dd57bce64",
+  "8c9ee2c11c638837",
+  "cc732e006250a47b",
+  "281e0fe88e9f04f7",
+  "a2ed37ee300a7b4a",
+  "eccf5fe1d0f0ac08",
+  "55a30f3680b0a33c",
+  "08e6649ff4bff36a",
+  "7e69894e6d249198",
+  "9f171d33c63102d2",
+  "dbcac39665ec0cd9",
+  "eaaf67584fb8a5ce",
+  "20c56f829174dd39",
+  "56bb775aa138ed04"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 1
+   "n": 2
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795566092.9226117,
+ "dernier_passage_actus": 1795571486.4173374,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Neymar envoie un message de soutien à Désiré Doué (Foot Mercato)",
-   "t": 1795361706
-  },
   {
    "genre": "actu",
    "resume": "Luis Enrique a des solutions internes pour pallier les absences au PSG (RMC Sport)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Jude Bellingham répond aux comparaisons avec Zinedine Zidane (RMC Sport)",
    "t": 1795566153
+  },
+  {
+   "genre": "actu",
+   "resume": "Manchester United vise deux à trois recrues en janvier (Tribuna.com)",
+   "t": 1795571633
   }
  ],
  "matchs": {},
