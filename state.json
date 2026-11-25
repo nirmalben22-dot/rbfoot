@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "42104122eb24cc81",
-  "552e483ec3c3fa7f",
-  "de5a3e0e71ff586e",
-  "4e1d475b22af649f",
-  "372fd82a6bafdf0a",
-  "58725d8fef7716e9",
-  "1c6233737e908208",
-  "6e3a1028f5d6417e",
-  "94e2f7ee73b60113",
-  "ab1f05bf3d627399",
   "0dfa470f3bf6a650",
   "848dee83261231f8",
   "c42af99b521dd85c",
@@ -800,27 +790,32 @@
   "4ec9af6882eb44ef",
   "69dcdc2fae666799",
   "26545ec764a4f719",
-  "8a1b9668919241f7"
+  "8a1b9668919241f7",
+  "9d1be553c7384365",
+  "0de95814441a2a76",
+  "16151f6d865d3753",
+  "7039007b89c9db6a",
+  "359b42242892ccfb",
+  "ac34a00863b9eb70",
+  "ff567fbc25f287ab",
+  "9b29e579460ac51f",
+  "2c57940be1ee6ef8",
+  "3139a4aa4183bd72"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 5
+   "n": 6
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795578665.513938,
+ "dernier_passage_actus": 1795582684.8517675,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Adrien Rabiot savoure son capitanat et sa longévité chez les Bleus (Foot Mercato)",
-   "t": 1795368046
-  },
   {
    "genre": "actu",
    "resume": "Himad Abdelli s'exprime sur les ambitions de l'Olympique de Marseille (Foot Mercato)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Un coup d'accélérateur pour Liverpool sur le dossier Lamine Camara (Liverpool.com)",
    "t": 1795578737
+  },
+  {
+   "genre": "actu",
+   "resume": "Tottenham suit de très près Vangelis Pavlidis (Record)",
+   "t": 1795582750
   }
  ],
  "matchs": {},
