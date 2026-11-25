@@ -1,37 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "ac8d47ee3af4a4ad",
-  "3effe2d43483e233",
-  "7807d85849513175",
-  "c27e91c14715df6d",
-  "965347288e4982d2",
-  "1b9d97226398d71c",
-  "4031276945696fe7",
-  "d7e33994a2c41d89",
-  "5a5a3d2a3949f1c5",
-  "776a5b06f14df580",
-  "9e1c68afb41f32be",
-  "bfa51f7f6e61f64b",
-  "d645cfc20b35ab55",
-  "62afa31b76f16833",
-  "b994ebd5f6cd069a",
-  "3ccae800fdec919b",
-  "9c90624b4617674c",
-  "94e9f4a218e508db",
-  "679831fe7336658d",
-  "2b424ffbbc5d743b",
-  "b69f32e2a78c2737",
-  "21ea8c1bc6d5ca87",
-  "e5242732173d20d1",
-  "c48fafba9912dfd4",
-  "b8747548de4dda44",
-  "c01d53c376682a83",
-  "c3dfef9392a2d8f5",
-  "c09b531397722028",
-  "94d23f18cd4d39ae",
-  "07d98c3133d1b19a",
-  "09bada05d9e887fb",
   "e62a15a49ae6fca6",
   "68eccabd9bd212df",
   "295b9abebadcd034",
@@ -800,32 +769,53 @@
   "a759e96c79a4f2a0",
   "c3f5cdb75b15f5dc",
   "175c057936e87baa",
-  "4f2a0f0d4c5d2618"
+  "4f2a0f0d4c5d2618",
+  "4e3240dae28e81a8",
+  "c9d7b14396626192",
+  "158d0185dbcec703",
+  "8b632c632b5d2426",
+  "d3e5fc93fa92128e",
+  "bba09fcfafbcdcbd",
+  "91ede7fe6cd6afa8",
+  "86ec0584f2506fc8",
+  "6034b917217ac3e0",
+  "ebd1c550b3470ce8",
+  "418ba6e637b8a361",
+  "3751a65600936730",
+  "c401062c4c23ea8d",
+  "2042a694aa365bb6",
+  "2b6f696716578f7f",
+  "d58da76444979515",
+  "7f89828f68aa653b",
+  "415d1c465f8d94d4",
+  "c4689130b9a39324",
+  "40d0edc938bfbe2f",
+  "0bfdc75288a3ba18",
+  "ce717fd6b8f02f6e",
+  "e3673f03ca43cbe4",
+  "6fb580be6507221d",
+  "9e2344fe948ab6a0",
+  "76511a38f85858be",
+  "3a8e31dbacad0e0f",
+  "c2781e6971265ac9",
+  "9b7e9c7c8bbe298c",
+  "73bb203b0763008b",
+  "367f1532076ce8ea"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 17
+   "n": 19
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 16
+   "n": 17
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795628553.6105304,
+ "dernier_passage_actus": 1795631583.7664037,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Diego Simeone devient l entraîneur le plus victorieux de l histoire de la Liga (L'Équipe)",
-   "t": 1795393981
-  },
-  {
-   "genre": "actu",
-   "resume": "Bruno Genesio sous le choc après le terrible effondrement de l OM (RMC Sport)",
-   "t": 1795393987
-  },
   {
    "genre": "actu",
    "resume": "Le patron du Bayern s interroge sur l avenir de Jamal Musiala (Lente Desportiva)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Sanction contre Millwall pour des chants discriminatoires (BBC Sport)",
    "t": 1795628692
+  },
+  {
+   "genre": "actu",
+   "resume": "Alejandro Garnacho écarté du groupe par Unai Emery (Foot Mercato)",
+   "t": 1795631651
+  },
+  {
+   "genre": "actu",
+   "resume": "Oliver Glasner recadre les joueurs qui ne parlent pas anglais (BBC Sport)",
+   "t": 1795631655
   }
  ],
  "matchs": {},
