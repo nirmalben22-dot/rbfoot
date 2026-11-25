@@ -1,42 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "e62a15a49ae6fca6",
-  "68eccabd9bd212df",
-  "295b9abebadcd034",
-  "bd6d98c5d8ebdb09",
-  "c0e286af8cf2a0c8",
-  "024030fbb5f76ec4",
-  "557023c20c47dda2",
-  "e87171b0a2a43079",
-  "867d706bc4a74a7e",
-  "835f033a51406d2e",
-  "c5ba4b96c21c0d22",
-  "e5a6a8d2c4766b16",
-  "b57b4f54fecd147b",
-  "30d62b8267a6c1b5",
-  "4b1c59a4835f1306",
-  "07a26f5d3220f69c",
-  "5d926eb070c357a4",
-  "5bf29d92594de3dd",
-  "a0b622aff9b19de4",
-  "dd9a79191327b382",
-  "7fb5e8940608729e",
-  "f669a75c9d5ec530",
-  "53325a449ccf3c58",
-  "041bbddaabb12f9a",
-  "b6dbb963d723a894",
-  "12429f22b2620107",
-  "d6cfeb84c06e7c73",
-  "1875a4bfb9fd95b5",
-  "da0f05acaf1cb9b2",
-  "0a0cd392e2786090",
-  "6f5d95be2468a288",
-  "9b2e66ad755f639a",
-  "bb12e932758e0cc3",
-  "f59d2bdbfb6a3498",
-  "8c3f2b6f32f53488",
-  "ee2763e759c02d2a",
   "d5dbdd24945052d6",
   "abafa09f974442b2",
   "4eadf4ce7089996e",
@@ -800,32 +764,58 @@
   "c2781e6971265ac9",
   "9b7e9c7c8bbe298c",
   "73bb203b0763008b",
-  "367f1532076ce8ea"
+  "367f1532076ce8ea",
+  "37a222b72db4d0f6",
+  "bfbb5e2640b67235",
+  "52718d43b3a23674",
+  "c4cec3da7e0e0467",
+  "4559540af204fa8a",
+  "107601d4dcebc3a4",
+  "876b99ae3a21d093",
+  "9df56c74d09f9521",
+  "d7e33994a2c41d89",
+  "9c47de2519db9ee8",
+  "92a1279b203800a9",
+  "e5d01a7023af1ad2",
+  "916bf4c0e30dcafc",
+  "3ffd7f949251ded0",
+  "b27ef48122db46e0",
+  "d311e070b778b249",
+  "2178b97067a6e3ab",
+  "911c5a4ea68d2351",
+  "49d389df39f4a25b",
+  "92adf35da978465c",
+  "73ec15c39365d25f",
+  "11d8c0a07ea4dc99",
+  "726e46bc26482536",
+  "bffafdada6c89dba",
+  "b38b80eb9b2939cb",
+  "2f48d70294a02027",
+  "e7af2ac6477a72b1",
+  "ddcd101097f4bc21",
+  "a7fd5f4e06b3f465",
+  "6dde94cd680642c6",
+  "8a998d8c5f9cd547",
+  "b2abda1aff7cf9b7",
+  "6fc883f15e47d56f",
+  "e53775111970a394",
+  "19d4aeed10d7f6ed",
+  "48204d9436d6b644"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 19
+   "n": 21
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 17
+   "n": 18
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795631583.7664037,
+ "dernier_passage_actus": 1795635393.999475,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Le patron du Bayern s interroge sur l avenir de Jamal Musiala (Lente Desportiva)",
-   "t": 1795399117
-  },
-  {
-   "genre": "actu",
-   "resume": "L Atlético de Madrid et la Juventus ciblent Maxi Araújo (Record)",
-   "t": 1795406558
-  },
   {
    "genre": "actu",
    "resume": "Endrick touché aux adducteurs et forfait en Ligue des champions (L'Équipe)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Oliver Glasner recadre les joueurs qui ne parlent pas anglais (BBC Sport)",
    "t": 1795631655
+  },
+  {
+   "genre": "actu",
+   "resume": "Liverpool s offre la jeune pépite sénégalaise Sidy Barhama Ndiaye (Foot Mercato)",
+   "t": 1795635473
+  },
+  {
+   "genre": "actu",
+   "resume": "Loïs Openda effectue son grand retour dans le groupe lyonnais (L'Équipe)",
+   "t": 1795635479
   }
  ],
  "matchs": {},
