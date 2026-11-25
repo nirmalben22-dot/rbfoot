@@ -1,38 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d5dbdd24945052d6",
-  "abafa09f974442b2",
-  "4eadf4ce7089996e",
-  "1209e05edfdd3ab0",
-  "719b8cff4fc84a77",
-  "09c3912b1b0a2c81",
-  "a504135becd31569",
-  "3b08b2a78d954e60",
-  "ab7ba1fed0caf762",
-  "92dad234786ad511",
-  "03e2c257ee509d69",
-  "072df63c0a205c5b",
-  "dd0522ac27ac7608",
-  "5d0b21d323535597",
-  "14d84724a9b0b3d6",
-  "23d59cbfcdf2523f",
-  "ba840208155fdebd",
-  "9adc44ecfa47a999",
-  "3e05a8917b650bcb",
-  "44669bb2b27656f1",
-  "8f088e7c5c2da881",
-  "cd272a4bff9ee424",
-  "126a63371a139fd5",
-  "374b72d3cfa35f6d",
-  "bae1fd7ce6648c3a",
-  "a8017a5b182a7883",
-  "d9349315915b8401",
-  "e0686ffc9fd1600b",
-  "30181646f779d0a3",
-  "f88eece9ff045fa5",
-  "5e8e0e96ff573679",
-  "9b947707b931f233",
   "a46fa653ffa52935",
   "8e373a8315d0747b",
   "19098228e4fd364b",
@@ -800,32 +768,54 @@
   "6fc883f15e47d56f",
   "e53775111970a394",
   "19d4aeed10d7f6ed",
-  "48204d9436d6b644"
+  "48204d9436d6b644",
+  "3b1457553ede6b07",
+  "d9caa80c7bc7d222",
+  "c852966c50c34da1",
+  "7b87f89ffbbb0008",
+  "7ca29955be1eae41",
+  "64f819742ba1cb16",
+  "3c4153bed353c2f9",
+  "98213b1f8b5387f1",
+  "ebd6cfb2cb13230c",
+  "eda0bc085bfd98c9",
+  "26062b9fa9b64830",
+  "97421712c523ee7a",
+  "52f8a7c28628e23c",
+  "282ec51c1e9813fd",
+  "1ebb60f180457452",
+  "f013bd71e3420928",
+  "ce9c74c1049ee5d9",
+  "7b2212b0d7f0b843",
+  "0562b0aceccb08b2",
+  "cfc9968abe8aa379",
+  "081f6c89f34c2516",
+  "6622589ce600adfb",
+  "4890db75476749a4",
+  "5b1c4a7a74b481e5",
+  "40d9d505ff88441d",
+  "e302745ad722c0a5",
+  "5daed5ccd7bb468a",
+  "4ae373e562a4f723",
+  "6ddc10389337b6b8",
+  "4a11842a1ece947d",
+  "56d3ae268a456de8",
+  "47e7d08967e3d4a5"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 21
+   "n": 23
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 18
+   "n": 19
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795635393.999475,
+ "dernier_passage_actus": 1795638876.3724244,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Endrick touché aux adducteurs et forfait en Ligue des champions (L'Équipe)",
-   "t": 1795443338
-  },
-  {
-   "genre": "actu",
-   "resume": "Federico Valverde tout proche d'une prolongation au Real Madrid (Maxifoot)",
-   "t": 1795443344
-  },
   {
    "genre": "actu",
    "resume": "Lamine Yamal forfait avec le Barça en Ligue des champions (Sky Sport)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Loïs Openda effectue son grand retour dans le groupe lyonnais (L'Équipe)",
    "t": 1795635479
+  },
+  {
+   "genre": "actu",
+   "resume": "Hécatombe de blessés à Monaco avant la Ligue Conférence (L'Équipe)",
+   "t": 1795638965
+  },
+  {
+   "genre": "actu",
+   "resume": "Sofyan Amrabat crie à l'injustice après la décision du TAS (L'Équipe)",
+   "t": 1795638971
   }
  ],
  "matchs": {},
