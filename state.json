@@ -1,45 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "d89db140a32a7678",
-  "dc5862ead09e5408",
-  "81e3c944682426a8",
-  "5bae3699a709e361",
-  "349f7eb70d7b171d",
-  "05a93d308794b212",
-  "9a8a6aa77499b627",
-  "e6f706e471310d53",
-  "d2bb712e4d354508",
-  "88c7f89ab58fc67d",
-  "b462cce2382a2563",
-  "6b9f8eb56538fa7b",
-  "547b33cbc424aeee",
-  "024f19581c0f97db",
-  "107601d4dcebc3a4",
-  "2ff13ddee88b1a83",
-  "9a4b4f6922777194",
-  "e379bccbe84b642f",
-  "3c71eb1fcf8df2dd",
-  "c7ab53a36f0b8092",
-  "38eff333910c2f4f",
-  "e7e8893587842c6a",
-  "da34e0dbc41fb604",
-  "10371057a32c0016",
-  "ed99a39f893ae55c",
-  "756e3b7e7c498c05",
-  "275e6244522bc6f4",
-  "6e2ff99a209c5ef5",
-  "38c2aa1044b9f822",
-  "8ce446818e30d3bd",
-  "d1e1ea751809338e",
-  "c90c83b5afba9e40",
-  "0ed715b72fe361b3",
-  "840fac1d5ca8f0aa",
-  "a3590cf167de90f3",
-  "1eabdca0cae01a47",
-  "b368c68aac7cd784",
-  "f5fca5903f64929f",
-  "1023c40d008cf843",
   "64e66ebcf9073fc4",
   "e07147fffdb5e3fa",
   "8691578161d9a01b",
@@ -800,32 +761,61 @@
   "ef2e1c0d4e758247",
   "a754b8e99e425e30",
   "1967be784626938c",
-  "dff441be1608cc06"
+  "dff441be1608cc06",
+  "b6185e2211171cfe",
+  "cb719397940747fd",
+  "abd34937b71215d6",
+  "dff12c217ac26c50",
+  "c262e9f2adaa5167",
+  "6072b097eb3928ea",
+  "842158bcfb8afd05",
+  "aa972a413d4aba33",
+  "8b8f5b6e913b4c2d",
+  "0b76e83db172d3c8",
+  "221cc91c2b72a822",
+  "52373c3a02baaab3",
+  "4dba0d87dfe070da",
+  "ed60785563df5a55",
+  "e7616579b66a17a2",
+  "fb4a347f37e1a752",
+  "eb2057400d35a81d",
+  "312269a6a3000511",
+  "882aee9cabe822e9",
+  "57dfebc815f06add",
+  "01ae1a9500f389fb",
+  "7778c90b5b00bd26",
+  "b383682049f65794",
+  "8298be6036cfe9f0",
+  "99a6ca8eb78946d3",
+  "f64c8af711ff87ce",
+  "8ccf526658f56ba0",
+  "3053bc1bf72230c3",
+  "d17d5eb6130a11b0",
+  "a10a5d82fd29204f",
+  "caa6bca9e6662eaa",
+  "8d3604a6bb7f7889",
+  "a6109ca4bdce0974",
+  "0910334d9c607258",
+  "0dacddef0e939b85",
+  "a23cef55489d4fc7",
+  "c5c312fdd3fdefc7",
+  "f7b9864e0db73499",
+  "f36c69dab8fb0825"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-25",
-   "n": 12
+   "n": 14
   },
   "appels_api_football": {
    "jour": "2026-11-25",
-   "n": 13
+   "n": 14
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795617705.329736,
+ "dernier_passage_actus": 1795621413.0522547,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Pochettino et Mainoo s en prennent à l arbitrage après le rouge de Yoro (Sky Sports)",
-   "t": 1795376565
-  },
-  {
-   "genre": "actu",
-   "resume": "Cauchemar absolu pour les débuts de Mauricio Pochettino à Manchester United (Foot Mercato)",
-   "t": 1795379429
-  },
   {
    "genre": "actu",
    "resume": "Héctor Herrera aurait été arrêté aux États-Unis pour conduite en état d'ivresse (Record)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Le fonds d investissement saoudien prêt à céder des parts de Newcastle (Football365)",
    "t": 1795617760
+  },
+  {
+   "genre": "actu",
+   "resume": "Benoît Assou-Ekotto s'en prend à nouveau à Kylian Mbappé (Foot Mercato)",
+   "t": 1795621467
+  },
+  {
+   "genre": "actu",
+   "resume": "Pierre-Emile Hojbjerg s'explique sur son été mouvementé à l'OM (RMC Sport)",
+   "t": 1795621472
   }
  ],
  "matchs": {},
