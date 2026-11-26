@@ -1,16 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "a562a063fc6c29bb",
-  "7dd9f67b81e6bf1f",
-  "b1c0444e884f8f14",
-  "0e4fc770bc3d7a6c",
-  "629081e510dd4220",
-  "706d7c84e550d9ba",
-  "e4bc809798c58920",
-  "697305ca4e9c49db",
-  "03c059ef5709d3d2",
-  "5a5923467137f452",
   "6b1261cca7a4c037",
   "7ba09c8eddd0e21f",
   "318f8df20efed516",
@@ -800,32 +790,32 @@
   "908144f60a879e98",
   "878b2d210989a1b6",
   "40c29898e1690b13",
-  "94c01a00f1402b4b"
+  "94c01a00f1402b4b",
+  "5f4702182933306f",
+  "1225c72fc3c4adf5",
+  "4752f6b5e55d1f18",
+  "be3c10f732f544c1",
+  "82ee653b2f66d4c8",
+  "6d7b0903a0bd87a9",
+  "bd4f35f6fe43391a",
+  "a6fbea3bafba05fa",
+  "f1de5e96e6dd2c4e",
+  "0b1eb9a3ce2f8458"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-26",
-   "n": 3
+   "n": 5
   },
   "appels_api_football": {
    "jour": "2026-11-26",
-   "n": 4
+   "n": 5
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795665235.5742354,
+ "dernier_passage_actus": 1795669203.1919074,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Révélations explosives sur Gianni Infantino et la Coupe du monde (L'Équipe)",
-   "t": 1795465859
-  },
-  {
-   "genre": "actu",
-   "resume": "Noah Atubolu impressionne avec des statistiques folles sur penalty (L'Équipe)",
-   "t": 1795465863
-  },
   {
    "genre": "actu",
    "resume": "AC Milan prêt à poser 70 millions d'euros sur Endrick (Bernabéu Digital)",
@@ -1115,6 +1105,16 @@
    "genre": "actu",
    "resume": "Ousmane Dembélé égale Neymar au PSG (Foot Mercato)",
    "t": 1795661863
+  },
+  {
+   "genre": "actu",
+   "resume": "Mazire Soula compare Levski Sofia a l Olympique de Marseille (L'Équipe)",
+   "t": 1795669270
+  },
+  {
+   "genre": "actu",
+   "resume": "Sebastien Pocognoli revient sur son passage ecourte a Monaco (L'Équipe)",
+   "t": 1795669275
   }
  ],
  "matchs": {},
