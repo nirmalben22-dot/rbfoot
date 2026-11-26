@@ -1,19 +1,6 @@
 {
  "actus_initialisees": true,
  "actus_vues": [
-  "dfa0e710f6e297d8",
-  "3f39a943d3ded00b",
-  "f945046570cad2ec",
-  "a32b63e2cff6574e",
-  "3ec4a3a58c8a1aa7",
-  "cba2c13452242761",
-  "04928a1b7ff815dd",
-  "23986e1be0b6281e",
-  "5017c2f854a203ca",
-  "78988ba3d6d2d267",
-  "8a401e0e448ddc5a",
-  "fcd676caea49c1ea",
-  "1845fb3982861d7b",
   "9739e79d13851c0e",
   "e4b36aed0fedbdab",
   "41d93015ac4590e7",
@@ -800,27 +787,35 @@
   "b3a931a97a05e204",
   "d55c79fabb8565fc",
   "17888f56b645bd6b",
-  "72bed9da308c269e"
+  "72bed9da308c269e",
+  "53570e6361e7a325",
+  "1cc3727d9af75938",
+  "9817866156f0ed3b",
+  "a462d642587dc1ae",
+  "599473a11aae72b0",
+  "ff2a5baac64ef29a",
+  "64b01c6554fe0f92",
+  "f4e48a09da1be05e",
+  "e5932cd4925e891c",
+  "c77d450d416b3201",
+  "084e063f9b61a3fd",
+  "494ed3f8744dd8b5",
+  "4ec9c71228067737"
  ],
  "compteurs": {
   "actus_publiees": {
    "jour": "2026-11-26",
-   "n": 2
+   "n": 3
   },
   "appels_api_football": {
    "jour": "2026-11-26",
-   "n": 2
+   "n": 3
   }
  },
  "dernier_appel_direct": 1793487968.7972927,
- "dernier_passage_actus": 1795658204.0574625,
+ "dernier_passage_actus": 1795661637.8299277,
  "evenements_vus": {},
  "historique": [
-  {
-   "genre": "actu",
-   "resume": "Jude Bellingham tout proche d une prolongation au Real Madrid (Tribuna.com)",
-   "t": 1795462768
-  },
   {
    "genre": "actu",
    "resume": "Révélations explosives sur Gianni Infantino et la Coupe du monde (L'Équipe)",
@@ -1115,6 +1110,11 @@
    "genre": "actu",
    "resume": "Emmanuel Petit réclame des recrues pour le PSG dès le mois de janvier (RMC Sport)",
    "t": 1795653056
+  },
+  {
+   "genre": "actu",
+   "resume": "Ousmane Dembélé égale Neymar au PSG (Foot Mercato)",
+   "t": 1795661863
   }
  ],
  "matchs": {},
